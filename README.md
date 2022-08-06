@@ -550,6 +550,7 @@
 
 ## C++ 
 
+- [spaghetti-source/gdd](https://github.com/spaghetti-source/gdd) - Group Decision Diagram
 - [Geant4/geant4](https://github.com/Geant4/geant4) - Geant4 toolkit for the simulation of the passage of particles through matter - NIM A 506 (2003) 250-303
 - [IMAC-projects/M2-GAmazing](https://github.com/IMAC-projects/M2-GAmazing) - Geometric algebra implementation using C3GA(Garamon) and OpenGL
 - [diwalkerdev/GeometricAlgebra](https://github.com/diwalkerdev/GeometricAlgebra) - A geometric algbebra library written in cpp.
@@ -988,7 +989,6 @@
 - [Andersbakken/rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang.
 - [boostcon/cppnow_presentations_2014](https://github.com/boostcon/cppnow_presentations_2014) - Presentation materials presented at C++Now 2014
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [baldurk/renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
 - [electron-archive/brightray](https://github.com/electron-archive/brightray) - A thin shim over Chromium’s Content module, no longer active, the source code has been directly imported into Electron in https://github.com/electron/electron/pull/9423
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1515,11 +1515,10 @@
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang.
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-- [labring/sealos](https://github.com/labring/sealos) - sealos is a multi-tenant kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
+- [labring/sealos](https://github.com/labring/sealos) - sealos is a kubernetes distribution. You can use sealos to easily build a public or a private cloud. It is simple, flexible and powerful!
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A service orchestrator for distributed transactions, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats
@@ -1750,6 +1749,11 @@
 
 ## HTML 
 
+- [avigad/mathematics_in_lean](https://github.com/avigad/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
+- [Kha/alectryon](https://github.com/Kha/alectryon) - A collection of tools for writing technical documents that mix Coq code and prose.
+- [EugeneDae/zola-vite-demo](https://github.com/EugeneDae/zola-vite-demo) - A minimal working demo showing how to wire up Zola with Vite.
+- [python-poetry/website](https://github.com/python-poetry/website) - Source for the official Poetry website
+- [miguelvaca/gutcp](https://github.com/miguelvaca/gutcp) - GUTCP Simulations
 - [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [distillpub/post--example](https://github.com/distillpub/post--example) - Example Distill article repository—clone, rename, start writing!
 - [SdtElectronics/jekyll-theme-antarctica](https://github.com/SdtElectronics/jekyll-theme-antarctica) - Stylish and feature-rich theme for Jekyll
@@ -1760,6 +1764,7 @@
 - [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
 - [cpitclaudel/alectryon](https://github.com/cpitclaudel/alectryon) - A collection of tools for writing technical documents that mix Coq code and prose.
 - [SciML/SciMLBook](https://github.com/SciML/SciMLBook) - Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications (MIT 18.337J/6.338J)
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) - Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of &lt;Real-Time Rendering 4th (RTR4)&gt; Bibliography / Reference
 - [shalzz/zola-deploy-action](https://github.com/shalzz/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
@@ -1966,7 +1971,7 @@
 - [berb/diploma-thesis](https://github.com/berb/diploma-thesis) - Diploma thesis "Concurrent Programming for Scalable Web Architectures" released under Creative Commons license
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) - Twitter's Effective Scala Guide
 - [rogerdudler/git-guide](https://github.com/rogerdudler/git-guide) - git - the simple guide
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
+- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [espadrine/New-In-A-Spec](https://github.com/espadrine/New-In-A-Spec) - What's new in &lt;insert spec here&gt;?
 - [sikuli/sikuli](https://github.com/sikuli/sikuli) - Sikuli's official repository on github. Ask questions or report bugs at http://launchpad.net/sikuli.
@@ -1989,6 +1994,7 @@
 
 ## Handlebars 
 
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
 
@@ -2356,6 +2362,8 @@
 
 ## JavaScript 
 
+- [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
+- [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
 - [iVis-at-Bilkent/sbgnviz.js](https://github.com/iVis-at-Bilkent/sbgnviz.js) - A web based visualization tool for process description maps in SBGN
 - [chirun-ncl/chirun](https://github.com/chirun-ncl/chirun) - A Python package providing the command line interface for building flexible and accessible content with Chirun.
 - [cscheid/quarto-explainers](https://github.com/cscheid/quarto-explainers) - porting my jekyll+js stuff to quarto+ojs
@@ -2918,7 +2926,6 @@
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [jhermsmeier/node-envelope](https://github.com/jhermsmeier/node-envelope) - Quite liberal Email parser
 - [XavierGeerinck/Brewr-Site](https://github.com/XavierGeerinck/Brewr-Site) - Brewr IO site repository
-- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [mxstbr/login-flow](https://github.com/mxstbr/login-flow) - :key: A login/register flow built with React&Redux
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
@@ -3563,12 +3570,13 @@
 - [tjfontaine/node-ffi-generate](https://github.com/tjfontaine/node-ffi-generate) - Generate ffi bindings from header files
 - [tjfontaine/node-libclang](https://github.com/tjfontaine/node-libclang) - nodejs bindings for libclang
 - [filamentgroup/tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
+- [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [numenta/nupic.tools](https://github.com/numenta/nupic.tools) - Server for tooling around the development process for the NuPIC project.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [JonAbrams/synth](https://github.com/JonAbrams/synth) - The first back-end framework specially designed for single-page web applications
 - [flowjs/flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
 - [rdio/jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-- [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime framework
+- [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [guimaraeslucas/FastString](https://github.com/guimaraeslucas/FastString) - WebApp that encode and decode strings in base64, rot13, html, url and others formats.
 - [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
@@ -3621,6 +3629,7 @@
 - [ducksboard/gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services)
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [cameron/squirt](https://github.com/cameron/squirt) - Speed read the web.
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
@@ -3692,7 +3701,7 @@
 - [caolan/highland](https://github.com/caolan/highland) - High-level streams library for Node.js and the browser
 - [ChrisBeaumont/floppybird](https://github.com/ChrisBeaumont/floppybird) - flappy bird, using html5!
 - [pstadler/flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [shancarter/mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [i5ting/i5ting_ztree_toc](https://github.com/i5ting/i5ting_ztree_toc) - [NO MAINTENANCE] a jQuery plugin for preview markdown table of content jQuery.zTree_Toc.js toc ztree and online demo site  v0.4.1
@@ -4058,7 +4067,7 @@
 - [bkeepers/gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker
 - [podio/jquery-mentions-input](https://github.com/podio/jquery-mentions-input) - 
 - [dnewcome/Donatello](https://github.com/dnewcome/Donatello) - Pure-CSS drawing library for the browser.
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser and Deno
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser and Deno supporting multi-core compression, compression streams, Zip64 and encryption.
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -4413,8 +4422,12 @@
 
 ## Lean 
 
+- [ImperialCollegeLondon/formalising-mathematics-2022](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022) - Lean material for Kevin Buzzard's Jan-Mar 2022 course on formalising mathematics.
+- [dselsam/lean-gym](https://github.com/dselsam/lean-gym) - 
+- [alexjbest/dag-tools](https://github.com/alexjbest/dag-tools) - 
+- [EdAyers/lean4-samples](https://github.com/EdAyers/lean4-samples) - Code samples for Lean 4
+- [SnobbyDragon/leanhanoi](https://github.com/SnobbyDragon/leanhanoi) - Tower of Hanoi in Lean!
 - [yatima-inc/YatimaStdLib.lean](https://github.com/yatima-inc/YatimaStdLib.lean) - 
-- [yatima-inc/ZKSnark.lean](https://github.com/yatima-inc/ZKSnark.lean) - 
 - [leanprover-community/lean-liquid](https://github.com/leanprover-community/lean-liquid) - 💧 Liquid Tensor Experiment
 - [yatima-inc/yatima-lang](https://github.com/yatima-inc/yatima-lang) - A verifiable computing language
 - [tydeu/lean4-alloy](https://github.com/tydeu/lean4-alloy) - Write shims from within Lean code.
@@ -4608,6 +4621,7 @@
 
 ## Nix 
 
+- [adfaure/kodama-theme](https://github.com/adfaure/kodama-theme) - Theme for zola inspired by hugo academic theme.
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
 - [yatima-inc/OpenGL.lean](https://github.com/yatima-inc/OpenGL.lean) - OpenGL Lean bindings (WIP)
 
@@ -4634,7 +4648,6 @@
 - [liquidx/webviewscreensaver](https://github.com/liquidx/webviewscreensaver) - Mac OS X Screen Saver powered by a Web View
 - [gaelicWizard/RedPill](https://github.com/gaelicWizard/RedPill) - OS X screen saver
 - [lpar/RedPill](https://github.com/lpar/RedPill) - OS X screen saver
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
 - [DinosaurDad/Keychain-34018](https://github.com/DinosaurDad/Keychain-34018) - This project is only intended to help track down error -34018 with the iOS keychain.
 - [toolazytoname/WeChatExport](https://github.com/toolazytoname/WeChatExport) - Export WeChat chat log
@@ -4688,6 +4701,7 @@
 
 ## Others 
 
+- [euphoricrhino/group-nut-notes](https://github.com/euphoricrhino/group-nut-notes) - 
 - [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - Curated (meta)list of resources for Biology.
 - [matfantinel/matfantinel](https://github.com/matfantinel/matfantinel) - That would be me
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
@@ -4710,7 +4724,6 @@
 - [Quingo/runtime_system](https://github.com/Quingo/runtime_system) - The Quingo Runtime System
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [wagamamaz/tensorlayer-tricks](https://github.com/wagamamaz/tensorlayer-tricks) - How to use TensorLayer
 - [riusksk/secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
@@ -5306,6 +5319,8 @@
 
 ## Python 
 
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [ICB-DCM/pyPESTO](https://github.com/ICB-DCM/pyPESTO) - python Parameter EStimation TOolbox
 - [sorgerlab/earm](https://github.com/sorgerlab/earm) - Extrinsic Apoptosis Reaction Model
 - [pybel/pybel](https://github.com/pybel/pybel) - 🌶️ An ecosystem in Python for working with the Biological Expression Language (BEL)
@@ -5355,7 +5370,7 @@
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
-- [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis
+- [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis - 静态代码分析
 - [dbrnz/pptx2svg](https://github.com/dbrnz/pptx2svg) - A utility to convert Powerpoint slides to SVG
 - [presalytics/doc-converter](https://github.com/presalytics/doc-converter) - Microservice to convert Office Open Xml (e.g., pptx, xlsx, docs) files to svg
 - [modAL-python/modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
@@ -5612,7 +5627,7 @@
 - [pywr/pywr](https://github.com/pywr/pywr) - Pywr is a generalised network resource allocation model written in Python.
 - [bjodah/chempy](https://github.com/bjodah/chempy) - ⚗ A package useful for chemistry written in Python
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
-- [ray-project/ray](https://github.com/ray-project/ray) - A unified framework for scalable computing. Ray is packaged with scalable libraries for data processing (Ray Datasets), training (Ray Train), hyperparameter tuning (Ray Tune), reinforcement learning (
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 - [life4/textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [sphinx-contrib/plantuml](https://github.com/sphinx-contrib/plantuml) - 
@@ -6179,6 +6194,7 @@
 
 ## Ruby 
 
+- [paolobrasolin/antex](https://github.com/paolobrasolin/antex) - 
 - [jaycech3n/math](https://github.com/jaycech3n/math) - scribbles
 - [paolobrasolin/jekyll-sheafy](https://github.com/paolobrasolin/jekyll-sheafy) - Brew your own Stacks Project with Jekyll!
 - [Kapeli/cheatset](https://github.com/Kapeli/cheatset) - Generate cheat sheets for Dash
@@ -6620,6 +6636,7 @@
 
 ## Rust 
 
+- [tomcumming/geometric-algebra](https://github.com/tomcumming/geometric-algebra) - A code generator for GA
 - [yatima-inc/yatima-lang-alpha](https://github.com/yatima-inc/yatima-lang-alpha) - A programming language for the decentralized web
 - [hep-rs/lie](https://github.com/hep-rs/lie) - 
 - [jamen/klein-rs](https://github.com/jamen/klein-rs) - Rust bindings to the Klein PGA3D library.
@@ -7137,11 +7154,11 @@
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 
 ## SCSS 
 
+- [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [sailinglab/pgm-spring-2019](https://github.com/sailinglab/pgm-spring-2019) - Course webpage for PGM, Spring 2019.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -7320,6 +7337,7 @@
 - [lukakerr/TikZi](https://github.com/lukakerr/TikZi) - A simple TikZ editor, viewer and exporter
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [rileytestut/AltStore](https://github.com/rileytestut/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [phlegmaticprogrammer/ParsingKit](https://github.com/phlegmaticprogrammer/ParsingKit) - Experimental Swift package for composable parsing via Local Lexing.
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
@@ -7387,6 +7405,7 @@
 ## TeX 
 
 - [chirun-ncl/sample_course](https://github.com/chirun-ncl/sample_course) - A set of sample Chirun compatible course notes.
+- [yatima-inc/ZKSnark.lean](https://github.com/yatima-inc/ZKSnark.lean) - https://yatima-inc.github.io/ZKSnark.lean/
 - [paolobrasolin/commutative-diagrams](https://github.com/paolobrasolin/commutative-diagrams) - CoDi: Commutative Diagrams for TeX
 - [jonsterling/math](https://github.com/jonsterling/math) - A mini-book on category theory.
 - [leo-colisson/zx-calculus](https://github.com/leo-colisson/zx-calculus) - A package to typeset ZX calculus directly in LaTeX.
@@ -7461,6 +7480,8 @@
 
 ## TypeScript 
 
+- [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [WtfJoke/setup-tectonic](https://github.com/WtfJoke/setup-tectonic) - Sets up Tectonic in your GitHub Actions workflow so you can compile your LaTeX documents.
 - [gzuidhof/starboard-notebook](https://github.com/gzuidhof/starboard-notebook) - In-browser literate notebooks
@@ -7596,6 +7617,7 @@
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library

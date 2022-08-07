@@ -3228,7 +3228,7 @@
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 - [alexmacarthur/typeit](https://github.com/alexmacarthur/typeit) - The most versatile JavaScript typewriter effect library on the planet.
 - [Joecool48/JS-syntax-highlighting-typewriter](https://github.com/Joecool48/JS-syntax-highlighting-typewriter) - A JS file for html pages that will auto syntax highlight, and display with a typewriter animation
-- [gionkunz/chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
+- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [PeculiarVentures/PKI.js](https://github.com/PeculiarVentures/PKI.js) - PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (W

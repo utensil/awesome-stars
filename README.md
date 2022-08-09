@@ -4067,7 +4067,7 @@
 - [bkeepers/gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker
 - [podio/jquery-mentions-input](https://github.com/podio/jquery-mentions-input) - 
 - [dnewcome/Donatello](https://github.com/dnewcome/Donatello) - Pure-CSS drawing library for the browser.
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser and Deno supporting multi-core compression, compression streams, Zip64 and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, Zip64 and encryption.
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.

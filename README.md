@@ -98,6 +98,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SMT](#smt)
 - [SQL](#sql)
 - [SVG](#svg)
 - [Scala](#scala)
@@ -1224,7 +1225,6 @@
 - [mkaz/lanyon](https://github.com/mkaz/lanyon) - markdown web server
 - [mojotech/jeet](https://github.com/mojotech/jeet) - The most advanced, yet intuitive, grid system available for Sass or Stylus
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
-- [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [sahat/jsrecipes](https://github.com/sahat/jsrecipes) - Source Code for JSRecipes
 - [bahmutov/slides-now](https://github.com/bahmutov/slides-now) - Instant stand alone slide show from a markdown document; happens all inside the browser, no server component. See or use live demo at
 - [jxnblk/loading](https://github.com/jxnblk/loading) - This could take a while
@@ -2055,7 +2055,7 @@
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
 - [parrt/bookish](https://github.com/parrt/bookish) - A tool that translates augmented markdown into HTML or latex
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
-- [aya-prover/aya-dev](https://github.com/aya-prover/aya-dev) - ~ Who's generalizing definitional equalities?
+- [aya-prover/aya-dev](https://github.com/aya-prover/aya-dev) - ~ Growing as cubes
 - [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [multilang-depends/depends](https://github.com/multilang-depends/depends) - Depends is a fast, comprehensive code dependency analysis tool
@@ -3550,7 +3550,7 @@
 - [watilde/beeplay](https://github.com/watilde/beeplay) - Write a song in JavaScript
 - [toddmotto/flare](https://github.com/toddmotto/flare) - Unobtrusive event emitter API for Google Universal Analytics event tracking
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
-- [gilbitron/Raneto](https://github.com/gilbitron/Raneto) - Markdown powered Knowledgebase for Nodejs
+- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase for Nodejs
 - [mapmeld/gitjk](https://github.com/mapmeld/gitjk) - Undo what you just did in git
 - [kikinteractive/app](https://github.com/kikinteractive/app) - Instant mobile web app creation
 - [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors
@@ -3606,6 +3606,7 @@
 - [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts f
 - [numbers/numbers.js](https://github.com/numbers/numbers.js) - Advanced Mathematics Library for Node.js and JavaScript
 - [bugzin/reD3](https://github.com/bugzin/reD3) - Reusable D3 Charts/Components
+- [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [usablica/progress.js](https://github.com/usablica/progress.js) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
 - [r3mi/poly2tri.js](https://github.com/r3mi/poly2tri.js) - A 2D constrained Delaunay triangulation library
 - [ericfreese/font-viewer](https://github.com/ericfreese/font-viewer) - 
@@ -5380,7 +5381,6 @@
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
-- [bzhan/holpy](https://github.com/bzhan/holpy) - Implementation of higher-order logic in Python
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [izar/pytm](https://github.com/izar/pytm) - A Pythonic framework for threat modeling
 - [Tencent/Lichee](https://github.com/Tencent/Lichee) - 一个多模态内容理解算法框架，其中包含数据处理、预训练模型、常见模型以及模型加速等模块。
@@ -7179,6 +7179,10 @@
 - [twbs/bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
 - [middleman/middlemanapp.com](https://github.com/middleman/middlemanapp.com) - Documentation for Middleman
 
+## SMT 
+
+- [bzhan/holpy](https://github.com/bzhan/holpy) - Implementation of higher-order logic in Python
+
 ## SQL 
 
 - [piotrsobecki/jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) - SQL tuner for  improving Java applications ORM performance using NoSQL technologies.
@@ -7465,7 +7469,7 @@
 - [manuels/texlive.js](https://github.com/manuels/texlive.js) - Compiling LaTeX (TeX live) in your browser
 - [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
 - [zhanggyb/nndl](https://github.com/zhanggyb/nndl) - Another Chinese Translation of Neural Networks and Deep Learning
-- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版
+- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
 - [derric/cleanthesis](https://github.com/derric/cleanthesis) - Clean Thesis is a clean, simple, and elegant LaTeX style (or template) for thesis documents.
 - [bamos/latex-templates](https://github.com/bamos/latex-templates) - Website for personal collection and previewing of LaTeX templates. Presented with Python/Jinja2.
 - [soulmachine/acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet) - Acm Cheat Sheet

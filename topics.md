@@ -597,6 +597,7 @@
 
 ## awesome-list 
 
+- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - Curated (meta)list of resources for Biology.
 - [TimothyStiles/how-to-synbio](https://github.com/TimothyStiles/how-to-synbio) - The resources I always recommend to new synthetic biologists.
 - [asoplata/open-computational-neuroscience-resources](https://github.com/asoplata/open-computational-neuroscience-resources) - A publicly-editable collection of open computational neuroscience resources
@@ -1035,6 +1036,7 @@
 
 ## compiler 
 
+- [subscript-publishing/subscript-compiler](https://github.com/subscript-publishing/subscript-compiler) - [NEW] The Subscript Markup Language Compiler
 - [HPAC/linnea](https://github.com/HPAC/linnea) - Linnea is an experimental tool for the automatic generation of optimized code for linear algebra problems.
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [KhronosGroup/glslang](https://github.com/KhronosGroup/glslang) - Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.
@@ -1236,6 +1238,7 @@
 
 ## css 
 
+- [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
@@ -1521,6 +1524,7 @@
 
 ## deep-learning 
 
+- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [a-r-j/graphein](https://github.com/a-r-j/graphein) - Protein Graph Library
@@ -1797,6 +1801,7 @@
 
 ## documentation 
 
+- [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a stupid web server for multilingual documentation
 - [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
 - [dadadel/pyment](https://github.com/dadadel/pyment) - Format and convert Python docstrings and generates patches
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
@@ -2049,6 +2054,7 @@
 
 ## framework 
 
+- [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 - [drone-os/drone](https://github.com/drone-os/drone) - CLI utility for Drone, an Embedded Operating System.
@@ -2098,6 +2104,7 @@
 
 ## frontend 
 
+- [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
@@ -2328,6 +2335,7 @@
 
 ## go 
 
+- [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a stupid web server for multilingual documentation
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [git-cloner/gitcache](https://github.com/git-cloner/gitcache) - When clone from github.com, build mirror cache to improve clone speed
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
@@ -2798,6 +2806,7 @@
 
 ## html 
 
+- [subscript-publishing/subscript-compiler](https://github.com/subscript-publishing/subscript-compiler) - [NEW] The Subscript Markup Language Compiler
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
@@ -3875,6 +3884,7 @@
 
 ## latex 
 
+- [subscript-publishing/subscript-compiler](https://github.com/subscript-publishing/subscript-compiler) - [NEW] The Subscript Markup Language Compiler
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [jaycech3n/math](https://github.com/jaycech3n/math) - scribbles
 - [paolobrasolin/commutative-diagrams](https://github.com/paolobrasolin/commutative-diagrams) - CoDi: Commutative Diagrams for TeX
@@ -4092,6 +4102,7 @@
 
 ## machine-learning 
 
+- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [RobinKa/jaxga](https://github.com/RobinKa/jaxga) - Geometric Algebra package for JAX
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
@@ -4387,7 +4398,7 @@
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 - [ksky521/nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
-- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase for Nodejs
+- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [SheetJS/j](https://github.com/SheetJS/j) - :x: Multi-format spreadsheet CLI (now merged in http://github.com/sheetjs/js-xlsx )
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
@@ -4688,7 +4699,7 @@
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
-- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase for Nodejs
+- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
@@ -4959,6 +4970,14 @@
 
 ## others 
 
+- [Worble/Zulma](https://github.com/Worble/Zulma) - A Bulma theme for Zola
+- [MKProj/texcreate](https://github.com/MKProj/texcreate) - Create LaTeX projects with prebuilt templates
+- [colbyn/school-notes-spring-2020](https://github.com/colbyn/school-notes-spring-2020) - School Notes For Spring 2021 (error in the name)
+- [Nachasic/sgvtex](https://github.com/Nachasic/sgvtex) - A tool to convert LaTeX to SVG, written in Rust
+- [getzola/even](https://github.com/getzola/even) - A clean blog theme for Zola
+- [bollu/notes](https://github.com/bollu/notes) - Latex notes on papers, courses, ideas: Pure math and computer science.
+- [jaybutera/Abstract-Algebra](https://github.com/jaybutera/Abstract-Algebra) - A course-worth of notes
+- [eigenchris/MathNotes](https://github.com/eigenchris/MathNotes) - 
 - [spaghetti-source/gdd](https://github.com/spaghetti-source/gdd) - Group Decision Diagram
 - [avigad/mathematics_in_lean](https://github.com/avigad/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 - [ImperialCollegeLondon/formalising-mathematics-2022](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022) - Lean material for Kevin Buzzard's Jan-Mar 2022 course on formalising mathematics.
@@ -5102,7 +5121,6 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [Cirru/hovenia-editor](https://github.com/Cirru/hovenia-editor) - Canvas based syntax tree editor
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
-- [yifengyou/skill-driving](https://github.com/yifengyou/skill-driving) - 驾考记录-学习笔记~
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [chaos-mesh/bpfki](https://github.com/chaos-mesh/bpfki) - A BPF-based kernel fault injection service
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
@@ -5123,7 +5141,7 @@
 - [dginev/CorTeX](https://github.com/dginev/CorTeX) - A general purpose processing framework for corpora of scientific documents
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [yobibyte/ar5iv_chrome_ext](https://github.com/yobibyte/ar5iv_chrome_ext) - automatically replace Arxiv.org pdf links with ar5iv
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
 - [lukehoban/go-outline](https://github.com/lukehoban/go-outline) - Utility to extract JSON representation of declarations from a Go source file
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
@@ -6685,7 +6703,7 @@
 - [johnkhunter/jblitter](https://github.com/johnkhunter/jblitter) - A Javascript library for creating HTML5 canvas animations with image sprites and blitting
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [JuliaLang/METADATA.jl](https://github.com/JuliaLang/METADATA.jl) - Metadata for registered Julia packages up to Julia v0.6. No longer maintained.
+- [JuliaLang/METADATA.jl](https://github.com/JuliaLang/METADATA.jl) - Metadata for registered Julia packages up to Julia v0.6. No longer maintained. Please see https://github.com/JuliaRegistries/General instead.
 - [JuliaCN/julia_zh_cn](https://github.com/JuliaCN/julia_zh_cn) - 已废弃，请到JuliaZH.jl参与翻译
 - [harelfishbein/awesome-julia](https://github.com/harelfishbein/awesome-julia) - A curated list of awesome julia libraries, softwares and tutorials.
 - [JunoLab/uber-juno](https://github.com/JunoLab/uber-juno) - Installer package for the Juno IDE
@@ -9711,6 +9729,7 @@
 
 ## publishing 
 
+- [subscript-publishing/subscript-compiler](https://github.com/subscript-publishing/subscript-compiler) - [NEW] The Subscript Markup Language Compiler
 - [manubot/rootstock](https://github.com/manubot/rootstock) - Clone me to create your Manubot manuscript
 - [manubot/manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
@@ -10483,6 +10502,8 @@
 
 ## rust 
 
+- [arctic-hen7/perseus](https://github.com/arctic-hen7/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
+- [oovm/zola-theme-mikoto](https://github.com/oovm/zola-theme-mikoto) - Mikoto Theme for Zola
 - [jamen/klein-rs](https://github.com/jamen/klein-rs) - Rust bindings to the Klein PGA3D library.
 - [AminMoazzen/cliffy](https://github.com/AminMoazzen/cliffy) - A geometric algebra library written in Rust.
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
@@ -10789,6 +10810,7 @@
 
 ## sass 
 
+- [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [dependents/node-dependency-tree](https://github.com/dependents/node-dependency-tree) - Get the dependency tree of a module
@@ -11085,7 +11107,7 @@
 - [wesbos/cobalt2](https://github.com/wesbos/cobalt2) - Tweaked and refined Sublime Text theme based on the original cobalt.
 - [vaanwd/Zeal](https://github.com/vaanwd/Zeal) - Zeal for Sublime Text 2/3
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
-- [kkga/spacegray](https://github.com/kkga/spacegray) - A Hyperminimal UI Theme for Sublime Text
+- [SublimeText/Spacegray](https://github.com/SublimeText/Spacegray) - A Hyperminimal UI Theme for Sublime Text
 - [Aqzhyi/Sublime-Better-Completion](https://github.com/Aqzhyi/Sublime-Better-Completion) - DEPRECATED, use TypeScript!
 - [jisaacks/GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter
 
@@ -11490,6 +11512,7 @@
 
 ## web 
 
+- [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
@@ -11584,6 +11607,7 @@
 
 ## website 
 
+- [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
 - [istio/istio.io](https://github.com/istio/istio.io) - Source for the istio.io site
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍

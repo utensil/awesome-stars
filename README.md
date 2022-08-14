@@ -1128,6 +1128,7 @@
 
 ## CSS 
 
+- [oovm/zola-theme-mikoto](https://github.com/oovm/zola-theme-mikoto) - Mikoto Theme for Zola
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [dginev/ar5iv-css](https://github.com/dginev/ar5iv-css) - Some CSS experiments for arXiv HTML documents converted via latexml
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
@@ -1496,6 +1497,7 @@
 
 ## Go 
 
+- [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a stupid web server for multilingual documentation
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
@@ -1749,6 +1751,7 @@
 
 ## HTML 
 
+- [colbyn/school-notes-spring-2020](https://github.com/colbyn/school-notes-spring-2020) - School Notes For Spring 2021 (error in the name)
 - [avigad/mathematics_in_lean](https://github.com/avigad/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 - [Kha/alectryon](https://github.com/Kha/alectryon) - A collection of tools for writing technical documents that mix Coq code and prose.
 - [EugeneDae/zola-vite-demo](https://github.com/EugeneDae/zola-vite-demo) - A minimal working demo showing how to wire up Zola with Vite.
@@ -3550,7 +3553,7 @@
 - [watilde/beeplay](https://github.com/watilde/beeplay) - Write a song in JavaScript
 - [toddmotto/flare](https://github.com/toddmotto/flare) - Unobtrusive event emitter API for Google Universal Analytics event tracking
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
-- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase for Nodejs
+- [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [mapmeld/gitjk](https://github.com/mapmeld/gitjk) - Undo what you just did in git
 - [kikinteractive/app](https://github.com/kikinteractive/app) - Instant mobile web app creation
 - [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors
@@ -3756,7 +3759,7 @@
 - [sapo/Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping
 - [tooling/book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - The Front-end Tooling Book
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
-- [kkga/spacegray](https://github.com/kkga/spacegray) - A Hyperminimal UI Theme for Sublime Text
+- [SublimeText/Spacegray](https://github.com/SublimeText/Spacegray) - A Hyperminimal UI Theme for Sublime Text
 - [macbre/analyze-css](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer
 - [zhangxinxu/ieBetter.js](https://github.com/zhangxinxu/ieBetter.js) - make ie browser like a morden browser main for ie6~ie8,
 - [dat-ecosystem-archive/dat](https://github.com/dat-ecosystem-archive/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line [ DEPRECATED - More info on active projects and modules at https://dat-ecosystem.org/ ]
@@ -4262,7 +4265,7 @@
 - [JuliaAttic/CUDArt.jl](https://github.com/JuliaAttic/CUDArt.jl) - Julia wrapper for CUDA runtime API
 - [JuliaInterop/Clang.jl](https://github.com/JuliaInterop/Clang.jl) - Julia interface to libclang
 - [JuliaPy/Conda.jl](https://github.com/JuliaPy/Conda.jl) - Conda managing Julia binary dependencies
-- [JuliaLang/METADATA.jl](https://github.com/JuliaLang/METADATA.jl) - Metadata for registered Julia packages up to Julia v0.6. No longer maintained.
+- [JuliaLang/METADATA.jl](https://github.com/JuliaLang/METADATA.jl) - Metadata for registered Julia packages up to Julia v0.6. No longer maintained. Please see https://github.com/JuliaRegistries/General instead.
 - [JuliaIO/MAT.jl](https://github.com/JuliaIO/MAT.jl) - Julia module for reading MATLAB files
 - [JuliaGizmos/Blink.jl](https://github.com/JuliaGizmos/Blink.jl) - Web-based GUIs for Julia
 - [JuliaAttic/Morsel.jl](https://github.com/JuliaAttic/Morsel.jl) - [deprecated] Sinatra-like micro framework for web programming in Julia
@@ -4702,6 +4705,9 @@
 
 ## Others 
 
+- [jaybutera/Abstract-Algebra](https://github.com/jaybutera/Abstract-Algebra) - A course-worth of notes
+- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
+- [eigenchris/MathNotes](https://github.com/eigenchris/MathNotes) - 
 - [euphoricrhino/group-nut-notes](https://github.com/euphoricrhino/group-nut-notes) - 
 - [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - Curated (meta)list of resources for Biology.
 - [matfantinel/matfantinel](https://github.com/matfantinel/matfantinel) - That would be me
@@ -4718,7 +4724,6 @@
 - [raffaelespazzoli/kdl](https://github.com/raffaelespazzoli/kdl) - 
 - [external-secrets/crd-spec](https://github.com/external-secrets/crd-spec) - 
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-- [yifengyou/skill-driving](https://github.com/yifengyou/skill-driving) - 驾考记录-学习笔记~
 - [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
 - [junfanz1/Quant-Books-Notes](https://github.com/junfanz1/Quant-Books-Notes) - Taking notes on Quantitative Finance books
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
@@ -6636,6 +6641,9 @@
 
 ## Rust 
 
+- [subscript-publishing/subscript-compiler](https://github.com/subscript-publishing/subscript-compiler) - [NEW] The Subscript Markup Language Compiler
+- [Nachasic/sgvtex](https://github.com/Nachasic/sgvtex) - A tool to convert LaTeX to SVG, written in Rust
+- [arctic-hen7/perseus](https://github.com/arctic-hen7/perseus) - A state-driven web development framework for Rust with full support for server-side rendering and static generation.
 - [tomcumming/geometric-algebra](https://github.com/tomcumming/geometric-algebra) - A code generator for GA
 - [yatima-inc/yatima-lang-alpha](https://github.com/yatima-inc/yatima-lang-alpha) - A programming language for the decentralized web
 - [hep-rs/lie](https://github.com/hep-rs/lie) - 
@@ -6669,7 +6677,7 @@
 - [dginev/CorTeX](https://github.com/dginev/CorTeX) - A general purpose processing framework for corpora of scientific documents
 - [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
 - [xu-cheng/katex-rs](https://github.com/xu-cheng/katex-rs) - Rust bindings to KaTeX
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [smol-rs/smol](https://github.com/smol-rs/smol) - A small and fast async runtime for Rust
 - [websockets-rs/rust-websocket](https://github.com/websockets-rs/rust-websocket) - A WebSocket (RFC6455) library written in Rust
@@ -7158,6 +7166,7 @@
 
 ## SCSS 
 
+- [getzola/even](https://github.com/getzola/even) - A clean blog theme for Zola
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [sailinglab/pgm-spring-2019](https://github.com/sailinglab/pgm-spring-2019) - Course webpage for PGM, Spring 2019.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -7408,6 +7417,7 @@
 
 ## TeX 
 
+- [bollu/notes](https://github.com/bollu/notes) - Latex notes on papers, courses, ideas: Pure math and computer science.
 - [chirun-ncl/sample_course](https://github.com/chirun-ncl/sample_course) - A set of sample Chirun compatible course notes.
 - [yatima-inc/ZKSnark.lean](https://github.com/yatima-inc/ZKSnark.lean) - https://yatima-inc.github.io/ZKSnark.lean/
 - [paolobrasolin/commutative-diagrams](https://github.com/paolobrasolin/commutative-diagrams) - CoDi: Commutative Diagrams for TeX

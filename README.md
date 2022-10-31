@@ -2092,6 +2092,7 @@
 
 ## Java 
 
+- [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [tinkerpop/gremlin](https://github.com/tinkerpop/gremlin) - A Graph Traversal Language (no longer active - see Apache TinkerPop)
 - [allure-framework/allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of infor
@@ -4258,7 +4259,7 @@
 - [JuliaGraphics/Colors.jl](https://github.com/JuliaGraphics/Colors.jl) - Color manipulation utilities for Julia
 - [JuliaDiff/DiffRules.jl](https://github.com/JuliaDiff/DiffRules.jl) - A simple shared suite of common derivative definitions
 - [HarrisonGrodin/Simplify.jl](https://github.com/HarrisonGrodin/Simplify.jl) - Algebraic simplification in Julia
-- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated
+- [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) - An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and 
 - [JuliaDocs/DocStringExtensions.jl](https://github.com/JuliaDocs/DocStringExtensions.jl) - Extensions for Julia's docsystem.
 - [timholy/ProfileView.jl](https://github.com/timholy/ProfileView.jl) - Visualization of Julia profiling data
 - [chakravala/Leibniz.jl](https://github.com/chakravala/Leibniz.jl) - Tensor algebra utility library
@@ -5402,6 +5403,7 @@
 
 ## Python 
 
+- [jfarley248/iTunes_Backup_Reader](https://github.com/jfarley248/iTunes_Backup_Reader) - Python 3 Script to parse out iTunes backups
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [skavngr/rapidscan](https://github.com/skavngr/rapidscan) - :new: The Multi-Tool Web Vulnerability Scanner.
 - [EelcoHoogendoorn/numga](https://github.com/EelcoHoogendoorn/numga) - Geometric algebra in JAX and numpy

@@ -193,6 +193,7 @@
 
 ## C 
 
+- [nektra/Deviare2](https://github.com/nektra/Deviare2) - Deviare API Hook
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [schrodinger/pymol-open-source](https://github.com/schrodinger/pymol-open-source) - Open-source foundation of the user-sponsored PyMOL molecular visualization system.
 - [fredrik-johansson/calcium](https://github.com/fredrik-johansson/calcium) - Exact real and complex numbers in C
@@ -216,7 +217,6 @@
 - [eprover/eprover](https://github.com/eprover/eprover) - 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [libnet/nemesis](https://github.com/libnet/nemesis) - A command-line network packet crafting and injection utility
-- [gjtorikian/commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for libcmark (CommonMark parser)
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [cossacklabs/hermes-core](https://github.com/cossacklabs/hermes-core) - Security framework for building multi-user end-to-end encrypted data storage and sharing/processing with zero leakage risks from storage and transport infrastructure.
@@ -789,7 +789,7 @@
 - [rsms/immutable-cpp](https://github.com/rsms/immutable-cpp) - Persistent immutable data structures for C++
 - [Dooskington/GameLad](https://github.com/Dooskington/GameLad) - :tv: An (almost) fully featured Game Boy emulator.
 - [KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
-- [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+- [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [manuelruder/artistic-videos](https://github.com/manuelruder/artistic-videos) - Torch implementation for the paper "Artistic style transfer for videos"
 - [alibaba/weex](https://github.com/alibaba/weex) - A framework for building Mobile cross-platform UI
 - [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos) - The Paxos library implemented in C++ that has been used in the WeChat production environment.
@@ -1526,6 +1526,8 @@
 
 ## Go 
 
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -3947,7 +3949,6 @@
 - [s-macke/jor1k](https://github.com/s-macke/jor1k) - Online OR1K Emulator running Linux
 - [mb21/JSONedit](https://github.com/mb21/JSONedit) - User friendly, visual JSON editor built as an Angular 1 directive.
 - [ni-c/heimcontrol.js](https://github.com/ni-c/heimcontrol.js) - Home-Automation with node.js and Raspberry PI
-- [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -6317,6 +6318,7 @@
 - [discourse/discourse-chat-integration](https://github.com/discourse/discourse-chat-integration) - 
 - [gjtorikian/html-pipeline](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities
 - [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [gjtorikian/commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for libcmark (CommonMark parser)
 - [citation-style-language/styles](https://github.com/citation-style-language/styles) - Official repository for Citation Style Language (CSL) citation styles.
 - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects
 - [jekyll/github-metadata](https://github.com/jekyll/github-metadata) - Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
@@ -7299,6 +7301,7 @@
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
+- [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [waynezhang/blog](https://github.com/waynezhang/blog) - just another blog
 - [twbs/bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
 - [middleman/middlemanapp.com](https://github.com/middleman/middlemanapp.com) - Documentation for Middleman

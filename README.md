@@ -343,6 +343,7 @@
 - [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 - [cisco/thor](https://github.com/cisco/thor) - Thor Video Codec
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 - [google/eddystone](https://github.com/google/eddystone) - Specification for Eddystone, an open beacon format from Google
 - [korczis/upx](https://github.com/korczis/upx) - UPX is a free, portable, extendable, high-performance  executable packer for several executable formats. See http://upx.sourceforge.net/
 - [crmulliner/adbi](https://github.com/crmulliner/adbi) - Android Dynamic Binary Instrumentation Toolkit
@@ -596,7 +597,6 @@
 - [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
 - [alibaba/ilogtail](https://github.com/alibaba/ilogtail) - Fast and Lightweight Observability Data Collector
 - [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [LatticeX-Foundation/Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A Privacy-Preserving Framework Based on TensorFlow
 - [geno4neurips/genosolver](https://github.com/geno4neurips/genosolver) - 
 - [eBay/Gringofts](https://github.com/eBay/Gringofts) - Gringofts makes it easy to build a replicated, fault-tolerant, high throughput and distributed event-sourced system.
@@ -1745,6 +1745,7 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ConradIrwin/aws-name-server](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up ec2 instances by instance name
 - [sourcegraph/srclib](https://github.com/sourcegraph/srclib) - srclib is a polyglot code analysis library, built for hackability. It consists of language analysis toolchains (currently for Go and Java, with Python, JavaScript, and Ruby in beta) with a common outp
+- [atomix/atomix](https://github.com/atomix/atomix) - A reactive Java framework for building fault-tolerant distributed systems
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
 - [gocircuit/circuit](https://github.com/gocircuit/circuit) - Circuit: Dynamic cloud orchestration http://gocircuit.org
@@ -1787,6 +1788,7 @@
 
 ## HTML 
 
+- [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [Worble/Zulma](https://github.com/Worble/Zulma) - A Bulma theme for Zola
 - [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
@@ -1988,7 +1990,7 @@
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [probots-io/floatlabels.js](https://github.com/probots-io/floatlabels.js) - Follows the famous Float Label Pattern. Built on jQuery.
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - The most popular independent Tailwind library. 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [StarterSquad/ngseed](https://github.com/StarterSquad/ngseed) - 
 - [auchenberg/dependo](https://github.com/auchenberg/dependo) - Visualize your CommonJS or AMD module dependencies in a force directed graph report.
 - [github/government.github.com](https://github.com/github/government.github.com) - Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
@@ -2294,7 +2296,6 @@
 - [Instagram/ig-json-parser](https://github.com/Instagram/ig-json-parser) - Fast JSON parser for java projects
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - The Most Powerful Swipe Layout!
-- [atomix/atomix](https://github.com/atomix/atomix) - A reactive Java framework for building fault-tolerant distributed systems
 - [desktopqa/Cynthia](https://github.com/desktopqa/Cynthia) - 一个开源的bug管理系统
 - [makovkastar/FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) - [DEPRECATED] Android floating action button
 - [PauloMigAlmeida/identicon](https://github.com/PauloMigAlmeida/identicon) - Original Identicon java and canvas implementations
@@ -2423,6 +2424,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
+- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally. Documentat
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [dreamfusion3d/dreamfusion3d.github.io](https://github.com/dreamfusion3d/dreamfusion3d.github.io) - 
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
@@ -3214,7 +3216,7 @@
 - [chris-rock/node-crypto-examples](https://github.com/chris-rock/node-crypto-examples) - Collection of nodejs crypto examples
 - [XervoIO/file-encryptor](https://github.com/XervoIO/file-encryptor) - Encrypts files using Node's built-in Cipher class.
 - [uxebu/bonsai](https://github.com/uxebu/bonsai) - BonsaiJS is a graphics library and renderer
-- [BloombergMedia/whatiscode](https://github.com/BloombergMedia/whatiscode) - Paul Ford’s “What Is Code?”
+- [BloombergGraphics/whatiscode](https://github.com/BloombergGraphics/whatiscode) - Paul Ford’s “What Is Code?”
 - [dthree/vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
@@ -3476,7 +3478,7 @@
 - [jcoglan/sylvester](https://github.com/jcoglan/sylvester) - Vector, matrix and geometry math JavaScript
 - [brettstimmerman/mensch](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 - [NV/CSSOM](https://github.com/NV/CSSOM) - Unmaintained! ⚠️ CSS Object Model implemented in pure JavaScript. Also, a CSS parser.
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (in the browser and in the iOS Simulator), and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, a
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [chandlerprall/Physijs](https://github.com/chandlerprall/Physijs) - Physics plugin for Three.js
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
@@ -4769,7 +4771,6 @@
 
 ## Objective-C++ 
 
-- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 - [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [fjolnir/Tranquil](https://github.com/fjolnir/Tranquil) - A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.
@@ -5326,7 +5327,7 @@
 
 ## PHP 
 
-- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Chevereto's free fork. Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules.
+- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules.
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [parpalak/i.upmath.me](https://github.com/parpalak/i.upmath.me) - Upmath LaTeX Renderer
@@ -5411,6 +5412,7 @@
 
 ## Python 
 
+- [Danmou/onenote_export](https://github.com/Danmou/onenote_export) - This Python script exports all the OneNote notebooks linked to your Microsoft account to HTML files.
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [daggaz/json-stream](https://github.com/daggaz/json-stream) - 
@@ -6005,7 +6007,7 @@
 - [nucypher/zerodb](https://github.com/nucypher/zerodb) - *This project is no longer actively maintained. If you'd like to become the maintainer, please let us know.* ZeroDB is an end-to-end encrypted database. Data can be stored and queried on untrusted dat
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) - A recurrent neural network for generating little stories about images
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
-- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs wit
+- [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [henices/Tcp-DNS-proxy](https://github.com/henices/Tcp-DNS-proxy) - A TCP dns proxy which can get the RIGHT ip address
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [lyst/lightfm](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
@@ -6291,7 +6293,7 @@
 
 ## Rascal 
 
-- [kelthuzadx/hosts](https://github.com/kelthuzadx/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
+- [y1yang0/hosts](https://github.com/y1yang0/hosts) - :statue_of_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Reason 
 
@@ -7174,7 +7176,7 @@
 - [Marwes/combine](https://github.com/Marwes/combine) - A parser combinator library for Rust
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
-- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [lexi-sh/rs-natural](https://github.com/lexi-sh/rs-natural) - Natural Language Processing for Rust
 - [m4b/goblin](https://github.com/m4b/goblin) - An impish, cross-platform binary parsing crate, written in Rust
@@ -7367,6 +7369,7 @@
 
 ## Shell 
 
+- [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [Jonnyan404/verysync](https://github.com/Jonnyan404/verysync) - 微力同步 docker 版本
 - [dmuth/evernote-to-obsidian](https://github.com/dmuth/evernote-to-obsidian) - Wrapper for the Yarle app to make converting Evernote notebooks to Markdown easier
 - [scottyhardy/docker-wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
@@ -7631,6 +7634,7 @@
 
 ## TypeScript 
 
+- [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - (WIP) AutoCut Client
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
@@ -7640,7 +7644,6 @@
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian. Part of the Obsidian42 family of plugins.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
-- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible, and collaboration and XR come naturally. Documentat
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
 - [pmndrs/maath](https://github.com/pmndrs/maath) - 🪶 Math helpers for the rest of us
 - [Nutlope/tailwind-color-picker](https://github.com/Nutlope/tailwind-color-picker) - A chrome extension color picker for Tailwind
@@ -7709,7 +7712,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [integer32llc/rust-playground](https://github.com/integer32llc/rust-playground) - The Rust Playground
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator
@@ -7887,6 +7890,7 @@
 
 ## WebAssembly 
 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 

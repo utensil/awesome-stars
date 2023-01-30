@@ -1174,7 +1174,6 @@
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
 - [Bondifrench/ml-in-js](https://github.com/Bondifrench/ml-in-js) - Presentation given at CampJs on August 6th, 2017
-- [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [schme16/gitcdn.xyz](https://github.com/schme16/gitcdn.xyz) - Serve your content straight from GitHub, with the correct Content-Type, consistant url and a powerful CDN
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
@@ -1417,7 +1416,7 @@
 - [KyushuUniversityMathematics/TPP2014](https://github.com/KyushuUniversityMathematics/TPP2014) - Theorem proving and provers for reliable theory and implementations
 - [princeton-vl/CoqGym](https://github.com/princeton-vl/CoqGym) - A Learning Environment for Theorem Proving with the Coq proof assistant
 - [thery/GeometricAlgebra](https://github.com/thery/GeometricAlgebra) - Work based on http://www-sop.inria.fr/marelle/GeometricAlgebra/
-- [HoTT/Coq-HoTT](https://github.com/HoTT/Coq-HoTT) - Homotopy type theory
+- [HoTT/Coq-HoTT](https://github.com/HoTT/Coq-HoTT) - A Coq library for Homotopy Type Theory
 - [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters]
 - [UniMath/UniMath](https://github.com/UniMath/UniMath) - This coq library aims to formalize a substantial body of mathematics using the univalent point of view.
 
@@ -2688,6 +2687,7 @@
 - [sutoiku/formula.js](https://github.com/sutoiku/formula.js) - JavaScript implementation of most Microsoft Excel formula functions
 - [handsontable/ruleJS](https://github.com/handsontable/ruleJS) - Javascript library to parse excel formulas
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
+- [astefanutti/decktape](https://github.com/astefanutti/decktape) - PDF exporter for HTML presentations
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
@@ -4348,7 +4348,6 @@
 ## Jupyter Notebook 
 
 - [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2022/Spring 2022
-- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [GQCG/GQCP](https://github.com/GQCG/GQCP) - The Ghent Quantum Chemistry Package for electronic structure calculations
 - [raphlinus/raphlinus.github.io](https://github.com/raphlinus/raphlinus.github.io) - Raph's personal blog
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
@@ -4458,6 +4457,7 @@
 - [joelgrus/fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - fizz buzz in tensorflow
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [piiswrong/deep3d](https://github.com/piiswrong/deep3d) - Automatic 2D-to-3D Video Conversion with CNNs
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [jupyter-attic/dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
 - [Roger-luo/AdiaComput.jl](https://github.com/Roger-luo/AdiaComput.jl) - A tweakable quantum adiabatic computation simulator
 - [JuliaOpt/juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) - A collection of IJulia notebooks related to optimization
@@ -5435,6 +5435,7 @@
 - [lucidrains/phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Implementation of Phenaki Video, which uses Mask GIT to produce text guided videos of up to 2 minutes in length, in Pytorch
 - [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch
 - [UpStride/engine](https://github.com/UpStride/engine) - Upstride computational engine for Geometrical Algebra neural nets
+- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [QUVA-Lab/escnn](https://github.com/QUVA-Lab/escnn) - Equivariant Steerable CNNs Library for Pytorch https://quva-lab.github.io/escnn/
 - [QUVA-Lab/e2cnn](https://github.com/QUVA-Lab/e2cnn) - E(2)-Equivariant CNNs Library for Pytorch
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -5581,7 +5582,7 @@
 - [data61/python-paillier](https://github.com/data61/python-paillier) - A library for Partially Homomorphic Encryption in Python
 - [FederatedAI/FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
 - [standupmaths/rolling_shutter](https://github.com/standupmaths/rolling_shutter) - Python code to fake a rolling shutter effect
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [alteryx/featuretools](https://github.com/alteryx/featuretools) - An open source python library for automated feature engineering
 - [cpitclaudel/monospacifier](https://github.com/cpitclaudel/monospacifier) - Convert variable-pitch fonts to monospace (useful for unicode and indentation-friendly programming)
 - [pydanny/cached-property](https://github.com/pydanny/cached-property) - A decorator for caching properties in classes.
@@ -5973,7 +5974,6 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [uploadcare/pillow-simd](https://github.com/uploadcare/pillow-simd) - The friendly PIL fork
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [WheatonCS/Lexos](https://github.com/WheatonCS/Lexos) - Python/Flask-based website for text analysis workflow. Previous (stable) release is live at:
 - [Mendeley/mrec](https://github.com/Mendeley/mrec) - A recommender systems development and evaluation package by Mendeley
 - [meuns/galgebra](https://github.com/meuns/galgebra) - a repository for hacking things with pygae/galgebra
@@ -7425,7 +7425,7 @@
 - [rocker-org/rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
 - [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - 
 - [kunickiaj/kudu-docker](https://github.com/kunickiaj/kudu-docker) - Docker Image for Kudu
-- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
+- [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [eklitzke/c.sh](https://github.com/eklitzke/c.sh) - Inline C/asm in Bash
 - [codecov/codecov-bash](https://github.com/codecov/codecov-bash) - Global coverage report uploader for Codecov
 - [xtrementl/dev-bash-git-ps1](https://github.com/xtrementl/dev-bash-git-ps1) - Developer-style Bash prompt string formatting (PS1). Includes current branch name and counts for commit differences between branch and master and master and remote (where applicable)  edit

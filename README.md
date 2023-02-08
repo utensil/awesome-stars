@@ -448,7 +448,7 @@
 - [sharvil/flingfd](https://github.com/sharvil/flingfd) - A tiny library to send file descriptors across processes
 - [daoluan/decode-memcached](https://github.com/daoluan/decode-memcached) - memcached 源码剖析注释
 - [haldean/x6502](https://github.com/haldean/x6502) - Yet another 6502 emulator that one day dreams of being an Atari 2600.
-- [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+- [julycoding/The-Art-Of-Programming-By-July-2nd](https://github.com/julycoding/The-Art-Of-Programming-By-July-2nd) - 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [duckythescientist/obfuscatedLife](https://github.com/duckythescientist/obfuscatedLife) - Conway's Game of Life in 9 lines of C
@@ -1441,6 +1441,7 @@
 
 ## Dockerfile 
 
+- [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [linuxserver/docker-rdesktop](https://github.com/linuxserver/docker-rdesktop) - 
@@ -1792,6 +1793,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [safino9/SourceGo](https://github.com/safino9/SourceGo) - 阅读3.0源
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
+- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [Worble/Zulma](https://github.com/Worble/Zulma) - A Bulma theme for Zola
 - [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
@@ -2102,7 +2104,7 @@
 
 ## Janet 
 
-- [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
+- [ianthehenry/bauble.studio](https://github.com/ianthehenry/bauble.studio) - a playground for making 3D art with lisp and math
 
 ## Java 
 
@@ -4005,7 +4007,7 @@
 - [rothlab/chromozoom](https://github.com/rothlab/chromozoom) - ChromoZoom is a fast, fluid web-based genome browser
 - [robflaherty/jquery-annotated-source](https://github.com/robflaherty/jquery-annotated-source) - jQuery Annotated Source
 - [yuanyan/tencent-hackathon-scoring](https://github.com/yuanyan/tencent-hackathon-scoring) - Tencent Hackathon Scoring Application
-- [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
+- [pablof7z/chardin.js](https://github.com/pablof7z/chardin.js) - Simple overlay instructions for your apps.
 - [AlloyTeam/AlloyImage](https://github.com/AlloyTeam/AlloyImage) - 基于HTML5的专业级图像处理开源引擎。An image processing lib based on html5.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
@@ -5392,7 +5394,7 @@
 ## PowerShell 
 
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-- [chantisnake/power-theme](https://github.com/chantisnake/power-theme) - [deprecated, moving to https://github.com/JanJoris/oh-my-posh] a easy to use powershell theme manager
+- [czhang03/power-theme](https://github.com/czhang03/power-theme) - [deprecated, moving to https://github.com/JanJoris/oh-my-posh] a easy to use powershell theme manager
 - [NytroRST/NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
 - [chocolatey-archive/chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
 - [JamesKovacs/psake](https://github.com/JamesKovacs/psake) - A build automation tool... now with less XML...
@@ -5477,7 +5479,7 @@
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to chec
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
+- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
@@ -6760,6 +6762,7 @@
 
 ## Rust 
 
+- [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [randombit/wycheproof-rs](https://github.com/randombit/wycheproof-rs) - Wycheproof for Rust
 - [polymonster/maths-rs](https://github.com/polymonster/maths-rs) - Linear algebra library for graphics and gamedev.
@@ -7254,7 +7257,7 @@
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
-- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal IO library for Rust
+- [tokio-rs/mio](https://github.com/tokio-rs/mio) - Metal I/O library for Rust.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
@@ -7639,6 +7642,8 @@
 
 ## TypeScript 
 
+- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
+- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [CodyJasonBennett/react-nylon](https://github.com/CodyJasonBennett/react-nylon) - react-reconciler implemented in &lt; 4KB.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -7707,7 +7712,7 @@
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
@@ -7802,7 +7807,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ A library for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [furnishup/blueprint3d](https://github.com/furnishup/blueprint3d) - Build interior spaces in 3D
@@ -7882,7 +7887,6 @@
 ## Vue 
 
 - [kempsteven/vue-html2pdf](https://github.com/kempsteven/vue-html2pdf) - vue-html2pdf converts any vue component or element into PDF, vue-html2pdf is basically a vue wrapper only and uses html2pdf.js behind the scenes.
-- [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [rhaiscript/playground](https://github.com/rhaiscript/playground) - A Rhai scripting playground that runs Rhai scripts using WebAssembly in a web browser.
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统

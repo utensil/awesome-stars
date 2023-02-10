@@ -4790,6 +4790,8 @@
 
 ## Others 
 
+- [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [kolyvan/kybook](https://github.com/kolyvan/kybook) - modern ebook reader for iOS
 - [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
 - [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository

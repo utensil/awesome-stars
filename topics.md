@@ -1403,7 +1403,7 @@
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
@@ -5024,7 +5024,7 @@
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [jeremyfa/yaml.js](https://github.com/jeremyfa/yaml.js) - Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -5136,7 +5136,7 @@
 - [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
-- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom Node.js email templates. Automatic inline CSS, stylesheets, embedded images, and more. Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
+- [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
 - [InstantWebP2P/node-android](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android by rewrite Node.js in Java
 - [alsotang/node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
@@ -7132,7 +7132,7 @@
 - [jseakle/urlrewrite-chrome-regex](https://github.com/jseakle/urlrewrite-chrome-regex) - An extension that lets you redirect Chrome for specific URLs.
 - [tlrobinson/WebSaver](https://github.com/tlrobinson/WebSaver) - A WebKit-based Mac OS X screensaver. Use any webpage or JavaScript program as a screensaver.
 - [bmeurer/XCasts-color-theme-for-Xcode-4](https://github.com/bmeurer/XCasts-color-theme-for-Xcode-4) - This is my Xcode 4 version of Ben Scheirman's XCasts color theme for Xcode 3.
-- [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [exvim/main](https://github.com/exvim/main) - This is the main repository for exVim!
 - [xtrementl/dev-bash-git-ps1](https://github.com/xtrementl/dev-bash-git-ps1) - Developer-style Bash prompt string formatting (PS1). Includes current branch name and counts for commit differences between branch and master and master and remote (where applicable)  edit
 - [humiaozuzu/dot-vimrc](https://github.com/humiaozuzu/dot-vimrc) - Maple's vim config files

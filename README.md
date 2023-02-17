@@ -1110,7 +1110,7 @@
 - [kennytm/utils](https://github.com/kennytm/utils) - Useful headers for C++11
 - [Mikulas/LoL-Advanced](https://github.com/Mikulas/LoL-Advanced) - League of Legends - custom DLL injector
 - [matt-42/dige](https://github.com/matt-42/dige) - C++ toolbox designed for visual and interactive debugging
-- [zzdhidden/mmseg-node](https://github.com/zzdhidden/mmseg-node) - A node.js driver for libmmseg
+- [arronzhang/mmseg-node](https://github.com/arronzhang/mmseg-node) - A node.js driver for libmmseg
 - [jduck/file-dissect](https://github.com/jduck/file-dissect) - File Dissect is a cross-platform framework and UI for analyzing various file formats. It is based on wxWidgets since it provides a native feel regardless of base OS.
 - [toffaletti/libten](https://github.com/toffaletti/libten) - C++11 library for network services on modern x86_64 Linux
 - [liquidweaver/LogicDebugger](https://github.com/liquidweaver/LogicDebugger) - Structured RAII debug logging to the screen
@@ -1526,6 +1526,7 @@
 
 ## Go 
 
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 zimuku、subhd、shooter、xunlei 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -2427,6 +2428,7 @@
 
 ## JavaScript 
 
+- [guidesmiths/clean-code-school](https://github.com/guidesmiths/clean-code-school) - A collection of refactoring and bad smell examples used for training purposes
 - [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js) - Client-side HTML-to-PDF rendering using pure JS.
 - [LuckyPuppy514/jproxy](https://github.com/LuckyPuppy514/jproxy) - 优化 Sonarr 对资源的识别率，主要是针对动漫 | improve recognition rate of Sonarr, especially for anime
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
@@ -5425,6 +5427,7 @@
 
 ## Python 
 
+- [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 - [fugary/calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
@@ -5513,7 +5516,7 @@
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [izar/pytm](https://github.com/izar/pytm) - A Pythonic framework for threat modeling
@@ -6193,7 +6196,7 @@
 - [roger-/PyTwoPort](https://github.com/roger-/PyTwoPort) - A Python library for analyzing linear two-port electrical networks
 - [py-sherlock/sherlock](https://github.com/py-sherlock/sherlock) - Easy distributed locks for Python with a choice of backends.
 - [okfn/dataconverters](https://github.com/okfn/dataconverters) - Python library and command line tool for converting data from one format to another
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [okfn/dataproxy](https://github.com/okfn/dataproxy) - Web application (targeted at appengine) to proxy data from certain data types into a JSON-P data type so that users can create mashups against remote data sets.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
@@ -6326,6 +6329,7 @@
 
 ## Ruby 
 
+- [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [paolobrasolin/antex](https://github.com/paolobrasolin/antex) - 
 - [jaycech3n/math](https://github.com/jaycech3n/math) - scribbles
 - [paolobrasolin/jekyll-sheafy](https://github.com/paolobrasolin/jekyll-sheafy) - Brew your own Stacks Project with Jekyll!
@@ -6768,6 +6772,7 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [randombit/wycheproof-rs](https://github.com/randombit/wycheproof-rs) - Wycheproof for Rust
@@ -7168,7 +7173,7 @@
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [fitzgen/minisynth-rs](https://github.com/fitzgen/minisynth-rs) - Program synthesis is possible in Rust
 - [ethanpailes/debug-here](https://github.com/ethanpailes/debug-here) - A cross platform rust debugger hook
-- [google/evcxr](https://github.com/google/evcxr) - 
+- [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [aopicier/cryptopals-rust](https://github.com/aopicier/cryptopals-rust) - Solutions to the cryptopals (Matasano) crypto challenges in Rust
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [stevedonovan/runner](https://github.com/stevedonovan/runner) - Tool for running Rust snippets

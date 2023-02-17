@@ -269,6 +269,7 @@
 
 ## ai 
 
+- [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [htm-community/htm.core](https://github.com/htm-community/htm.core) - Actively developed Hierarchical Temporal Memory (HTM) community fork (continuation) of NuPIC. Implementation for C++ and Python
@@ -974,6 +975,7 @@
 
 ## chatgpt 
 
+- [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
@@ -1686,7 +1688,7 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [FedML-AI/FedML](https://github.com/FedML-AI/FedML) - FedML - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learnin
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -2801,7 +2803,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [izar/pytm](https://github.com/izar/pytm) - A Pythonic framework for threat modeling
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
@@ -2991,7 +2993,6 @@
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [shipshapecode/tether](https://github.com/shipshapecode/tether) - A positioning engine to make overlays, tooltips and dropdowns better
@@ -4081,6 +4082,7 @@
 
 ## kubernetes 
 
+- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
@@ -5343,6 +5345,8 @@
 
 ## others 
 
+- [guidesmiths/clean-code-school](https://github.com/guidesmiths/clean-code-school) - A collection of refactoring and bad smell examples used for training purposes
+- [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
 - [denniskcheung/crytomator-docker](https://github.com/denniskcheung/crytomator-docker) - 
 - [vh13294/cryptomator-docker](https://github.com/vh13294/cryptomator-docker) - 
 - [takidau/streamingbook](https://github.com/takidau/streamingbook) - Code snippets from the Streaming Systems book (streamingbook.net).
@@ -6265,7 +6269,7 @@
 - [justinfreitag-zz/node-botan](https://github.com/justinfreitag-zz/node-botan) - A fully asynchronous wrapper of the Botan crypto library for Node JS
 - [fitzgen/minisynth-rs](https://github.com/fitzgen/minisynth-rs) - Program synthesis is possible in Rust
 - [ethanpailes/debug-here](https://github.com/ethanpailes/debug-here) - A cross platform rust debugger hook
-- [google/evcxr](https://github.com/google/evcxr) - 
+- [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [aopicier/cryptopals-rust](https://github.com/aopicier/cryptopals-rust) - Solutions to the cryptopals (Matasano) crypto challenges in Rust
 - [foniod/redbpf](https://github.com/foniod/redbpf) - Rust library for building and running BPF/eBPF modules
 - [stevedonovan/runner](https://github.com/stevedonovan/runner) - Tool for running Rust snippets
@@ -9630,7 +9634,7 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [gazay/repka](https://github.com/gazay/repka) - Repka will help you easily gather stats from controllers if you use mongoid
 - [eval/rack-pjax](https://github.com/eval/rack-pjax) - pjax for rails and rack applications
-- [zzdhidden/mmseg-node](https://github.com/zzdhidden/mmseg-node) - A node.js driver for libmmseg
+- [arronzhang/mmseg-node](https://github.com/arronzhang/mmseg-node) - A node.js driver for libmmseg
 - [carrierwaveuploader/carrierwave-mongoid](https://github.com/carrierwaveuploader/carrierwave-mongoid) - Mongoid support for CarrierWave
 - [vbosch/MachineLearning](https://github.com/vbosch/MachineLearning) - A set of base classes in order to perfom training scripts for Neural Networs ( by means of SNNS) and SVM ( by means of SVM Light and SVM Class)
 - [github/ghterm](https://github.com/github/ghterm) - github terminal
@@ -10151,6 +10155,7 @@
 
 ## python 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [daggaz/json-stream](https://github.com/daggaz/json-stream) - Simple streaming JSON parser and encoder.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -10183,7 +10188,7 @@
 - [modAL-python/modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -10459,7 +10464,7 @@
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [py-sherlock/sherlock](https://github.com/py-sherlock/sherlock) - Easy distributed locks for Python with a choice of backends.
 - [okfn/dataconverters](https://github.com/okfn/dataconverters) - Python library and command line tool for converting data from one format to another
-- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling in Python
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
@@ -10533,7 +10538,7 @@
 - [patrick-kidger/torchcde](https://github.com/patrick-kidger/torchcde) - Differentiable controlled differential equation solvers for PyTorch with GPU support and memory-efficient adjoint backpropagation.
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [EngineeringSoftware/roosterize](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq verification projects
@@ -10935,6 +10940,7 @@
 
 ## rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust

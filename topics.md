@@ -4280,6 +4280,7 @@
 
 ## linux 
 
+- [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [scottyhardy/docker-wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
@@ -5357,7 +5358,7 @@
 - [kolyvan/kybook](https://github.com/kolyvan/kybook) - modern ebook reader for iOS
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 - [danmou/onenote_export](https://github.com/danmou/onenote_export) - This Python script exports all the OneNote notebooks linked to your Microsoft account to HTML files.
-- [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 zimuku、subhd、shooter、xunlei 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
+- [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [Jonnyan404/verysync](https://github.com/Jonnyan404/verysync) - 微力同步 docker 版本
 - [nektra/Deviare2](https://github.com/nektra/Deviare2) - Deviare API Hook

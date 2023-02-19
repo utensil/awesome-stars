@@ -7028,7 +7028,7 @@
 - [frehberg/spa-rs](https://github.com/frehberg/spa-rs) - Solar Position Algorithm implementation in Rust
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
-- [atroche/rust-headless-chrome](https://github.com/atroche/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
+- [rust-headless-chrome/rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome) - A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
 - [matklad/proc-caesar](https://github.com/matklad/proc-caesar) - A proc-macro to break Rust IDEs
 - [orion-rs/orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto
 - [tomassedovic/quicksilver-roguelike](https://github.com/tomassedovic/quicksilver-roguelike) - Template for a roguelike in Rust targeting desktop and the web

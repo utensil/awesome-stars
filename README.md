@@ -1442,6 +1442,7 @@
 
 ## Dockerfile 
 
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [denniskcheung/crytomator-docker](https://github.com/denniskcheung/crytomator-docker) - 
 - [vh13294/cryptomator-docker](https://github.com/vh13294/cryptomator-docker) - 
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
@@ -1527,6 +1528,7 @@
 
 ## Go 
 
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
@@ -2825,7 +2827,7 @@
 - [naholyr/node-ftp-server](https://github.com/naholyr/node-ftp-server) - Featureless FTP server
 - [alanszlosek/nodeftpd](https://github.com/alanszlosek/nodeftpd) - node.js FTP Server
 - [mscdex/node-ftp](https://github.com/mscdex/node-ftp) - An FTP client module for node.js
-- [simongfxu/violet](https://github.com/simongfxu/violet) - 写作爱好者的同步工具
+- [inhuman-cpc/violet](https://github.com/inhuman-cpc/violet) - 写作爱好者的同步工具
 - [azu/visualize-txt-traverse](https://github.com/azu/visualize-txt-traverse) - visualize steps of txt-as-traverse.
 - [textlint-rule/textlint-rule-spellchecker](https://github.com/textlint-rule/textlint-rule-spellchecker) - textlint rule to check spellings with native spellchecker
 - [io-monad/misspellings](https://github.com/io-monad/misspellings) - Node module for list of common misspellings from Wikipedia
@@ -4353,6 +4355,8 @@
 
 ## Jupyter Notebook 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2022/Spring 2022
 - [GQCG/GQCP](https://github.com/GQCG/GQCP) - The Ghent Quantum Chemistry Package for electronic structure calculations
 - [raphlinus/raphlinus.github.io](https://github.com/raphlinus/raphlinus.github.io) - Raph's personal blog
@@ -4796,6 +4800,7 @@
 
 ## Others 
 
+- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [kolyvan/kybook](https://github.com/kolyvan/kybook) - modern ebook reader for iOS
@@ -5428,6 +5433,9 @@
 
 ## Python 
 
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
 - [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
@@ -7392,6 +7400,7 @@
 
 ## Shell 
 
+- [render-examples/ghost](https://github.com/render-examples/ghost) - Ghost on Render
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
@@ -7703,7 +7712,7 @@
 - [niudai/VSCode-Zhihu](https://github.com/niudai/VSCode-Zhihu) - Zhihu extension built on vscode.
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [texterify/texterify](https://github.com/texterify/texterify) - The translation and localization management system.
+- [txty-io/texterify](https://github.com/txty-io/texterify) - The translation and localization management system.
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.

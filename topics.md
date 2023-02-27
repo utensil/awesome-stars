@@ -1307,6 +1307,7 @@
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire) - ArrayFire: a general purpose GPU library.
 - [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+- [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [appleseedhq/appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
@@ -5374,7 +5375,7 @@
 
 ## others 
 
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [render-examples/ghost](https://github.com/render-examples/ghost) - Ghost on Render
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [PatrickMassot/lean4-game-server](https://github.com/PatrickMassot/lean4-game-server) - 
@@ -5935,7 +5936,7 @@
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [JuliaGraphics/Colors.jl](https://github.com/JuliaGraphics/Colors.jl) - Color manipulation utilities for Julia
 - [Lab41/PySEAL](https://github.com/Lab41/PySEAL) - This repository is a fork of Microsoft Research's homomorphic encryption implementation, the Simple Encrypted Arithmetic Library (SEAL).  This code wraps the SEAL build in a docker container and provi
-- [pvanberg/flux-beamer](https://github.com/pvanberg/flux-beamer) - Flux is a modern style beamer presentation.
+- [povanberg/flux-beamer](https://github.com/povanberg/flux-beamer) - Flux is a modern style beamer presentation.
 - [datalorax/equatiomatic](https://github.com/datalorax/equatiomatic) - Convert models to LaTeX equations
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [AsuraTeam/monitor](https://github.com/AsuraTeam/monitor) - The monitoring system, develop their own powerful and flexible configuration
@@ -8559,7 +8560,6 @@
 - [david-ragazzi/HtmSpellingChecker](https://github.com/david-ragazzi/HtmSpellingChecker) - An experimental spelling checker using HTM neural networks as approach.
 - [MichaelFerrier/HTMCLA](https://github.com/MichaelFerrier/HTMCLA) - A C++ implementation of Numenta's Hierarchical Temporal Memory (HTM) Cortical Learning Algorithm (CLA). Uses Qt for user interface.
 - [mcostalba/Stockfish](https://github.com/mcostalba/Stockfish) - UCI chess engine
-- [RainerKuemmerle/g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for
 - [DrWhax/truecrypt-archive](https://github.com/DrWhax/truecrypt-archive) - Archive of (almost) all truecrypt releases - Please audit this repository!

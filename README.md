@@ -562,6 +562,7 @@
 
 ## C++ 
 
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
@@ -2115,6 +2116,7 @@
 
 ## Java 
 
+- [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [takidau/streamingbook](https://github.com/takidau/streamingbook) - Code snippets from the Streaming Systems book (streamingbook.net).
 - [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -3720,7 +3722,6 @@
 - [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 - [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
 - [square/crossfilter](https://github.com/square/crossfilter) - Fast n-dimensional filtering and grouping of records.
-- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [sightmachine/simplecv-js](https://github.com/sightmachine/simplecv-js) - A Javascript/Coffeescript companion library to SimpleCV
 - [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
@@ -4123,7 +4124,6 @@
 - [HumbleSoftware/js-imagediff](https://github.com/HumbleSoftware/js-imagediff) - JavaScript / Canvas based image diff utility with Jasmine matchers for testing canvas.
 - [simsalabim/sisyphus](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more. Plugin developed to save html forms data to LocalStorage to restore them after browser crashes, tabs closings and other disasters.
 - [tmbrggmn/deck.js-markdown](https://github.com/tmbrggmn/deck.js-markdown) - A deck.js extension that adds support for Markdown syntax in slides
-- [yue/node-gui](https://github.com/yue/node-gui) - Node.js bindings to the Yue library.
 - [DanielRapp/twss.js](https://github.com/DanielRapp/twss.js) - A node.js "that's what she said" classifier
 - [hpneo/gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps
 - [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games
@@ -4354,6 +4354,8 @@
 
 ## Jupyter Notebook 
 
+- [paperswithcode/galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2022/Spring 2022
@@ -4511,6 +4513,10 @@
 
 ## Lean 
 
+- [jesse-michael-han/lean-step-public](https://github.com/jesse-michael-han/lean-step-public) - Proof artifact co-training for Lean
+- [openai/lean-gym](https://github.com/openai/lean-gym) - 
+- [dwrensha/math-puzzles-in-lean4](https://github.com/dwrensha/math-puzzles-in-lean4) - math puzzles from various sources, formalized in Lean 4
+- [siddhartha-gadgil/LeanAide](https://github.com/siddhartha-gadgil/LeanAide) - Tools based on AI for helping with Lean 4
 - [PatrickMassot/lean4-game-server](https://github.com/PatrickMassot/lean4-game-server) - 
 - [leanprover/std4](https://github.com/leanprover/std4) - Standard Library for Lean 4
 - [PatrickMassot/lean-verbose](https://github.com/PatrickMassot/lean-verbose) - Very controlled natural language tactics for Lean
@@ -4789,6 +4795,7 @@
 
 ## Objective-C++ 
 
+- [openai/miniF2F](https://github.com/openai/miniF2F) - Formal to Formal Mathematics Benchmark
 - [facebook/componentkit](https://github.com/facebook/componentkit) - A React-inspired view framework for iOS.
 - [textmate/textmate](https://github.com/textmate/textmate) - TextMate is a graphical text editor for macOS 10.12 or later
 - [fjolnir/Tranquil](https://github.com/fjolnir/Tranquil) - A language built on top of the Objective-C runtime, and ABI compatible with Objective-C.
@@ -4799,6 +4806,7 @@
 
 ## Others 
 
+- [wangshusen/DRL](https://github.com/wangshusen/DRL) - Deep Reinforcement Learning
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [kolyvan/kybook](https://github.com/kolyvan/kybook) - modern ebook reader for iOS
@@ -5431,7 +5439,14 @@
 
 ## Python 
 
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
+- [microsoft/MASS](https://github.com/microsoft/MASS) - MASS: Masked Sequence to Sequence Pre-training for Language Generation
+- [zhangir-azerbayev/mathlib-semantic-search](https://github.com/zhangir-azerbayev/mathlib-semantic-search) - 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+- [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
+- [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
+- [allenai/RL4LMs](https://github.com/allenai/RL4LMs) - A modular RL library to fine-tune language models to human preferences
+- [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
+- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -5623,7 +5638,7 @@
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-- [Tencent/bk-sops](https://github.com/Tencent/bk-sops) - 蓝鲸智云标准运维(SOPS)
+- [TencentBlueKing/bk-sops](https://github.com/TencentBlueKing/bk-sops) - 蓝鲸智云标准运维(SOPS)
 - [sympy/sympy-bot](https://github.com/sympy/sympy-bot) - GitHub bot for SymPy
 - [scikit-build/scikit-build](https://github.com/scikit-build/scikit-build) - Improved build system generator for CPython C, C++, Cython and Fortran extensions
 - [pybind/python_example](https://github.com/pybind/python_example) - Example pybind11 module built with a Python-based build system
@@ -6277,6 +6292,7 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [gregglind/OpenSiri](https://github.com/gregglind/OpenSiri) - OpenSiri is an open emulator of the Siri program.
+- [yue/node-gui](https://github.com/yue/node-gui) - Node.js bindings to the Yue library.
 - [kemayo/sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text
 - [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
 - [not-kennethreitz/osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer) - GCC Installer for OSX! Without Xcode!
@@ -6781,6 +6797,7 @@
 
 ## Rust 
 
+- [lurk-lang/lurk-rs](https://github.com/lurk-lang/lurk-rs) - 
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
@@ -7608,7 +7625,7 @@
 - [Foundations-of-Applied-Mathematics/Labs](https://github.com/Foundations-of-Applied-Mathematics/Labs) - Labs for the Foundations of Applied Mathematics curriculum.
 - [ernestyalumni/mathphysics](https://github.com/ernestyalumni/mathphysics) - Various notes and solutions on Math and Physics (and Mathematical Physics)
 - [Soonad/Whitepaper](https://github.com/Soonad/Whitepaper) - Moonad: a Peer-to-Peer Operating System
-- [pvanberg/flux-beamer](https://github.com/pvanberg/flux-beamer) - Flux is a modern style beamer presentation.
+- [povanberg/flux-beamer](https://github.com/povanberg/flux-beamer) - Flux is a modern style beamer presentation.
 - [matze/mtheme](https://github.com/matze/mtheme) - A modern LaTeX Beamer theme
 - [firamath/firamath](https://github.com/firamath/firamath) - Sans-serif font with Unicode math support
 - [ongardie/dissertation](https://github.com/ongardie/dissertation) - Sources for my PhD dissertation on the Raft consensus algorithm
@@ -7866,6 +7883,7 @@
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [plasma-umass/doppio](https://github.com/plasma-umass/doppio) - Breaks the browser language barrier (includes a plugin-free JVM).
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [jquery/esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots

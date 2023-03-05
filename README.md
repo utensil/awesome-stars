@@ -4811,6 +4811,7 @@
 
 ## Others 
 
+- [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [inverse-scaling/prize](https://github.com/inverse-scaling/prize) - A prize for finding tasks that cause large language models to show inverse scaling

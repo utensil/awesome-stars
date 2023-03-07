@@ -5690,7 +5690,7 @@
 - [adityadua24/robopy](https://github.com/adityadua24/robopy) - Robopy is a python port for Robotics Toolbox in Matlab created by Peter Corke
 - [bccp/nbodykit](https://github.com/bccp/nbodykit) - Analysis kit for large-scale structure datasets, the massively parallel way
 - [sethtroisi/cloudygo](https://github.com/sethtroisi/cloudygo) - Website for MiniGo, Leela-Zero and other Go data
-- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
+- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [konchunas/pyrs](https://github.com/konchunas/pyrs) - Python to Rust transpiler
 - [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
 - [NeuralEnsemble/elephant](https://github.com/NeuralEnsemble/elephant) - Elephant is the Electrophysiology Analysis Toolkit

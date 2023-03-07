@@ -919,7 +919,7 @@
 - [nanopb/nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers with small code size
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
+- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [dyu/ffi-overhead](https://github.com/dyu/ffi-overhead) - comparing the c ffi (foreign function interface) overhead on various programming languages
 - [rochacbruno/rust-python-example](https://github.com/rochacbruno/rust-python-example) - Example of using Rust to Extend Python
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
@@ -1265,7 +1265,7 @@
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [isl-org/Open3D](https://github.com/isl-org/Open3D) - Open3D: A Modern Library for 3D Data Processing
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
+- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [LoopPerfect/buckaroo](https://github.com/LoopPerfect/buckaroo) - The decentralized package manager for C++ and friends 🏝️
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
@@ -10092,7 +10092,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
+- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
 - [LoopPerfect/buckaroo](https://github.com/LoopPerfect/buckaroo) - The decentralized package manager for C++ and friends 🏝️
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [habitat-sh/habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation

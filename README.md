@@ -1557,7 +1557,7 @@
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes.
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -1611,7 +1611,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [yongman/tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [systemaccounting/mxfactorial](https://github.com/systemaccounting/mxfactorial) - a payment application intended for deployment by the united states treasury
+- [systemaccounting/mxfactorial](https://github.com/systemaccounting/mxfactorial) - a payment application intended for deployment by the united states treasury that replaces banking with accounting
 - [jinzhu/inflection](https://github.com/jinzhu/inflection) - Pluralizes and singularizes English nouns
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -1995,7 +1995,7 @@
 - [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [incompl/learnlayout](https://github.com/incompl/learnlayout) - source for learnlayout.com
-- [tantaman/Strut](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
+- [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [w3ctag/promises-guide](https://github.com/w3ctag/promises-guide) - A guide for spec authors on how to use Promises in prose and WebIDL.
 - [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [asadoughi/stat-learning](https://github.com/asadoughi/stat-learning) - Notes and exercise attempts for "An Introduction to Statistical Learning"
@@ -2710,7 +2710,7 @@
 - [lightning-viz/lightning](https://github.com/lightning-viz/lightning) - Data Visualization Server
 - [parpalak/upmath.me](https://github.com/parpalak/upmath.me) - Markdown and LaTeX online editor - create text for web with equations and diagrams
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor) - A simple visual editor for creating commutative diagrams.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 - [franciscop/server](https://github.com/franciscop/server) - :desktop_computer: Simple and powerful server for Node.js
 - [pyramation/LaTeX2JS](https://github.com/pyramation/LaTeX2JS) - LaTeX web components
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
@@ -4168,7 +4168,7 @@
 - [restify/node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
 - [bengourley/launch](https://github.com/bengourley/launch) - Node.js deployment with jake and git
 - [cliftonc/calipso](https://github.com/cliftonc/calipso) - Calipso is a simple NodeJS content management system based on Express, Connect & Mongoose.
-- [drojdjou/J3D](https://github.com/drojdjou/J3D) - J3D - unity3d-to-threejs exporter
+- [drojdjou/J3D](https://github.com/drojdjou/J3D) - J3D - WebGL demos & experiments
 - [huacnlee/quora](https://github.com/huacnlee/quora) - Quora.com like project with Ruby on Rails (不再维护)
 - [nodejitsu/handbook](https://github.com/nodejitsu/handbook) - A gentle introduction to the art of Nodejitsu
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
@@ -4811,7 +4811,7 @@
 
 ## Others 
 
-- [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.
+- [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [inverse-scaling/prize](https://github.com/inverse-scaling/prize) - A prize for finding tasks that cause large language models to show inverse scaling
@@ -7430,7 +7430,7 @@
 
 ## Shell 
 
-- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. ChatGPT 官方 API 正式发布了！
+- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载
 - [render-examples/ghost](https://github.com/render-examples/ghost) - Ghost on Render
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.

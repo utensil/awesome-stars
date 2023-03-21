@@ -194,6 +194,8 @@
 
 ## C 
 
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -566,6 +568,8 @@
 
 ## C++ 
 
+- [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
+- [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/fo
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools) - Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
@@ -949,7 +953,7 @@
 - [ddemidov/vexcl](https://github.com/ddemidov/vexcl) - VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP
 - [222464/ContinuousHTMGPU](https://github.com/222464/ContinuousHTMGPU) - A continuous implementation of hierarchical temporal memory on the GPU
 - [zccrs/QQStars](https://github.com/zccrs/QQStars) - 基于webqq协议的qq客户端，qt开发，可跨平台
-- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Machine code generation for C++
+- [asmjit/asmjit](https://github.com/asmjit/asmjit) - Low-latency machine code generation
 - [matt-42/iod](https://github.com/matt-42/iod) - Meta programming utilities for C++14. Merged in matt-42/lithium
 - [google/mathfu](https://github.com/google/mathfu) - C++ math library developed primarily for games focused on simplicity and efficiency.
 - [GLSL-Debugger/GLSL-Debugger](https://github.com/GLSL-Debugger/GLSL-Debugger) - GLSL source level debugger.
@@ -1546,6 +1550,8 @@
 
 ## Go 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
+- [oliverpool/sparsehash](https://github.com/oliverpool/sparsehash) - Fast hashing for large files
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [030/p2iwd](https://github.com/030/p2iwd) - Pull and Push Images Without Docker (P2IWD).
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -2462,6 +2468,8 @@
 
 ## JavaScript 
 
+- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
@@ -4395,6 +4403,7 @@
 
 ## Jupyter Notebook 
 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [paperswithcode/galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
@@ -4850,7 +4859,7 @@
 
 ## Others 
 
-- [xx025/carrot](https://github.com/xx025/carrot) - 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [xx025/carrot](https://github.com/xx025/carrot) - 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前81个点
 - [EelcoHoogendoorn/geometric_calculus](https://github.com/EelcoHoogendoorn/geometric_calculus) - Geometric Calculus over discrete and continuous fields
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
@@ -5408,6 +5417,7 @@
 
 ## PHP 
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox) - kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run ko
 - [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
@@ -5498,6 +5508,8 @@
 
 ## Python 
 
+- [clockfort/GitHub-Backup](https://github.com/clockfort/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
+- [fcivaner/hashdir](https://github.com/fcivaner/hashdir) - A command line tool to calculate hashes of directory trees using various hash algorithms.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、
@@ -6877,6 +6889,9 @@
 
 ## Rust 
 
+- [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [jedisct1/rust-sthash](https://github.com/jedisct1/rust-sthash) - Very fast cryptographic hashing for large messages.
+- [flier/rust-fasthash](https://github.com/flier/rust-fasthash) - A suite of non-cryptographic hash functions for Rust.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
@@ -7771,6 +7786,8 @@
 
 ## TypeScript 
 
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support

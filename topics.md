@@ -2381,6 +2381,7 @@
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -3456,6 +3457,7 @@
 
 ## java 
 
+- [apache/parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [jamebal/jmal-cloud-server](https://github.com/jamebal/jmal-cloud-server) - 基于springboot的网盘服务端。JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
@@ -4423,6 +4425,7 @@
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
 - [agda/agda-stdlib](https://github.com/agda/agda-stdlib) - The Agda standard library
+- [agda/cubical](https://github.com/agda/cubical) - An experimental library for Cubical Agda
 - [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust
 - [Boddlnagg/midir](https://github.com/Boddlnagg/midir) - Cross-platform realtime MIDI processing in Rust.
 - [cginternals/globjects](https://github.com/cginternals/globjects) - C++ library strictly wrapping OpenGL objects.
@@ -5585,6 +5588,13 @@
 
 ## others 
 
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API
+- [thohag/alpaca_llama_index](https://github.com/thohag/alpaca_llama_index) - Example of Alpaca-LoRA with llama index.
+- [nomiscientist/Llama_Difu](https://github.com/nomiscientist/Llama_Difu) - A Web-UI for Llama_index. Allow ChatGPT to access your own database.
+- [logan-markewich/llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack) - This repository provides very basic flask, streamlit, and docker examples for the llama_index (fka gpt_index) package
+- [openzim/python-libzim](https://github.com/openzim/python-libzim) - Python 3.6-3.11 binding for Libzim
+- [openzim/sotoki](https://github.com/openzim/sotoki) - StackExchange websites to ZIM scraper
+- [donflopez/alpaca-lora-llama-index](https://github.com/donflopez/alpaca-lora-llama-index) - Instruct-tune LLaMA on consumer hardware and qa inference with llama_index
 - [Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) - A WebUI for ChatGLM-6B
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.
 - [manyoso/haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real pu
@@ -6208,7 +6218,6 @@
 - [ice1k/Theorems](https://github.com/ice1k/Theorems) - :globe_with_meridians: Theorems that rule this multiverse
 - [acallesalda/setform](https://github.com/acallesalda/setform) - Set Theory Formalization in Agda
 - [xgrommx/agda-ecosystem](https://github.com/xgrommx/agda-ecosystem) - 
-- [agda/cubical](https://github.com/agda/cubical) - An experimental library for Cubical Agda
 - [JetBrains/Arend](https://github.com/JetBrains/Arend) - The Arend Proof Assistant
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - A Zig implementation of the "Ray Tracing in One Weekend" book
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
@@ -12675,7 +12684,6 @@
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [SheetJS/js-word](https://github.com/SheetJS/js-word) - :black_nib: Word Processing Document Library
-- [treefrogframework/treefrog-framework](https://github.com/treefrogframework/treefrog-framework) - TreeFrog Framework : High-speed C++ MVC Framework for Web Application
 - [sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 
 

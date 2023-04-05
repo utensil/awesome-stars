@@ -43,7 +43,6 @@
 - [GAP](#gap)
 - [GLSL](#glsl)
 - [Gherkin](#gherkin)
-- [Gnuplot](#gnuplot)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
@@ -86,6 +85,7 @@
 - [PostScript](#postscript)
 - [PowerShell](#powershell)
 - [Processing](#processing)
+- [Prolog](#prolog)
 - [Protocol Buffer](#protocol-buffer)
 - [Pug](#pug)
 - [Puppet](#puppet)
@@ -194,6 +194,7 @@
 
 ## C 
 
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [zanussbaum/gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp) - Locally run an Assistant-Tuned Chat-Style LLM
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
@@ -1171,6 +1172,7 @@
 
 ## CSS 
 
+- [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [oovm/zola-theme-mikoto](https://github.com/oovm/zola-theme-mikoto) - Mikoto Theme for Zola
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
@@ -1466,6 +1468,7 @@
 
 ## Dockerfile 
 
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [madduci/docker-compiler-explorer](https://github.com/madduci/docker-compiler-explorer) - A docker-based version of Matt Godbolt's compiler-explorer application
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
@@ -1552,12 +1555,10 @@
 
 - [middleman/middleman-blog](https://github.com/middleman/middleman-blog) - Middleman : Blog Engine Extension
 
-## Gnuplot 
-
-- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
-
 ## Go 
 
+- [jpillora/webproc](https://github.com/jpillora/webproc) - Wrap any program in a simple web-based user-interface
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -2486,6 +2487,8 @@
 
 ## JavaScript 
 
+- [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+- [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -4429,6 +4432,10 @@
 
 ## Jupyter Notebook 
 
+- [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
+- [aiplaybookin/novice-ChatGPT](https://github.com/aiplaybookin/novice-ChatGPT) - ChatGPT API Usage using LangChain, LlamaIndex and more
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [donflopez/alpaca-lora-llama-index](https://github.com/donflopez/alpaca-lora-llama-index) - Instruct-tune LLaMA on consumer hardware and qa inference with llama_index
 - [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以
 - [Valdex/guanaco-lora](https://github.com/Valdex/guanaco-lora) - Instruct-tune LLaMA on consumer hardware
@@ -4900,6 +4907,8 @@
 
 ## Others 
 
+- [arnav-gudibande/koala-test-set](https://github.com/arnav-gudibande/koala-test-set) - The test set for Koala
+- [libertine-fonts/libertine](https://github.com/libertine-fonts/libertine) - The Libertine typeface family
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [madvorak/lean3-tactic-lean4](https://github.com/madvorak/lean3-tactic-lean4) - Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
@@ -5540,6 +5549,10 @@
 - [andipollok/Fontastic](https://github.com/andipollok/Fontastic) - A Processing library to create TrueType font files
 - [processing-js/processing-js](https://github.com/processing-js/processing-js) - A port of the Processing visualization language to JavaScript.
 
+## Prolog 
+
+- [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
+
 ## Protocol Buffer 
 
 - [edgarriba/DeepRosetta](https://github.com/edgarriba/DeepRosetta) - An universal deep learning models conversor
@@ -5555,6 +5568,21 @@
 
 ## Python 
 
+- [young-geng/koala_data_pipeline](https://github.com/young-geng/koala_data_pipeline) - The data processing pipeline for the Koala chatbot language model
+- [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Easy to use model parallel large language models in JAX/Flax with pjit support on cloud TPU pods.
+- [LAION-AI/Open-Instruction-Generalist](https://github.com/LAION-AI/Open-Instruction-Generalist) - Open Instruction Generalist is an assistant trained on massive synthetic instructions to perform many millions of tasks
+- [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
+- [NX211/homer-icons](https://github.com/NX211/homer-icons) - 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
+- [openzim/zimit](https://github.com/openzim/zimit) - Make a ZIM file from any Web site and surf offline!
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
+- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community
+- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
+- [ViperX7/Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API
 - [thohag/alpaca_llama_index](https://github.com/thohag/alpaca_llama_index) - Example of Alpaca-LoRA with llama index.
 - [nomiscientist/Llama_Difu](https://github.com/nomiscientist/Llama_Difu) - A Web-UI for Llama_index. Allow ChatGPT to access your own database.
@@ -5562,7 +5590,7 @@
 - [openzim/python-libzim](https://github.com/openzim/python-libzim) - Python 3.6-3.11 binding for Libzim
 - [openzim/sotoki](https://github.com/openzim/sotoki) - StackExchange websites to ZIM scraper
 - [Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) - A WebUI for ChatGLM-6B
-- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [manyoso/haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real pu
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [theubie/complex_memory](https://github.com/theubie/complex_memory) - A KoboldAI-like memory extension for oobabooga's text-generation-webui
@@ -5580,7 +5608,7 @@
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [johnsmith0031/alpaca_lora_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) - 
 - [TheTerrasque/text-generation-webui](https://github.com/TheTerrasque/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMA using GPTQ
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
@@ -7614,6 +7642,7 @@
 
 ## Shell 
 
+- [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
 - [s4rduk4r/alpaca_lora_4bit_readme](https://github.com/s4rduk4r/alpaca_lora_4bit_readme) - Just a simple HowTo for https://github.com/johnsmith0031/alpaca_lora_4bit
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and en
 - [wxpusher/wxpusher-docs](https://github.com/wxpusher/wxpusher-docs) - 微信消息实时推送服务[WxPusher]的服务说明文档，通过本文档，你可以了解如何使用WxPusher的服务。 文档预览地址：
@@ -7887,6 +7916,11 @@
 
 ## TypeScript 
 
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
+- [qdm12/caddy-ui](https://github.com/qdm12/caddy-ui) - UI for the Caddy proxy server
+- [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+- [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
@@ -8153,6 +8187,8 @@
 
 ## Vue 
 
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [kempsteven/vue-html2pdf](https://github.com/kempsteven/vue-html2pdf) - vue-html2pdf converts any vue component or element into PDF, vue-html2pdf is basically a vue wrapper only and uses html2pdf.js behind the scenes.
 - [rhaiscript/playground](https://github.com/rhaiscript/playground) - A Rhai scripting playground that runs Rhai scripts using WebAssembly in a web browser.

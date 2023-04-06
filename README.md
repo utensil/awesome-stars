@@ -1557,6 +1557,9 @@
 
 ## Go 
 
+- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [jpillora/webproc](https://github.com/jpillora/webproc) - Wrap any program in a simple web-based user-interface
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
@@ -4333,7 +4336,7 @@
 - [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - Combine ingredients for a plot
 - [sswatson/AsyPlots.jl](https://github.com/sswatson/AsyPlots.jl) - A Julia package for making figures with Asymptote and Cairo
 - [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equation
-- [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics
+- [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics and nonlinear timeseries analysis
 - [GiggleLiu/NiLang.jl](https://github.com/GiggleLiu/NiLang.jl) - A differential eDSL that can run faster than light and go back to the past.
 - [chakravala/Ajna.jl](https://github.com/chakravala/Ajna.jl) - Perception & intuition for geometric algebra visualization
 - [eschnett/RayTraceGR.jl](https://github.com/eschnett/RayTraceGR.jl) - A ray-tracer for curved spacetimes
@@ -4432,6 +4435,7 @@
 
 ## Jupyter Notebook 
 
+- [GammaTauAI/leetcode-hard-gym](https://github.com/GammaTauAI/leetcode-hard-gym) - 
 - [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 - [aiplaybookin/novice-ChatGPT](https://github.com/aiplaybookin/novice-ChatGPT) - ChatGPT API Usage using LangChain, LlamaIndex and more
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -4907,12 +4911,13 @@
 
 ## Others 
 
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [arnav-gudibande/koala-test-set](https://github.com/arnav-gudibande/koala-test-set) - The test set for Koala
 - [libertine-fonts/libertine](https://github.com/libertine-fonts/libertine) - The Libertine typeface family
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [madvorak/lean3-tactic-lean4](https://github.com/madvorak/lean3-tactic-lean4) - Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
-- [wxjiao/alpaca-mt](https://github.com/wxjiao/alpaca-mt) - Investigating the capability of Alpaca-style LLaMA models for machine translation.
+- [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - Proposed the ParroT framework to enhance and regulate the translation abilities during chat based on open-sourced LLMs and human written translation and evaluation data.
 - [ryh04x/CEH-Exam-Questions](https://github.com/ryh04x/CEH-Exam-Questions) - Planning To Take Certified Ethical Hacker (CEH)?  Here are github repo with 125 questions and answers to help you prep for the test
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
 - [TheExplainthis/AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
@@ -5568,6 +5573,10 @@
 
 ## Python 
 
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
+- [Smyja/blackmaria](https://github.com/Smyja/blackmaria) - Python package for webscraping in Natural language
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [MrBlenny/py-d2](https://github.com/MrBlenny/py-d2) - A fully typed python interface for building .d2 graph files for use with the D2 engine.
 - [young-geng/koala_data_pipeline](https://github.com/young-geng/koala_data_pipeline) - The data processing pipeline for the Koala chatbot language model
 - [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Easy to use model parallel large language models in JAX/Flax with pjit support on cloud TPU pods.
 - [LAION-AI/Open-Instruction-Generalist](https://github.com/LAION-AI/Open-Instruction-Generalist) - Open Instruction Generalist is an assistant trained on massive synthetic instructions to perform many millions of tasks
@@ -5594,7 +5603,7 @@
 - [manyoso/haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real pu
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [theubie/complex_memory](https://github.com/theubie/complex_memory) - A KoboldAI-like memory extension for oobabooga's text-generation-webui
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
 - [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) - 
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
@@ -5635,6 +5644,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [clockfort/GitHub-Backup](https://github.com/clockfort/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
 - [fcivaner/hashdir](https://github.com/fcivaner/hashdir) - A command line tool to calculate hashes of directory trees using various hash algorithms.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -7916,6 +7926,8 @@
 
 ## TypeScript 
 
+- [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
+- [webrecorder/browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud) - Fully Integrated high-fidelity archiving system with user-interface and API
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [qdm12/caddy-ui](https://github.com/qdm12/caddy-ui) - UI for the Caddy proxy server
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -7930,7 +7942,6 @@
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.

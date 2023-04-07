@@ -277,6 +277,7 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+- [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
@@ -606,6 +607,7 @@
 
 ## awesome 
 
+- [zhilizju/Awesome-instruction-tuning](https://github.com/zhilizju/Awesome-instruction-tuning) - A curated list of awesome instruction tuning datasets, models, papers and repositories.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -709,6 +711,7 @@
 
 ## awesome-list 
 
+- [zhilizju/Awesome-instruction-tuning](https://github.com/zhilizju/Awesome-instruction-tuning) - A curated list of awesome instruction tuning datasets, models, papers and repositories.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
@@ -1017,6 +1020,7 @@
 
 ## chatgpt 
 
+- [zhilizju/Awesome-instruction-tuning](https://github.com/zhilizju/Awesome-instruction-tuning) - A curated list of awesome instruction tuning datasets, models, papers and repositories.
 - [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
@@ -1024,7 +1028,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 
 - [linonetwo/langchain-alpaca](https://github.com/linonetwo/langchain-alpaca) - Run Alpaca LLM in LangChain
 - [Meteo-Pig/CursorCode](https://github.com/Meteo-Pig/CursorCode) - Cursor GPT vscode扩展插件
-- [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - Proposed the ParroT framework to enhance and regulate the translation abilities during chat based on open-sourced LLMs and human written translation and evaluation data.
+- [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - The ParroT framework to enhance and regulate the Translation Abilities during Chat based on open-sourced LLMs (e.g., LLaMA-7b) and human written translation and evaluation data.
 - [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [mymusise/ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) - 一种平价的chatgpt实现方案,  基于ChatGLM-6B + LoRA
 - [TheExplainthis/AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
@@ -1035,6 +1039,7 @@
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1080,6 +1085,7 @@
 
 ## cli 
 
+- [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [fcivaner/hashdir](https://github.com/fcivaner/hashdir) - A command line tool to calculate hashes of directory trees using various hash algorithms.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -4638,6 +4644,7 @@
 
 ## machine-learning 
 
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 - [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -5633,6 +5640,16 @@
 
 ## others 
 
+- [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
+- [fixie-ai/fixie-examples](https://github.com/fixie-ai/fixie-examples) - Examples of how to use the Fixie AI platform.
+- [xhluca/dl-translate](https://github.com/xhluca/dl-translate) - A deep learning-based translation library built on Huggingface transformers
+- [siddhartha-gadgil/LeanAide](https://github.com/siddhartha-gadgil/LeanAide) - Tools based on AI for helping with Lean 4
+- [zhangir-azerbayev/lean-chat](https://github.com/zhangir-azerbayev/lean-chat) - 
+- [UofSC-Spring-2023-SCHC-411-H01/notes](https://github.com/UofSC-Spring-2023-SCHC-411-H01/notes) - 
+- [hargoniX/FlameTC](https://github.com/hargoniX/FlameTC) - 
+- [caddyserver/replace-response](https://github.com/caddyserver/replace-response) - Caddy module that performs replacements in response bodies
+- [ruogudu/PaperGPT](https://github.com/ruogudu/PaperGPT) - Chat with research papers
+- [leanprover-community/repl](https://github.com/leanprover-community/repl) - A simple REPL for Lean 4, returning information about errors and sorries.
 - [GammaTauAI/leetcode-hard-gym](https://github.com/GammaTauAI/leetcode-hard-gym) - 
 - [MrBlenny/py-d2](https://github.com/MrBlenny/py-d2) - A fully typed python interface for building .d2 graph files for use with the D2 engine.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
@@ -5661,7 +5678,7 @@
 - [openzim/sotoki](https://github.com/openzim/sotoki) - StackExchange websites to ZIM scraper
 - [donflopez/alpaca-lora-llama-index](https://github.com/donflopez/alpaca-lora-llama-index) - Instruct-tune LLaMA on consumer hardware and qa inference with llama_index
 - [Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) - A WebUI for ChatGLM-6B
-- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [manyoso/haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real pu
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以
@@ -5679,11 +5696,10 @@
 - [ocherny/alpaca-lora](https://github.com/ocherny/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [madvorak/lean4-cheatsheet](https://github.com/madvorak/lean4-cheatsheet) - 
 - [madvorak/lean3-tactic-lean4](https://github.com/madvorak/lean3-tactic-lean4) - Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
-- [lxe/simple-llama-finetuner](https://github.com/lxe/simple-llama-finetuner) - Simple UI for LLaMA Model Finetuning
 - [s4rduk4r/alpaca_lora_4bit_readme](https://github.com/s4rduk4r/alpaca_lora_4bit_readme) - Just a simple HowTo for https://github.com/johnsmith0031/alpaca_lora_4bit
 - [johnsmith0031/alpaca_lora_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) - 
 - [TheTerrasque/text-generation-webui](https://github.com/TheTerrasque/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMA using GPTQ
 - [KohakuBlueleaf/guanaco-lora](https://github.com/KohakuBlueleaf/guanaco-lora) - Instruct-tune LLaMA on consumer hardware
 - [hikariming/alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) - 人工精调的中文对话数据集和一段chatglm的微调代码
@@ -5775,7 +5791,6 @@
 - [jesse-michael-han/lean-step-public](https://github.com/jesse-michael-han/lean-step-public) - Proof artifact co-training for Lean
 - [openai/lean-gym](https://github.com/openai/lean-gym) - 
 - [dwrensha/math-puzzles-in-lean4](https://github.com/dwrensha/math-puzzles-in-lean4) - math puzzles from various sources, formalized in Lean 4
-- [siddhartha-gadgil/LeanAide](https://github.com/siddhartha-gadgil/LeanAide) - Tools based on AI for helping with Lean 4
 - [openai/miniF2F](https://github.com/openai/miniF2F) - Formal to Formal Mathematics Benchmark
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [zhangir-azerbayev/mathlib-semantic-search](https://github.com/zhangir-azerbayev/mathlib-semantic-search) - 
@@ -5791,7 +5806,7 @@
 - [denniskcheung/crytomator-docker](https://github.com/denniskcheung/crytomator-docker) - 
 - [vh13294/cryptomator-docker](https://github.com/vh13294/cryptomator-docker) - 
 - [takidau/streamingbook](https://github.com/takidau/streamingbook) - Code snippets from the Streaming Systems book (streamingbook.net).
-- [LuckyPuppy514/jproxy](https://github.com/LuckyPuppy514/jproxy) - 优化 Sonarr 对资源的识别率，主要是针对动漫 | improve recognition rate of Sonarr, especially for anime
+- [LuckyPuppy514/jproxy](https://github.com/LuckyPuppy514/jproxy) - 介于 Sonarr / Radarr 和 Jackett / Prowlarr 之间的代理，主要用于优化查询和提升识别率 | A proxy between Sonarr / Radarr and Jackett / Prowlarr, mainly used to optimize search and improve recognition rate
 - [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 - [safino9/SourceGo](https://github.com/safino9/SourceGo) - 阅读3.0源
 - [fugary/calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
@@ -10595,6 +10610,7 @@
 
 ## python 
 
+- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [Smyja/blackmaria](https://github.com/Smyja/blackmaria) - Python package for webscraping in Natural language
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
@@ -10988,6 +11004,7 @@
 - [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
+- [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex 

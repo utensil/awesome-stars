@@ -186,6 +186,7 @@
 
 ## Batchfile 
 
+- [Chuyu-Team/vc-ltl-samples](https://github.com/Chuyu-Team/vc-ltl-samples) - Usage samples for the VC-LTL.
 - [fsavje/math-with-slack](https://github.com/fsavje/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
@@ -575,6 +576,7 @@
 
 ## C++ 
 
+- [Chuyu-Team/VC-LTL](https://github.com/Chuyu-Team/VC-LTL) - Shared to msvcrt.dll and optimize the C/C++ application file size.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [Ali-Stanford/ChatGPT_Programming_Numerical_Methods](https://github.com/Ali-Stanford/ChatGPT_Programming_Numerical_Methods) - Coding numerical methods using ChatGPT: successes, failures, and challenges
@@ -583,7 +585,7 @@
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [kiwix/kiwix-tools](https://github.com/kiwix/kiwix-tools) - Command line Kiwix tools: kiwix-serve, kiwix-manage, ...
-- [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team
+- [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a nosql compatible with redis which is developed by Qihoo's infrastructure team.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
@@ -2507,7 +2509,6 @@
 
 - [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [JasonFengGit/Visualizer](https://github.com/JasonFengGit/Visualizer) - A single-page website aiming to provide innovative and intuitive visualizations of common and AI algorithms.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
@@ -4950,6 +4951,7 @@
 
 ## Others 
 
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型
 - [jllllll/GPTQ-for-LLaMa-Wheels](https://github.com/jllllll/GPTQ-for-LLaMa-Wheels) - Precompiled Wheels for GPTQ-for-LLaMa
 - [imaurer/awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
@@ -5621,11 +5623,12 @@
 
 ## Python 
 
+- [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
 - [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
 - [0cc4m/KoboldAI](https://github.com/0cc4m/KoboldAI) - 
 - [Ph0rk0z/text-generation-webui-testing](https://github.com/Ph0rk0z/text-generation-webui-testing) - A fork of textgen that still supports V1 GPTQ, 4-bit lora and other GPTQ models besides llama.
 - [paulgavrikov/visualkeras](https://github.com/paulgavrikov/visualkeras) - Visualkeras is a Python package to help visualize Keras (either standalone or included in TensorFlow) neural network architectures. It allows easy styling to fit most needs. This module supports layer
-- [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) - An AI-powered tool for automating literature reviews with concise summaries and relevant citations.
+- [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) - ⚡ Automating scientific workflows with AI ⚡
 - [HyperGAN/HyperGAN](https://github.com/HyperGAN/HyperGAN) - Composable GAN framework with api and user interface
 - [do-mpc/do-mpc](https://github.com/do-mpc/do-mpc) - Model predictive control python toolbox
 - [eyurtsev/kor](https://github.com/eyurtsev/kor) - Using cats to make LLMs uncool 😽
@@ -5678,7 +5681,7 @@
 - [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
+- [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [ViperX7/Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and any LLM
 - [thohag/alpaca_llama_index](https://github.com/thohag/alpaca_llama_index) - Example of Alpaca-LoRA with llama index.
@@ -5692,7 +5695,7 @@
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [theubie/complex_memory](https://github.com/theubie/complex_memory) - A KoboldAI-like memory extension for oobabooga's text-generation-webui
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-- [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
+- [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models.
 - [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) - 
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
@@ -5700,11 +5703,11 @@
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
-- [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs
+- [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [johnsmith0031/alpaca_lora_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) - 
 - [TheTerrasque/text-generation-webui](https://github.com/TheTerrasque/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python/C++/Go项目树剖析功能/项目源代码自译解能力，新增PDF和Word文献批量总结功能/PDF论文全文翻译功能
+- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能，兼容ChatGLM等本地模型
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMA using GPTQ
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
@@ -8023,6 +8026,7 @@
 - [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [webrecorder/browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud) - Fully Integrated high-fidelity archiving system with user-interface and API
@@ -8100,6 +8104,7 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [mpedramfar/Lean-game-maker](https://github.com/mpedramfar/Lean-game-maker) - This project converts structured Lean code into an interactive browser game.
 - [tjpalmer/languish](https://github.com/tjpalmer/languish) - Languish, a web page for exploring programming language trends
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [geometryzen/davinci-eight](https://github.com/geometryzen/davinci-eight) - WebGL library for mathematical physics using Geometric Algebra
 - [lupyuen/visual-embedded-rust](https://github.com/lupyuen/visual-embedded-rust) - Visual Embedded Rust extension for Visual Studio Code
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -8303,7 +8308,6 @@
 - [rhaiscript/playground](https://github.com/rhaiscript/playground) - A Rhai scripting playground that runs Rhai scripts using WebAssembly in a web browser.
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [DrSensor/example-vue-component-rust](https://github.com/DrSensor/example-vue-component-rust) - example of how to mix Rust code compiled as WebAssembly with Vue
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜

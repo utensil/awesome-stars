@@ -201,6 +201,7 @@
 - [wannesm/PySDD](https://github.com/wannesm/PySDD) - Python package for Sentential Decision Diagrams (SDD)
 - [NolanoOrg/cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
 - [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) - Building game development ecosystem for @ziglang!
+- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [zanussbaum/gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp) - Locally run an Assistant-Tuned Chat-Style LLM
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
@@ -580,6 +581,7 @@
 
 ## C++ 
 
+- [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is
 - [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.
 - [takemaru/graphillion](https://github.com/takemaru/graphillion) - Fast, lightweight graphset operation library
@@ -1497,7 +1499,7 @@
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - 
 - [triagemd/tensorflow-builds](https://github.com/triagemd/tensorflow-builds) - Tensorflow binaries and Docker images compiled with GPU support and CPU optimizations.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦
 - [ondrejmo/Dockerfiles](https://github.com/ondrejmo/Dockerfiles) - These are Dockerfiles I've created for programs without official docker image.
 - [crisbal/docker-torch-rnn](https://github.com/crisbal/docker-torch-rnn) - Docker images for using torch-rnn
@@ -3181,7 +3183,7 @@
 - [escomplex/complexity-report](https://github.com/escomplex/complexity-report) - **UNMAINTAINED** Software complexity analysis for JavaScript projects
 - [invertase/react-native-material-design](https://github.com/invertase/react-native-material-design) - React Native UI Components for Material Design
 - [mattkrick/meatier](https://github.com/mattkrick/meatier) - :hamburger: like meteor, but meatier :hamburger:
-- [0xYootou/js2image](https://github.com/0xYootou/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
+- [aoao-eth/js2image](https://github.com/aoao-eth/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
 - [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
@@ -4471,6 +4473,7 @@
 
 ## Jupyter Notebook 
 
+- [ELS-RD/kernl](https://github.com/ELS-RD/kernl) - Kernl lets you run PyTorch transformer models several times faster on GPU with a single line of code, and is designed to be easily hackable.
 - [albertqjiang/INT](https://github.com/albertqjiang/INT) - Official code for paper: INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [fredfeucht/Quantum-GA](https://github.com/fredfeucht/Quantum-GA) - Python toolkit for studying relativistic and quantum physics using geometric algebra
@@ -4680,7 +4683,6 @@
 - [dselsam/lean4](https://github.com/dselsam/lean4) - Lean4 work in progress repo
 - [seewoo5/lean-poly-abc](https://github.com/seewoo5/lean-poly-abc) - Formalization of the proof of ABC conjecture for polynomials (Mason-Stothers theorem) in Lean 3
 - [ImperialCollegeLondon/formalising-mathematics-2023](https://github.com/ImperialCollegeLondon/formalising-mathematics-2023) - repository for material for Jan-Mar 2023 course on formalising mathematics
-- [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - 
 - [IPDSnelting/tba-2022](https://github.com/IPDSnelting/tba-2022) - Materials for the course "theorem prover lab: applications in programming languages" at KIT, SS2022 edition
 - [shinsa82/lean-devcontainer](https://github.com/shinsa82/lean-devcontainer) - Dev Container of VSCode for Lean (v4)
 - [siddhartha-gadgil/LeanAide](https://github.com/siddhartha-gadgil/LeanAide) - Tools based on AI for helping with Lean 4
@@ -4984,6 +4986,7 @@
 
 ## Others 
 
+- [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
 - [foocker/deeplearningtheory](https://github.com/foocker/deeplearningtheory) - 
 - [lupantech/dl4math](https://github.com/lupantech/dl4math) - Resources of deep learning for mathematical reasoning (DL4MATH).
 - [anthropics/evals](https://github.com/anthropics/evals) - 
@@ -4991,7 +4994,6 @@
 - [Longyichen/Alpaca-family-library](https://github.com/Longyichen/Alpaca-family-library) - Summarize all low-cost replication methods for Chatgpt.
 - [akoksal/LongForm](https://github.com/akoksal/LongForm) - Instruction Tuning Dataset and Models for Long Text Generation with Corpus Extraction
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
-- [allenai/mmc4](https://github.com/allenai/mmc4) - MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
 - [Nan-Do/LeetCodeContestsDataset](https://github.com/Nan-Do/LeetCodeContestsDataset) - Curated dataset including the description and best solutions for several programming languages ​​of (probably all) LeetCode's contests
 - [rfitzp/Elements](https://github.com/rfitzp/Elements) - Greek/English version of Euclid's Elements
 - [leaningtech/cheerp-compiler](https://github.com/leaningtech/cheerp-compiler) - Cheerp compiler based on LLVM monorepo
@@ -5619,7 +5621,6 @@
 
 ## Perl 
 
-- [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML) - LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [peeterjoot/latex-notes-compilations](https://github.com/peeterjoot/latex-notes-compilations) - Master repository for Peeter's various latex notes compilations and/or books (transitioning from monolithic physicsplay repository).
 - [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -5667,6 +5668,10 @@
 
 ## Python 
 
+- [freddyaboulton/gradio-tools](https://github.com/freddyaboulton/gradio-tools) - 
+- [stanford-crfm/helm](https://github.com/stanford-crfm/helm) - Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110).
+- [trailofbits/manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool
+- [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [AlibabaResearch/DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI) - DAMO-ConvAI: The official repository which contains the codebase for Alibaba DAMO Conversational AI.
 - [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - An easy-to-use model quantization package with user-friendly apis, based on GPTQ algorithm.
 - [lucifer1004/leetcode.typ](https://github.com/lucifer1004/leetcode.typ) - Solving Leetcode problems in Typst
@@ -5703,6 +5708,7 @@
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
+- [allenai/mmc4](https://github.com/allenai/mmc4) - MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
 - [yeagerai/yeagerai-agent](https://github.com/yeagerai/yeagerai-agent) - 
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
@@ -5817,7 +5823,7 @@
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [johnsmith0031/alpaca_lora_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) - 
 - [TheTerrasque/text-generation-webui](https://github.com/TheTerrasque/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
-- [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT/GLM拓展，特别优化学术Paper润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持gpt-3.5/gpt-4/chatglm
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMA using GPTQ
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
@@ -5840,7 +5846,7 @@
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [gururise/AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
 - [mymusise/ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) - 一种平价的chatgpt实现方案,  基于ChatGLM-6B + LoRA
-- [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - Alpaca-LoRA as Chatbot service
+- [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -8151,6 +8157,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+- [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.

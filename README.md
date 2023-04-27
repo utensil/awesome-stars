@@ -620,7 +620,6 @@
 - [seanbaxter/circle](https://github.com/seanbaxter/circle) - The compiler is available for download. Get it!
 - [htm-community/htm.core](https://github.com/htm-community/htm.core) - Actively developed Hierarchical Temporal Memory (HTM) community fork (continuation) of NuPIC. Implementation for C++ and Python
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [GaloisInc/lean4-balance-car](https://github.com/GaloisInc/lean4-balance-car) - Lean4 port of Arduino balance car controller
 - [lecopivo/HouLean](https://github.com/lecopivo/HouLean) - Lean 4 as a scripting language in Houdini
 - [bollu/lean-to](https://github.com/bollu/lean-to) - Jupyter notebook for the Lean4 programming language
@@ -4202,7 +4201,7 @@
 - [eikes/jquery.fullscreen.js](https://github.com/eikes/jquery.fullscreen.js) - jQuery HTML5 Fullscreen Slideshow
 - [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 - [estelle/mobile](https://github.com/estelle/mobile) - mobile UI Performance
-- [fofr/paulrhayes.com-experiments](https://github.com/fofr/paulrhayes.com-experiments) - CSS, HTML and JS experiments from paulrhayes.com
+- [fofr/css-experiments](https://github.com/fofr/css-experiments) - CSS, HTML and JS experiments from paulrhayes.com
 - [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
 - [jasondavies/d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 - [boyvanamstel/html5-notifications](https://github.com/boyvanamstel/html5-notifications) - A simple experiment, focussing on using HTML5 notification support in Chrome and Safari. Works with Mountain Lion's Notification Center.
@@ -4991,7 +4990,7 @@
 - [lupantech/dl4math](https://github.com/lupantech/dl4math) - Resources of deep learning for mathematical reasoning (DL4MATH).
 - [anthropics/evals](https://github.com/anthropics/evals) - 
 - [carbonz0/alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset) - alpaca中文指令微调数据集
-- [Longyichen/Alpaca-family-library](https://github.com/Longyichen/Alpaca-family-library) - Summarize all low-cost replication methods for Chatgpt.
+- [Longyichen/Alpaca-family-library](https://github.com/Longyichen/Alpaca-family-library) - Summarize all open source Large Languages Models and low-cost replication methods for Chatgpt.
 - [akoksal/LongForm](https://github.com/akoksal/LongForm) - Instruction Tuning Dataset and Models for Long Text Generation with Corpus Extraction
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [Nan-Do/LeetCodeContestsDataset](https://github.com/Nan-Do/LeetCodeContestsDataset) - Curated dataset including the description and best solutions for several programming languages ​​of (probably all) LeetCode's contests
@@ -5940,6 +5939,7 @@
 - [numenta/nupic.torch](https://github.com/numenta/nupic.torch) - Numenta Platform for Intelligent Computing PyTorch libraries
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [EleutherAI/knowledge-neurons](https://github.com/EleutherAI/knowledge-neurons) - A library for finding knowledge neurons in pretrained transformer models.
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax) - Model parallel transformers in JAX and Haiku
 - [hendrycks/math](https://github.com/hendrycks/math) - The MATH Dataset (NeurIPS 2021)
@@ -6884,7 +6884,7 @@
 - [xxuejie/webruby](https://github.com/xxuejie/webruby) - mruby running in the browser
 - [vjoel/redcloud](https://github.com/vjoel/redcloud) - Simulation of data centers using dynamic networks of hybrid automata and continuous variables for request rates etc.
 - [nilium/ruby-gui](https://github.com/nilium/ruby-gui) - Some kind of GUI gem. (Migrated to https://git.sr.ht/~nilium/ruby-gui)
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [freshshell/fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [chriskite/anemone](https://github.com/chriskite/anemone) - Anemone web-spider framework
 - [lassebunk/dish](https://github.com/lassebunk/dish) - Super simple conversion of hashes into plain Ruby objects. Also works in RubyMotion.
@@ -7886,7 +7886,7 @@
 - [bioSyntax/bioSyntax](https://github.com/bioSyntax/bioSyntax) - Syntax highlighting for computational biology
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [JakeWharton/dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [talonvoice/speech](https://github.com/talonvoice/speech) - speech engine training projects
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [sclorg/centos-release-scl](https://github.com/sclorg/centos-release-scl) - yum Configs and basic docs for Software Collections as delivered via the CentOS SCLo SIG.

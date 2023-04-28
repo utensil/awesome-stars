@@ -1929,6 +1929,7 @@
 - [kmario23/deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
+- [AllenDowney/ModSimPy](https://github.com/AllenDowney/ModSimPy) - Text and supporting code for Modeling and Simulation in Python
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [chrisjsewell/ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [atelierbram/base16-prism](https://github.com/atelierbram/base16-prism) - A template for building themes for Prism with Base16
@@ -4558,7 +4559,6 @@
 - [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) - TensorFlow 2.x version's  Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0版入门实例代码，实战教程。
 - [ericxiao251/spark-syntax](https://github.com/ericxiao251/spark-syntax) - This is a repo documenting the best practices in PySpark.
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
-- [AllenDowney/ModSimPy](https://github.com/AllenDowney/ModSimPy) - Text and supporting code for Modeling and Simulation in Python
 - [spacetelescope/style-guides](https://github.com/spacetelescope/style-guides) - An opinionated guide on how we work.
 - [ctgk/PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
@@ -5739,7 +5739,7 @@
 - [aypan17/machiavelli](https://github.com/aypan17/machiavelli) - 
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
-- [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
+- [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - Plug and play modules to optimize the performances of your AI systems 🚀
 - [0cc4m/KoboldAI](https://github.com/0cc4m/KoboldAI) - 
 - [Ph0rk0z/text-generation-webui-testing](https://github.com/Ph0rk0z/text-generation-webui-testing) - A fork of textgen that still supports V1 GPTQ, 4-bit lora and other GPTQ models besides llama.
 - [paulgavrikov/visualkeras](https://github.com/paulgavrikov/visualkeras) - Visualkeras is a Python package to help visualize Keras (either standalone or included in TensorFlow) neural network architectures. It allows easy styling to fit most needs. This module supports layer

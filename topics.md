@@ -98,6 +98,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
@@ -284,6 +285,7 @@
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates development, writing, and reading functions.
 - [mklarqvist/ai-playground](https://github.com/mklarqvist/ai-playground) - Playground for various AI projects and demos
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
+- [ssheng/BentoChain](https://github.com/ssheng/BentoChain) - A voice-enabled chatbot application built using of 🦜️🔗 LangChain, text-to-speech, and speech-to-text models from  🤗 Hugging Face, and 🍱 BentoML.
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [chatarena/chatarena](https://github.com/chatarena/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) - A curated, but incomplete, list of data-centric AI resources.
@@ -384,7 +386,7 @@
 
 ## android 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
@@ -1245,7 +1247,7 @@
 - [hustcer/star](https://github.com/hustcer/star) - A STock Analysis and Research tool for terminal(cli) users. 技术控和命令行爱好者的 A 股辅助分析工具。
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [lastguest/pixeler](https://github.com/lastguest/pixeler) - CLI image renderer
@@ -1629,6 +1631,7 @@
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [ntop/nDPI](https://github.com/ntop/nDPI) - Open Source Deep Packet Inspection Software Toolkit
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [ewimberley/AdvancedMemoryChallenges](https://github.com/ewimberley/AdvancedMemoryChallenges) - Advanced buffer overflow and memory corruption security challenges
 
@@ -2173,7 +2176,7 @@
 ## docker 
 
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment management and cluster orchestration
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -2430,7 +2433,7 @@
 - [PeculiarVentures/PKI.js](https://github.com/PeculiarVentures/PKI.js) - PKI.js is a pure JavaScript library implementing the formats that are used in PKI applications (signing, encryption, certificate requests, OCSP and TSP requests/responses). It is built on WebCrypto (W
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [wingify/across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs. Simplified "CORS"ing!
@@ -2450,7 +2453,7 @@
 
 ## eslint 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [xojs/eslint-config-xo](https://github.com/xojs/eslint-config-xo) - ESLint shareable config for XO
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -2469,7 +2472,7 @@
 
 ## express 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [ream/deprecated](https://github.com/ream/deprecated) - 🚀 Framework for building universal web app and static website in Vue.js (beta)
 - [aui/art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine
 - [RafalWilinski/express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - 🚀 Realtime Monitoring solution for Node.js/Express.js apps, inspired by status.github.com, sponsored by https://dynobase.dev
@@ -2489,7 +2492,7 @@
 
 ## firebase 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 
 ## firefox 
@@ -2521,7 +2524,7 @@
 
 ## flutter 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
@@ -3059,6 +3062,10 @@
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 
+## good-first-issue 
+
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
 ## google 
 
 - [alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) - BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔
@@ -3124,7 +3131,7 @@
 
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [huggingface/blog](https://github.com/huggingface/blog) - Public repo for HF blog posts
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
@@ -3601,7 +3608,7 @@
 
 ## ios 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
@@ -3814,7 +3821,7 @@
 ## javascript 
 
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [elecV2/elecV2P](https://github.com/elecV2/elecV2P) - 一款基于 NodeJS，可通过 JS 修改网络请求，以及定时运行脚本或 SHELL 指令的网络工具。
@@ -3933,7 +3940,7 @@
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [mil-tokyo/webdnn](https://github.com/mil-tokyo/webdnn) - The Fastest DNN Running Framework on Web Browser
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
@@ -4152,7 +4159,6 @@
 - [alsotang/node-lessons](https://github.com/alsotang/node-lessons) - :closed_book:《Node.js 包教不包会》 by alsotang
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
-- [yahoo/gifshot](https://github.com/yahoo/gifshot) - JavaScript library that can create animated GIFs from media streams, videos, or images.
 - [kefirjs/kefir](https://github.com/kefirjs/kefir) - A Reactive Programming library for JavaScript
 - [andreaferretti/paths-js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes :bar_chart:
 - [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
@@ -4382,6 +4388,7 @@
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equation
 - [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics and nonlinear timeseries analysis
+- [Taaitaaiger/jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust
 - [JuliaDocs/Julia-Cheat-Sheet](https://github.com/JuliaDocs/Julia-Cheat-Sheet) - Julia Cheat Sheet
 - [JuliaLang/julia-logo-graphics](https://github.com/JuliaLang/julia-logo-graphics) - official versions of the Julia logo
 - [JuliaSymbolics/SymbolicUtils.jl](https://github.com/JuliaSymbolics/SymbolicUtils.jl) - Expression rewriting and simplification
@@ -5562,7 +5569,7 @@
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [jeremyfa/yaml.js](https://github.com/jeremyfa/yaml.js) - Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -5624,7 +5631,7 @@
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 - [dbashford/textract](https://github.com/dbashford/textract) - node.js module for extracting text from html, pdf, doc, docx, xls, xlsx, csv, pptx, png, jpg, gif, rtf and more!
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [microsoft/napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime
 - [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -5746,7 +5753,7 @@
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [felixrieseberg/npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - :rocket: Upgrade npm on Windows
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
@@ -5969,7 +5976,6 @@
 - [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve) - ⚡ Langchain Apps on Production with Jina & FastAPI 🚀
 - [alvarosevilla95/opencopilot](https://github.com/alvarosevilla95/opencopilot) - 
 - [Nan-Do/LeetCodeContestsDataset](https://github.com/Nan-Do/LeetCodeContestsDataset) - Curated dataset including the description and best solutions for several programming languages ​​of (probably all) LeetCode's contests
-- [ssheng/BentoChain](https://github.com/ssheng/BentoChain) - 
 - [GanjinZero/RRHF](https://github.com/GanjinZero/RRHF) - RRHF & Wombat
 - [zhangir-azerbayev/ProofNet](https://github.com/zhangir-azerbayev/ProofNet) - Benchmark for undergraduate-level formal mathematics
 - [rfitzp/Elements](https://github.com/rfitzp/Elements) - Greek/English version of Euclid's Elements
@@ -6143,7 +6149,7 @@
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
-- [rustformers/llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 - [clockfort/GitHub-Backup](https://github.com/clockfort/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
 - [flier/rust-fasthash](https://github.com/flier/rust-fasthash) - A suite of non-cryptographic hash functions for Rust.
@@ -6565,7 +6571,6 @@
 - [math-comp/math-comp](https://github.com/math-comp/math-comp) - Mathematical Components
 - [gebner/hott3](https://github.com/gebner/hott3) - HoTT in Lean 3
 - [GeoCoq/GeoCoq](https://github.com/GeoCoq/GeoCoq) - A formalization of geometry in Coq based on Tarski's axiom system
-- [Taaitaaiger/jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust
 - [pygae/pyganja](https://github.com/pygae/pyganja) - Visualisation library for geometric algebra with cefpython and ganja.js
 - [ga/haskell](https://github.com/ga/haskell) - A geometric algebra implementation in Haskell
 - [ga/formulas](https://github.com/ga/formulas) - A collection of formulas needed for everyday calculations in geometric algebra and calculus
@@ -7086,7 +7091,7 @@
 - [servo/webrender](https://github.com/servo/webrender) - A GPU-based renderer for the web
 - [DSpeckhals/bible.rs](https://github.com/DSpeckhals/bible.rs) - A Bible server written in Rust using Actix Web and Diesel
 - [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux
-- [eqrion/cbindgen](https://github.com/eqrion/cbindgen) - A project for generating C bindings from Rust code
+- [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
 - [getsentry/milksnake](https://github.com/getsentry/milksnake) - A setuptools/wheel/cffi extension to embed a binary data in wheels
 - [dbrgn/embedded-hal-mock](https://github.com/dbrgn/embedded-hal-mock) - Mocks for testing embedded-hal based drivers without hardware access.
 - [azriel91/ecs_paradigm](https://github.com/azriel91/ecs_paradigm) - ECS talk based on `specs`
@@ -8883,7 +8888,7 @@
 - [NickCarneiro/remtail](https://github.com/NickCarneiro/remtail) - tail log files from multiple remote hosts
 - [bluelinelabs/LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Screaming fast JSON parsing and serialization library for Android.
 - [Steve132/uraster](https://github.com/Steve132/uraster) - Micro simple Rasterizer in a single C++11 header file.
-- [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebookarchive/stetho](https://github.com/facebookarchive/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [akosma/SwiftMoment](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library for  iOS 9+, macOS 10.11+, tvOS 9+, watchOS 2+ written in Swift 4.
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
@@ -11949,6 +11954,7 @@
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
+- [Taaitaaiger/jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
@@ -12327,7 +12333,7 @@
 - [dreadl0ck/netcap](https://github.com/dreadl0ck/netcap) - A framework for secure and scalable network traffic analysis - https://netcap.io
 - [rustsec/rustsec](https://github.com/rustsec/rustsec) - RustSec API & Tooling
 - [rustsec/advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
-- [OISF/suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
@@ -12395,7 +12401,7 @@
 ## serverless 
 
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -12574,7 +12580,7 @@
 
 ## swift 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [lukakerr/TikZi](https://github.com/lukakerr/TikZi) - A simple TikZ editor, viewer and exporter
@@ -12642,6 +12648,7 @@
 
 ## tensorflow 
 
+- [google-research/tapas](https://github.com/google-research/tapas) - End-to-end neural table-text understanding models.
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
@@ -12767,7 +12774,7 @@
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
+- [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [piotrmurach/tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -12795,7 +12802,7 @@
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [ligurio/sqa-wiki](https://github.com/ligurio/sqa-wiki) - My own notes (draft mostly) about software quality
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -13049,7 +13056,7 @@
 
 ## web 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [alisen39/TrWebOCR](https://github.com/alisen39/TrWebOCR) - 开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
@@ -13102,7 +13109,6 @@
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [yahoo/gifshot](https://github.com/yahoo/gifshot) - JavaScript library that can create animated GIFs from media streams, videos, or images.
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser m
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -13180,6 +13186,7 @@
 - [mutouyun/cpp-ipc](https://github.com/mutouyun/cpp-ipc) - C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [patr0nus/DeskGap](https://github.com/patr0nus/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository

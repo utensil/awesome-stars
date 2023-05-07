@@ -399,7 +399,7 @@
 - [k0dai/density](https://github.com/k0dai/density) - Superfast compression library
 - [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
 - [damonkohler/sl4a](https://github.com/damonkohler/sl4a) - SL4A brings scripting languages to Android by allowing you to edit and execute scripts and interactive interpreters directly on the Android device.
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore 
 - [wishstudio/flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
 - [shaunlebron/blinky](https://github.com/shaunlebron/blinky) - Exploring peripheral vision in games (using Quake)
 - [seppo0010/rlite](https://github.com/seppo0010/rlite) - self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.
@@ -2532,6 +2532,8 @@
 
 ## JavaScript 
 
+- [stanford-crfm/ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs) - 
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。持续更新的增强功能，如取消审计等。解决的报错如下: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help 
 - [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
 - [hnmr293/posex](https://github.com/hnmr293/posex) - Posex - Estimated Image Generator for Pose2Image
 - [keldenl/gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - A llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
@@ -4481,6 +4483,8 @@
 
 ## Jupyter Notebook 
 
+- [FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
+- [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [ELS-RD/kernl](https://github.com/ELS-RD/kernl) - Kernl lets you run PyTorch transformer models several times faster on GPU with a single line of code, and is designed to be easily hackable.
 - [albertqjiang/INT](https://github.com/albertqjiang/INT) - Official code for paper: INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
@@ -4993,6 +4997,8 @@
 
 ## Others 
 
+- [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
+- [arjunbansal/awesome-oss-llm-ift-rlhf](https://github.com/arjunbansal/awesome-oss-llm-ift-rlhf) - Collection of open source implementations of LLMs with IFT and RLHF that are striving to get to ChatGPT level of performance
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - 
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -5680,6 +5686,14 @@
 
 ## Python 
 
+- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
+- [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
+- [evandez/REMEDI](https://github.com/evandez/REMEDI) - Measuring and Manipulating Knowledge Representations in Language Models
+- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+- [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+- [bigcode-project/Megatron-LM](https://github.com/bigcode-project/Megatron-LM) - Ongoing research training transformer models at scale
+- [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [peterw/StoryStorm](https://github.com/peterw/StoryStorm) - 
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR) - High-Performance Symbolic Regression in Python and Julia
@@ -5857,7 +5871,7 @@
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [johnsmith0031/alpaca_lora_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) - 
 - [TheTerrasque/text-generation-webui](https://github.com/TheTerrasque/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容llama,rwkv,盘古大模型等。
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMA using GPTQ
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
@@ -8189,6 +8203,8 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [marginnoteapp/milkdown](https://github.com/marginnoteapp/milkdown) - Use milkdown as markdown editor of MarginNote
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser

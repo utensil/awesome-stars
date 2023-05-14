@@ -187,7 +187,7 @@
 
 ## Batchfile 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
 - [Chuyu-Team/vc-ltl-samples](https://github.com/Chuyu-Team/vc-ltl-samples) - Usage samples for the VC-LTL.
 - [fsavje/math-with-slack](https://github.com/fsavje/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -1574,7 +1574,7 @@
 
 ## Go 
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for in
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. LocalAI is a RESTful API for ggml compatible models: llama.c
 - [euphoricrhino/cg](https://github.com/euphoricrhino/cg) - arbitrary precision clebsch-gordan coefficients for SO(3)
 - [euphoricrhino/sakurai-go](https://github.com/euphoricrhino/sakurai-go) - 
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
@@ -2385,7 +2385,7 @@
 - [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-15 Parser and Abstract Syntax Tree for Java, including preview features to Java 13
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [ftomassetti/effectivejava](https://github.com/ftomassetti/effectivejava) - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others.
 - [nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine) - Free Android 2D OpenGL Game Engine
 - [NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
@@ -2533,11 +2533,12 @@
 
 ## JavaScript 
 
+- [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) - TavernAI for nerds
 - [ProtoTeam/i18n-pick](https://github.com/ProtoTeam/i18n-pick) - used to pick chinese in a jsx project
 - [ant-tool/atool-l10n](https://github.com/ant-tool/atool-l10n) - 🌍 localized message files generating automatic solution
 - [locize/translation-check](https://github.com/locize/translation-check) - This package shows an overview of your translations. Check which keys are not yet translated.
 - [stanford-crfm/ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs) - 
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏、展示全屏等等。
 - [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
 - [hnmr293/posex](https://github.com/hnmr293/posex) - Posex - Estimated Image Generator for Pose2Image
 - [keldenl/gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - A llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
@@ -3383,7 +3384,7 @@
 - [stevengoldberg/juno106](https://github.com/stevengoldberg/juno106) - Emulation of the Roland Juno-106 analog synth
 - [mrahtz/javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis
 - [mako-taco/DecorateThis](https://github.com/mako-taco/DecorateThis) - JS Decorators library
-- [huytd/agar.io-clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
+- [owenashurst/agar.io-clone](https://github.com/owenashurst/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
 - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -3599,7 +3600,6 @@
 - [newtoncodes/devil](https://github.com/newtoncodes/devil) - GUI-based debugger, profiler and runtime interface for node.js.
 - [RichardBronosky/keycastr](https://github.com/RichardBronosky/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [ladjs/superagent](https://github.com/ladjs/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [typicode/lodash-id](https://github.com/typicode/lodash-id) - Makes it easy to manipulate id-based resources with lodash or lowdb
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
@@ -3654,7 +3654,7 @@
 - [zzmp/juliusjs](https://github.com/zzmp/juliusjs) - A speech recognition library for the web
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
 - [hughsk/gl-gif](https://github.com/hughsk/gl-gif) - Quickly and easily generate looping GIFs using WebGL
-- [edjafarov/node-webkit-updater](https://github.com/edjafarov/node-webkit-updater) - node-webkit autoupdater
+- [tharatau/nw-updater](https://github.com/tharatau/nw-updater) - NW.js Updater
 - [umdjs/umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
 - [matthewmueller/component-test](https://github.com/matthewmueller/component-test) - Minimal configuration component test runner supporting browser testing, phantomjs, and saucelabs.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
@@ -4216,7 +4216,7 @@
 - [eikes/jquery.fullscreen.js](https://github.com/eikes/jquery.fullscreen.js) - jQuery HTML5 Fullscreen Slideshow
 - [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 - [estelle/mobile](https://github.com/estelle/mobile) - mobile UI Performance
-- [fofr/css-experiments](https://github.com/fofr/css-experiments) - CSS, HTML and JS experiments from paulrhayes.com
+- [fofr/css-experiments](https://github.com/fofr/css-experiments) - CSS, HTML and JS experiments from 2010
 - [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
 - [jasondavies/d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 - [boyvanamstel/html5-notifications](https://github.com/boyvanamstel/html5-notifications) - A simple experiment, focussing on using HTML5 notification support in Chrome and Safari. Works with Mountain Lion's Notification Center.
@@ -4487,6 +4487,8 @@
 
 ## Jupyter Notebook 
 
+- [resloved/RWKV-notebooks](https://github.com/resloved/RWKV-notebooks) - 📖 — Notebooks related to RWKV
+- [dataflowr/notebooks](https://github.com/dataflowr/notebooks) - code for deep learning courses
 - [FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [ELS-RD/kernl](https://github.com/ELS-RD/kernl) - Kernl lets you run PyTorch transformer models several times faster on GPU with a single line of code, and is designed to be easily hackable.
@@ -5000,6 +5002,7 @@
 
 ## Others 
 
+- [Troyanovsky/Local-LLM-comparison](https://github.com/Troyanovsky/Local-LLM-comparison) - Compare the performance of different LLM that can be deployed locally on consumer hardware
 - [thu-coai/Safety-Prompts](https://github.com/thu-coai/Safety-Prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 - [SunLemuria/open_source_chatgpt_list](https://github.com/SunLemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
@@ -5691,6 +5694,11 @@
 
 ## Python 
 
+- [PhilJd/contiguous_pytorch_params](https://github.com/PhilJd/contiguous_pytorch_params) - Accelerate training by storing  parameters in one contiguous chunk of memory.
+- [HFAiLab/hai-platform](https://github.com/HFAiLab/hai-platform) - 一种以任务级分时调度GPU算力的高性能深度学习训练平台
+- [Neutralzz/BiLLa](https://github.com/Neutralzz/BiLLa) - 
+- [widgetti/solara](https://github.com/widgetti/solara) - A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps
+- [abertsch72/unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following ability and in-context learning.
 - [Felixgithub2017/MMCU](https://github.com/Felixgithub2017/MMCU) - MEASURING MASSIVE MULTITASK CHINESE UNDERSTANDING
@@ -5699,7 +5707,7 @@
 - [nlpdata/c3](https://github.com/nlpdata/c3) - Investigating Prior Knowledge for Challenging Chinese Machine Reading Comprehension
 - [csitfun/LogiQA2.0](https://github.com/csitfun/LogiQA2.0) - Logiqa2.0 dataset - logical reasoning in MRC and NLI tasks
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
-- [gstoica27/ZipIt](https://github.com/gstoica27/ZipIt) - 
+- [gstoica27/ZipIt](https://github.com/gstoica27/ZipIt) - A framework for merging models solving different tasks with different initializations into one multi-task model without any additional training
 - [IBM/Dromedary](https://github.com/IBM/Dromedary) - Dromedary: towards helpful, ethical and reliable LLMs.
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
@@ -5788,7 +5796,7 @@
 - [GanjinZero/RRHF](https://github.com/GanjinZero/RRHF) - RRHF & Wombat
 - [OpenBMB/CPM-Live](https://github.com/OpenBMB/CPM-Live) - Live Training for Open-source Big Models
 - [Miffyli/im2latex-dataset](https://github.com/Miffyli/im2latex-dataset) - Python tools for creating suitable dataset for OpenAI's im2latex task: https://openai.com/requests-for-research/#im2latex
-- [kagisearch/pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, with a built-in model performance benchmark.
+- [kagisearch/pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
 - [soulteary/docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) - Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
 - [OpenLMLab/collie](https://github.com/OpenLMLab/collie) - A Light Toolkit to Finetune Large Models.
@@ -5829,7 +5837,7 @@
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Build your own virtual developer. e2b lets you build & deploy specialized AI agents that build software for you based on your instructions.
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [deepmind/dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
@@ -6174,7 +6182,6 @@
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [sfepy/sfepy](https://github.com/sfepy/sfepy) - Main SfePy repository
 - [1132719438/starred](https://github.com/1132719438/starred) - creating your own Awesome List by GitHub stars!
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [adityadua24/robopy](https://github.com/adityadua24/robopy) - Robopy is a python port for Robotics Toolbox in Matlab created by Peter Corke
@@ -6372,7 +6379,6 @@
 - [neozhaoliang/pywonderland](https://github.com/neozhaoliang/pywonderland) - A tour in the wonderland of math with python.
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [fate0/cookiecutter-evilpy-package](https://github.com/fate0/cookiecutter-evilpy-package) - 
-- [MisterBianco/BoopSuite](https://github.com/MisterBianco/BoopSuite) - A Suite of Tools written in Python for wireless auditing and security testing.
 - [Chaosthebot/Chaos](https://github.com/Chaosthebot/Chaos) - A social coding experiment that updates its own code democratically.
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
@@ -7297,6 +7303,7 @@
 
 ## Rust 
 
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. You can use open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only S
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
@@ -7941,8 +7948,9 @@
 - [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
 - [s4rduk4r/alpaca_lora_4bit_readme](https://github.com/s4rduk4r/alpaca_lora_4bit_readme) - Just a simple HowTo for https://github.com/johnsmith0031/alpaca_lora_4bit
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc
+- [shawwn/llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 - [wxpusher/wxpusher-docs](https://github.com/wxpusher/wxpusher-docs) - 微信消息实时推送服务[WxPusher]的服务说明文档，通过本文档，你可以了解如何使用WxPusher的服务。 文档预览地址：
-- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载
+- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [render-examples/ghost](https://github.com/render-examples/ghost) - Ghost on Render
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -8136,6 +8144,7 @@
 
 ## TeX 
 
+- [namedtensor/notation](https://github.com/namedtensor/notation) - 
 - [slds-lmu/seminar_multimodal_dl](https://github.com/slds-lmu/seminar_multimodal_dl) - https://slds-lmu.github.io/seminar_multimodal_dl/
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
 - [UofSC-Fall-2022-Math-300-H01/homework0](https://github.com/UofSC-Fall-2022-Math-300-H01/homework0) - A short lists of tasks to help get you used to the tools we will use in the course.
@@ -8447,10 +8456,11 @@
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue and yo
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue + Swif
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -8510,7 +8520,7 @@
 
 ## Vue 
 
-- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM 问答
+- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma

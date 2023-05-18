@@ -585,6 +585,8 @@
 
 ## C++ 
 
+- [markusschwenk/midieditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data
+- [harrisonvanderbyl/godot-rwkv](https://github.com/harrisonvanderbyl/godot-rwkv) - RWKV godot interface module
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
@@ -2536,6 +2538,7 @@
 
 ## JavaScript 
 
+- [PicoCreator/Babel-Pile](https://github.com/PicoCreator/Babel-Pile) - Ongoing organised collection of various AI datasets, to eventually encompass the knowledge of all humankind.
 - [drgrice1/tikzjax](https://github.com/drgrice1/tikzjax) - TikZJax is TikZ running under WebAssembly in the browser
 - [jcponce/jcponce.github.io](https://github.com/jcponce/jcponce.github.io) - Mathematics projects in p5js, Mathbox, MathCell and more
 - [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) - TavernAI for nerds
@@ -4492,6 +4495,9 @@
 
 ## Jupyter Notebook 
 
+- [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
+- [bigcode-project/bigcode-dataset](https://github.com/bigcode-project/bigcode-dataset) - 
+- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - Interpretability at Scale: Identifying Causal Mechanisms in Alpaca
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - A framework for creating grounded instruction based datasets and training conversational domain expert Large Language Models (LLMs).
 - [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Instruct-tune LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
@@ -4560,6 +4566,7 @@
 - [rasbt/machine-learning-notes](https://github.com/rasbt/machine-learning-notes) - Collection of useful machine learning codes and snippets (originally intended for my personal use)
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [hhiim/Lacan](https://github.com/hhiim/Lacan) - 利用四层LSTM生成拉康精神分析黑话，用于讽刺（但过拟合……
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [habemus-papadum/LilKanren.jl](https://github.com/habemus-papadum/LilKanren.jl) - A collection of Kanren implementations in Julia
 - [RobinKa/tfga](https://github.com/RobinKa/tfga) - Python package for Geometric / Clifford Algebra with TensorFlow
@@ -5014,6 +5021,8 @@
 
 ## Others 
 
+- [RyokoAI/BigKnow2022](https://github.com/RyokoAI/BigKnow2022) - BigKnow2022: Bringing Language Models Up to Speed
+- [zcgzcgzcg1/MediaSum](https://github.com/zcgzcgzcg1/MediaSum) - MediaSum: A Large-scale Media Interview Dataset for Dialogue Summarization
 - [PicoCreator/constitution-multi-lang](https://github.com/PicoCreator/constitution-multi-lang) - A collection of multiple nation, constitutional legal documents, with their official language translation.
 - [mbiesiad/awesome-translations](https://github.com/mbiesiad/awesome-translations) - 😎 Awesome lists about Internationalization & localization stuff. l10n, g11n, m17n, i18n. Translations! 🌎🌍
 - [algorithmsbooks/decisionmaking-ancillaries](https://github.com/algorithmsbooks/decisionmaking-ancillaries) - Ancillaries for Algorithms for Decision Making
@@ -5246,7 +5255,7 @@
 - [ssllabs/research](https://github.com/ssllabs/research) - 
 - [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 - [forter/security-101-for-saas-startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
-- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
+- [tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with fast variant of the "best" LSTM models + legacy models
 - [teesloane/Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
@@ -5714,6 +5723,10 @@
 
 ## Python 
 
+- [fonsp/pluto-on-binder](https://github.com/fonsp/pluto-on-binder) - 
+- [ekzhu/datasketch](https://github.com/ekzhu/datasketch) - MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble
+- [EleutherAI/stackexchange-dataset](https://github.com/EleutherAI/stackexchange-dataset) - Python tools for processing the stackexchange data dumps into a text dataset for Language Models
+- [nyu-mll/ILF-for-code-generation](https://github.com/nyu-mll/ILF-for-code-generation) - 
 - [google-research/url-nlp](https://github.com/google-research/url-nlp) - 
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
@@ -6082,7 +6095,6 @@
 - [tensorflow/federated](https://github.com/tensorflow/federated) - A framework for implementing federated learning
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
 - [PaddlePaddle/PaddleFL](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [izar/pytm](https://github.com/izar/pytm) - A Pythonic framework for threat modeling
@@ -7468,7 +7480,7 @@
 - [ice1000/agda-mode](https://github.com/ice1000/agda-mode) - Accessing Agda's interaction mode via command line & external tactic for Agda.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
-- [VictorTaelin/Symmetric-Interaction-Calculus](https://github.com/VictorTaelin/Symmetric-Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
+- [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [snipsco/rust-paillier](https://github.com/snipsco/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
@@ -8485,7 +8497,7 @@
 - [tgdwyer/WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-- [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [pgilad/leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
 - [canvg/canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
@@ -8556,6 +8568,7 @@
 
 ## Vue 
 
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!

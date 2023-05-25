@@ -1698,7 +1698,7 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool. 一个跨平台网络工具.
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [twitchyliquid64/subnet](https://github.com/twitchyliquid64/subnet) - Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN.
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
@@ -1879,6 +1879,7 @@
 
 ## HTML 
 
+- [mengzonefire/baidupan-rapidupload](https://github.com/mengzonefire/baidupan-rapidupload) - 百度网盘秒传链接转存/生成/转换 网页工具 (全平台可用)
 - [rreusser/rreusser.github.io](https://github.com/rreusser/rreusser.github.io) - rreusser.github.io
 - [Kaoffie/steno_font](https://github.com/Kaoffie/steno_font) - Font that turns steno chords into stenotype key diagrams.
 - [changebo/blog](https://github.com/changebo/blog) - Blog
@@ -1896,7 +1897,7 @@
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 - [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-- [heejkoo/Awesome-Score-based-Diffusion-Models](https://github.com/heejkoo/Awesome-Score-based-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [Worble/Zulma](https://github.com/Worble/Zulma) - A Bulma theme for Zola
 - [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
@@ -2541,6 +2542,7 @@
 
 ## JavaScript 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 - [wlouie1/MusicPlot](https://github.com/wlouie1/MusicPlot) - Interactive Self-Similarity Matrix for Music Structure Visualization
 - [PicoCreator/Babel-Pile](https://github.com/PicoCreator/Babel-Pile) - Ongoing organised collection of various AI datasets, to eventually encompass the knowledge of all humankind.
 - [drgrice1/tikzjax](https://github.com/drgrice1/tikzjax) - TikZJax is TikZ running under WebAssembly in the browser
@@ -2628,7 +2630,7 @@
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [HYLZ-2019/FriendsOfFriends](https://github.com/HYLZ-2019/FriendsOfFriends) - Crawl WeChat Moments and visualize friend interactions.
 - [badboysm890/clara-copilot](https://github.com/badboysm890/clara-copilot) - A alternative to Github Copilot for vscode until you get the access to github copilot
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
 - [yobibyte/ar5iv_chrome_ext](https://github.com/yobibyte/ar5iv_chrome_ext) - automatically replace Arxiv.org pdf links with ar5iv
 - [BananaKhan/ppt2svg](https://github.com/BananaKhan/ppt2svg) - Package for converting ppt[x] or pdf files to svg images.
 - [Rezmason/matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
@@ -2820,7 +2822,6 @@
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [redacademy/vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs) - Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend
 - [rstacruz/details-polyfill](https://github.com/rstacruz/details-polyfill) - Polyfill for the HTML5 &lt;details&gt; element, no dependencies
-- [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
 - [airtap/airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -3428,7 +3429,7 @@
 - [ListnPlay/riot-isomorphic](https://github.com/ListnPlay/riot-isomorphic) - A riotjs isomorphic application
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [okor/justice](https://github.com/okor/justice) - Embeddable script for displaying web page performance metrics.
-- [dagrejs/dagre](https://github.com/dagrejs/dagre) - :no_entry: [DEPRECATED] - Directed graph layout for JavaScript
+- [dagrejs/dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
 - [amazeui/amazeui](https://github.com/amazeui/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 - [szwacz/nw-boilerplate](https://github.com/szwacz/nw-boilerplate) - Boilerplate application for NW.js
 - [szwacz/electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Boilerplate application for Electron runtime
@@ -3666,7 +3667,7 @@
 - [zzmp/juliusjs](https://github.com/zzmp/juliusjs) - A speech recognition library for the web
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
 - [hughsk/gl-gif](https://github.com/hughsk/gl-gif) - Quickly and easily generate looping GIFs using WebGL
-- [A9U3HC/nw-updater](https://github.com/A9U3HC/nw-updater) - Update NW.js applications.
+- [nwutils/nw-updater](https://github.com/nwutils/nw-updater) - Update NW.js applications.
 - [umdjs/umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
 - [matthewmueller/component-test](https://github.com/matthewmueller/component-test) - Minimal configuration component test runner supporting browser testing, phantomjs, and saucelabs.
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
@@ -4453,9 +4454,9 @@
 - [JuliaCI/Coverage.jl](https://github.com/JuliaCI/Coverage.jl) - Take Julia code coverage and memory allocation results, do useful things with them
 - [chakravala/Fatou.jl](https://github.com/chakravala/Fatou.jl) - Fatou sets in Julia (Fractals, Newton basins, Mandelbrot)
 - [symengine/SymEngine.jl](https://github.com/symengine/SymEngine.jl) - Julia wrappers of SymEngine
-- [chakravala/Reduce.jl](https://github.com/chakravala/Reduce.jl) - Symbolic parser generator for Julia language expressions using REDUCE algebra term rewriter
+- [chakravala/Reduce.jl](https://github.com/chakravala/Reduce.jl) - Symbolic parser for Julia language term rewriting using REDUCE algebra
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
-- [chakravala/Grassmann.jl](https://github.com/chakravala/Grassmann.jl) - ⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex
+- [chakravala/Grassmann.jl](https://github.com/chakravala/Grassmann.jl) - ⟨Leibniz-Grassmann-Clifford⟩ multilinear differential geometric algebra
 - [chakravala/Dendriform.jl](https://github.com/chakravala/Dendriform.jl) - Dendriform di-algebra algorithms to compute using Loday's arithmetic on groves of planar binary trees
 - [JunoLab/Weave.jl](https://github.com/JunoLab/Weave.jl) - Scientific reports/literate programming for Julia
 - [felipenoris/JuliaPackageWithRustDep.jl](https://github.com/felipenoris/JuliaPackageWithRustDep.jl) - Example of a Julia Package with Rust dependency.
@@ -4503,6 +4504,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 - [stanfordnlp/string2string](https://github.com/stanfordnlp/string2string) - String-to-String Algorithms for Natural Language Processing
 - [Dsantra92/Julia-on-Colab](https://github.com/Dsantra92/Julia-on-Colab) - Notebook for running Julia on Google Colab
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
@@ -4511,6 +4513,7 @@
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - A framework for creating grounded instruction based datasets and training conversational domain expert Large Language Models (LLMs).
 - [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Instruct-tune LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA
+- [Troyanovsky/Local-LLM-comparison](https://github.com/Troyanovsky/Local-LLM-comparison) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with colab.
 - [resloved/RWKV-notebooks](https://github.com/resloved/RWKV-notebooks) - 📖 — Notebooks related to RWKV
 - [dataflowr/notebooks](https://github.com/dataflowr/notebooks) - code for deep learning courses
 - [FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
@@ -4918,7 +4921,7 @@
 
 - [RuleBasedIntegration/Rubi](https://github.com/RuleBasedIntegration/Rubi) - Rubi for Mathematica
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
-- [chakravala/Grassmann.wl](https://github.com/chakravala/Grassmann.wl) - ⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex
+- [chakravala/Grassmann.wl](https://github.com/chakravala/Grassmann.wl) - ⟨Leibniz-Grassmann-Clifford⟩ multilinear differential geometric algebra
 - [ArturasAcus/GeometricAlgebra](https://github.com/ArturasAcus/GeometricAlgebra) - Mathematica package for Clifford (geometric) algebra calculations
 - [minchaowu/mm-lean](https://github.com/minchaowu/mm-lean) - One direction of the MM-Lean link
 - [lsw9021/MASS](https://github.com/lsw9021/MASS) - 
@@ -5032,7 +5035,9 @@
 
 ## Others 
 
-- [ysymyth/tree-of-thought-llm](https://github.com/ysymyth/tree-of-thought-llm) - 
+- [xialeiliu/Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - Awesome Incremental Learning
+- [tjunlp-lab/M3KE](https://github.com/tjunlp-lab/M3KE) - A Massive Multi-Level Multi-Subject Knowledge Evaluation benchmark
+- [ysymyth/tree-of-thought-llm](https://github.com/ysymyth/tree-of-thought-llm) - Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 - [ku-nlp/VISA](https://github.com/ku-nlp/VISA) - An ambiguous subtitles dataset for visual scene-aware machine translation
 - [RyokoAI/BigKnow2022](https://github.com/RyokoAI/BigKnow2022) - BigKnow2022: Bringing Language Models Up to Speed
@@ -5045,7 +5050,6 @@
 - [FLHonker/Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation) - Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。
 - [melodysdreamj/WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) - LLM that combines the principles of wizardLM and vicunaLM
 - [jeffgerickson/algorithms](https://github.com/jeffgerickson/algorithms) - Bug-tracking for Jeff's algorithms book, notes, etc.
-- [Troyanovsky/Local-LLM-comparison](https://github.com/Troyanovsky/Local-LLM-comparison) - Compare the performance of different LLM that can be deployed locally on consumer hardware
 - [thu-coai/Safety-Prompts](https://github.com/thu-coai/Safety-Prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 - [SunLemuria/open_source_chatgpt_list](https://github.com/SunLemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
@@ -5742,7 +5746,19 @@
 
 ## Python 
 
-- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+- [AranKomat/Alpha-Transformer](https://github.com/AranKomat/Alpha-Transformer) - Alpha Zero equipped with Transformer with various novel techniques for speedup in tree search
+- [kyegomez/Sophia](https://github.com/kyegomez/Sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
+- [kyegomez/the-compiler](https://github.com/kyegomez/the-compiler) - Seed, Code, Harvest: Grow Your Own App with Tree of Thoughts!
+- [jieyilong/tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
+- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Workable implementation of "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
+- [SJTU-LIT/ceval](https://github.com/SJTU-LIT/ceval) - Official github repo for C-Eval, a Chinese evaluation suite for foundation models
+- [HKUNLP/UnifiedSKG](https://github.com/HKUNLP/UnifiedSKG) - [EMNLP 2022] A Unified Framework and Analysis for Structured Knowledge Grounding with Text-to-Text Language Models
+- [krasserm/perceiver-io](https://github.com/krasserm/perceiver-io) - A PyTorch implementation of Perceiver, Perceiver IO and Perceiver AR with PyTorch Lightning scripts for distributed training
+- [thu-coai/LOT-LongLM](https://github.com/thu-coai/LOT-LongLM) - 
+- [FudanNLPLAB/CBook-150K](https://github.com/FudanNLPLAB/CBook-150K) - 中文图书语料MD5链接
+- [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm Platform - Powering Your GPU Computational Needs
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 - [StevenGrove/GPT4Tools](https://github.com/StevenGrove/GPT4Tools) - GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.
 - [X-PLUG/ChatPLUG](https://github.com/X-PLUG/ChatPLUG) - A Chinese Open-Domain Dialogue System
 - [sambanova/bloomchat](https://github.com/sambanova/bloomchat) - This repo contains the data preparation, tokenization, training and inference code for BLOOMChat. BLOOMChat is a 176 billion parameter multilingual chat model based on BLOOM.
@@ -5772,7 +5788,7 @@
 - [OpenGVLab/Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP
 - [salesforce/AuditNLG](https://github.com/salesforce/AuditNLG) - AuditNLG: Auditing Generative AI Language Modeling for Trustworthiness
 - [PhilJd/contiguous_pytorch_params](https://github.com/PhilJd/contiguous_pytorch_params) - Accelerate training by storing  parameters in one contiguous chunk of memory.
-- [HFAiLab/hai-platform](https://github.com/HFAiLab/hai-platform) - 一种以任务级分时调度GPU算力的高性能深度学习训练平台
+- [HFAiLab/hai-platform](https://github.com/HFAiLab/hai-platform) - 一种任务级GPU算力分时调度的高性能深度学习训练平台
 - [Neutralzz/BiLLa](https://github.com/Neutralzz/BiLLa) - BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability
 - [widgetti/solara](https://github.com/widgetti/solara) - A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps
 - [abertsch72/unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
@@ -5810,7 +5826,7 @@
 - [juliusberner/theory2practice](https://github.com/juliusberner/theory2practice) - Learning ReLU networks to high uniform accuracy is intractable (ICLR 2023)
 - [mlfoundations/datacomp](https://github.com/mlfoundations/datacomp) - DataComp: In search of the next generation of multimodal datasets
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
-- [GasolSun36/Iter-CoT](https://github.com/GasolSun36/Iter-CoT) - Source code for paper "Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models"
+- [GasolSun36/CoT](https://github.com/GasolSun36/CoT) - 
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [microsoft/CodeT](https://github.com/microsoft/CodeT) - 
 - [microsoft/CodeBERT](https://github.com/microsoft/CodeBERT) - CodeBERT
@@ -5851,7 +5867,7 @@
 - [thisserand/alpaca-lora-finetune-language](https://github.com/thisserand/alpaca-lora-finetune-language) - 
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [reasoning-machines/pal](https://github.com/reasoning-machines/pal) - PaL: Program-Aided Language Models
-- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a semantic cache library for LLM models and multi-models, which seamlessly integrates with 🦜️🔗LangChain and 🦙llama_index, making it accessible to 🌎 developers working in any language.
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Interactive data structures for evaluating foundation models.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
@@ -5913,7 +5929,7 @@
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We help developers to build, deploy, and monitor AI agents.  Focusing on specialized AI agents that build software for you - your personal software developers.
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building & deploying AI agents.
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [deepmind/dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
@@ -5930,7 +5946,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 - [ruogudu/PaperGPT](https://github.com/ruogudu/PaperGPT) - Chat with research papers
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
-- [Smyja/blackmaria](https://github.com/Smyja/blackmaria) - Python package for webscraping in Natural language
+- [smyja/blackmaria](https://github.com/smyja/blackmaria) - Python package for webscraping in Natural language
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [MrBlenny/py-d2](https://github.com/MrBlenny/py-d2) - A fully typed python interface for building .d2 graph files for use with the D2 engine.
 - [young-geng/koala_data_pipeline](https://github.com/young-geng/koala_data_pipeline) - The data processing pipeline for the Koala chatbot language model
@@ -7381,6 +7397,7 @@
 
 ## Rust 
 
+- [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -8317,7 +8334,7 @@
 - [marginnoteapp/milkdown](https://github.com/marginnoteapp/milkdown) - Use milkdown as markdown editor of MarginNote
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Exec, AWS resources
 - [terrastruct/d2-vscode](https://github.com/terrastruct/d2-vscode) - VSCode extension for D2 files.
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions.
@@ -8619,6 +8636,7 @@
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [DrSensor/example-vue-component-rust](https://github.com/DrSensor/example-vue-component-rust) - example of how to mix Rust code compiled as WebAssembly with Vue
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 - [museui/muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin

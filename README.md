@@ -6,7 +6,6 @@
 ## Contents
 
 - [AGS Script](#ags-script)
-- [ANTLR](#antlr)
 - [ASP](#asp)
 - [ActionScript](#actionscript)
 - [Agda](#agda)
@@ -129,10 +128,6 @@
 ## AGS Script 
 
 - [jeromeetienne/tquery](https://github.com/jeromeetienne/tquery) - extension system for three.js
-
-## ANTLR 
-
-- [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
 
 ## ASP 
 
@@ -434,7 +429,7 @@
 - [grisha/thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-TH
 - [clowwindy/ShadowVPN](https://github.com/clowwindy/ShadowVPN) - Removed according to regulations.
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [rcrowder/Burt](https://github.com/rcrowder/Burt) - Burt is currently; Sensors, various processing units, WiFly Wifi, motorized platform, CMUCam3, Netduino mini, dual MEMS microphones attached to the panning head frame, dual servos for camera pan and t
 - [facebookarchive/fb-adb](https://github.com/facebookarchive/fb-adb) - A better shell for Android devices
 - [robotpy/robotpy-crio](https://github.com/robotpy/robotpy-crio) - Obsolete. Python 3 port for cRIO for use in the FIRST Robotics Competition (FRC)
@@ -1202,6 +1197,7 @@
 
 ## CSS 
 
+- [ml4code/ml4code.github.io](https://github.com/ml4code/ml4code.github.io) - Website for "A Survey of Machine Learning for Big Code and Naturalness"
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -1585,6 +1581,7 @@
 
 ## Go 
 
+- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI
 - [alasdairforsythe/tokenmonster](https://github.com/alasdairforsythe/tokenmonster) - Determine the tokens that optimally represents a dataset at any specific vocabulary size
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compat
@@ -1615,7 +1612,7 @@
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
@@ -2551,7 +2548,7 @@
 - [PicoCreator/Babel-Pile](https://github.com/PicoCreator/Babel-Pile) - Ongoing organised collection of various AI datasets, to eventually encompass the knowledge of all humankind.
 - [drgrice1/tikzjax](https://github.com/drgrice1/tikzjax) - TikZJax is TikZ running under WebAssembly in the browser
 - [jcponce/jcponce.github.io](https://github.com/jcponce/jcponce.github.io) - Mathematics projects in p5js, Mathbox, MathCell and more
-- [Cohee1207/SillyTavern](https://github.com/Cohee1207/SillyTavern) - TavernAI for nerds
+- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [ProtoTeam/i18n-pick](https://github.com/ProtoTeam/i18n-pick) - used to pick chinese in a jsx project
 - [ant-tool/atool-l10n](https://github.com/ant-tool/atool-l10n) - 🌍 localized message files generating automatic solution
 - [locize/translation-check](https://github.com/locize/translation-check) - This package shows an overview of your translations. Check which keys are not yet translated.
@@ -4393,6 +4390,7 @@
 
 ## Julia 
 
+- [milankl/SoftPosit.jl](https://github.com/milankl/SoftPosit.jl) - A posit arithmetic emulator.
 - [overshiki/SymbolicCircuit.jl](https://github.com/overshiki/SymbolicCircuit.jl) - Symbolic system for Qauntum computing, using term rewriting & equality saturation technique to manipulate quantum circuit
 - [JuliaSymbolics/Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl) - General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs & equality saturation, term rewriting and more.
 - [CarloLucibello/SAT.jl](https://github.com/CarloLucibello/SAT.jl) - Heuristic solvers for boolean satisfaction problems.
@@ -4507,6 +4505,8 @@
 
 ## Jupyter Notebook 
 
+- [jmerullo/lm_vector_arithmetic](https://github.com/jmerullo/lm_vector_arithmetic) - 
+- [Avmb/inverse_scaling_prize_code_identifier_swap](https://github.com/Avmb/inverse_scaling_prize_code_identifier_swap) - Submission to the inverse scaling prize
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [xbtrainings/GML_May23](https://github.com/xbtrainings/GML_May23) - 
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
@@ -4532,7 +4532,7 @@
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [mklarqvist/ai-playground](https://github.com/mklarqvist/ai-playground) - Playground for various AI projects and demos
 - [Xilinx/PYNQ](https://github.com/Xilinx/PYNQ) - Python Productivity for ZYNQ
-- [runpod/containers](https://github.com/runpod/containers) - stuff to build runpod containers
+- [runpod/containers](https://github.com/runpod/containers) - Dockerfiles for the RunPod containers used for our official templates.
 - [huggingface/blog](https://github.com/huggingface/blog) - Public repo for HF blog posts
 - [fpgaminer/GPTQ-triton](https://github.com/fpgaminer/GPTQ-triton) - GPTQ inference Triton kernel
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
@@ -5041,6 +5041,10 @@
 
 ## Others 
 
+- [openFPGA666/FpgaGuide](https://github.com/openFPGA666/FpgaGuide) - 分享FPGA开发知识、优秀文章、学习网站以及开源项目。本项目收集了github中许多FPGA开源项目。
+- [narwhrl/stcn-docs](https://github.com/narwhrl/stcn-docs) - Documentation site of StarTrekChina.
+- [jrin771/Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics) - The world's largest GitHub Repository for LLMs + Robotics
+- [fredi-python/HomoScriptor](https://github.com/fredi-python/HomoScriptor) - 
 - [xialeiliu/Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - Awesome Incremental Learning
 - [tjunlp-lab/M3KE](https://github.com/tjunlp-lab/M3KE) - A Massive Multi-Level Multi-Subject Knowledge Evaluation benchmark
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
@@ -5060,7 +5064,7 @@
 - [SunLemuria/open_source_chatgpt_list](https://github.com/SunLemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
 - [arjunbansal/awesome-oss-llm-ift-rlhf](https://github.com/arjunbansal/awesome-oss-llm-ift-rlhf) - Collection of open source implementations of LLMs with IFT and RLHF that are striving to get to ChatGPT level of performance
-- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - 
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [fenjalien/circuitypst](https://github.com/fenjalien/circuitypst) - A port of circuitikz to Typst using typst-canvas!
@@ -5168,6 +5172,7 @@
 - [daly/PDFS](https://github.com/daly/PDFS) - 
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
+- [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
 - [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi) - 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 - [agentultra/lean-for-hackers](https://github.com/agentultra/lean-for-hackers) - 
 - [a3nm/academia](https://github.com/a3nm/academia) - 
@@ -5751,6 +5756,24 @@
 
 ## Python 
 
+- [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
+- [iantbutler01/ditty](https://github.com/iantbutler01/ditty) - A library for simplifying fine tuning with multi gpu setups in the Huggingface ecosystem.
+- [juanmc2005/diart](https://github.com/juanmc2005/diart) - Lightweight python library for streaming speaker diarization in real-time implemented in pytorch
+- [yxuansu/PandaGPT](https://github.com/yxuansu/PandaGPT) - PandaGPT: One Model To Instruction-Follow Them All
+- [Birch-san/mpt-play](https://github.com/Birch-san/mpt-play) - Command-line script for inferencing from models such as MPT-7B-Chat
+- [Birch-san/falcon-play](https://github.com/Birch-san/falcon-play) - Command-line script for inferencing from models such as falcon-7b-instruct
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
+- [OFA-Sys/ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
+- [cgarciae/nnx](https://github.com/cgarciae/nnx) - 
+- [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+- [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - LLM 实战
+- [heatz123/naturalspeech](https://github.com/heatz123/naturalspeech) - A fully working pytorch implementation of NaturalSpeech (Tan et al., 2022)
+- [legekka/GanyuTTS](https://github.com/legekka/GanyuTTS) - A small VITS+SOVITS TTS app for Elite Dangerous EDDI speechresponder, and Interactive AI.
+- [rendchevi/nix-tts](https://github.com/rendchevi/nix-tts) - 🐤 Nix-TTS: Lightweight and End-to-end Text-to-Speech via Module-wise Distillation
+- [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
+- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [tBuLi/kingdon](https://github.com/tBuLi/kingdon) - A symbolically optimized and pythonic Clifford (geometric) algebra library named after none other than William Kingdon Clifford.
@@ -5758,7 +5781,7 @@
 - [kyegomez/Sophia](https://github.com/kyegomez/Sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
 - [kyegomez/the-compiler](https://github.com/kyegomez/the-compiler) - Seed, Code, Harvest: Grow Your Own App with Tree of Thoughts!
 - [jieyilong/tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
-- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源）
+- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [SJTU-LIT/ceval](https://github.com/SJTU-LIT/ceval) - Official github repo for C-Eval, a Chinese evaluation suite for foundation models
 - [HKUNLP/UnifiedSKG](https://github.com/HKUNLP/UnifiedSKG) - [EMNLP 2022] A Unified Framework and Analysis for Structured Knowledge Grounding with Text-to-Text Language Models
 - [krasserm/perceiver-io](https://github.com/krasserm/perceiver-io) - A PyTorch implementation of Perceiver, Perceiver IO and Perceiver AR with PyTorch Lightning scripts for distributed training
@@ -5926,7 +5949,6 @@
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [NVlabs/traffic-behavior-simulation](https://github.com/NVlabs/traffic-behavior-simulation) - 
 - [RiemannianOCO/experiments](https://github.com/RiemannianOCO/experiments) - 
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
 - [davidjurgens/potato](https://github.com/davidjurgens/potato) - potato: portable text annotation tool
 - [eric-wieser/zulip-archive](https://github.com/eric-wieser/zulip-archive) - Generate a static HTML archive of messages in any combination of streams in a Zulip organization.
@@ -7406,6 +7428,7 @@
 
 ## Rust 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
@@ -8339,6 +8362,7 @@
 
 ## TypeScript 
 
+- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
@@ -8357,6 +8381,7 @@
 - [hey-pal/toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop

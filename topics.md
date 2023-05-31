@@ -1105,6 +1105,7 @@
 
 ## chatgpt 
 
+- [hitz-zentroa/lm-contamination](https://github.com/hitz-zentroa/lm-contamination) - The LM Contamination Index is a manually created database of contamination evidences for LMs.
 - [kyegomez/Sophia](https://github.com/kyegomez/Sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
 - [kyegomez/the-compiler](https://github.com/kyegomez/the-compiler) - Seed, Code, Harvest: Grow Your Own App with Tree of Thoughts!
 - [jieyilong/tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
@@ -1740,7 +1741,7 @@
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment management and cluster orchestration
-- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Interactive data structures for evaluating foundation models.
+- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Creative interactive views of any dataset.
 - [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) - A curated, but incomplete, list of data-centric AI resources.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
@@ -2398,7 +2399,7 @@
 ## electron 
 
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions.
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -4967,7 +4968,7 @@
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [lupantech/dl4math](https://github.com/lupantech/dl4math) - Resources of deep learning for mathematical reasoning (DL4MATH).
 - [explainX/explainx](https://github.com/explainX/explainx) - Explainable AI framework for data scientists. Explain & debug any blackbox machine learning model with a single line of code. We are looking for co-authors to take this project forward. Reach out @ ms
-- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Interactive data structures for evaluating foundation models.
+- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Creative interactive views of any dataset.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [mklarqvist/ai-playground](https://github.com/mklarqvist/ai-playground) - Playground for various AI projects and demos
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
@@ -5426,6 +5427,7 @@
 
 ## monitoring 
 
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
@@ -6036,6 +6038,11 @@
 
 ## others 
 
+- [cleanlab/examples](https://github.com/cleanlab/examples) - Notebooks demonstrating example applications of the cleanlab library
+- [reactorsh/ambrosia](https://github.com/reactorsh/ambrosia) - clean up your LLM datasets
+- [google-research/deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) - 
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
+- [lupantech/PromptPG](https://github.com/lupantech/PromptPG) - Data and code for the ICLR 2023 paper "Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning".
 - [drmichaeldouglass/blenderGoogleGPU](https://github.com/drmichaeldouglass/blenderGoogleGPU) - A script to run on the command line of Google Colab to render Blender files using GPU
 - [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - 
 - [huggingface/datablations](https://github.com/huggingface/datablations) - Scaling Data-Constrained Language Models
@@ -7371,7 +7378,7 @@
 - [est31/cargo-local-serve](https://github.com/est31/cargo-local-serve) - Mirror of https://gitlab.com/est/cargo-local-serve | Serve a local, offline, clone of crates.io.
 - [ChrisMacNaughton/cargo-cacher](https://github.com/ChrisMacNaughton/cargo-cacher) - A caching server for crates + cargo
 - [alexcrichton/cargo-vendor](https://github.com/alexcrichton/cargo-vendor) - Archived as subcommand is now part of Cargo itself
-- [hyperledger/ursa](https://github.com/hyperledger/ursa) - Hyperledger Ursa (a shared cryptographic library) has moved to end-of-life status, with the components of Ursa still in use moved to their relevant Hyperledger projects (AnonCreds, Indy, Aries and Iro
+- [hyperledger-archives/ursa](https://github.com/hyperledger-archives/ursa) - Hyperledger Ursa (a shared cryptographic library) has moved to end-of-life status, with the components of Ursa still in use moved to their relevant Hyperledger projects (AnonCreds, Indy, Aries and Iro
 - [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming
 - [mre/prettyprint](https://github.com/mre/prettyprint) - Beautifully formatted output for your terminal 🌈
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
@@ -10815,7 +10822,7 @@
 - [bebraw/jswiki](https://github.com/bebraw/jswiki) - JavaScript wiki. Focuses mainly on JS/HTML5/WebGL related tech.
 - [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [postrank-labs/goliath](https://github.com/postrank-labs/goliath) - Goliath is a non-blocking Ruby web server framework
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [edouard/rchardet](https://github.com/edouard/rchardet) - Character encoding detection in Ruby. Ruby 1.9 compatible.
@@ -13187,7 +13194,7 @@
 - [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Vercel for AI agents. We're a platform for developers that helps them with building, deploying, and monitoring AI agents.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [cortex-js/compute-engine](https://github.com/cortex-js/compute-engine) - An engine for symbolic manipulation and numeric evaluation of math formulas expressed with MathJSON

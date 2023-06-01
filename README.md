@@ -586,6 +586,7 @@
 
 ## C++ 
 
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
 - [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS Implementation of Patchwork++
 - [markusschwenk/midieditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data
 - [harrisonvanderbyl/godot-rwkv](https://github.com/harrisonvanderbyl/godot-rwkv) - RWKV godot interface module
@@ -877,7 +878,7 @@
 - [percona/percona-server](https://github.com/percona/percona-server) - Percona Server
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [amrayn/easyloggingpp](https://github.com/amrayn/easyloggingpp) - Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs i
+- [amrayn/easyloggingpp](https://github.com/amrayn/easyloggingpp) - C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own cus
 - [KjellKod/g3log](https://github.com/KjellKod/g3log) - G3log is  an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.  G3log is made with plain C++14 (C++11 support up to release 1.3.2)  with no ext
 - [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 - [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
@@ -1522,7 +1523,7 @@
 - [McEx/McEx](https://github.com/McEx/McEx) - Minecraft server written in Elixir
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts
-- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 ## Elm 
 
@@ -1581,6 +1582,7 @@
 
 ## Go 
 
+- [reactorsh/ambrosia](https://github.com/reactorsh/ambrosia) - clean up your LLM datasets
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI
@@ -1591,7 +1593,6 @@
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [caddyserver/replace-response](https://github.com/caddyserver/replace-response) - Caddy module that performs replacements in response bodies
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
@@ -1604,14 +1605,13 @@
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [oliverpool/sparsehash](https://github.com/oliverpool/sparsehash) - Fast hashing for large files
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [030/p2iwd](https://github.com/030/p2iwd) - Pull and Push Images Without Docker (P2IWD).
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [ironsmile/euterpe](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server 🎶 with RESTful API and Web interface. Think of it as your very own Spotify! ☁️🎧
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
-- [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -2545,6 +2545,7 @@
 ## JavaScript 
 
 - [leanprover/fp-lean](https://github.com/leanprover/fp-lean) - Functional Programming in Lean
+- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 - [wlouie1/MusicPlot](https://github.com/wlouie1/MusicPlot) - Interactive Self-Similarity Matrix for Music Structure Visualization
 - [PicoCreator/Babel-Pile](https://github.com/PicoCreator/Babel-Pile) - Ongoing organised collection of various AI datasets, to eventually encompass the knowledge of all humankind.
@@ -4507,6 +4508,7 @@
 
 ## Jupyter Notebook 
 
+- [cleanlab/examples](https://github.com/cleanlab/examples) - Notebooks demonstrating example applications of the cleanlab library
 - [drmichaeldouglass/blenderGoogleGPU](https://github.com/drmichaeldouglass/blenderGoogleGPU) - A script to run on the command line of Google Colab to render Blender files using GPU
 - [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - 
 - [huggingface/datablations](https://github.com/huggingface/datablations) - Scaling Data-Constrained Language Models
@@ -4859,6 +4861,7 @@
 
 ## Lua 
 
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
@@ -5046,6 +5049,8 @@
 
 ## Others 
 
+- [open-dict-data/ipa-dict](https://github.com/open-dict-data/ipa-dict) - Monolingual wordlists with pronunciation information in IPA
+- [hitz-zentroa/lm-contamination](https://github.com/hitz-zentroa/lm-contamination) - The LM Contamination Index is a manually created database of contamination evidences for LMs.
 - [openFPGA666/FpgaGuide](https://github.com/openFPGA666/FpgaGuide) - 分享FPGA开发知识、优秀文章、学习网站以及开源项目。本项目收集了github中许多FPGA开源项目。
 - [narwhrl/stcn-docs](https://github.com/narwhrl/stcn-docs) - Documentation site of StarTrekChina.
 - [jrin771/Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics) - The world's largest GitHub Repository for LLMs + Robotics
@@ -5112,6 +5117,7 @@
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [getaurora/download](https://github.com/getaurora/download) - 极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由
+- [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
 - [inverse-scaling/prize](https://github.com/inverse-scaling/prize) - A prize for finding tasks that cause large language models to show inverse scaling
@@ -5760,6 +5766,11 @@
 
 ## Python 
 
+- [princeton-nlp/MeZO](https://github.com/princeton-nlp/MeZO) - 
+- [bigcode-project/bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - A framework for the evaluation of autoregressive code generation language models.
+- [chenfeng357/open-Chinese-ChatLLaMA](https://github.com/chenfeng357/open-Chinese-ChatLLaMA) - The complete training code of the open-source  Chinese-Llama model, including the full process from pre-training instructing and RLHF.
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
+- [lupantech/PromptPG](https://github.com/lupantech/PromptPG) - Data and code for the ICLR 2023 paper "Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning".
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
@@ -5771,7 +5782,6 @@
 - [Birch-san/mpt-play](https://github.com/Birch-san/mpt-play) - Command-line script for inferencing from models such as MPT-7B-Chat
 - [Birch-san/falcon-play](https://github.com/Birch-san/falcon-play) - Command-line script for inferencing from models such as falcon-7b-instruct
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [OFA-Sys/ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
 - [cgarciae/nnx](https://github.com/cgarciae/nnx) - 
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
@@ -5798,7 +5808,7 @@
 - [RadeonOpenCompute/ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Platform - GitHub Home
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
-- [ysymyth/tree-of-thought-llm](https://github.com/ysymyth/tree-of-thought-llm) - Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+- [ysymyth/tree-of-thought-llm](https://github.com/ysymyth/tree-of-thought-llm) - Official Implementation of "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
 - [StevenGrove/GPT4Tools](https://github.com/StevenGrove/GPT4Tools) - GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.
 - [X-PLUG/ChatPLUG](https://github.com/X-PLUG/ChatPLUG) - A Chinese Open-Domain Dialogue System
 - [sambanova/bloomchat](https://github.com/sambanova/bloomchat) - This repo contains the data preparation, tokenization, training and inference code for BLOOMChat. BLOOMChat is a 176 billion parameter multilingual chat model based on BLOOM.
@@ -5909,7 +5919,7 @@
 - [reasoning-machines/pal](https://github.com/reasoning-machines/pal) - PaL: Program-Aided Language Models
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
-- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Interactive data structures for evaluating foundation models.
+- [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Creative interactive views of any dataset.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
@@ -6076,7 +6086,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-- [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - An open-source LLM based research assistant that allows you to have a conversation with a research paper
+- [mukulpatnaik/researchgpt](https://github.com/mukulpatnaik/researchgpt) - A LLM based research assistant that allows you to have a conversation with a research paper
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
@@ -7437,6 +7447,7 @@
 
 ## Rust 
 
+- [google-research/deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) - 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
@@ -7464,7 +7475,7 @@
 - [lurk-lab/lurk-rs](https://github.com/lurk-lab/lurk-rs) - Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-- [KusionStack/KCLVM](https://github.com/KusionStack/KCLVM) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
+- [KusionStack/kcl](https://github.com/KusionStack/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios.
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [randombit/wycheproof-rs](https://github.com/randombit/wycheproof-rs) - Wycheproof for Rust
 - [polymonster/maths-rs](https://github.com/polymonster/maths-rs) - Linear algebra library for graphics and gamedev.
@@ -7822,7 +7833,7 @@
 - [ChrisMacNaughton/cargo-cacher](https://github.com/ChrisMacNaughton/cargo-cacher) - A caching server for crates + cargo
 - [alexcrichton/cargo-vendor](https://github.com/alexcrichton/cargo-vendor) - Archived as subcommand is now part of Cargo itself
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
-- [hyperledger/ursa](https://github.com/hyperledger/ursa) - Hyperledger Ursa (a shared cryptographic library) has moved to end-of-life status, with the components of Ursa still in use moved to their relevant Hyperledger projects (AnonCreds, Indy, Aries and Iro
+- [hyperledger-archives/ursa](https://github.com/hyperledger-archives/ursa) - Hyperledger Ursa (a shared cryptographic library) has moved to end-of-life status, with the components of Ursa still in use moved to their relevant Hyperledger projects (AnonCreds, Indy, Aries and Iro
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [oconnor663/bao](https://github.com/oconnor663/bao) - an implementation of BLAKE3 verified streaming
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -8411,7 +8422,7 @@
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support

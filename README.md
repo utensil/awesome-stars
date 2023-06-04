@@ -878,7 +878,7 @@
 - [percona/percona-server](https://github.com/percona/percona-server) - Percona Server
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [amrayn/easyloggingpp](https://github.com/amrayn/easyloggingpp) - C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own cus
+- [abumq/easyloggingpp](https://github.com/abumq/easyloggingpp) - C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own cus
 - [KjellKod/g3log](https://github.com/KjellKod/g3log) - G3log is  an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.  G3log is made with plain C++14 (C++11 support up to release 1.3.2)  with no ext
 - [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 - [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
@@ -5765,6 +5765,8 @@
 
 ## Python 
 
+- [runpod/runpod-python](https://github.com/runpod/runpod-python) - 🐍 | Python library for RunPod API & SDK.
+- [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
 - [rmihaylov/falcontune](https://github.com/rmihaylov/falcontune) - Tune any FALCON in 4-bit
 - [princeton-nlp/MeZO](https://github.com/princeton-nlp/MeZO) - 
 - [bigcode-project/bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - A framework for the evaluation of autoregressive code generation language models.
@@ -8383,6 +8385,7 @@
 
 ## TypeScript 
 
+- [Renumics/spotlight](https://github.com/Renumics/spotlight) - Curation tool for unstructured data that connects your stack to the data-centric AI ecosystem.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.

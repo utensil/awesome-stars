@@ -1583,12 +1583,13 @@
 
 ## Go 
 
+- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [reactorsh/ambrosia](https://github.com/reactorsh/ambrosia) - clean up your LLM datasets
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI
 - [alasdairforsythe/tokenmonster](https://github.com/alasdairforsythe/tokenmonster) - Determine the tokens that optimally represents a dataset at any specific vocabulary size
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compat
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [euphoricrhino/cg](https://github.com/euphoricrhino/cg) - arbitrary precision clebsch-gordan coefficients for SO(3)
 - [euphoricrhino/sakurai-go](https://github.com/euphoricrhino/sakurai-go) - 
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
@@ -2446,7 +2447,7 @@
 - [jjoe64/GraphView](https://github.com/jjoe64/GraphView) - Android Graph Library for creating zoomable and scrollable line and bar graphs.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [baasbox/baasbox](https://github.com/baasbox/baasbox) - The BaasBox server
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [jknack/handlebars.java](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
 - [FasterXML/jackson-jr](https://github.com/FasterXML/jackson-jr) - Stand-alone data-binding module designed as a light-weight (and -featured) alternative to `jackson-databind`: will only deal with "Maps, Lists, Strings, wrappers and Java Beans" (jr-objects), or simpl
@@ -2546,6 +2547,7 @@
 
 ## JavaScript 
 
+- [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [leanprover/fp-lean](https://github.com/leanprover/fp-lean) - Functional Programming in Lean
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
@@ -4341,7 +4343,6 @@
 - [cjcliffe/CubicVR.js](https://github.com/cjcliffe/CubicVR.js) - CubicVR 3D Engine, WebGL Edition
 - [yatil/accessifyhtml5.js](https://github.com/yatil/accessifyhtml5.js) - While most browsers work all right with the new semantic elements of HTML5, they don’t add the ARIA accessibility attributes that the specification demands. This small JavaScript adds those attributes
 - [jashkenas/backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [jquery-archive/jquery-mobile](https://github.com/jquery-archive/jquery-mobile) - jQuery Mobile Framework
@@ -4509,6 +4510,8 @@
 
 ## Jupyter Notebook 
 
+- [datapane/examples](https://github.com/datapane/examples) - Datapane Examples
+- [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
 - [GJBroughton/Star_Trek_Scripts](https://github.com/GJBroughton/Star_Trek_Scripts) - Scrape and process text scripts of all Star Trek TV series
 - [CornellNLP/ConvoKit](https://github.com/CornellNLP/ConvoKit) - ConvoKit is a toolkit for extracting conversational features and analyzing social phenomena in conversations. It includes several large conversational datasets along with scripts exemplifying the use 
@@ -4556,8 +4559,8 @@
 - [lightshifted/TablesGPT](https://github.com/lightshifted/TablesGPT) - GPT-powered solution for extracting and modifying data in tables using natural language commands.
 - [bjing2016/EigenFold](https://github.com/bjing2016/EigenFold) - EigenFold: Generative Protein Structure Prediction with Diffusion Models
 - [unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions) - 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……
+- [davidjurgens/potato](https://github.com/davidjurgens/potato) - potato: portable text annotation tool
 - [GammaTauAI/leetcode-hard-gym](https://github.com/GammaTauAI/leetcode-hard-gym) - 
-- [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 - [aiplaybookin/novice-ChatGPT](https://github.com/aiplaybookin/novice-ChatGPT) - ChatGPT API Usage using LangChain, LlamaIndex, Guardrails, AutoGPT and more
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
@@ -5054,6 +5057,7 @@
 
 ## Others 
 
+- [Glavin001/AgentML](https://github.com/Glavin001/AgentML) - Agent Markup Languages for AI Agents
 - [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) - 
 - [argilla-io/awesome-llm-datasets](https://github.com/argilla-io/awesome-llm-datasets) - 👩🤝🤖 A curated list of datasets for large language models (LLMs), RLHF and related resources (continually updated)
 - [open-dict-data/ipa-dict](https://github.com/open-dict-data/ipa-dict) - Monolingual wordlists with pronunciation information in IPA
@@ -5773,6 +5777,12 @@
 
 ## Python 
 
+- [YuliangXiu/ECON](https://github.com/YuliangXiu/ECON) - [CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration
+- [aimhubio/aimlflow](https://github.com/aimhubio/aimlflow) - aim-mlflow integration
+- [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
+- [ziliwangnlp/RefGPT](https://github.com/ziliwangnlp/RefGPT) - 
+- [google-research/FLAN](https://github.com/google-research/FLAN) - 
+- [ray-project/aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
 - [altenderfer/mindfeeder2](https://github.com/altenderfer/mindfeeder2) - This program is designed to generate new instruction, input, and output (IIO) pairs using OpenAI's GPT-3.5-turbo (Or any completion model). Given an input dataset containing IIO pairs, the script will
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identifi
 - [allenai/natural-instructions](https://github.com/allenai/natural-instructions) - Expanding natural instructions
@@ -5861,7 +5871,7 @@
 - [widgetti/solara](https://github.com/widgetti/solara) - A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps
 - [abertsch72/unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following ability and in-context learning.
+- [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
 - [Felixgithub2017/MMCU](https://github.com/Felixgithub2017/MMCU) - MEASURING MASSIVE MULTITASK CHINESE UNDERSTANDING
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [nlpdata/dream](https://github.com/nlpdata/dream) - DREAM: A Challenge Dataset and Models for Dialogue-Based Reading Comprehension
@@ -5948,7 +5958,7 @@
 - [infogami/infogami](https://github.com/infogami/infogami) - 
 - [internetarchive/warc](https://github.com/internetarchive/warc) - Python library for reading and writing warc files
 - [openzim/warc2zim](https://github.com/openzim/warc2zim) - Command line tool to convert a file in the WARC format to a file in the ZIM format
-- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
+- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A programming language for large language models.
 - [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve) - ⚡ Langchain Apps on Production with Jina & FastAPI 🚀
 - [alvarosevilla95/opencopilot](https://github.com/alvarosevilla95/opencopilot) - 
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
@@ -5987,7 +5997,6 @@
 - [NVlabs/traffic-behavior-simulation](https://github.com/NVlabs/traffic-behavior-simulation) - 
 - [RiemannianOCO/experiments](https://github.com/RiemannianOCO/experiments) - 
 - [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
-- [davidjurgens/potato](https://github.com/davidjurgens/potato) - potato: portable text annotation tool
 - [eric-wieser/zulip-archive](https://github.com/eric-wieser/zulip-archive) - Generate a static HTML archive of messages in any combination of streams in a Zulip organization.
 - [mattbierbaum/arxiv-public-datasets](https://github.com/mattbierbaum/arxiv-public-datasets) - A set of scripts to grab public datasets from resources related to arXiv
 - [qs956/Latex_OCR_Pytorch](https://github.com/qs956/Latex_OCR_Pytorch) - 基于Pytorch实现的End-to-End图像Latex公式识别 inspire by LinXueyuanStdio/LaTeX_OCR_PRO
@@ -6020,6 +6029,7 @@
 - [young-geng/koala_data_pipeline](https://github.com/young-geng/koala_data_pipeline) - The data processing pipeline for the Koala chatbot language model
 - [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.
 - [LAION-AI/Open-Instruction-Generalist](https://github.com/LAION-AI/Open-Instruction-Generalist) - Open Instruction Generalist is an assistant trained on massive synthetic instructions to perform many millions of tasks
+- [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 - [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
 - [NX211/homer-icons](https://github.com/NX211/homer-icons) - 
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -6083,7 +6093,6 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C++ package manager
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [clockfort/GitHub-Backup](https://github.com/clockfort/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
 - [fcivaner/hashdir](https://github.com/fcivaner/hashdir) - A command line tool to calculate hashes of directory trees using various hash algorithms.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -7480,7 +7489,7 @@
 - [benruijl/symbolica](https://github.com/benruijl/symbolica) - A symbolic manipulation toolkit which aims to handle expressions with billions of terms.
 - [xldenis/creusot](https://github.com/xldenis/creusot) - deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
@@ -7764,7 +7773,7 @@
 - [idanarye/rust-typed-builder](https://github.com/idanarye/rust-typed-builder) - Compile-time type-checked builder derive
 - [Mercateo/rust-for-node-developers](https://github.com/Mercateo/rust-for-node-developers) - An introduction to the Rust programming language for Node developers.
 - [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) - A virtual file system for sandboxing
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
 - [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
 - [rustgd/rhusics](https://github.com/rustgd/rhusics) - A cgmath physics library that can be used with Specs
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
@@ -8227,6 +8236,7 @@
 - [kosborn/p2p-adb](https://github.com/kosborn/p2p-adb) - Phone to Phone Android Debug Bridge - A project for "debugging" phones... from other phones.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [andreasjansson/The-SoX-Miner](https://github.com/andreasjansson/The-SoX-Miner) - A shell script that uses SoX to extract meta data and audio features from audio files
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [coderifous/dotfiles](https://github.com/coderifous/dotfiles) - Coderifous' dotfiles.  It's all about the vim config, really.
 - [mig/gedit-themes](https://github.com/mig/gedit-themes) - Color themes for Gnome's default editor Gedit
@@ -8442,6 +8452,7 @@
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.

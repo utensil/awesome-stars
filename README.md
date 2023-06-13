@@ -587,6 +587,7 @@
 
 ## C++ 
 
+- [deepmind/code_contests](https://github.com/deepmind/code_contests) - 
 - [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
 - [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS Implementation of Patchwork++
 - [markusschwenk/midieditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data
@@ -4510,6 +4511,7 @@
 
 ## Jupyter Notebook 
 
+- [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Chat凉宫春日, 由李鲁鲁, 冷子昂等同学开发的模仿二次元对话的聊天机器人。
 - [datapane/examples](https://github.com/datapane/examples) - Datapane Examples
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
@@ -5057,6 +5059,10 @@
 
 ## Others 
 
+- [fwbx529/THuman3.0-Dataset](https://github.com/fwbx529/THuman3.0-Dataset) - 
+- [y-zheng18/MultiHuman-Dataset](https://github.com/y-zheng18/MultiHuman-Dataset) - 
+- [ytrock/THuman2.0-Dataset](https://github.com/ytrock/THuman2.0-Dataset) - 
+- [google-research-datasets/Taskmaster](https://github.com/google-research-datasets/Taskmaster) - Please see the readme file as well as our 2019 EMNLP paper linked here --&gt;
 - [Glavin001/AgentML](https://github.com/Glavin001/AgentML) - Agent Markup Languages for AI Agents
 - [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) - 
 - [argilla-io/awesome-llm-datasets](https://github.com/argilla-io/awesome-llm-datasets) - 👩🤝🤖 A curated list of datasets for large language models (LLMs), RLHF and related resources (continually updated)
@@ -5189,7 +5195,7 @@
 - [knurling-rs/meta](https://github.com/knurling-rs/meta) - What's Knurling all about?
 - [MathHubInfo/MathHub](https://github.com/MathHubInfo/MathHub) - The MathHub System
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [datawhalechina/key-book](https://github.com/datawhalechina/key-book) - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：http://keybook.datawhale.club
+- [datawhalechina/key-book](https://github.com/datawhalechina/key-book) - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。
 - [daly/PDFS](https://github.com/daly/PDFS) - 
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [security-cheatsheet/reverse-shell-cheatsheet](https://github.com/security-cheatsheet/reverse-shell-cheatsheet) - 🙃 Reverse Shell Cheat Sheet 🙃
@@ -5777,6 +5783,12 @@
 
 ## Python 
 
+- [sileod/tasksource](https://github.com/sileod/tasksource) - Datasets collection and standardization for NLP extreme multitask learning
+- [ZhengZerong/DeepHuman](https://github.com/ZhengZerong/DeepHuman) - Code for our ICCV paper "DeepHuman: 3D Human Reconstruction from a Single Image"
+- [Project-Splinter/MonoPortDataset](https://github.com/Project-Splinter/MonoPortDataset) - 
+- [qianlim/CAPE](https://github.com/qianlim/CAPE) - Official implementation of CVPR2020 paper "Learning to Dress 3D People in Generative Clothing" https://arxiv.org/abs/1907.13615
+- [michiyasunaga/DrRepair](https://github.com/michiyasunaga/DrRepair) - [ICML 2020] DrRepair: Learning to Repair Programs from Error Messages
+- [Liuhong99/Sophia](https://github.com/Liuhong99/Sophia) - The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [InfuseAI/colab-xterm](https://github.com/InfuseAI/colab-xterm) - Open a terminal in colab, including the free tier.
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
@@ -6040,7 +6052,7 @@
 - [openzim/zimit](https://github.com/openzim/zimit) - Make a ZIM file from any Web site and surf offline!
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-- [ZrrSkywalker/LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -6064,7 +6076,7 @@
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs) - Standard and Advanced Demos for learn.cantrill.io courses
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
-- [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+- [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [johnsmith0031/alpaca_lora_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) - 
 - [TheTerrasque/text-generation-webui](https://github.com/TheTerrasque/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
@@ -8413,6 +8425,7 @@
 
 ## TypeScript 
 
+- [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz) - Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Curation tool for unstructured data that connects your stack to the data-centric AI ecosystem.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes

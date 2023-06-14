@@ -269,7 +269,7 @@
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [KevinKelley/nanovg-rs](https://github.com/KevinKelley/nanovg-rs) - Rust-language binding for the NanoVG vector graphics library
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations.
+- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [dynup/kpatch](https://github.com/dynup/kpatch) - kpatch - live kernel patching
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [vurtun/nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
@@ -1497,6 +1497,7 @@
 
 ## Dockerfile 
 
+- [runpod-workers/worker-github_runner](https://github.com/runpod-workers/worker-github_runner) - A self hosted runner for GitHub actions.
 - [madduci/docker-compiler-explorer](https://github.com/madduci/docker-compiler-explorer) - A docker-based version of Matt Godbolt's compiler-explorer application
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [denniskcheung/crytomator-docker](https://github.com/denniskcheung/crytomator-docker) - 
@@ -3459,7 +3460,7 @@
 - [moose-team/friends](https://github.com/moose-team/friends) - :tv: P2P chat powered by the web.
 - [Rich-Harris/ramjet](https://github.com/Rich-Harris/ramjet) - Morph DOM elements from one state to another with smooth animations and transitions
 - [zroger/xdot.js](https://github.com/zroger/xdot.js) - xdot.js parses GraphViz xdot files into RaphaëlJS graphics.
-- [mdaines/viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
+- [mdaines/viz-js](https://github.com/mdaines/viz-js) - A hack to put Graphviz on the web.
 - [steelbreeze/state.js](https://github.com/steelbreeze/state.js) - DEPRECATED, please see @steelbreeze/state
 - [Kozea/umlaut](https://github.com/Kozea/umlaut) - Because a picture is worth a thousand words
 - [darkguy2008/parallelshell](https://github.com/darkguy2008/parallelshell) - Run multiple shell commands in parallel
@@ -4511,6 +4512,7 @@
 
 ## Jupyter Notebook 
 
+- [andrewgcodes/FalconStreaming](https://github.com/andrewgcodes/FalconStreaming) - Falcon40B and 7B (Instruct) with streaming, top-k, and beam search
 - [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Chat凉宫春日, 由李鲁鲁, 冷子昂等同学开发的模仿二次元对话的聊天机器人。
 - [datapane/examples](https://github.com/datapane/examples) - Datapane Examples
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
@@ -5703,7 +5705,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [SimpleRegex/SRL-PHP](https://github.com/SimpleRegex/SRL-PHP) - Simple Regex Language
 - [helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
-- [overtrue/pinyin](https://github.com/overtrue/pinyin) - :cn: 基于词库的中文转拼音优质解决方案
+- [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
 - [nviet/lingoes-converter](https://github.com/nviet/lingoes-converter) - Convert *.LD2 dictionaries format into human-readable text files
 - [hanc00l/wooyun_public](https://github.com/hanc00l/wooyun_public) - This repo is archived. Thanks for wooyun!  乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
@@ -5795,7 +5797,6 @@
 - [YuliangXiu/ECON](https://github.com/YuliangXiu/ECON) - [CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration
 - [aimhubio/aimlflow](https://github.com/aimhubio/aimlflow) - aim-mlflow integration
 - [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
-- [ziliwangnlp/RefGPT](https://github.com/ziliwangnlp/RefGPT) - 
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
 - [ray-project/aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
 - [altenderfer/mindfeeder2](https://github.com/altenderfer/mindfeeder2) - This program is designed to generate new instruction, input, and output (IIO) pairs using OpenAI's GPT-3.5-turbo (Or any completion model). Given an input dataset containing IIO pairs, the script will
@@ -5945,7 +5946,7 @@
 - [unit-mesh/minions-data-prepare](https://github.com/unit-mesh/minions-data-prepare) - Unit Minions 的各种数据准备、处理脚本，诸如 OpenAI 处理、格式转换等等。
 - [nelson-liu/evaluating-verifiability-in-generative-search-engines](https://github.com/nelson-liu/evaluating-verifiability-in-generative-search-engines) - Companion repo for "Evaluating Verifiability in Generative Search Engines".
 - [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
-- [NLPxiaoxu/LLM-Pretrain-FineTune](https://github.com/NLPxiaoxu/LLM-Pretrain-FineTune) - Deepspeed、LLM、Medical_Dialogue、医疗大模型、预训练、微调
+- [X-jun-0130/LLM-Pretrain-FineTune](https://github.com/X-jun-0130/LLM-Pretrain-FineTune) - Deepspeed、LLM、Medical_Dialogue、医疗大模型、预训练、微调
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [microsoft/AGIEval](https://github.com/microsoft/AGIEval) - 
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
@@ -7504,6 +7505,7 @@
 - [benruijl/symbolica](https://github.com/benruijl/symbolica) - A symbolic manipulation toolkit which aims to handle expressions with billions of terms.
 - [xldenis/creusot](https://github.com/xldenis/creusot) - deductive verification of Rust code. (semi) automatically prove your code satisfies your specifications!
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
@@ -8136,6 +8138,7 @@
 
 ## Shell 
 
+- [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [pinting/SuspiciousKeePassMini](https://github.com/pinting/SuspiciousKeePassMini) - 
 - [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - Library for drawing stuff with Typst.
 - [loubnabnl/bloom-code-evaluation](https://github.com/loubnabnl/bloom-code-evaluation) - Evaluation of BLOOM on the HumanEval benchmark
@@ -8447,7 +8450,6 @@
 - [hey-pal/toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
@@ -8664,7 +8666,7 @@
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue + Swif
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: 
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba) - "结巴"中文分词的Node.js版本

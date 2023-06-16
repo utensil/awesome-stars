@@ -1896,6 +1896,7 @@
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
 - [leanprover-community/archive](https://github.com/leanprover-community/archive) - Replacement for the archive repo
 - [krishnakumarsekar/awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [candiddev/homechart](https://github.com/candiddev/homechart) - Announcements, feedback, issues, and Q&A for Homechart
@@ -4515,7 +4516,6 @@
 - [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Chat凉宫春日, 由李鲁鲁, 冷子昂等同学开发的模仿二次元对话的聊天机器人。
 - [datapane/examples](https://github.com/datapane/examples) - Datapane Examples
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
-- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
 - [GJBroughton/Star_Trek_Scripts](https://github.com/GJBroughton/Star_Trek_Scripts) - Scrape and process text scripts of all Star Trek TV series
 - [CornellNLP/ConvoKit](https://github.com/CornellNLP/ConvoKit) - ConvoKit is a toolkit for extracting conversational features and analyzing social phenomena in conversations. It includes several large conversational datasets along with scripts exemplifying the use 
 - [liutiedong/goat](https://github.com/liutiedong/goat) - a Fine-tuned LLaMA that is Good at Arithmetic Tasks
@@ -4565,7 +4565,6 @@
 - [davidjurgens/potato](https://github.com/davidjurgens/potato) - potato: portable text annotation tool
 - [GammaTauAI/leetcode-hard-gym](https://github.com/GammaTauAI/leetcode-hard-gym) - 
 - [aiplaybookin/novice-ChatGPT](https://github.com/aiplaybookin/novice-ChatGPT) - ChatGPT API Usage using LangChain, LlamaIndex, Guardrails, AutoGPT and more
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [donflopez/alpaca-lora-llama-index](https://github.com/donflopez/alpaca-lora-llama-index) - Instruct-tune LLaMA on consumer hardware and qa inference with llama_index
 - [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. Meanwhile, we created a new branch to
@@ -5785,6 +5784,11 @@
 
 ## Python 
 
+- [EleutherAI/concept-erasure](https://github.com/EleutherAI/concept-erasure) - Erasing concepts from neural representations with provable guarantees
+- [ZhangYuanhan-AI/NOAH](https://github.com/ZhangYuanhan-AI/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
+- [KaiyangZhou/CoOp](https://github.com/KaiyangZhou/CoOp) - Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22)
+- [Arnav0400/ViT-Slim](https://github.com/Arnav0400/ViT-Slim) - Official code for our CVPR'22 paper “Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space”
+- [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
 - [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers with math
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
@@ -5805,6 +5809,7 @@
 - [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
 - [ray-project/aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
+- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
 - [altenderfer/mindfeeder2](https://github.com/altenderfer/mindfeeder2) - This program is designed to generate new instruction, input, and output (IIO) pairs using OpenAI's GPT-3.5-turbo (Or any completion model). Given an input dataset containing IIO pairs, the script will
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identifi
 - [allenai/natural-instructions](https://github.com/allenai/natural-instructions) - Expanding natural instructions

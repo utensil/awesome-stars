@@ -1938,6 +1938,8 @@
 
 ## deep-learning 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
+- [ZhangYuanhan-AI/NOAH](https://github.com/ZhangYuanhan-AI/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
@@ -5667,6 +5669,7 @@
 
 ## nlp 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [sileod/tasksource](https://github.com/sileod/tasksource) - Datasets collection and standardization for NLP extreme multitask learning
 - [CornellNLP/ConvoKit](https://github.com/CornellNLP/ConvoKit) - ConvoKit is a toolkit for extracting conversational features and analyzing social phenomena in conversations. It includes several large conversational datasets along with scripts exemplifying the use 
@@ -6101,6 +6104,10 @@
 
 ## others 
 
+- [EleutherAI/concept-erasure](https://github.com/EleutherAI/concept-erasure) - Erasing concepts from neural representations with provable guarantees
+- [KaiyangZhou/CoOp](https://github.com/KaiyangZhou/CoOp) - Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22)
+- [Arnav0400/ViT-Slim](https://github.com/Arnav0400/ViT-Slim) - Official code for our CVPR'22 paper “Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space”
+- [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
@@ -11831,6 +11838,8 @@
 
 ## pytorch 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
+- [ZhangYuanhan-AI/NOAH](https://github.com/ZhangYuanhan-AI/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
 - [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
 - [juanmc2005/diart](https://github.com/juanmc2005/diart) - Lightweight python library for streaming speaker diarization in real-time implemented in pytorch
 - [rendchevi/nix-tts](https://github.com/rendchevi/nix-tts) - 🐤 Nix-TTS: Lightweight and End-to-end Text-to-Speech via Module-wise Distillation

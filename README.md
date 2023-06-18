@@ -1937,6 +1937,7 @@
 - [greenelab/deep-review](https://github.com/greenelab/deep-review) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [jasonrute/annotated_lean](https://github.com/jasonrute/annotated_lean) - Annotated lean files
+- [leanprover-community/mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 - [zmitchell/annotation-abuse](https://github.com/zmitchell/annotation-abuse) - Rust-like macros in Python by abusing type annotations
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
@@ -3816,7 +3817,7 @@
 - [rdio/jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [guimaraeslucas/FastString](https://github.com/guimaraeslucas/FastString) - WebApp that encode and decode strings in base64, rot13, html, url and others formats.
-- [shakiba/stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development
+- [piqnt/stage.js](https://github.com/piqnt/stage.js) - 2D HTML5 rendering and layout engine for game development
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
 - [caolan/nimble](https://github.com/caolan/nimble) - A really tiny functional JavaScript and async flow-control library
 - [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
@@ -4510,6 +4511,7 @@
 
 ## Jupyter Notebook 
 
+- [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
 - [andrewgcodes/FalconStreaming](https://github.com/andrewgcodes/FalconStreaming) - Falcon40B and 7B (Instruct) with streaming, top-k, and beam search
 - [LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya) - Chat凉宫春日, 由李鲁鲁, 冷子昂等同学开发的模仿二次元对话的聊天机器人。
 - [datapane/examples](https://github.com/datapane/examples) - Datapane Examples
@@ -4565,6 +4567,7 @@
 - [aiplaybookin/novice-ChatGPT](https://github.com/aiplaybookin/novice-ChatGPT) - ChatGPT API Usage using LangChain, LlamaIndex, Guardrails, AutoGPT and more
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [donflopez/alpaca-lora-llama-index](https://github.com/donflopez/alpaca-lora-llama-index) - Instruct-tune LLaMA on consumer hardware and qa inference with llama_index
+- [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. Meanwhile, we created a new branch to
 - [Valdex/guanaco-lora](https://github.com/Valdex/guanaco-lora) - Instruct-tune LLaMA on consumer hardware
 - [ocherny/alpaca-lora](https://github.com/ocherny/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -4852,7 +4855,6 @@
 - [robertylewis/mathematica](https://github.com/robertylewis/mathematica) - Lean-independent implementation of the MM-Lean link
 - [kbuzzard/xena](https://github.com/kbuzzard/xena) - Lean Library currently studying for a degree at Imperial College
 - [formalabstracts/formalabstracts](https://github.com/formalabstracts/formalabstracts) - 
-- [leanprover-community/mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 - [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game) - Building group theory from scratch in Lean
 - [leanprover-community/tutorials](https://github.com/leanprover-community/tutorials) - Some Lean tutorials
 - [annenkov/two-level](https://github.com/annenkov/two-level) - Two-Level Type Theory
@@ -5118,7 +5120,7 @@
 - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) - A curated, but incomplete, list of data-centric AI resources.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
-- [Visualize-ML/Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization) - Book_2_《可视之美》 |   鸢尾花书：从加减乘除到机器学习；本册草稿正在改版，预计6月初开始上传新版
+- [Visualize-ML/Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization) - Book_2_《可视之美》 |   鸢尾花书：从加减乘除到机器学习；本册草稿正在改版，正在上传
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [arnav-gudibande/koala-test-set](https://github.com/arnav-gudibande/koala-test-set) - The test set for Koala
 - [libertine-fonts/libertine](https://github.com/libertine-fonts/libertine) - The Libertine typeface family
@@ -6079,7 +6081,6 @@
 - [Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) - A WebUI for ChatGLM-6B
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [manyoso/haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real pu
-- [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 - [theubie/complex_memory](https://github.com/theubie/complex_memory) - A KoboldAI-like memory extension for oobabooga's text-generation-webui
 - [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models.
 - [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) - 
@@ -8448,7 +8449,7 @@
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [marginnoteapp/milkdown](https://github.com/marginnoteapp/milkdown) - Use milkdown as markdown editor of MarginNote
-- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
+- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Exec, AWS resources
 - [terrastruct/d2-vscode](https://github.com/terrastruct/d2-vscode) - VSCode extension for D2 files.

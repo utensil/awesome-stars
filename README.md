@@ -44,6 +44,7 @@
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Hack](#hack)
 - [Haml](#haml)
@@ -537,7 +538,7 @@
 
 ## C# # 
 
-- [still-scene/t3](https://github.com/still-scene/t3) - Tooll 3 is an open source software to create realtime motion graphics.
+- [tooll3/t3](https://github.com/tooll3/t3) - Tooll 3 is an open source software to create realtime motion graphics.
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
@@ -1883,6 +1884,10 @@
 
 - [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 
+## HCL 
+
+- [wandb/server](https://github.com/wandb/server) - W&B Server is the self hosted version of Weights & Biases
+
 ## HTML 
 
 - [collinskatie/checkmate](https://github.com/collinskatie/checkmate) - 
@@ -2449,7 +2454,7 @@
 - [jjoe64/GraphView](https://github.com/jjoe64/GraphView) - Android Graph Library for creating zoomable and scrollable line and bar graphs.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 - [baasbox/baasbox](https://github.com/baasbox/baasbox) - The BaasBox server
-- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed SQL database for storing and analyzing massive amounts of data in real-time. Built on top of Lucene.
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in real-time. It is PostgreSQL-compatible, and based on Lucene.
 - [reactive-streams/reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm) - Reactive Streams Specification for the JVM
 - [jknack/handlebars.java](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
 - [FasterXML/jackson-jr](https://github.com/FasterXML/jackson-jr) - Stand-alone data-binding module designed as a light-weight (and -featured) alternative to `jackson-databind`: will only deal with "Maps, Lists, Strings, wrappers and Java Beans" (jr-objects), or simpl
@@ -5214,7 +5219,6 @@
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
 - [learndapp/awesome-libra](https://github.com/learndapp/awesome-libra) - :octocat: A Curated List of Awesome Facebook Libra Resources.
 - [etoroxlabs/etoken-libra](https://github.com/etoroxlabs/etoken-libra) - A joyful early experiment of building eTokens on Libra
-- [4lDO2/evc](https://github.com/4lDO2/evc) - Deprecated in favor of `left-right`
 - [specter119/RefTools](https://github.com/specter119/RefTools) - 文献管理软件的使用与配置
 - [ga/awesome-geometric-algebra](https://github.com/ga/awesome-geometric-algebra) - A curated list of geometric algebra resources
 - [rust-ml/discussion](https://github.com/rust-ml/discussion) - A space to discuss the future of the ML ecosystem in Rust.
@@ -5786,6 +5790,9 @@
 
 ## Python 
 
+- [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models
+- [izikeros/trend_classifier](https://github.com/izikeros/trend_classifier) - Library for automated signal segmentation, trend classification and analysis.
+- [rafa-rod/pytrendseries](https://github.com/rafa-rod/pytrendseries) - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [EleutherAI/concept-erasure](https://github.com/EleutherAI/concept-erasure) - Erasing concepts from neural representations with provable guarantees
 - [ZhangYuanhan-AI/NOAH](https://github.com/ZhangYuanhan-AI/NOAH) - Searching prompt modules for parameter-efficient transfer learning.

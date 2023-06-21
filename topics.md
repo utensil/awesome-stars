@@ -1940,6 +1940,7 @@
 
 ## deep-learning 
 
+- [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [ZhangYuanhan-AI/NOAH](https://github.com/ZhangYuanhan-AI/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
@@ -2043,7 +2044,7 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
 - [FedML-AI/FedML](https://github.com/FedML-AI/FedML) - FedML - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learnin
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -2238,7 +2239,7 @@
 - [IvanVoronov/SecTools](https://github.com/IvanVoronov/SecTools) - List of tools for SecDevOps, vulnerability analysis, network scanning
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
@@ -2868,7 +2869,7 @@
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
 - [adotg/git-history-flow](https://github.com/adotg/git-history-flow) - Visualize the evolution of a file tracked by git
 - [artzub/GitHubVisualizer](https://github.com/artzub/GitHubVisualizer) - Visualization the history of repository changes based on data from GitHub
@@ -2929,7 +2930,7 @@
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [EndemolShineGroup/cz-github](https://github.com/EndemolShineGroup/cz-github) - A Commitizen adapter for GitHub
 - [octobox/octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications
 - [CodeHubApp/CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
@@ -3002,7 +3003,7 @@
 - [sethtroisi/cloudygo](https://github.com/sethtroisi/cloudygo) - Website for MiniGo, Leela-Zero and other Go data
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [jinzhu/inflection](https://github.com/jinzhu/inflection) - Pluralizes and singularizes English nouns
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
@@ -3132,7 +3133,7 @@
 - [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) - A virtual file system for sandboxing
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [jinzhu/inflection](https://github.com/jinzhu/inflection) - Pluralizes and singularizes English nouns
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -3307,7 +3308,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [zoidbergwill/awesome-ebpf](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [izar/pytm](https://github.com/izar/pytm) - A Pythonic framework for threat modeling
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
@@ -3367,7 +3368,7 @@
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [kynan/nbstripout](https://github.com/kynan/nbstripout) - strip output from Jupyter and IPython notebooks
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -5001,6 +5002,7 @@
 
 ## machine-learning 
 
+- [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
 - [OpenBioLink/ThoughtSource](https://github.com/OpenBioLink/ThoughtSource) - A central, open resource for data and tools related to chain-of-thought reasoning in large language models. Developed @ Samwald research group: https://samwald.info/
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
@@ -6108,6 +6110,9 @@
 
 ## others 
 
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML models with KoboldAI's UI
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
+- [bigscience-workshop/data-preparation](https://github.com/bigscience-workshop/data-preparation) - Code used for sourcing and cleaning the BigScience ROOTS corpus
 - [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models
 - [izikeros/trend_classifier](https://github.com/izikeros/trend_classifier) - Library for automated signal segmentation, trend classification and analysis.
 - [wandb/server](https://github.com/wandb/server) - W&B Server is the self hosted version of Weights & Biases
@@ -6193,7 +6198,7 @@
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
 - [AranKomat/Alpha-Transformer](https://github.com/AranKomat/Alpha-Transformer) - Alpha Zero equipped with Transformer with various novel techniques for speedup in tree search
 - [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
-- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, 
+- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 - [xialeiliu/Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - Awesome Incremental Learning
 - [tjunlp-lab/M3KE](https://github.com/tjunlp-lab/M3KE) - A Massive Multi-Level Multi-Subject Knowledge Evaluation benchmark
@@ -6401,7 +6406,7 @@
 - [Chuyu-Team/VC-LTL](https://github.com/Chuyu-Team/VC-LTL) - Shared to msvcrt.dll and optimize the C/C++ application file size.
 - [Chuyu-Team/vc-ltl-samples](https://github.com/Chuyu-Team/vc-ltl-samples) - Usage samples for the VC-LTL.
 - [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
-- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA)
 - [0cc4m/KoboldAI](https://github.com/0cc4m/KoboldAI) - 
 - [jllllll/GPTQ-for-LLaMa-Wheels](https://github.com/jllllll/GPTQ-for-LLaMa-Wheels) - Precompiled Wheels for GPTQ-for-LLaMa
 - [fpgaminer/GPTQ-triton](https://github.com/fpgaminer/GPTQ-triton) - GPTQ inference Triton kernel
@@ -6888,7 +6893,7 @@
 - [multilang-depends/depends](https://github.com/multilang-depends/depends) - Depends is a fast, comprehensive code dependency analysis tool
 - [allen1881996/WeChat-Data-Analysis](https://github.com/allen1881996/WeChat-Data-Analysis) - 微信聊天记录导出、数据库破解、数据分析 (iPhone & MacBook)
 - [brendanhall/opm-drawio](https://github.com/brendanhall/opm-drawio) - Simple OPM Diagramming on Drawio
-- [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - Protobuf definitions for the OpenTelemetry protocol (OTLP)
+- [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
 - [chakravala/Grassmann.wl](https://github.com/chakravala/Grassmann.wl) - ⟨Leibniz-Grassmann-Clifford⟩ multilinear differential geometric algebra
 - [polarismesh/polaris](https://github.com/polarismesh/polaris) - Service Discovery and Governance Platform for Microservice and Distributed Architecture
 - [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
@@ -8107,7 +8112,7 @@
 - [naholyr/node-ftp-server](https://github.com/naholyr/node-ftp-server) - Featureless FTP server
 - [alanszlosek/nodeftpd](https://github.com/alanszlosek/nodeftpd) - node.js FTP Server
 - [mscdex/node-ftp](https://github.com/mscdex/node-ftp) - An FTP client module for node.js
-- [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) - An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API.
+- [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) - An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months bet
 - [inhuman-cpc/violet](https://github.com/inhuman-cpc/violet) - 写作爱好者的同步工具
 - [Netflix/SimianArmy](https://github.com/Netflix/SimianArmy) - Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [whee/rp](https://github.com/whee/rp) - CLI to pipe data through Redis Pub/Sub
@@ -11418,6 +11423,7 @@
 
 ## python 
 
+- [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
 - [rafa-rod/pytrendseries](https://github.com/rafa-rod/pytrendseries) - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.
 - [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers with math
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
@@ -11510,7 +11516,7 @@
 - [modAL-python/modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -11844,6 +11850,7 @@
 
 ## pytorch 
 
+- [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [ZhangYuanhan-AI/NOAH](https://github.com/ZhangYuanhan-AI/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
 - [docarray/docarray](https://github.com/docarray/docarray) - 🧬 Represent, send, and store multimodal data · Neural Search · Vector Search · Document Store
@@ -11908,7 +11915,7 @@
 - [patrick-kidger/torchcde](https://github.com/patrick-kidger/torchcde) - Differentiable controlled differential equation solvers for PyTorch with GPU support and memory-efficient adjoint backpropagation.
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [EngineeringSoftware/roosterize](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq verification projects

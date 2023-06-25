@@ -5800,6 +5800,7 @@
 
 ## Python 
 
+- [juankysoriano/gpt-producer](https://github.com/juankysoriano/gpt-producer) - 
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
@@ -5879,7 +5880,7 @@
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - LLM 实战
 - [heatz123/naturalspeech](https://github.com/heatz123/naturalspeech) - A fully working pytorch implementation of NaturalSpeech (Tan et al., 2022)
-- [legekka/GanyuTTS](https://github.com/legekka/GanyuTTS) - A small VITS+SOVITS TTS API
+- [legekka/GanyuTTS](https://github.com/legekka/GanyuTTS) - A small VITS+SOVITS/RVC TTS API
 - [rendchevi/nix-tts](https://github.com/rendchevi/nix-tts) - 🐤 Nix-TTS: Lightweight and End-to-end Text-to-Speech via Module-wise Distillation
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
@@ -8472,6 +8473,7 @@
 
 ## TypeScript 
 
+- [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
 - [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz) - Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.

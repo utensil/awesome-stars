@@ -1116,7 +1116,7 @@
 
 ## chatgpt 
 
-- [ictnlp/BayLing](https://github.com/ictnlp/BayLing) - “百聆”是一个具有增强的语言对齐的英语/中文大语言模型，具有优越的英语/中文生成、指令跟随、多轮交互等能力。BayLing is a large language model equipped with advanced language alignment, showing superior capability in English/Chinese generation, instructio
+- [ictnlp/BayLing](https://github.com/ictnlp/BayLing) - “百聆”是一个具有增强的语言对齐的英语/中文大语言模型，具有优越的英语/中文生成、指令跟随、多轮交互等能力。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instructio
 - [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
 - [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
 - [hitz-zentroa/lm-contamination](https://github.com/hitz-zentroa/lm-contamination) - The LM Contamination Index is a manually created database of contamination evidences for LMs.
@@ -12238,6 +12238,7 @@
 - [plasma-disassembler/plasma](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 - [panda-re/panda](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis
 - [dspinellis/UMLGraph](https://github.com/dspinellis/UMLGraph) - Declarative specification and drawing of UML diagrams
+- [dmendel/bindata](https://github.com/dmendel/bindata) - BinData - Reading and Writing Binary Data in Ruby
 
 ## robotics 
 
@@ -12321,7 +12322,7 @@
 - [vaiorabbit/ruby-opengl](https://github.com/vaiorabbit/ruby-opengl) - Yet another OpenGL wrapper for Ruby (and wrapper code generator).
 - [leonid-shevtsov/headless](https://github.com/leonid-shevtsov/headless) - Create a virtual X screen from Ruby, record videos and take screenshots.
 - [cucumber/aruba](https://github.com/cucumber/aruba) - Test command-line applications with Cucumber-Ruby, RSpec or Minitest.
-- [dmendel/bindata](https://github.com/dmendel/bindata) - BinData - Parsing Binary Data in Ruby
+- [dmendel/bindata](https://github.com/dmendel/bindata) - BinData - Reading and Writing Binary Data in Ruby
 - [savonrb/savon](https://github.com/savonrb/savon) - Heavy metal SOAP client
 - [ruby-amqp/amqp](https://github.com/ruby-amqp/amqp) - EventMachine-based RabbitMQ client. Prefer Bunny: http://rubybunny.info. See documentation guides at http://ruby-amqp.github.io/amqp/.
 - [agentcooper/js-ruby-comparison](https://github.com/agentcooper/js-ruby-comparison) - 

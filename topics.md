@@ -6309,7 +6309,7 @@
 - [PicoCreator/Babel-Pile](https://github.com/PicoCreator/Babel-Pile) - Ongoing organised collection of various AI datasets, to eventually encompass the knowledge of all humankind.
 - [EleutherAI/stackexchange-dataset](https://github.com/EleutherAI/stackexchange-dataset) - Python tools for processing the stackexchange data dumps into a text dataset for Language Models
 - [nyu-mll/ILF-for-code-generation](https://github.com/nyu-mll/ILF-for-code-generation) - 
-- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - Interpretability at Scale: Identifying Causal Mechanisms in Alpaca
+- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - A Library for Aligning Causal Variables with Transformers Model
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [PicoCreator/constitution-multi-lang](https://github.com/PicoCreator/constitution-multi-lang) - A collection of multiple nation, constitutional legal documents, with their official language translation.
 - [google-research/url-nlp](https://github.com/google-research/url-nlp) - 
@@ -7620,7 +7620,7 @@
 - [xiaolin3303/wx-charts](https://github.com/xiaolin3303/wx-charts) - 微信小程序图表charts组件，Charts for WeChat Mini Program
 - [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 - [anton-k/monads-for-drummers](https://github.com/anton-k/monads-for-drummers) - Haskell Monad tutorial with pictures
-- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
+- [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [Coq-zh/SF-zh](https://github.com/Coq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
 - [redis/hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
 - [NetSys/NetBricks](https://github.com/NetSys/NetBricks) - NetBricks: A new network function framework based on Rust.

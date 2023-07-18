@@ -2653,7 +2653,6 @@
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
 - [iVis-at-Bilkent/sbgnviz.js](https://github.com/iVis-at-Bilkent/sbgnviz.js) - A web based visualization tool for process description maps in SBGN
-- [chirun-ncl/chirun](https://github.com/chirun-ncl/chirun) - A Python package providing the command line interface for building flexible and accessible content with Chirun.
 - [cscheid/quarto-explainers](https://github.com/cscheid/quarto-explainers) - porting my jekyll+js stuff to quarto+ojs
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [MattFerraro/devsite](https://github.com/MattFerraro/devsite) - The source for the dev site
@@ -3491,7 +3490,7 @@
 - [moose-team/friends](https://github.com/moose-team/friends) - :tv: P2P chat powered by the web.
 - [Rich-Harris/ramjet](https://github.com/Rich-Harris/ramjet) - Morph DOM elements from one state to another with smooth animations and transitions
 - [zroger/xdot.js](https://github.com/zroger/xdot.js) - xdot.js parses GraphViz xdot files into RaphaëlJS graphics.
-- [mdaines/viz-js](https://github.com/mdaines/viz-js) - A hack to put Graphviz on the web.
+- [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser!
 - [steelbreeze/state.js](https://github.com/steelbreeze/state.js) - DEPRECATED, please see @steelbreeze/state
 - [Kozea/umlaut](https://github.com/Kozea/umlaut) - Because a picture is worth a thousand words
 - [darkguy2008/parallelshell](https://github.com/darkguy2008/parallelshell) - Run multiple shell commands in parallel
@@ -3693,7 +3692,7 @@
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 - [WRTnode/openwrt-packages](https://github.com/WRTnode/openwrt-packages) - The additional packages for OpenWrt
 - [gitterHQ/node-gitter](https://github.com/gitterHQ/node-gitter) - Project moved to https://gitlab.com/gitlab-org/gitter/node-gitter
-- [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
+- [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 - [FeeiCN/grw](https://github.com/FeeiCN/grw) - 个人网-个人事务管理系统(已停止维护)
 - [danielstjules/jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code
 - [schteppe/cannon.js](https://github.com/schteppe/cannon.js) - A lightweight 3D physics engine written in JavaScript.
@@ -4675,7 +4674,7 @@
 - [aaren/notedown](https://github.com/aaren/notedown) - Markdown &lt;=&gt; IPython Notebook
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 - [parrt/ml-articles](https://github.com/parrt/ml-articles) - Articles on machine learning
-- [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
+- [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [RussellCloud/Screenshot-to-code-in-Keras](https://github.com/RussellCloud/Screenshot-to-code-in-Keras) - A neural network that transforms a screenshot into a static website
 - [ilkarman/DeepLearningFrameworks](https://github.com/ilkarman/DeepLearningFrameworks) - Demo of running NNs across different frameworks
 - [knjcode/mxnet-finetuner](https://github.com/knjcode/mxnet-finetuner) - An all-in-one Deep Learning toolkit for image classification to fine-tuning pretrained models using MXNet.
@@ -6256,6 +6255,7 @@
 - [ICB-DCM/pyPESTO](https://github.com/ICB-DCM/pyPESTO) - python Parameter EStimation TOolbox
 - [sorgerlab/earm](https://github.com/sorgerlab/earm) - Extrinsic Apoptosis Reaction Model
 - [pybel/pybel](https://github.com/pybel/pybel) - 🌶️ An ecosystem in Python for working with the Biological Expression Language (BEL)
+- [chirun-ncl/chirun](https://github.com/chirun-ncl/chirun) - A Python package providing the command line interface for building flexible and accessible content with Chirun.
 - [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser) - An extended commonmark compliant parser, with bridges to docutils/sphinx
 - [RosettaCommons/RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) - This package contains deep learning models and related scripts for RoseTTAFold
 - [lobolab/mergem](https://github.com/lobolab/mergem) - mergem is a Python package for merging and comparing genome-scale metabolic models
@@ -7566,6 +7566,7 @@
 
 ## Rust 
 
+- [jam1garner/binrw](https://github.com/jam1garner/binrw) - A Rust crate for helping parse and rebuild binary data using ✨macro magic✨.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [google-research/deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) - 

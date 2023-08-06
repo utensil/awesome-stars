@@ -603,6 +603,7 @@
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is
 - [takemaru/graphillion](https://github.com/takemaru/graphillion) - Fast, lightweight graphset operation library
+- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [Chuyu-Team/VC-LTL](https://github.com/Chuyu-Team/VC-LTL) - Shared to msvcrt.dll and optimize the C/C++ application file size.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
@@ -2510,7 +2511,7 @@
 - [stephanenicolas/robospice](https://github.com/stephanenicolas/robospice) - Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports cac
 - [robovm/robovm](https://github.com/robovm/robovm) - For more info see
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
-- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [stanfordnlp/CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
 - [camunda/camunda-eclipse-plugin](https://github.com/camunda/camunda-eclipse-plugin) - The Camunda BPMN 2.0 modeling plugin for Eclipse
 - [jenkinsci/scm-sync-configuration-plugin](https://github.com/jenkinsci/scm-sync-configuration-plugin) - Jenkins scm-sync-configuration plugin
@@ -3533,7 +3534,7 @@
 - [crcn/mesh.js](https://github.com/crcn/mesh.js) - utility library for async iterable iterators
 - [mathquill/mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
 - [titon/toolkit](https://github.com/titon/toolkit) - User interface components built on React.
-- [mephux/envdb](https://github.com/mephux/envdb) - LEGACY use https://github.com/mephux/kolide -- Envdb - Ask your environment questions with osquery.
+- [djcas9/envdb](https://github.com/djcas9/envdb) - LEGACY use https://github.com/mephux/kolide -- Envdb - Ask your environment questions with osquery.
 - [amokjs/amok](https://github.com/amokjs/amok) - Development on hold, playing around with different approaches at the moment
 - [rchipka/node-osmosis](https://github.com/rchipka/node-osmosis) - Web scraper for NodeJS
 - [sagemathinc/smc-public](https://github.com/sagemathinc/smc-public) - See https://github.com/sagemathinc/smc instead!
@@ -3818,7 +3819,7 @@
 - [jnordberg/coffeeify](https://github.com/jnordberg/coffeeify) - browserify transform to compile coffee-script automatically
 - [chrisdickinson/beefy](https://github.com/chrisdickinson/beefy) - local development server that aims to make using browserify fast and fun
 - [ForbesLindesay/run-browser](https://github.com/ForbesLindesay/run-browser) - The simplest way to run testling type tests in the browser
-- [mephux/komanda](https://github.com/mephux/komanda) - The IRC Client For Developers
+- [djcas9/komanda](https://github.com/djcas9/komanda) - The IRC Client For Developers
 - [bruckner/deepViz](https://github.com/bruckner/deepViz) - Visualization tools for deep convolutional networks
 - [space150/boba.js](https://github.com/space150/boba.js) - Need those links tracked? "As you wish."
 - [montagejs/collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
@@ -5163,6 +5164,7 @@
 - [SunLemuria/open_source_chatgpt_list](https://github.com/SunLemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
 - [arjunbansal/awesome-oss-llm-ift-rlhf](https://github.com/arjunbansal/awesome-oss-llm-ift-rlhf) - Collection of open source implementations of LLMs with IFT and RLHF that are striving to get to ChatGPT level of performance
+- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
@@ -5853,6 +5855,8 @@
 
 ## Python 
 
+- [nmwsharp/neural-physics-subspaces](https://github.com/nmwsharp/neural-physics-subspaces) - Fit low-dimensional subspaces to physical systems with neural networks (SIGGRAPH 2023)
+- [huggingface/datasets-server](https://github.com/huggingface/datasets-server) - Lightweight web API for visualizing and exploring all types of datasets - computer vision, speech, text, and tabular - stored on the Hugging Face Hub
 - [chuanyang-Zheng/Progressive-Hint](https://github.com/chuanyang-Zheng/Progressive-Hint) - This is the official implementation of "Progressive-Hint Prompting Improves Reasoning in Large Language Models"
 - [lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools) - gpaw-tools is a powerful and user-friendly UI/GUI tool for conducting Density Functional Theory (DFT) and molecular dynamics (MD) calculations
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
@@ -6132,7 +6136,6 @@
 - [ridgerchu/SpikeGPT](https://github.com/ridgerchu/SpikeGPT) - Implementation of "SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks"
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [hyperonym/basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
-- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [aypan17/machiavelli](https://github.com/aypan17/machiavelli) - 
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
@@ -8488,6 +8491,7 @@
 
 ## TeX 
 
+- [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [cldf-datasets/lgr](https://github.com/cldf-datasets/lgr) - The Leipzig Glossing Rules
 - [namedtensor/notation](https://github.com/namedtensor/notation) - 
@@ -8574,6 +8578,7 @@
 
 ## TypeScript 
 
+- [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [anaclumos/heimdall](https://github.com/anaclumos/heimdall) - Heimdall 🔭 summarizes Hacker News in your language.
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
@@ -8593,7 +8598,6 @@
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [marginnoteapp/milkdown](https://github.com/marginnoteapp/milkdown) - Use milkdown as markdown editor of MarginNote
-- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 - [terrastruct/d2-vscode](https://github.com/terrastruct/d2-vscode) - VSCode extension for D2 files.

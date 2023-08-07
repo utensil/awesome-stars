@@ -99,7 +99,6 @@
 - [R](#r)
 - [Racket](#racket)
 - [Raku](#raku)
-- [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Riot](#riot)
 - [Roff](#roff)
@@ -176,6 +175,7 @@
 ## Astro 
 
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 2.0 and Tailwind CSS. Astro starter theme.
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
 ## AutoHotkey 
@@ -3012,6 +3012,7 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [pablosichert/concurrency-logger](https://github.com/pablosichert/concurrency-logger) - Log HTTP requests/responses separately, visualize their concurrency and report logs/errors in context of a request.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [nenadg/traquer](https://github.com/nenadg/traquer) - Records and reproduces user's in-page behavior
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [scijs/ndarray](https://github.com/scijs/ndarray) - 📈 Multidimensional arrays for JavaScript
@@ -3151,7 +3152,6 @@
 - [romannurik/MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - A handy little Mac app that gives you quick access to the standard material design color palette.
 - [benoitvallon/computer-science-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript) - Computer science reimplemented in JavaScript
 - [fex-team/ua-device](https://github.com/fex-team/ua-device) - userAgent解析库
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [qntm/base65536](https://github.com/qntm/base65536) - Unicode's answer to Base64
 - [dreamdom/JsSpeechRecognizer](https://github.com/dreamdom/JsSpeechRecognizer) - JavaScript Speech Recognizer
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
@@ -4438,6 +4438,7 @@
 
 ## Julia 
 
+- [chakravala/TensorFields.jl](https://github.com/chakravala/TensorFields.jl) - TensorFields with product topology using Grassmann element parameters
 - [milankl/SoftPosit.jl](https://github.com/milankl/SoftPosit.jl) - A posit arithmetic emulator.
 - [overshiki/SymbolicCircuit.jl](https://github.com/overshiki/SymbolicCircuit.jl) - Symbolic system for Qauntum computing, using term rewriting & equality saturation technique to manipulate quantum circuit
 - [JuliaSymbolics/Metatheory.jl](https://github.com/JuliaSymbolics/Metatheory.jl) - General purpose algebraic metaprogramming and symbolic computation library for the Julia programming language: E-Graphs & equality saturation, term rewriting and more.
@@ -4770,7 +4771,7 @@
 ## Kotlin 
 
 - [archguard/archguard](https://github.com/archguard/archguard) - ArchGuard is a architecture workbench, also for architecture governance, which can analysis architecture in container, component, code level, create architecure fitness functions, and anaysis system d
-- [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - AutoDev 是一款基于 JetBrains IDE 的 LLM/AI 辅助编程插件。AutoDev 能够与您的需求管理系统（例如 Jira、Trello、Github Issue 等）直接对接。在 IDE 中，您只需简单点击，AutoDev 会根据您的需求自动为您生成代码。您所需做的，仅仅是对生成的代码进行质量检查。
+- [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍♂️ AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Testing feature 🧪 includ
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 - [owo-lang/intellij-dtlc](https://github.com/owo-lang/intellij-dtlc) - IntelliJ plugin for several experimental programming languages here
 - [Gh0u1L5/WechatMagician](https://github.com/Gh0u1L5/WechatMagician) - WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
@@ -5048,6 +5049,7 @@
 ## OCaml 
 
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
+- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [EasyCrypt/easycrypt](https://github.com/EasyCrypt/easycrypt) - EasyCrypt: Computer-Aided Cryptographic Proofs
 - [coq-community/vscoq](https://github.com/coq-community/vscoq) - A Visual Studio Code extension for Coq [maintainers=@maximedenes,@huynhtrankhanh,@thery,@Blaisorblade]
 - [jrh13/hol-light](https://github.com/jrh13/hol-light) - The HOL Light theorem prover
@@ -5855,6 +5857,8 @@
 
 ## Python 
 
+- [moverzp/GoodBooks](https://github.com/moverzp/GoodBooks) - 推荐你可能喜欢的好书
+- [jeffmeloy/py2dataset](https://github.com/jeffmeloy/py2dataset) - py2dataset analyzes source code to generate structured datasets describing code content and behavior. It extracts information from Python files and converts it into JSON-formatted datasets. These data
 - [nmwsharp/neural-physics-subspaces](https://github.com/nmwsharp/neural-physics-subspaces) - Fit low-dimensional subspaces to physical systems with neural networks (SIGGRAPH 2023)
 - [huggingface/datasets-server](https://github.com/huggingface/datasets-server) - Lightweight web API for visualizing and exploring all types of datasets - computer vision, speech, text, and tabular - stored on the Hugging Face Hub
 - [chuanyang-Zheng/Progressive-Hint](https://github.com/chuanyang-Zheng/Progressive-Hint) - This is the official implementation of "Progressive-Hint Prompting Improves Reasoning in Large Language Models"
@@ -7172,10 +7176,6 @@
 ## Raku 
 
 - [Raku/examples](https://github.com/Raku/examples) - Many examples of Raku code
-
-## Reason 
-
-- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 
 ## Rich Text Format 
 
@@ -8578,6 +8578,7 @@
 
 ## TypeScript 
 
+- [mathigon/textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [anaclumos/heimdall](https://github.com/anaclumos/heimdall) - Heimdall 🔭 summarizes Hacker News in your language.
@@ -8789,7 +8790,6 @@
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [charto/autogypi](https://github.com/charto/autogypi) - Autogypi handles dependencies for node-gyp projects.

@@ -1212,6 +1212,7 @@
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+- [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [oovm/zola-theme-mikoto](https://github.com/oovm/zola-theme-mikoto) - Mikoto Theme for Zola
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [dginev/ar5iv-css](https://github.com/dginev/ar5iv-css) - Some CSS experiments for arXiv HTML documents converted via latexml
@@ -1603,6 +1604,7 @@
 
 ## Go 
 
+- [andbron/yaml-docs](https://github.com/andbron/yaml-docs) - A tool for automatically generating markdown documentation from yaml
 - [rhinouser0/riverpass](https://github.com/rhinouser0/riverpass) - A handy local disk based cache for hot content from remote storage.
 - [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 - [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
@@ -1971,6 +1973,7 @@
 - [greenelab/meta-review](https://github.com/greenelab/meta-review) - Manuscript describing open collaborative writing with Manubot
 - [greenelab/deep-review](https://github.com/greenelab/deep-review) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 - [arxiv-vanity/engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
+- [lclem/jupyter_contrib_nbextensions](https://github.com/lclem/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 - [jasonrute/annotated_lean](https://github.com/jasonrute/annotated_lean) - Annotated lean files
 - [leanprover-community/mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 - [zmitchell/annotation-abuse](https://github.com/zmitchell/annotation-abuse) - Rust-like macros in Python by abusing type annotations
@@ -2661,7 +2664,6 @@
 - [doufen-org/tofu](https://github.com/doufen-org/tofu) - 一款 Chrome 扩展。用于备份豆瓣账号的数据，并支持导出 Excel 文档。
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) - A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting Obsidian内置编辑器的(简体)中文分词支持
-- [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 - [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible and includes networking and XR - across platforms. D
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [dreamfusion3d/dreamfusion3d.github.io](https://github.com/dreamfusion3d/dreamfusion3d.github.io) - 
@@ -2715,7 +2717,6 @@
 - [Keno/julia-wasm](https://github.com/Keno/julia-wasm) - Running julia on wasm
 - [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
-- [lclem/jupyter_contrib_nbextensions](https://github.com/lclem/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
 - [tsherif/glcheck](https://github.com/tsherif/glcheck) - A testing framework for WebGL 1 and 2 applications
@@ -4563,6 +4564,7 @@
 
 ## Jupyter Notebook 
 
+- [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [Mandar-Sharma/OvercomingBarriers](https://github.com/Mandar-Sharma/OvercomingBarriers) - 
 - [EleutherAI/math-lm](https://github.com/EleutherAI/math-lm) - 
 - [guochengqian/Magic123](https://github.com/guochengqian/Magic123) - Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors
@@ -4572,7 +4574,6 @@
 - [cccntu/minLoRA](https://github.com/cccntu/minLoRA) - minLoRA: a minimal PyTorch library that allows you to apply LoRA to any PyTorch model.
 - [niharshah/ReviewerGPT2023](https://github.com/niharshah/ReviewerGPT2023) - 
 - [salesforce/factualNLG](https://github.com/salesforce/factualNLG) - Code for the arXiv paper: "LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond"
-- [SeungyounShin/Llama2-Code-Interpreter](https://github.com/SeungyounShin/Llama2-Code-Interpreter) - Make Llama2 use Code Execution, Debug, Save Code, Reuse it, Access to Internet
 - [Guitaricet/relora](https://github.com/Guitaricet/relora) - Official code for ReLoRA from the paper Stack More Layers Differently: High-Rank Training Through Low-Rank Updates
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [bigscience-workshop/data-preparation](https://github.com/bigscience-workshop/data-preparation) - Code used for sourcing and cleaning the BigScience ROOTS corpus
@@ -4596,7 +4597,7 @@
 - [google/automl](https://github.com/google/automl) - Google Brain AutoML
 - [xbtrainings/GML_May23](https://github.com/xbtrainings/GML_May23) - 
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
-- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [stanfordnlp/string2string](https://github.com/stanfordnlp/string2string) - String-to-String Algorithms for Natural Language Processing
 - [Dsantra92/Julia-on-Colab](https://github.com/Dsantra92/Julia-on-Colab) - Notebook for running Julia on Google Colab
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
@@ -5146,6 +5147,9 @@
 
 ## Others 
 
+- [rjainrjain/SPLASH-2023-data](https://github.com/rjainrjain/SPLASH-2023-data) - 
+- [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
+- [EelcoHoogendoorn/geometric_calculus](https://github.com/EelcoHoogendoorn/geometric_calculus) - Geometric Calculus over discrete and continuous fields
 - [erikthedeveloper/code-review-emoji-guide](https://github.com/erikthedeveloper/code-review-emoji-guide) - An emoji legend to help convey intention and added meaning in code review comments.
 - [AnthonyBordg/isabelle-parallel-corpus](https://github.com/AnthonyBordg/isabelle-parallel-corpus) - 
 - [Yale-LILY/FOLIO](https://github.com/Yale-LILY/FOLIO) - 
@@ -5167,7 +5171,6 @@
 - [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) - 
 - [argilla-io/awesome-llm-datasets](https://github.com/argilla-io/awesome-llm-datasets) - 👩🤝🤖 A curated list of datasets for large language models (LLMs), RLHF and related resources (continually updated)
 - [open-dict-data/ipa-dict](https://github.com/open-dict-data/ipa-dict) - Monolingual wordlists with pronunciation information in IPA
-- [hitz-zentroa/lm-contamination](https://github.com/hitz-zentroa/lm-contamination) - The LM Contamination Index is a manually created database of contamination evidences for LMs.
 - [openFPGA666/FpgaGuide](https://github.com/openFPGA666/FpgaGuide) - 分享FPGA开发知识、优秀文章、学习网站以及开源项目。本项目收集了github中许多FPGA开源项目。
 - [narwhrl/stcn-docs](https://github.com/narwhrl/stcn-docs) - Documentation site of StarTrekChina.
 - [jrin771/Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics) - The world's largest GitHub Repository for LLMs + Robotics
@@ -5229,7 +5232,6 @@
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
 - [TheExplainthis/AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点
-- [EelcoHoogendoorn/geometric_calculus](https://github.com/EelcoHoogendoorn/geometric_calculus) - Geometric Calculus over discrete and continuous fields
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
@@ -5810,7 +5812,7 @@
 - [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB) - Free database of geographic place names and corresponding geospatial data
 - [Tencent/tsf](https://github.com/Tencent/tsf) - coroutine and Swoole based php server framework in tencent
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [lincanbin/Pythonic-PHP-Code-Formatter](https://github.com/lincanbin/Pythonic-PHP-Code-Formatter) - Pythonic PHP code formatter. Just for fun.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
@@ -5848,6 +5850,7 @@
 
 ## PostScript 
 
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - [daly/axiom](https://github.com/daly/axiom) - Axiom is a free, open source computer algebra system
 
 ## PowerShell 
@@ -5882,6 +5885,10 @@
 
 ## Python 
 
+- [py499372727/AgentSims](https://github.com/py499372727/AgentSims) - AgentSims is an easy-to-use infrastructure for researchers from all disciplines to test the specific capacities they are interested in.
+- [tmm1/axolotl](https://github.com/tmm1/axolotl) - Go ahead and axolotl questions
+- [Stonesjtu/pytorch_memlab](https://github.com/Stonesjtu/pytorch_memlab) - Profiling and inspecting memory in pytorch
+- [li-js/gpu_memory_profiling](https://github.com/li-js/gpu_memory_profiling) - Profile the GPU memory usage of every line in a Pytorch code
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [imoneoi/multipack_sampler](https://github.com/imoneoi/multipack_sampler) - Multipack distributed sampler for fast padding-free training of LLMs
 - [LukasHedegaard/pytorch-benchmark](https://github.com/LukasHedegaard/pytorch-benchmark) - Easily benchmark PyTorch model FLOPs, latency, throughput, allocated gpu memory and energy consumption
@@ -5924,7 +5931,7 @@
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) - A robustness evaluation framework for large language models on adversarial prompts
 - [zilliztech/akcio](https://github.com/zilliztech/akcio) - Akcio is a demonstration project for Retrieval Augmented Generation (RAG). It leverages the power of LLM to generate responses and uses vector databases to fetch relevant documents to enhance the qual
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
-- [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen)
+- [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
 - [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Lichang-Chen/InstructZero](https://github.com/Lichang-Chen/InstructZero) - Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!
@@ -5938,6 +5945,7 @@
 - [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
+- [SeungyounShin/Llama2-Code-Interpreter](https://github.com/SeungyounShin/Llama2-Code-Interpreter) - Make Llama2 use Code Execution, Debug, Save Code, Reuse it, Access to Internet
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
 - [lucidrains/st-moe-pytorch](https://github.com/lucidrains/st-moe-pytorch) - Implementation of ST-Moe, the latest incarnation of MoE after years of research at Brain, in Pytorch
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
@@ -6005,6 +6013,7 @@
 - [princeton-nlp/MeZO](https://github.com/princeton-nlp/MeZO) - MeZO: Fine-Tuning Language Models with Just Forward Passes. https://arxiv.org/abs/2305.17333
 - [bigcode-project/bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - A framework for the evaluation of autoregressive code generation language models.
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
+- [hitz-zentroa/lm-contamination](https://github.com/hitz-zentroa/lm-contamination) - The LM Contamination Index is a manually created database of contamination evidences for LMs.
 - [lupantech/PromptPG](https://github.com/lupantech/PromptPG) - Data and code for the ICLR 2023 paper "Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning".
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -6330,7 +6339,7 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
@@ -6404,7 +6413,7 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [ant-research/Pyraformer](https://github.com/ant-research/Pyraformer) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [SunilBoopalan/quantum-chess-Qiskit](https://github.com/SunilBoopalan/quantum-chess-Qiskit) - Quantum Chess.
@@ -7236,6 +7245,7 @@
 
 ## Ruby 
 
+- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [mattnigh/ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/ChatGPT3-Free-Prompt-List) - A free guide for learning to create ChatGPT3 Prompts
 - [paolobrasolin/antex](https://github.com/paolobrasolin/antex) - 
 - [paolobrasolin/jekyll-sheafy](https://github.com/paolobrasolin/jekyll-sheafy) - Brew your own Stacks Project with Jekyll!
@@ -7676,6 +7686,8 @@
 
 ## Rust 
 
+- [rose-lang/rose](https://github.com/rose-lang/rose) - Extensible interactive autodiff.
+- [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [Gadersd/llama2-burn](https://github.com/Gadersd/llama2-burn) - Llama2 LLM ported to Rust burn
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful
@@ -7767,7 +7779,7 @@
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
@@ -8287,6 +8299,7 @@
 
 ## Scala 
 
+- [rbohrer/PieceWork](https://github.com/rbohrer/PieceWork) - Quilting with HoTT
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [lift-project/lift](https://github.com/lift-project/lift) - The Lift programming language and compiler
 - [apache/carbondata](https://github.com/apache/carbondata) - High performance data store solution
@@ -8331,7 +8344,7 @@
 - [practicaldreamer/build-a-dataset](https://github.com/practicaldreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [pinting/SuspiciousKeePassMini](https://github.com/pinting/SuspiciousKeePassMini) - 
-- [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - Library for drawing stuff with Typst. Formerly known as typst-canvas.
+- [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - CetZ - A library for drawing stuff with Typst. Formerly known as typst-canvas.
 - [lamini-ai/lamini](https://github.com/lamini-ai/lamini) - 
 - [loubnabnl/bloom-code-evaluation](https://github.com/loubnabnl/bloom-code-evaluation) - Evaluation of BLOOM on the HumanEval benchmark
 - [ncopa/lddtree](https://github.com/ncopa/lddtree) - Fork of pax-utils' lddtree.sh
@@ -8537,6 +8550,7 @@
 
 ## TeX 
 
+- [GeometryCollective/wost-simple](https://github.com/GeometryCollective/wost-simple) - Simple didactic code + tutorial for the Walk on Stars (WoSt) algorithm
 - [cnewstead/infdesc](https://github.com/cnewstead/infdesc) - An Infinite Descent into Pure Mathematics
 - [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
@@ -8625,6 +8639,7 @@
 
 ## TypeScript 
 
+- [fskpf/svg2roughjs](https://github.com/fskpf/svg2roughjs) - Create sketchy, hand-drawn-like images from SVGs
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Design and Deploy Large Language Model Apps
 - [mathigon/textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files

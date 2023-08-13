@@ -287,8 +287,8 @@
 
 ## ai 
 
+- [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [liutiedong/goat](https://github.com/liutiedong/goat) - a Fine-tuned LLaMA that is Good at Arithmetic Tasks
 - [marella/ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
@@ -802,6 +802,7 @@
 
 ## awesome-list 
 
+- [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [tmcw/awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
@@ -1735,7 +1736,7 @@
 
 ## dart 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [jtransc/jtransc](https://github.com/jtransc/jtransc) - Bytecode to source converting Java & Kotlin code into JavaScript, C++, D, C#, PHP, AS3, Dart and Haxe and run it everywhere. Also use JVM code in your favourite language as a library.
@@ -1775,7 +1776,7 @@
 
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
@@ -2081,7 +2082,7 @@
 - [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 - [novak-99/MLPP](https://github.com/novak-99/MLPP) - A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
@@ -2697,7 +2698,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [gliheng/flutter-app-template](https://github.com/gliheng/flutter-app-template) - Desktop flutter app template
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
@@ -4831,7 +4832,7 @@
 ## laravel 
 
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
@@ -4966,7 +4967,7 @@
 - [CN-TU/machine-learning-in-ebpf](https://github.com/CN-TU/machine-learning-in-ebpf) - This repository contains the code for the paper "A flow-based IDS using Machine Learning in eBPF", Contact: Maximilian Bachl
 - [willfindlay/bpfbox](https://github.com/willfindlay/bpfbox) - 🐝 BPFBox 📦 Exploring process confinement in eBPF
 - [ntop/libebpfflow](https://github.com/ntop/libebpfflow) - Container traffic visibility library based on eBPF
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [cdk-team/CDK](https://github.com/cdk-team/CDK) - 📦  Make security testing of K8s, Docker, and Containerd easier.
 - [guitmz/Fe2O3](https://github.com/guitmz/Fe2O3) - Simple prepender virus written in Rust
@@ -5101,6 +5102,7 @@
 
 ## machine-learning 
 
+- [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [lean-dojo/LeanDojoChatGPT](https://github.com/lean-dojo/LeanDojoChatGPT) - ChatGPT plugin for theorem proving in Lean
@@ -5202,7 +5204,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 - [novak-99/MLPP](https://github.com/novak-99/MLPP) - A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.
@@ -5735,7 +5737,7 @@
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
 - [Oblynx/HTMAssemblyCalculus](https://github.com/Oblynx/HTMAssemblyCalculus) - Neuron assembly calculus with HTM.jl
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [wagamamaz/tensorlayer-tricks](https://github.com/wagamamaz/tensorlayer-tricks) - How to use TensorLayer
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
@@ -6100,7 +6102,7 @@
 - [RobinKa/jaxga](https://github.com/RobinKa/jaxga) - Geometric Algebra package for JAX
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
@@ -6236,6 +6238,18 @@
 
 ## others 
 
+- [rjainrjain/SPLASH-2023-data](https://github.com/rjainrjain/SPLASH-2023-data) - 
+- [rbohrer/PieceWork](https://github.com/rbohrer/PieceWork) - Quilting with HoTT
+- [py499372727/AgentSims](https://github.com/py499372727/AgentSims) - AgentSims is an easy-to-use infrastructure for researchers from all disciplines to test the specific capacities they are interested in.
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+- [rose-lang/rose](https://github.com/rose-lang/rose) - Extensible interactive autodiff.
+- [GeometryCollective/wost-simple](https://github.com/GeometryCollective/wost-simple) - Simple didactic code + tutorial for the Walk on Stars (WoSt) algorithm
+- [tmm1/axolotl](https://github.com/tmm1/axolotl) - Go ahead and axolotl questions
+- [andbron/yaml-docs](https://github.com/andbron/yaml-docs) - A tool for automatically generating markdown documentation from yaml
+- [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
+- [li-js/gpu_memory_profiling](https://github.com/li-js/gpu_memory_profiling) - Profile the GPU memory usage of every line in a Pytorch code
+- [EelcoHoogendoorn/geometric_calculus](https://github.com/EelcoHoogendoorn/geometric_calculus) - Geometric Calculus over discrete and continuous fields
+- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [Gadersd/llama2-burn](https://github.com/Gadersd/llama2-burn) - Llama2 LLM ported to Rust burn
 - [uds-psl/coq-library-complexity](https://github.com/uds-psl/coq-library-complexity) - 
 - [imoneoi/multipack_sampler](https://github.com/imoneoi/multipack_sampler) - Multipack distributed sampler for fast padding-free training of LLMs
@@ -6312,7 +6326,7 @@
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 - [OpenNLPLab/TransnormerLLM](https://github.com/OpenNLPLab/TransnormerLLM) - 
-- [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen)
+- [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Easy-to-use fine-tuning framework using PEFT (PT+SFT+RLHF with QLoRA) (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM2)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
 - [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [DAMO-NLP-SG/Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
@@ -6451,7 +6465,7 @@
 - [tBuLi/kingdon](https://github.com/tBuLi/kingdon) - A symbolically optimized and pythonic Clifford (geometric) algebra library named after none other than William Kingdon Clifford.
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
 - [AranKomat/Alpha-Transformer](https://github.com/AranKomat/Alpha-Transformer) - Alpha Zero equipped with Transformer with various novel techniques for speedup in tree search
-- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
+- [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [OpenGVLab/DragGAN](https://github.com/OpenGVLab/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [xialeiliu/Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) - Awesome Incremental Learning
 - [tjunlp-lab/M3KE](https://github.com/tjunlp-lab/M3KE) - A Massive Multi-Level Multi-Subject Knowledge Evaluation benchmark
@@ -6559,7 +6573,7 @@
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [mweiherer/zero2hero](https://github.com/mweiherer/zero2hero) - Official implementation of "From Zero to Hero: Convincing with Extremely Complicated Math".
 - [mlfoundations/datacomp](https://github.com/mlfoundations/datacomp) - DataComp: In search of the next generation of multimodal datasets
-- [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - Library for drawing stuff with Typst. Formerly known as typst-canvas.
+- [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - CetZ - A library for drawing stuff with Typst. Formerly known as typst-canvas.
 - [fenjalien/circuitypst](https://github.com/fenjalien/circuitypst) - A port of circuitikz to Typst using typst-canvas!
 - [slds-lmu/seminar_multimodal_dl](https://github.com/slds-lmu/seminar_multimodal_dl) - https://slds-lmu.github.io/seminar_multimodal_dl/
 - [mbzuai-nlp/LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
@@ -6798,7 +6812,6 @@
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
 - [flier/rust-fasthash](https://github.com/flier/rust-fasthash) - A suite of non-cryptographic hash functions for Rust.
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/fo
-- [EelcoHoogendoorn/geometric_calculus](https://github.com/EelcoHoogendoorn/geometric_calculus) - Geometric Calculus over discrete and continuous fields
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [030/p2iwd](https://github.com/030/p2iwd) - Pull and Push Images Without Docker (P2IWD).
@@ -11469,7 +11482,7 @@
 
 ## p2p 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [perlin-network/smart-contract-rs](https://github.com/perlin-network/smart-contract-rs) - Write WebAssembly smart contracts for Wavelet in Rust.
 - [ipfs/distributed-wikipedia-mirror](https://github.com/ipfs/distributed-wikipedia-mirror) - Putting Wikipedia Snapshots on IPFS
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
@@ -11566,7 +11579,7 @@
 - [zhblue/hustoj](https://github.com/zhblue/hustoj) - Popular Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 开源OJ系统
 - [reeze/tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
 - [Tencent/tsf](https://github.com/Tencent/tsf) - coroutine and Swoole based php server framework in tencent
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [lastguest/pixeler](https://github.com/lastguest/pixeler) - CLI image renderer
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
@@ -11761,7 +11774,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equation
@@ -12106,6 +12119,7 @@
 
 ## pytorch 
 
+- [Stonesjtu/pytorch_memlab](https://github.com/Stonesjtu/pytorch_memlab) - Profiling and inspecting memory in pytorch
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [LukasHedegaard/pytorch-benchmark](https://github.com/LukasHedegaard/pytorch-benchmark) - Easily benchmark PyTorch model FLOPs, latency, throughput, allocated gpu memory and energy consumption
@@ -12170,7 +12184,7 @@
 - [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research
 - [numenta/nupic.torch](https://github.com/numenta/nupic.torch) - Numenta Platform for Intelligent Computing PyTorch libraries
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [google-research/torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
@@ -12606,6 +12620,7 @@
 
 ## rust 
 
+- [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Design and Deploy Large Language Model Apps
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -12663,7 +12678,7 @@
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - A purpose-built proxy for the Linkerd service mesh. Written in Rust.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
@@ -13146,6 +13161,7 @@
 
 ## serverless 
 
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [runpod/runpod-python](https://github.com/runpod/runpod-python) - 🐍 | Python library for RunPod API and serverless worker SDK.
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
@@ -13206,6 +13222,7 @@
 
 ## sketch 
 
+- [fskpf/svg2roughjs](https://github.com/fskpf/svg2roughjs) - Create sketchy, hand-drawn-like images from SVGs
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [casesandberg/react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
@@ -13414,7 +13431,7 @@
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
+- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [wagamamaz/tensorlayer-tricks](https://github.com/wagamamaz/tensorlayer-tricks) - How to use TensorLayer
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
@@ -13818,7 +13835,7 @@
 - [Zulko/eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 - [rlindskog/vueniverse](https://github.com/rlindskog/vueniverse) - Full stack, user based, PWA, Vue template.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [akrymski/espresso.js](https://github.com/akrymski/espresso.js) - Super minimal MVC library
 
 ## web 

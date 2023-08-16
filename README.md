@@ -30,6 +30,7 @@
 - [Cuda](#cuda)
 - [Cython](#cython)
 - [D2](#d2)
+- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -591,6 +592,8 @@
 
 ## C++ 
 
+- [neuronsimulator/nrn](https://github.com/neuronsimulator/nrn) - NEURON Simulator
+- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
 - [idiap/gafro](https://github.com/idiap/gafro) - An efficient c++ library targeting robotics applications using geometric algebra
 - [google/cld3](https://github.com/google/cld3) - 
 - [bsolomon1124/pycld3](https://github.com/bsolomon1124/pycld3) - Python3 bindings for the Compact Language Detector v3 (CLD3)
@@ -621,7 +624,7 @@
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [hsutter/cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -&gt; Syntax 1 compiler
 - [frida/cryptoshark](https://github.com/frida/cryptoshark) - Self-optimizing cross-platform code tracer based on dynamic recompilation
-- [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - 暂停维护 | ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
+- [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 - [nmwsharp/geometry-central](https://github.com/nmwsharp/geometry-central) - Applied 3D geometry in C++, with a focus on surface meshes.
 - [nmwsharp/polyscope](https://github.com/nmwsharp/polyscope) - A C++ & Python viewer for 3D data like meshes and point clouds
 - [GeometryCollective/ddg-exercises](https://github.com/GeometryCollective/ddg-exercises) - Assignment skeleton for course on Discrete Differential Geometry (15-458/858)
@@ -1501,6 +1504,10 @@
 
 - [terrastruct/d2-docs](https://github.com/terrastruct/d2-docs) - Language documentation and blog for D2.
 
+## DIGITAL Command Language 
+
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
+
 ## Dart 
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
@@ -1614,7 +1621,7 @@
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI
 - [alasdairforsythe/tokenmonster](https://github.com/alasdairforsythe/tokenmonster) - Ungreedy subword tokenizer and vocabulary trainer for Python, Go & Javascript
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [euphoricrhino/cg](https://github.com/euphoricrhino/cg) - arbitrary precision clebsch-gordan coefficients for SO(3)
 - [euphoricrhino/sakurai-go](https://github.com/euphoricrhino/sakurai-go) - 
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
@@ -1935,7 +1942,7 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-- [candiddev/homechart](https://github.com/candiddev/homechart) - Announcements, feedback, issues, and Q&A for Homechart
+- [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [safino9/SourceGo](https://github.com/safino9/SourceGo) - 阅读3.0源
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -2589,6 +2596,7 @@
 
 ## JavaScript 
 
+- [mcdougallab/modeldb](https://github.com/mcdougallab/modeldb) - ModelDB 2020 redesign
 - [impermeable/waterproof](https://github.com/impermeable/waterproof) - Waterproof is an educational environment for writing mathematical proofs in interactive notebooks. See the readme file for install instructions.
 - [google/mathsteps](https://github.com/google/mathsteps) - Step by step math solutions for everyone
 - [exif-heic-js/exif-heic-js](https://github.com/exif-heic-js/exif-heic-js) - JavaScript library for reading EXIF image metadata from HEIC files
@@ -5661,7 +5669,6 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [wyn/npscipy-binaries](https://github.com/wyn/npscipy-binaries) - Binaries for numpy/scipy on 64bit debian.  Includes blas/lapack/atlas/gfortran archive and so files.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [cortical-io/Public](https://github.com/cortical-io/Public) - SDK, Sample-Code, UI-Widgets, Demos
 - [componentjs/guide](https://github.com/componentjs/guide) - A Guide to Component
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -5885,6 +5892,10 @@
 
 ## Python 
 
+- [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
+- [prex1030/xppy](https://github.com/prex1030/xppy) - [UNMAINTAINED] XPPy is Python interface for Bard Ermentrout's XPP.
+- [jsnowacki/xppy](https://github.com/jsnowacki/xppy) - [UNMAINTAINED] XPPy is Python interface for Bard Ermentrout's XPP.
+- [Gryphe/BlockMerge_Gradient](https://github.com/Gryphe/BlockMerge_Gradient) - Merge Transformers language models by use of gradient parameters.
 - [py499372727/AgentSims](https://github.com/py499372727/AgentSims) - AgentSims is an easy-to-use infrastructure for researchers from all disciplines to test the specific capacities they are interested in.
 - [tmm1/axolotl](https://github.com/tmm1/axolotl) - Go ahead and axolotl questions
 - [Stonesjtu/pytorch_memlab](https://github.com/Stonesjtu/pytorch_memlab) - Profiling and inspecting memory in pytorch
@@ -5967,7 +5978,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [ictnlp/BayLing](https://github.com/ictnlp/BayLing) - “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chines
 - [onesuper/HuggingFace-Datasets-Text-Quality-Analysis](https://github.com/onesuper/HuggingFace-Datasets-Text-Quality-Analysis) - Retrieves parquet files from Hugging Face, identifies and quantifies junky data, duplication, contamination, and biased content in dataset using pandas
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [izikeros/trend_classifier](https://github.com/izikeros/trend_classifier) - Library for automated signal segmentation, trend classification and analysis.
 - [rafa-rod/pytrendseries](https://github.com/rafa-rod/pytrendseries) - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
@@ -6171,7 +6182,7 @@
 - [internetarchive/warc](https://github.com/internetarchive/warc) - Python library for reading and writing warc files
 - [openzim/warc2zim](https://github.com/openzim/warc2zim) - Command line tool to convert a file in the WARC format to a file in the ZIM format
 - [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.
-- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A programming language for large language models.
+- [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for typed, constraint-guided and efficient LLM programming.
 - [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve) - ⚡ Langchain Apps on Production with Jina & FastAPI 🚀
 - [alvarosevilla95/opencopilot](https://github.com/alvarosevilla95/opencopilot) - 
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
@@ -6218,6 +6229,7 @@
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Operating System for AI Agents
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答
 - [deepmind/dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
@@ -6317,7 +6329,7 @@
 - [randaller/llama-chat](https://github.com/randaller/llama-chat) - Chat with Meta's LLaMA models at home made easy
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
@@ -7685,6 +7697,7 @@
 
 ## Rust 
 
+- [anandijain/leetcode_evals](https://github.com/anandijain/leetcode_evals) - 
 - [rose-lang/rose](https://github.com/rose-lang/rose) - Extensible interactive autodiff.
 - [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [Gadersd/llama2-burn](https://github.com/Gadersd/llama2-burn) - Llama2 LLM ported to Rust burn
@@ -7717,7 +7730,7 @@
 - [flier/rust-fasthash](https://github.com/flier/rust-fasthash) - A suite of non-cryptographic hash functions for Rust.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [lurk-lab/lurk-rs](https://github.com/lurk-lab/lurk-rs) - Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
@@ -8678,7 +8691,6 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Dashboard for the e2b platform - Operating System for AI Agents
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.

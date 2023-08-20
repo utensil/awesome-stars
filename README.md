@@ -2139,7 +2139,7 @@
 - [pazguille/github-card](https://github.com/pazguille/github-card) - :octocat: A web component to show a card for your GitHub profile
 - [outdatedbrowser/outdated-browser](https://github.com/outdatedbrowser/outdated-browser) - A simple tool to identify and upgrade old browsers.
 - [p1100i/quadtree2.js](https://github.com/p1100i/quadtree2.js) - a 2D region based quadtree in JS
-- [Xeoncross/jr](https://github.com/Xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
+- [xeoncross/jr](https://github.com/xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [superherojs/superherojs](https://github.com/superherojs/superherojs) - Superhero JavaScript
@@ -5104,7 +5104,7 @@
 - [coq-community/vscoq](https://github.com/coq-community/vscoq) - A Visual Studio Code extension for Coq [maintainers=@maximedenes,@huynhtrankhanh,@thery,@Blaisorblade]
 - [jrh13/hol-light](https://github.com/jrh13/hol-light) - The HOL Light theorem prover
 - [akr/codegen](https://github.com/akr/codegen) - Coq plugin for monomorphization and C code generation
-- [coq/opam-coq-archive](https://github.com/coq/opam-coq-archive) - Archive for all Coq related OPAM packages organized in various repositories
+- [coq/opam](https://github.com/coq/opam) - Archive for all Coq related OPAM packages organized in various repositories
 - [kennetpostigo/lwt-node](https://github.com/kennetpostigo/lwt-node) - Reason Implementation of Node.js API  ✨🏎🚀✨
 - [johnwhitington/camlpdf](https://github.com/johnwhitington/camlpdf) - OCaml library for reading, writing and modifying PDF files
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
@@ -5174,6 +5174,7 @@
 
 ## Others 
 
+- [sitandr/conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
 - [rjainrjain/SPLASH-2023-data](https://github.com/rjainrjain/SPLASH-2023-data) - 
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [EelcoHoogendoorn/geometric_calculus](https://github.com/EelcoHoogendoorn/geometric_calculus) - Geometric Calculus over discrete and continuous fields
@@ -7722,6 +7723,10 @@
 
 ## Rust 
 
+- [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
+- [Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book) - A simple tool for creating modern online books in pure typst.
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
+- [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [digama0/lean-rs](https://github.com/digama0/lean-rs) - High level Lean 4 FFI for Rust
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [SchrodingerZhu/hashbrown4lean](https://github.com/SchrodingerZhu/hashbrown4lean) - 
@@ -8381,7 +8386,7 @@
 ## Shell 
 
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
-- [practicaldreamer/build-a-dataset](https://github.com/practicaldreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
+- [practical-dreamer/build-a-dataset](https://github.com/practical-dreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [pinting/SuspiciousKeePassMini](https://github.com/pinting/SuspiciousKeePassMini) - 
 - [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - CetZ - A library for drawing stuff with Typst. Formerly known as typst-canvas.
@@ -8593,6 +8598,7 @@
 
 ## TeX 
 
+- [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
 - [gjoncas/Diagrammatic](https://github.com/gjoncas/Diagrammatic) - Philosophy diagrams in Ti𝑘Z
 - [gjoncas/Lacan-Mathemes](https://github.com/gjoncas/Lacan-Mathemes) - Ti𝑘Z diagrams of mathemes from Lacanian psychoanalysis
 - [GeometryCollective/wost-simple](https://github.com/GeometryCollective/wost-simple) - Simple didactic code + tutorial for the Walk on Stars (WoSt) algorithm

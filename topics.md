@@ -1797,6 +1797,7 @@
 
 ## data-science 
 
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
 - [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
 - [HKUNLP/DS-1000](https://github.com/HKUNLP/DS-1000) - [ICML 2023] Official data and code release for the paper "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation".
@@ -5933,6 +5934,7 @@
 
 ## nodejs 
 
+- [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -6249,6 +6251,10 @@
 
 ## others 
 
+- [sitandr/conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
+- [Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book) - A simple tool for creating modern online books in pure typst.
+- [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
+- [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [EdAyers/ProofWidgets4](https://github.com/EdAyers/ProofWidgets4) - Helper toolkit for creating your own Lean 4 UserWidgets
 - [ImperialCollegeLondon/M1F-explained](https://github.com/ImperialCollegeLondon/M1F-explained) - A computer formalisation of parts of Martin Liebeck's book "a concise introduction to pure mathematics"
 - [bridgekat/filter-game](https://github.com/bridgekat/filter-game) - Lean 4 version of the filter game.
@@ -6406,7 +6412,7 @@
 - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐
 - [JamesLMilner/terra-draw](https://github.com/JamesLMilner/terra-draw) - Cross provider map drawing library, supporting Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box
 - [leaflet-extras/leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
-- [practicaldreamer/build-a-dataset](https://github.com/practicaldreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
+- [practical-dreamer/build-a-dataset](https://github.com/practical-dreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
 - [naproche/naproche](https://github.com/naproche/naproche) - Write formal proofs in natural language and Latex.
 - [vast-ai/vast-python](https://github.com/vast-ai/vast-python) - Vast.ai python and cli api client
 - [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
@@ -7497,7 +7503,7 @@
 - [JuliaDocs/DocStringExtensions.jl](https://github.com/JuliaDocs/DocStringExtensions.jl) - Extensions for Julia's docsystem.
 - [Andlon/numeric_literals](https://github.com/Andlon/numeric_literals) - Easily cope with numeric literals in generic Rust code
 - [PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust](https://github.com/PacktPublishing/Hands-On-Data-Structures-and-Algorithms-with-Rust) - Hands-On Data Structures and Algorithms with Rust, published by Packt
-- [coq/opam-coq-archive](https://github.com/coq/opam-coq-archive) - Archive for all Coq related OPAM packages organized in various repositories
+- [coq/opam](https://github.com/coq/opam) - Archive for all Coq related OPAM packages organized in various repositories
 - [thery/GeometricAlgebra](https://github.com/thery/GeometricAlgebra) - Work based on http://www-sop.inria.fr/marelle/GeometricAlgebra/
 - [HoTT/Coq-HoTT](https://github.com/HoTT/Coq-HoTT) - A Coq library for Homotopy Type Theory
 - [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters]
@@ -10097,7 +10103,7 @@
 - [ValveSoftware/vogl](https://github.com/ValveSoftware/vogl) - OpenGL capture / playback debugger.
 - [AriaMinaei/Griddify](https://github.com/AriaMinaei/Griddify) - A tiny Photoshop panel to make guides and grids
 - [SimonVT/schematic](https://github.com/SimonVT/schematic) - Automatically generate ContentProviders
-- [Xeoncross/jr](https://github.com/Xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
+- [xeoncross/jr](https://github.com/xeoncross/jr) - Jr. the static, static javascript site generator (you should see this)
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib) - Android Library to build a UI Card
@@ -12660,6 +12666,7 @@
 
 ## rust 
 
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Design and Deploy Large Language Model Apps

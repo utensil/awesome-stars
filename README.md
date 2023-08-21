@@ -1217,6 +1217,8 @@
 
 ## CSS 
 
+- [getpelican/pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
+- [leanprover-community/lean4web](https://github.com/leanprover-community/lean4web) - 
 - [UofSC-Spring-2023-SCHC-411-H01/uofsc-spring-2023-schc-411-h01.github.io](https://github.com/UofSC-Spring-2023-SCHC-411-H01/uofsc-spring-2023-schc-411-h01.github.io) - 
 - [ml4code/ml4code.github.io](https://github.com/ml4code/ml4code.github.io) - Website for "A Survey of Machine Learning for Big Code and Naturalness"
 - [connorferster/handcalcs](https://github.com/connorferster/handcalcs) - Python library for converting Python calculations into rendered latex.
@@ -1930,6 +1932,9 @@
 
 ## HTML 
 
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
+- [alectryon-paper/alectryon-paper.github.io](https://github.com/alectryon-paper/alectryon-paper.github.io) - 
+- [champsproject/ldds](https://github.com/champsproject/ldds) - Python package for computing and visualizing Lagrangian Descriptors in Dynamical Systems
 - [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
 - [UofSC-Fall-2022-Math-300-H01/UofSC-Fall-2022-Math-300-H01.github.io](https://github.com/UofSC-Fall-2022-Math-300-H01/UofSC-Fall-2022-Math-300-H01.github.io) - Course website for Fall 2022 Transition to Advanced Mathematics at the University of South Carolina.
 - [hrmacbeth/math2001](https://github.com/hrmacbeth/math2001) - Lecture notes for a course on writing proofs, on paper and in the Lean proof assistant
@@ -2603,6 +2608,7 @@
 
 ## JavaScript 
 
+- [ConnorBaker/theorem-proving-in-lean4](https://github.com/ConnorBaker/theorem-proving-in-lean4) - 
 - [mcdougallab/modeldb](https://github.com/mcdougallab/modeldb) - ModelDB 2020 redesign
 - [impermeable/waterproof](https://github.com/impermeable/waterproof) - Waterproof is an educational environment for writing mathematical proofs in interactive notebooks. See the readme file for install instructions.
 - [google/mathsteps](https://github.com/google/mathsteps) - Step by step math solutions for everyone
@@ -2634,7 +2640,7 @@
 - [ant-tool/atool-l10n](https://github.com/ant-tool/atool-l10n) - 🌍 localized message files generating automatic solution
 - [locize/translation-check](https://github.com/locize/translation-check) - This package shows an overview of your translations. Check which keys are not yet translated.
 - [stanford-crfm/ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs) - 
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款ChatGPT的畅聊、增强、数据安全插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异、数据安全等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁、安全。
 - [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
 - [hnmr293/posex](https://github.com/hnmr293/posex) - Posex - Estimated Image Generator for Pose2Image
 - [keldenl/gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - A llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
@@ -4461,6 +4467,7 @@
 
 ## Julia 
 
+- [JuliaHolomorphic/ComplexPhasePortrait.jl](https://github.com/JuliaHolomorphic/ComplexPhasePortrait.jl) - Complex phase portraits for Julia.
 - [JuliaDynamics/LagrangianDescriptors.jl](https://github.com/JuliaDynamics/LagrangianDescriptors.jl) - Painting the phase portrait of random and deterministic systems
 - [JuliaPlots/UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) - Unicode-based scientific plotting for working in the terminal
 - [chakravala/TensorFields.jl](https://github.com/chakravala/TensorFields.jl) - TensorFields with product topology using Grassmann element parameters
@@ -4579,6 +4586,10 @@
 
 ## Jupyter Notebook 
 
+- [weisscharlesj/SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - Scientific Computing for Chemists text for teaching basic computing skills to chemistry students using Python, Jupyter notebooks, and the SciPy stack. This text makes use of a variety of packages incl
+- [particle1331/ok-transformer](https://github.com/particle1331/ok-transformer) - Exploring machine learning engineering and operations. ❚
+- [bigcode-project/octopack](https://github.com/bigcode-project/octopack) - 🐙 OctoPack: Instruction Tuning Code Large Language Models
+- [champsproject/lagrangian_descriptors](https://github.com/champsproject/lagrangian_descriptors) - Repo to host book about Lagrangian Descriptors technique
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [Mandar-Sharma/OvercomingBarriers](https://github.com/Mandar-Sharma/OvercomingBarriers) - 
 - [EleutherAI/math-lm](https://github.com/EleutherAI/math-lm) - 
@@ -4828,6 +4839,8 @@
 
 ## Lean 
 
+- [gebner/quote4](https://github.com/gebner/quote4) - Intuitive, type-safe expression quotations for Lean 4.
+- [Kha/do-supplement](https://github.com/Kha/do-supplement) - Supplement of the ICFP'22 paper "‘do’ Unchained: Embracing Local Imperativity in a Purely Functional Language"
 - [EdAyers/ProofWidgets4](https://github.com/EdAyers/ProofWidgets4) - Helper toolkit for creating your own Lean 4 UserWidgets
 - [ImperialCollegeLondon/M1F-explained](https://github.com/ImperialCollegeLondon/M1F-explained) - A computer formalisation of parts of Martin Liebeck's book "a concise introduction to pure mathematics"
 - [bridgekat/filter-game](https://github.com/bridgekat/filter-game) - Lean 4 version of the filter game.
@@ -5174,6 +5187,8 @@
 
 ## Others 
 
+- [bruvellu/evodevo-papers](https://github.com/bruvellu/evodevo-papers) - Streaming the latest papers about evolutionary developmental biology
+- [vwOvOwv/2023-Spring-Developmental-Biology](https://github.com/vwOvOwv/2023-Spring-Developmental-Biology) - 
 - [sitandr/conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
 - [rjainrjain/SPLASH-2023-data](https://github.com/rjainrjain/SPLASH-2023-data) - 
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -5912,6 +5927,8 @@
 
 ## Python 
 
+- [microsoft/cliffordlayers](https://github.com/microsoft/cliffordlayers) - 
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [wellecks/llmstep](https://github.com/wellecks/llmstep) - llmstep: [L]LM proofstep suggestions in Lean 4.
 - [phaseportrait/phaseportrait](https://github.com/phaseportrait/phaseportrait) - A simple way to do 2D and 3D phase portraits.
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
@@ -7723,6 +7740,8 @@
 
 ## Rust 
 
+- [boomshroom/cga](https://github.com/boomshroom/cga) - Conformal Geometric Algebra library in rust
+- [LemonHX/lean4-rs](https://github.com/LemonHX/lean4-rs) - rust binding for lean4
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 - [Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book) - A simple tool for creating modern online books in pure typst.
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
@@ -8385,6 +8404,7 @@
 
 ## Shell 
 
+- [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [practical-dreamer/build-a-dataset](https://github.com/practical-dreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
@@ -8598,6 +8618,7 @@
 
 ## TeX 
 
+- [champsproject/chem_react_dyn](https://github.com/champsproject/chem_react_dyn) - Book on Chemical Reactions and Dynamical Systems
 - [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
 - [gjoncas/Diagrammatic](https://github.com/gjoncas/Diagrammatic) - Philosophy diagrams in Ti𝑘Z
 - [gjoncas/Lacan-Mathemes](https://github.com/gjoncas/Lacan-Mathemes) - Ti𝑘Z diagrams of mathemes from Lacanian psychoanalysis
@@ -9038,6 +9059,7 @@
 
 ## WebAssembly 
 
+- [Wasm-DSL/spectec](https://github.com/Wasm-DSL/spectec) - Wasm SpecTec specification tools
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 

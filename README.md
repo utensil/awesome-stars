@@ -1932,6 +1932,7 @@
 
 ## HTML 
 
+- [mimmackk/unitball](https://github.com/mimmackk/unitball) - Graphing the p-norm unit ball in 2 dimensions is a common exercise introductory analysis. Explore the problem solving process of modeling the 3-dimensional version, a much more difficult problem, usin
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [alectryon-paper/alectryon-paper.github.io](https://github.com/alectryon-paper/alectryon-paper.github.io) - 
 - [champsproject/ldds](https://github.com/champsproject/ldds) - Python package for computing and visualizing Lagrangian Descriptors in Dynamical Systems
@@ -2851,7 +2852,7 @@
 - [ElemeFE/v-charts](https://github.com/ElemeFE/v-charts) - 基于 Vue2.0 和 ECharts 封装的图表组件📈📊
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [webpack-contrib/webpack-command](https://github.com/webpack-contrib/webpack-command) - [DEPRECATED] Lightweight, modular, and opinionated webpack CLI that provides a superior experience
-- [utensil/slides](https://github.com/utensil/slides) - My slides using reveal-md and https://gitpitch.com/
+- [utensil/slides](https://github.com/utensil/slides) - My slides using reveal-md
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [s0md3v/Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
@@ -5057,7 +5058,6 @@
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [httpwg/http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 - [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [bitemyapp/learnhaskell](https://github.com/bitemyapp/learnhaskell) - Learn Haskell
 - [vetter/shoc](https://github.com/vetter/shoc) - The SHOC Benchmark Suite
@@ -5617,6 +5617,7 @@
 - [addyosmani/es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5) - WIP - ES6 Equivalents In ES5
 - [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [natewren/moonshine-iconpack](https://github.com/natewren/moonshine-iconpack) - Graphical Assets for the Moonshine Icon Pack on Google Play
 - [evilsocket/bettercap](https://github.com/evilsocket/bettercap) - DEPRECATED, bettercap developement moved here: https://github.com/bettercap/bettercap
 - [JerryLead/SparkInternals](https://github.com/JerryLead/SparkInternals) - Notes talking about the design and implementation of Apache Spark
@@ -5927,6 +5928,7 @@
 
 ## Python 
 
+- [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - 
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [microsoft/cliffordlayers](https://github.com/microsoft/cliffordlayers) - 
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.

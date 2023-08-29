@@ -597,6 +597,8 @@
 
 ## C++ 
 
+- [HackerPoet/Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
+- [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [RobinKa/ConstGA](https://github.com/RobinKa/ConstGA) - Geometric Algebra in C++ using constexpr to compile out zeros (WIP)
 - [sudgy/sga](https://github.com/sudgy/sga) - A basic, sparse, and decently efficient geometric algebra library in C++
 - [neuronsimulator/nrn](https://github.com/neuronsimulator/nrn) - NEURON Simulator
@@ -1936,7 +1938,6 @@
 ## HTML 
 
 - [mimmackk/unitball](https://github.com/mimmackk/unitball) - Graphing the p-norm unit ball in 2 dimensions is a common exercise introductory analysis. Explore the problem solving process of modeling the 3-dimensional version, a much more difficult problem, usin
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [alectryon-paper/alectryon-paper.github.io](https://github.com/alectryon-paper/alectryon-paper.github.io) - 
 - [champsproject/ldds](https://github.com/champsproject/ldds) - Python package for computing and visualizing Lagrangian Descriptors in Dynamical Systems
 - [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
@@ -2612,6 +2613,7 @@
 
 ## JavaScript 
 
+- [3b1b/perseus](https://github.com/3b1b/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
 - [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 - [ConnorBaker/theorem-proving-in-lean4](https://github.com/ConnorBaker/theorem-proving-in-lean4) - 
@@ -2970,7 +2972,7 @@
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [shadiakiki1986/options-strategy-visualizer](https://github.com/shadiakiki1986/options-strategy-visualizer) - Small tool that plots the total payoff of a strategy combining  financial call/put options and/or the underlying
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
-- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books everyone should read!
+- [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
 - [PaulOlteanu/Railscasts-Renewed](https://github.com/PaulOlteanu/Railscasts-Renewed) - Syntax theme for VSCode
@@ -3869,7 +3871,6 @@
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [mapmeld/gitjk](https://github.com/mapmeld/gitjk) - Undo what you just did in git
-- [kikinteractive/app](https://github.com/kikinteractive/app) - Instant mobile web app creation
 - [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors
 - [sporto/planetproto](https://github.com/sporto/planetproto) - Understanding JavaScript Prototypes - Workshop
 - [pwmckenna/node-travis-ci](https://github.com/pwmckenna/node-travis-ci) - node library to access the Travis-CI API
@@ -4473,6 +4474,9 @@
 
 ## Julia 
 
+- [GuidoDipietro/julia-small-rubiks-cube-model](https://github.com/GuidoDipietro/julia-small-rubiks-cube-model) - A 2x2x2 Rubik's Cube (or just the corners of a 3x3x3 Cube) modelled in the Julia Programming Language. (Not a solver!)
+- [miguelraz/Rubin.jl](https://github.com/miguelraz/Rubin.jl) - A rule based integrator written in Julia called Rubin, because lord know we need a world with less Stephens slapping their name on everything and more recognition of Vera Rubin.
+- [gronniger/RubiSymbolics.jl](https://github.com/gronniger/RubiSymbolics.jl) - Project to translate Rubi Rules to Julia and make available for Symbolics.jl
 - [JuliaHolomorphic/ComplexPhasePortrait.jl](https://github.com/JuliaHolomorphic/ComplexPhasePortrait.jl) - Complex phase portraits for Julia.
 - [JuliaDynamics/LagrangianDescriptors.jl](https://github.com/JuliaDynamics/LagrangianDescriptors.jl) - Painting the phase portrait of random and deterministic systems
 - [JuliaPlots/UnicodePlots.jl](https://github.com/JuliaPlots/UnicodePlots.jl) - Unicode-based scientific plotting for working in the terminal
@@ -4603,7 +4607,7 @@
 - [guochengqian/Magic123](https://github.com/guochengqian/Magic123) - Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors
 - [nglviewer/nglview](https://github.com/nglviewer/nglview) - Jupyter widget to interactively view molecular structures and trajectories
 - [materialsvirtuallab/matgenb](https://github.com/materialsvirtuallab/matgenb) - Jupyter notebooks demonstrating the utilization of open-source codes for the study of materials science.
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [cccntu/minLoRA](https://github.com/cccntu/minLoRA) - minLoRA: a minimal PyTorch library that allows you to apply LoRA to any PyTorch model.
 - [niharshah/ReviewerGPT2023](https://github.com/niharshah/ReviewerGPT2023) - 
 - [salesforce/factualNLG](https://github.com/salesforce/factualNLG) - Code for the arXiv paper: "LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond"
@@ -4845,6 +4849,14 @@
 
 ## Lean 
 
+- [verified-optimization/CvxLean](https://github.com/verified-optimization/CvxLean) - A verified convex optimization framework
+- [ianjauslin-rutgers/pythagoras4](https://github.com/ianjauslin-rutgers/pythagoras4) - Many proofs of the Pythagoras theorem - Lean 4
+- [ah1112/synthetic_euclid_4](https://github.com/ah1112/synthetic_euclid_4) - 
+- [adamtopaz/lean_grader](https://github.com/adamtopaz/lean_grader) - 
+- [hargoniX/nest-slimcheck](https://github.com/hargoniX/nest-slimcheck) - 
+- [hargoniX/nest-core](https://github.com/hargoniX/nest-core) - 
+- [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
+- [YaelDillies/LeanAPAP](https://github.com/YaelDillies/LeanAPAP) - Formalisation of the Kelley-Meka bound on Roth numbers
 - [gebner/quote4](https://github.com/gebner/quote4) - Intuitive, type-safe expression quotations for Lean 4.
 - [Kha/do-supplement](https://github.com/Kha/do-supplement) - Supplement of the ICFP'22 paper "‘do’ Unchained: Embracing Local Imperativity in a Purely Functional Language"
 - [EdAyers/ProofWidgets4](https://github.com/EdAyers/ProofWidgets4) - Helper toolkit for creating your own Lean 4 UserWidgets
@@ -5106,6 +5118,7 @@
 
 ## Nix 
 
+- [nomeata/loogle](https://github.com/nomeata/loogle) - Mathlib search tool
 - [adfaure/kodama-theme](https://github.com/adfaure/kodama-theme) - Theme for zola inspired by hugo academic theme.
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
 - [lurk-lab/OpenGL.lean](https://github.com/lurk-lab/OpenGL.lean) - OpenGL Lean bindings (WIP)
@@ -5191,6 +5204,8 @@
 
 ## Others 
 
+- [orhonovich/unnatural-instructions](https://github.com/orhonovich/unnatural-instructions) - 
+- [sympy/sympy_rubi](https://github.com/sympy/sympy_rubi) - SymPy Rule-Based Integrator
 - [bruvellu/evodevo-papers](https://github.com/bruvellu/evodevo-papers) - Streaming the latest papers about evolutionary developmental biology
 - [vwOvOwv/2023-Spring-Developmental-Biology](https://github.com/vwOvOwv/2023-Spring-Developmental-Biology) - 
 - [sitandr/conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
@@ -5931,11 +5946,17 @@
 
 ## Python 
 
+- [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
+- [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
+- [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq) - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [7eu7d7/HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - A universal Stable-Diffusion toolbox
 - [showlab/UniVTG](https://github.com/showlab/UniVTG) - [ICCV2023] UniVTG: Towards Unified Video-Language Temporal Grounding
 - [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts) - Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [microsoft/cliffordlayers](https://github.com/microsoft/cliffordlayers) - 
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [wellecks/llmstep](https://github.com/wellecks/llmstep) - llmstep: [L]LM proofstep suggestions in Lean 4.
 - [phaseportrait/phaseportrait](https://github.com/phaseportrait/phaseportrait) - A simple way to do 2D and 3D phase portraits.
@@ -6056,7 +6077,7 @@
 - [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
 - [ray-project/aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
-- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
+- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练、有监督微调、RLHF(奖励建模、强化学习训练)和DPO(直接偏好优化)。
 - [altenderfer/mindfeeder2](https://github.com/altenderfer/mindfeeder2) - This program is designed to generate new instruction, input, and output (IIO) pairs using OpenAI's GPT-3.5-turbo (Or any completion model). Given an input dataset containing IIO pairs, the script will
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identifi
 - [allenai/natural-instructions](https://github.com/allenai/natural-instructions) - Expanding natural instructions
@@ -6377,7 +6398,7 @@
 - [randaller/llama-chat](https://github.com/randaller/llama-chat) - Chat with Meta's LLaMA models at home made easy
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
@@ -7748,6 +7769,9 @@
 
 ## Rust 
 
+- [GaloisInc/crucible](https://github.com/GaloisInc/crucible) - Crucible is a library for symbolic simulation of imperative programs
+- [Bromeon/js-sandbox](https://github.com/Bromeon/js-sandbox) - Securely embed JavaScript code into a Rust application
+- [dimforge/rapier](https://github.com/dimforge/rapier) - 2D and 3D physics engines focused on performance.
 - [boomshroom/cga](https://github.com/boomshroom/cga) - Conformal Geometric Algebra library in rust
 - [LemonHX/lean4-rs](https://github.com/LemonHX/lean4-rs) - rust binding for lean4
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
@@ -8626,6 +8650,8 @@
 
 ## TeX 
 
+- [jjgarzella/adjunction-formula-blueprint](https://github.com/jjgarzella/adjunction-formula-blueprint) - Website and documentation for the Adjunction Formula, including dependency graph.
+- [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
 - [SodiumIodide/Standard-Model-Lagrangian](https://github.com/SodiumIodide/Standard-Model-Lagrangian) - From "An Introduction to the Standard Model of Particle Physics, 2nd Edition" by W.N. Cottingham and D.A. Greenwood, Cambridge University Press, Cambridge, 2007. General equations in a LaTeX -&gt; pdf
 - [champsproject/chem_react_dyn](https://github.com/champsproject/chem_react_dyn) - Book on Chemical Reactions and Dynamical Systems
 - [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
@@ -8720,6 +8746,7 @@
 
 ## TypeScript 
 
+- [dimforge/rapier.js](https://github.com/dimforge/rapier.js) - Official JavaScript bindings for the Rapier physics engine.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [deathbeds/jupikchr](https://github.com/deathbeds/jupikchr) - pikchr text-based diagrams for JupyterLab, etc.
 - [fskpf/svg2roughjs](https://github.com/fskpf/svg2roughjs) - Create sketchy, hand-drawn-like images from SVGs
@@ -9020,6 +9047,7 @@
 
 ## Vim Script 
 
+- [Julian/dotfiles](https://github.com/Julian/dotfiles) - A work in progress. Forever.
 - [StylishThemes/Syntax-Themes](https://github.com/StylishThemes/Syntax-Themes) - :art: Information and files on various syntax highlighting themes
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通

@@ -5946,6 +5946,9 @@
 
 ## Python 
 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [unixwzrd/oobabooga-macOS](https://github.com/unixwzrd/oobabooga-macOS) - Optimizing performance, building and installing packages required for oobabooga, AI and Data Science on Apple Silicon GPU. The goal is to optimize wherever possible, from the ground up.
+- [BlackSamorez/tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) - Automatically split your PyTorch models on multiple GPUs for training & inference
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq) - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
@@ -6015,7 +6018,7 @@
 - [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Lichang-Chen/InstructZero](https://github.com/Lichang-Chen/InstructZero) - Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!
 - [DAMO-NLP-SG/Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
-- [InternLM/opencompass](https://github.com/InternLM/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
+- [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
 - [microsoft/RLHF-APA](https://github.com/microsoft/RLHF-APA) - RL algorithm: Advantage induced policy alignment
 - [DYZhang09/SAM3D](https://github.com/DYZhang09/SAM3D) - SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
@@ -8746,6 +8749,7 @@
 
 ## TypeScript 
 
+- [DenisGorbachev/vscode-lean4-code-actions](https://github.com/DenisGorbachev/vscode-lean4-code-actions) - 
 - [dimforge/rapier.js](https://github.com/dimforge/rapier.js) - Official JavaScript bindings for the Rapier physics engine.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [deathbeds/jupikchr](https://github.com/deathbeds/jupikchr) - pikchr text-based diagrams for JupyterLab, etc.

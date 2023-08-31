@@ -101,7 +101,6 @@
 - [R](#r)
 - [Racket](#racket)
 - [Raku](#raku)
-- [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Riot](#riot)
 - [Roff](#roff)
@@ -177,7 +176,7 @@
 
 ## Astro 
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 2.0 and Tailwind CSS. Astro starter theme.
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
@@ -1961,7 +1960,6 @@
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-- [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [safino9/SourceGo](https://github.com/safino9/SourceGo) - 阅读3.0源
 - [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -5130,6 +5128,7 @@
 ## OCaml 
 
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
+- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 - [EasyCrypt/easycrypt](https://github.com/EasyCrypt/easycrypt) - EasyCrypt: Computer-Aided Cryptographic Proofs
 - [coq-community/vscoq](https://github.com/coq-community/vscoq) - A Visual Studio Code extension for Coq [maintainers=@maximedenes,@huynhtrankhanh,@thery,@Blaisorblade]
 - [jrh13/hol-light](https://github.com/jrh13/hol-light) - The HOL Light theorem prover
@@ -6148,7 +6147,7 @@
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 - [PKU-Alignment/safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf) - Safe-RLHF: Constrained Value Alignment via Safe Reinforcement Learning from Human Feedback
 - [fonsp/pluto-on-binder](https://github.com/fonsp/pluto-on-binder) - 
-- [ekzhu/datasketch](https://github.com/ekzhu/datasketch) - MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble
+- [ekzhu/datasketch](https://github.com/ekzhu/datasketch) - MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble and HNSW
 - [EleutherAI/stackexchange-dataset](https://github.com/EleutherAI/stackexchange-dataset) - Python tools for processing the stackexchange data dumps into a text dataset for Language Models
 - [nyu-mll/ILF-for-code-generation](https://github.com/nyu-mll/ILF-for-code-generation) - 
 - [google-research/url-nlp](https://github.com/google-research/url-nlp) - 
@@ -7310,10 +7309,6 @@
 ## Raku 
 
 - [Raku/examples](https://github.com/Raku/examples) - Many examples of Raku code
-
-## Reason 
-
-- [hazelgrove/hazel](https://github.com/hazelgrove/hazel) - Hazel, a live functional programming environment with typed holes
 
 ## Rich Text Format 
 
@@ -8653,6 +8648,7 @@
 
 ## TeX 
 
+- [djvelleman/HTPIwL](https://github.com/djvelleman/HTPIwL) - Book about using Lean with How To Prove It
 - [jjgarzella/adjunction-formula-blueprint](https://github.com/jjgarzella/adjunction-formula-blueprint) - Website and documentation for the Adjunction Formula, including dependency graph.
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
 - [SodiumIodide/Standard-Model-Lagrangian](https://github.com/SodiumIodide/Standard-Model-Lagrangian) - From "An Introduction to the Standard Model of Particle Physics, 2nd Edition" by W.N. Cottingham and D.A. Greenwood, Cambridge University Press, Cambridge, 2007. General equations in a LaTeX -&gt; pdf
@@ -8758,7 +8754,7 @@
 - [mathigon/textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
-- [anaclumos/heimdall](https://github.com/anaclumos/heimdall) - Heimdall 🔭 summarizes Hacker News in your language.
+- [anaclumos/heimdall](https://github.com/anaclumos/heimdall) - Hacker News, but in Your Language.
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
 - [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter kit for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
@@ -8813,6 +8809,7 @@
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+- [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -9118,6 +9115,7 @@
 
 ## Zig 
 
+- [kassane/lean4-zig](https://github.com/kassane/lean4-zig) - Zig bindings for Lean4
 - [ymndoseijin/zilliam](https://github.com/ymndoseijin/zilliam) - A Geometric Algebra library for Zig
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - A Zig implementation of the "Ray Tracing in One Weekend" book

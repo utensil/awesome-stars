@@ -2467,6 +2467,7 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
 - [middleman/middlemanapp.com](https://github.com/middleman/middlemanapp.com) - Documentation for Middleman
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 
 ## dotnet 
 
@@ -5555,6 +5556,7 @@
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [assemble/assemble](https://github.com/assemble/assemble) - Get the rocks out of your socks! Assemble makes you fast at web development! Used by thousands of projects for rapid prototyping, themes, scaffolds, boilerplates, e-books, UI components, API documenta
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
@@ -11394,7 +11396,6 @@
 - [ThisIsMissEm/node-websocket-server](https://github.com/ThisIsMissEm/node-websocket-server) - [DEPRECATED] A WebSocket server written in low-level node.js, should be 90-100% spec compatible.
 - [awesome-print/awesome_print](https://github.com/awesome-print/awesome_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation
 - [gmate/gmate](https://github.com/gmate/gmate) - Set of plugins and improvements to make Gedit a powerfull programmer text editor
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [chikamichi/plexus](https://github.com/chikamichi/plexus) - Graph Theory library for Ruby
 - [mkottman/scite](https://github.com/mkottman/scite) - My SciTE "distro" based on SciTE, SciTE-tools, scintillua and SciTE-debug
 - [chikamichi/jumoku](https://github.com/chikamichi/jumoku) - Build and manipulate tree structures in Ruby.
@@ -12727,6 +12728,7 @@
 - [thiagopradi/octopus](https://github.com/thiagopradi/octopus) - Database Sharding for ActiveRecord
 - [activeadmin/activeadmin](https://github.com/activeadmin/activeadmin) - The administration framework for Ruby on Rails applications.
 - [omniauth/omniauth](https://github.com/omniauth/omniauth) - OmniAuth is a flexible authentication system utilizing Rack middleware.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [dryruby/rack-throttle](https://github.com/dryruby/rack-throttle) - Rack middleware for rate-limiting incoming HTTP requests.
 - [geminabox/geminabox](https://github.com/geminabox/geminabox) - Really simple rubygem hosting
 - [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email

@@ -4635,6 +4635,7 @@
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [stanfordnlp/string2string](https://github.com/stanfordnlp/string2string) - String-to-String Algorithms for Natural Language Processing
 - [Dsantra92/Julia-on-Colab](https://github.com/Dsantra92/Julia-on-Colab) - Notebook for running Julia on Google Colab
+- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [bigcode-project/bigcode-dataset](https://github.com/bigcode-project/bigcode-dataset) - 
 - [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - A Library for Aligning Causal Variables with Transformers Model
@@ -6143,7 +6144,6 @@
 - [Lyken17/arXiv-stats](https://github.com/Lyken17/arXiv-stats) - 
 - [facebookresearch/deit](https://github.com/facebookresearch/deit) - Official DeiT repository
 - [osmr/imgclsmob](https://github.com/osmr/imgclsmob) - Sandbox for training deep learning networks
-- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 - [PKU-Alignment/safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf) - Safe-RLHF: Constrained Value Alignment via Safe Reinforcement Learning from Human Feedback
 - [fonsp/pluto-on-binder](https://github.com/fonsp/pluto-on-binder) - 

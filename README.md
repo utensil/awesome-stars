@@ -4916,7 +4916,7 @@
 - [lurk-lab/ZKSnark.lean](https://github.com/lurk-lab/ZKSnark.lean) - https://yatima-inc.github.io/ZKSnark.lean/
 - [leanprover-community/lean-liquid](https://github.com/leanprover-community/lean-liquid) - 💧 Liquid Tensor Experiment
 - [lurk-lab/yatima](https://github.com/lurk-lab/yatima) - A zero-knowledge Lean4 compiler and kernel
-- [tydeu/lean4-alloy](https://github.com/tydeu/lean4-alloy) - Write shims from within Lean code.
+- [tydeu/lean4-alloy](https://github.com/tydeu/lean4-alloy) - Write C shims from within Lean code.
 - [plfa/plfl](https://github.com/plfa/plfl) - Programming Language Foundations in Lean
 - [o89/bum](https://github.com/o89/bum) - BUM: Lean 4 Package Manager
 - [eric-wieser/lean-matrix-cookbook](https://github.com/eric-wieser/lean-matrix-cookbook) - The matrix cookbook, proved in the Lean theorem prover
@@ -6458,7 +6458,7 @@
 - [DoubleGremlin181/RubiksCubeGym](https://github.com/DoubleGremlin181/RubiksCubeGym) - OpenAI Gym environments for various twisty puzzles
 - [deepmind/mujoco_menagerie](https://github.com/deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by DeepMind.
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [eigenchris/MathNotes](https://github.com/eigenchris/MathNotes) - 
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy

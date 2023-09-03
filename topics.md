@@ -1785,7 +1785,7 @@
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -1823,7 +1823,7 @@
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
@@ -1904,7 +1904,7 @@
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) - Plotly for Rust
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
@@ -2088,7 +2088,7 @@
 - [neurreps/awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry) - A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
@@ -5224,7 +5224,7 @@
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [djpasseyjr/TemporalMemoryResearch](https://github.com/djpasseyjr/TemporalMemoryResearch) - Exploring the Numenta temporal memory algorithm and a Julia implementation of the Nupic version
 - [etaler/Etaler](https://github.com/etaler/Etaler) - A flexable HTM (Hierarchical Temporal Memory) framework with full GPU support.
 - [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
@@ -7105,7 +7105,7 @@
 - [chirun-ncl/chirun](https://github.com/chirun-ncl/chirun) - A Python package providing the command line interface for building flexible and accessible content with Chirun.
 - [leanprover-community/lean-liquid](https://github.com/leanprover-community/lean-liquid) - 💧 Liquid Tensor Experiment
 - [lurk-lab/yatima](https://github.com/lurk-lab/yatima) - A zero-knowledge Lean4 compiler and kernel
-- [tydeu/lean4-alloy](https://github.com/tydeu/lean4-alloy) - Write shims from within Lean code.
+- [tydeu/lean4-alloy](https://github.com/tydeu/lean4-alloy) - Write C shims from within Lean code.
 - [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser) - An extended commonmark compliant parser, with bridges to docutils/sphinx
 - [cscheid/quarto-explainers](https://github.com/cscheid/quarto-explainers) - porting my jekyll+js stuff to quarto+ojs
 - [MattFerraro/devsite](https://github.com/MattFerraro/devsite) - The source for the dev site
@@ -11892,7 +11892,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [python-poetry/website](https://github.com/python-poetry/website) - Source for the official Poetry website
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy

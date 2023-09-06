@@ -1531,7 +1531,7 @@
 
 ## Dockerfile 
 
-- [selkies-project/docker-nvidia-glx-desktop](https://github.com/selkies-project/docker-nvidia-glx-desktop) - KDE Plasma Desktop container designed for Kubernetes supporting OpenGL GLX and Vulkan for NVIDIA GPUs with WebRTC and HTML5, providing an open source remote cloud graphics or game streaming platform. 
+- [selkies-project/docker-nvidia-glx-desktop](https://github.com/selkies-project/docker-nvidia-glx-desktop) - KDE Plasma Desktop container designed for Kubernetes supporting OpenGL GLX and Vulkan for NVIDIA GPUs with WebRTC and HTML5, providing an open-source remote cloud graphics or game streaming platform. 
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [madduci/docker-compiler-explorer](https://github.com/madduci/docker-compiler-explorer) - A docker-based version of Matt Godbolt's compiler-explorer application
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
@@ -3861,7 +3861,6 @@
 - [bruckner/deepViz](https://github.com/bruckner/deepViz) - Visualization tools for deep convolutional networks
 - [space150/boba.js](https://github.com/space150/boba.js) - Need those links tracked? "As you wish."
 - [montagejs/collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
-- [numenta/nupic.cerebro2](https://github.com/numenta/nupic.cerebro2) - A web-based visualization and debugging platform for NuPIC.
 - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
 - [narutolby/Wenku](https://github.com/narutolby/Wenku) - 模仿百度文库，实现word，ppt，excel，txt，pdf文件的上传，下载，在线预览等功能
 - [princehaku/wenkupaster](https://github.com/princehaku/wenkupaster) - 复制百度文库内容的浏览器插件  wenkupaster
@@ -3889,7 +3888,6 @@
 - [tjfontaine/node-libclang](https://github.com/tjfontaine/node-libclang) - nodejs bindings for libclang
 - [filamentgroup/tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
-- [numenta/nupic.tools](https://github.com/numenta/nupic.tools) - Server for tooling around the development process for the NuPIC project.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [JonAbrams/synth](https://github.com/JonAbrams/synth) - The first back-end framework specially designed for single-page web applications
 - [flowjs/flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
@@ -4596,6 +4594,7 @@
 
 ## Jupyter Notebook 
 
+- [my-other-github-account/llm-humaneval-benchmarks](https://github.com/my-other-github-account/llm-humaneval-benchmarks) - 
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on free spaced repetition scheduler algorithm
 - [weisscharlesj/SciCompforChemists](https://github.com/weisscharlesj/SciCompforChemists) - Scientific Computing for Chemists text for teaching basic computing skills to chemistry students using Python, Jupyter notebooks, and the SciPy stack. This text makes use of a variety of packages incl
 - [particle1331/ok-transformer](https://github.com/particle1331/ok-transformer) - Exploring machine learning engineering and operations. ❚
@@ -5207,6 +5206,7 @@
 
 ## Others 
 
+- [Arize-ai/open-inference-spec](https://github.com/Arize-ai/open-inference-spec) - A specification for OpenInference, a semantic mapping of ML inferences
 - [madvorak/vscode-lean4-colors](https://github.com/madvorak/vscode-lean4-colors) - My color settings for Lean 4 in VS Code
 - [leanprover/lean-llvm](https://github.com/leanprover/lean-llvm) - Custom-built LLVM toolchain for use in Lean 4
 - [orhonovich/unnatural-instructions](https://github.com/orhonovich/unnatural-instructions) - 
@@ -5951,6 +5951,14 @@
 
 ## Python 
 
+- [infer-actively/pymdp](https://github.com/infer-actively/pymdp) - A Python implementation of active inference for Markov Decision Processes
+- [abacaj/code-eval](https://github.com/abacaj/code-eval) - Run evaluation on LLMs using human-eval benchmark
+- [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
+- [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
+- [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
+- [yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code
 - [lmstudio-ai/examples](https://github.com/lmstudio-ai/examples) - Client code examples & integrations that utilize LM Studio's local inference server
 - [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)
 - [jquesnelle/yarn](https://github.com/jquesnelle/yarn) - YaRN: Efficient Context Window Extension of Large Language Models
@@ -7049,7 +7057,6 @@
 - [QuantumFractal/Data-Structure-Zoo](https://github.com/QuantumFractal/Data-Structure-Zoo) - An educational repo for students looking to learn about data structures in Python
 - [p-e-w/krill](https://github.com/p-e-w/krill) - :newspaper: The hacker's way of keeping up with the world (NO LONGER MAINTAINED)
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [numenta/numenta-apps](https://github.com/numenta/numenta-apps) - HTM based applications and support libraries. Includes HTM for Stocks (code name "Taurus") and HTM Studio (code name "Unicorn").
 - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [madisonmay/Tomorrow](https://github.com/madisonmay/Tomorrow) - Magic decorator syntax for asynchronous code in Python
 - [robdmc/pandashells](https://github.com/robdmc/pandashells) - :panda_face: Bringing the python data stack to the shell prompt
@@ -7155,7 +7162,6 @@
 - [secretsquirrel/the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala) - A community driven list of useful Scala libraries, frameworks and software.
-- [numenta/nupic.vision](https://github.com/numenta/nupic.vision) - Tools for using Numenta/nupic on visual problems like image recognition.
 - [eddyxu/cpp-coveralls](https://github.com/eddyxu/cpp-coveralls) - Upload gcov results to coveralls.io
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [rhuairahrighairidh/nitpick](https://github.com/rhuairahrighairidh/nitpick) - A visualisation library for NuPIC
@@ -7166,7 +7172,6 @@
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
-- [numenta/nupic.cerebro2.server](https://github.com/numenta/nupic.cerebro2.server) - Makes NuPIC model state available to Cerebro 2.
 - [replit-archive/empythoned](https://github.com/replit-archive/empythoned) - CPython compiled to JS using emscripten
 - [PythonJS/PythonJS](https://github.com/PythonJS/PythonJS) - PythonJS development has moved to Rusthon
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
@@ -8743,7 +8748,6 @@
 - [bamos/latex-templates](https://github.com/bamos/latex-templates) - Website for personal collection and previewing of LaTeX templates. Presented with Python/Jinja2.
 - [soulmachine/acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet) - Acm Cheat Sheet
 - [ctn-waterloo/website](https://github.com/ctn-waterloo/website) - Files that generate the compneuro.uwaterloo.ca website.
-- [numenta/nupic.documents](https://github.com/numenta/nupic.documents) - Source of technical and scientific documents related to NuPIC and the CLA.
 - [scholmd/scholmd](https://github.com/scholmd/scholmd) - Learn how to use scholarly markdown
 - [mbjoseph/knitr-template](https://github.com/mbjoseph/knitr-template) - academic article template w/ knitr, R Markdown, and pandoc
 - [esl/erlang-handbook](https://github.com/esl/erlang-handbook) - A concise reference for Erlang

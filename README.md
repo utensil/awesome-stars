@@ -323,7 +323,7 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [vikasnkumar/hotpatch](https://github.com/vikasnkumar/hotpatch) - Hot patching executables on Linux using .so file injection
 - [ronsoros/rvm](https://github.com/ronsoros/rvm) - simple virtual machine and assembler
-- [deepmind/lab](https://github.com/deepmind/lab) - A customisable 3D platform for agent-based AI research
+- [google-deepmind/lab](https://github.com/google-deepmind/lab) - A customisable 3D platform for agent-based AI research
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [antirez/neural-redis](https://github.com/antirez/neural-redis) - Neural networks module for Redis
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -596,6 +596,7 @@
 
 ## C++ 
 
+- [secretflow/spu](https://github.com/secretflow/spu) - SPU (Secure Processing Unit) aims to be a provable, measurable secure computation device, which provides computation ability while keeping your private data protected.
 - [HackerPoet/Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [RobinKa/ConstGA](https://github.com/RobinKa/ConstGA) - Geometric Algebra in C++ using constexpr to compile out zeros (WIP)
@@ -605,7 +606,7 @@
 - [idiap/gafro](https://github.com/idiap/gafro) - An efficient c++ library targeting robotics applications using geometric algebra
 - [google/cld3](https://github.com/google/cld3) - 
 - [bsolomon1124/pycld3](https://github.com/bsolomon1124/pycld3) - Python3 bindings for the Compact Language Detector v3 (CLD3)
-- [deepmind/code_contests](https://github.com/deepmind/code_contests) - 
+- [google-deepmind/code_contests](https://github.com/google-deepmind/code_contests) - 
 - [bytedance/lightseq](https://github.com/bytedance/lightseq) - LightSeq: A High Performance Library for Sequence Processing and Generation
 - [url-kaist/patchwork-plusplus-ros](https://github.com/url-kaist/patchwork-plusplus-ros) - ROS Implementation of Patchwork++
 - [markusschwenk/midieditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data
@@ -1523,7 +1524,7 @@
 
 ## Dart 
 
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -4670,6 +4671,7 @@
 - [unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions) - 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……
 - [davidjurgens/potato](https://github.com/davidjurgens/potato) - potato: portable text annotation tool
 - [aiplaybookin/novice-ChatGPT](https://github.com/aiplaybookin/novice-ChatGPT) - ChatGPT API Usage using LangChain, LlamaIndex, Guardrails, AutoGPT and more
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [donflopez/alpaca-lora-llama-index](https://github.com/donflopez/alpaca-lora-llama-index) - Instruct-tune LLaMA on consumer hardware and qa inference with llama_index
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
@@ -4849,6 +4851,10 @@
 
 ## Lean 
 
+- [haruhisa-enomoto/mathlib4-all-tactics](https://github.com/haruhisa-enomoto/mathlib4-all-tactics) - Markdown file of the list and explanations of all mathlib4 tactics
+- [chasenorman/Formalized-Voting](https://github.com/chasenorman/Formalized-Voting) - 
+- [asouther4/lean-social-choice](https://github.com/asouther4/lean-social-choice) - A library of results from Social Choice Theory, formalized in the Lean Theorem Prover.
+- [meoowers/rinha](https://github.com/meoowers/rinha) - 🧪 | Rinha de Backend Lean4
 - [rami3l/plfl](https://github.com/rami3l/plfl) - Learn Lean 4 with PLFA proofs.
 - [verified-optimization/CvxLean](https://github.com/verified-optimization/CvxLean) - A verified convex optimization framework
 - [ianjauslin-rutgers/pythagoras4](https://github.com/ianjauslin-rutgers/pythagoras4) - Many proofs of the Pythagoras theorem - Lean 4
@@ -5206,6 +5212,7 @@
 
 ## Others 
 
+- [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [Arize-ai/open-inference-spec](https://github.com/Arize-ai/open-inference-spec) - A specification for OpenInference, a semantic mapping of ML inferences
 - [madvorak/vscode-lean4-colors](https://github.com/madvorak/vscode-lean4-colors) - My color settings for Lean 4 in VS Code
 - [leanprover/lean-llvm](https://github.com/leanprover/lean-llvm) - Custom-built LLVM toolchain for use in Lean 4
@@ -6292,7 +6299,7 @@
 - [aypan17/machiavelli](https://github.com/aypan17/machiavelli) - 
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
-- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA)，支持微调Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA)，支持微调Baichuan2、CodeLlama、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The next-generation platform to monitor and optimize your AI costs in one place 🚀
 - [0cc4m/KoboldAI](https://github.com/0cc4m/KoboldAI) - 
 - [Ph0rk0z/text-generation-webui-testing](https://github.com/Ph0rk0z/text-generation-webui-testing) - A fork of textgen that still supports V1 GPTQ, 4-bit lora and other GPTQ models besides llama.
@@ -6303,7 +6310,7 @@
 - [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [pgosar/ChatGDB](https://github.com/pgosar/ChatGDB) - Harness the power of ChatGPT inside the GDB or LLDB debugger!
-- [deepmind/ferminet](https://github.com/deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+- [google-deepmind/ferminet](https://github.com/google-deepmind/ferminet) - An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [NVlabs/traffic-behavior-simulation](https://github.com/NVlabs/traffic-behavior-simulation) - 
 - [RiemannianOCO/experiments](https://github.com/RiemannianOCO/experiments) - 
 - [PythonOT/POT](https://github.com/PythonOT/POT) - POT : Python Optimal Transport
@@ -6318,13 +6325,13 @@
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
-- [deepmind/dm_control](https://github.com/deepmind/dm_control) - DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
+- [google-deepmind/dm_control](https://github.com/google-deepmind/dm_control) - Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection.
 - [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
-- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [fixie-ai/fixie-examples](https://github.com/fixie-ai/fixie-examples) - Examples of how to use the Fixie AI platform.
 - [zhilizju/Awesome-instruction-tuning](https://github.com/zhilizju/Awesome-instruction-tuning) - A curated list of awesome instruction tuning datasets, models, papers and repositories.
 - [xhluca/dl-translate](https://github.com/xhluca/dl-translate) - Translation library built on 🤗 transformers supporting 200 languages
@@ -6348,7 +6355,6 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [ViperX7/Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
@@ -6374,7 +6380,7 @@
 - [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
 - [johnsmith0031/alpaca_lora_4bit](https://github.com/johnsmith0031/alpaca_lora_4bit) - 
 - [TheTerrasque/text-generation-webui](https://github.com/TheTerrasque/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMA using GPTQ
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) - Adding guardrails to large language models.
@@ -6466,7 +6472,7 @@
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [facebookresearch/co3d](https://github.com/facebookresearch/co3d) - Tooling for the Common Objects In 3D dataset.
 - [DoubleGremlin181/RubiksCubeGym](https://github.com/DoubleGremlin181/RubiksCubeGym) - OpenAI Gym environments for various twisty puzzles
-- [deepmind/mujoco_menagerie](https://github.com/deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by DeepMind.
+- [google-deepmind/mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [eigenchris/MathNotes](https://github.com/eigenchris/MathNotes) - 
@@ -6709,7 +6715,7 @@
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
-- [deepmind/trfl](https://github.com/deepmind/trfl) - TensorFlow Reinforcement Learning
+- [google-deepmind/trfl](https://github.com/google-deepmind/trfl) - TensorFlow Reinforcement Learning
 - [hhatto/autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
 - [choldgraf/nbclean](https://github.com/choldgraf/nbclean) - A collection of tools to preprocess, modify, and otherwise clean up Jupyter Notebooks
 - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
@@ -6832,7 +6838,7 @@
 - [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of CapsNet(Capsules Net) in paper Dynamic Routing Between Capsules
 - [bazelment/trunk](https://github.com/bazelment/trunk) - Make bazel an out of box solution for C++/Java developers
 - [tkarras/progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation
-- [deepmind/sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
+- [google-deepmind/sonnet](https://github.com/google-deepmind/sonnet) - TensorFlow-based neural network library
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
 - [vicariousinc/science_rcn](https://github.com/vicariousinc/science_rcn) - Reference implementation of a two-level RCN model
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
@@ -6917,7 +6923,7 @@
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [daili0015/Download_1024](https://github.com/daili0015/Download_1024) - Python project, to download resource from 1024.
 - [erikbern/git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time
-- [deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in TensorFlow
+- [google-deepmind/learning-to-learn](https://github.com/google-deepmind/learning-to-learn) - Learning to Learn in TensorFlow
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [miloyip/game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 - [openai/universe](https://github.com/openai/universe) - Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.

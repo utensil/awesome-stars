@@ -306,6 +306,7 @@
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化首页、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs g
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop
@@ -552,7 +553,7 @@
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [vrogier/ocilib](https://github.com/vrogier/ocilib) - OCILIB (C and C++ Drivers for Oracle) - Open source C and C++ library for accessing Oracle databases
 - [Kinto/kinto](https://github.com/Kinto/kinto) - A generic JSON document store with sharing and synchronisation capabilities.
@@ -680,7 +681,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [pgilad/leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
@@ -826,7 +827,7 @@
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [neurreps/awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry) - A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond
 - [AxiomeCG/awesome-threejs](https://github.com/AxiomeCG/awesome-threejs) - 3️⃣ A curated list of awesome ThreeJS resources
-- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
+- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - 😎 📜 Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [raivivek/awesome-biology](https://github.com/raivivek/awesome-biology) - Curated (meta)list of resources for Biology.
 - [TimothyStiles/how-to-synbio](https://github.com/TimothyStiles/how-to-synbio) - The resources I always recommend to new synthetic biologists.
 - [asoplata/open-computational-neuroscience-resources](https://github.com/asoplata/open-computational-neuroscience-resources) - A publicly-editable collection of open computational neuroscience resources
@@ -1999,6 +2000,7 @@
 
 ## deep-learning 
 
+- [forestagostinelli/DeepCubeA](https://github.com/forestagostinelli/DeepCubeA) - Code for DeepCubeA, a Deep Reinforcement Learning algorithm that can learn to solve the Rubik's cube.
 - [BlackSamorez/tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) - Automatically split your PyTorch models on multiple GPUs for training & inference
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on free spaced repetition scheduler algorithm
@@ -2094,7 +2096,7 @@
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
+- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - 😎 📜 Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [a-r-j/graphein](https://github.com/a-r-j/graphein) - Protein Graph Library
@@ -3300,6 +3302,7 @@
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
+- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 ## good-first-issue 
 
@@ -3802,7 +3805,7 @@
 - [ream/deprecated](https://github.com/ream/deprecated) - 🚀 Framework for building universal web app and static website in Vue.js (beta)
 - [pablosichert/concurrency-logger](https://github.com/pablosichert/concurrency-logger) - Log HTTP requests/responses separately, visualize their concurrency and report logs/errors in context of a request.
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [boostorg/beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 - [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and i
 - [Corvusoft/restbed](https://github.com/Corvusoft/restbed) - Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++14 applications.
@@ -4069,6 +4072,7 @@
 
 ## javascript 
 
+- [cubing/alg.cubing.net](https://github.com/cubing/alg.cubing.net) - ▶️ Multi-purpose puzzle viewer – the old generation of alg/reconstruction viewing and sharing. Superseded by Twizzle.
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
 - [dekguh/Leaflet.MoveMarker](https://github.com/dekguh/Leaflet.MoveMarker) - L.MoveMarker is a leaflet plugin that is used to create moving marker and also trail polyline animation.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
@@ -4255,7 +4259,7 @@
 - [estools/escodegen](https://github.com/estools/escodegen) - ECMAScript code generator
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [jdalton/docdown](https://github.com/jdalton/docdown) - A simple JSDoc to Markdown generator.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [flosse/sloc](https://github.com/flosse/sloc) - simple tool to count SLOC (source lines of code)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -4825,6 +4829,7 @@
 
 - [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers with math
 - [open-dict-data/ipa-dict](https://github.com/open-dict-data/ipa-dict) - Monolingual wordlists with pronunciation information in IPA
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record & functional language mainly used in configuration and policy scenarios. https://kcl-lang.io
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -4872,6 +4877,7 @@
 
 ## latex 
 
+- [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
 - [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers with math
@@ -5183,6 +5189,7 @@
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
 - [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR) - High-Performance Symbolic Regression in Python and Julia
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [michaelgutmann/ml-pen-and-paper-exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises) - Pen and paper exercises in machine learning
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [lupantech/dl4math](https://github.com/lupantech/dl4math) - Resources of deep learning for mathematical reasoning (DL4MATH).
@@ -5232,7 +5239,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [djpasseyjr/TemporalMemoryResearch](https://github.com/djpasseyjr/TemporalMemoryResearch) - Exploring the Numenta temporal memory algorithm and a Julia implementation of the Nupic version
 - [etaler/Etaler](https://github.com/etaler/Etaler) - A flexable HTM (Hierarchical Temporal Memory) framework with full GPU support.
-- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - :sunglasses: :scroll: Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
+- [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - 😎 📜 Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [RobinKa/jaxga](https://github.com/RobinKa/jaxga) - Geometric Algebra package for JAX
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
@@ -5491,6 +5498,7 @@
 
 ## markdown 
 
+- [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
 - [zenomt/pikchr-cmd](https://github.com/zenomt/pikchr-cmd) - Pikchr Command-Line Tool
 - [marginnoteapp/milkdown](https://github.com/marginnoteapp/milkdown) - Use milkdown as markdown editor of MarginNote
@@ -6291,6 +6299,13 @@
 
 ## others 
 
+- [unitb/separation-logic](https://github.com/unitb/separation-logic) - 
+- [curvenote/tex-to-typst](https://github.com/curvenote/tex-to-typst) - Translate latex math markup to typst
+- [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
+- [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
+- [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples) - JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
+- [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js) - A JavaScript library for the Qieyun phonological system
+- [gshartnett/rubiks-clifford-synthesis](https://github.com/gshartnett/rubiks-clifford-synthesis) - A Rubik's Cube inspired approach to Clifford synthesis
 - [haruhisa-enomoto/mathlib4-all-tactics](https://github.com/haruhisa-enomoto/mathlib4-all-tactics) - Markdown file of the list and explanations of all mathlib4 tactics
 - [chasenorman/Formalized-Voting](https://github.com/chasenorman/Formalized-Voting) - 
 - [asouther4/lean-social-choice](https://github.com/asouther4/lean-social-choice) - A library of results from Social Choice Theory, formalized in the Lean Theorem Prover.
@@ -6534,7 +6549,7 @@
 - [OpenLMLab/LOMO](https://github.com/OpenLMLab/LOMO) - LOMO: LOw-Memory Optimization
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [microsoft/AGIEval](https://github.com/microsoft/AGIEval) - 
+- [ruixiangcui/AGIEval](https://github.com/ruixiangcui/AGIEval) - 
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [githubnext/gpt4-with-calc](https://github.com/githubnext/gpt4-with-calc) - GPT-4 Equipped with Numeric Calculation
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML models with KoboldAI's UI
@@ -6723,7 +6738,6 @@
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [WeOpenML/PandaLM](https://github.com/WeOpenML/PandaLM) - 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [bamman-group/gpt4-books](https://github.com/bamman-group/gpt4-books) - Code and data to support "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4"
 - [google-research/jaxpruner](https://github.com/google-research/jaxpruner) - 
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
@@ -6934,7 +6948,7 @@
 - [liasece/sd-webui-train-tools](https://github.com/liasece/sd-webui-train-tools) - The stable diffusion webui training aid extension helps you quickly and visually train models such as Lora.
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
-- [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Programmable 🐍 remote compute 🔋 and data 📂 across environments 💻 and users 👩‍💻
 - [camenduru/stable-diffusion-webui-docker](https://github.com/camenduru/stable-diffusion-webui-docker) - 
 - [minyoungg/overparam](https://github.com/minyoungg/overparam) - 
@@ -8688,7 +8702,7 @@
 - [hildensia/bayesian_changepoint_detection](https://github.com/hildensia/bayesian_changepoint_detection) - Methods to get the probability of a changepoint in a time series.
 - [etsy/skyline](https://github.com/etsy/skyline) - It'll detect your anomalies! Part of the Kale stack.
 - [markushedvall/plantuml-viewer](https://github.com/markushedvall/plantuml-viewer) - PlantUML Viewer package for Atom
-- [bafolts/plantuml-code-generator](https://github.com/bafolts/plantuml-code-generator) - Provides a node utility to generate code in various languages given a plantuml class diagram.
+- [bafolts/plantcode](https://github.com/bafolts/plantcode) - Provides a javascript utility to generate code in various languages given a plantuml class diagram.
 - [wiseio/paratext](https://github.com/wiseio/paratext) - A library for reading text files over multiple cores.
 - [vsraptor/bbhtm](https://github.com/vsraptor/bbhtm) - bare bone Hierarchial Temporal Memory
 - [csyonghe/Spire](https://github.com/csyonghe/Spire) - 
@@ -12107,7 +12121,7 @@
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 - [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3/INT4/NF4/INT5/INT8) optimizations using bigdl-llm
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3 / INT4 / NF4 / INT5 / INT8) optimizations using bigdl-llm
 - [xianhu/PSpider](https://github.com/xianhu/PSpider) - 简单易用的Python爬虫框架，QQ交流群：597510560
 - [PythonTurtle/PythonTurtle](https://github.com/PythonTurtle/PythonTurtle) - A learning environment for Python suited for beginners and children, inspired by Logo.
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
@@ -12230,6 +12244,7 @@
 
 ## python3 
 
+- [forestagostinelli/DeepCubeA](https://github.com/forestagostinelli/DeepCubeA) - Code for DeepCubeA, a Deep Reinforcement Learning algorithm that can learn to solve the Rubik's cube.
 - [RexGalilae/vasp-tools](https://github.com/RexGalilae/vasp-tools) - A suite of scripts and modules that perform menial, tedious and repetitive tasks and operations on VASP files that were hurriedly and haphazardly put together by some intern.
 - [bsolomon1124/pycld3](https://github.com/bsolomon1124/pycld3) - Python3 bindings for the Compact Language Detector v3 (CLD3)
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
@@ -12271,6 +12286,7 @@
 
 ## pytorch 
 
+- [forestagostinelli/DeepCubeA](https://github.com/forestagostinelli/DeepCubeA) - Code for DeepCubeA, a Deep Reinforcement Learning algorithm that can learn to solve the Rubik's cube.
 - [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
 - [unixwzrd/oobabooga-macOS](https://github.com/unixwzrd/oobabooga-macOS) - Optimizing performance, building and installing packages required for oobabooga, AI and Data Science on Apple Silicon GPU. The goal is to optimize wherever possible, from the ground up.
 - [BlackSamorez/tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) - Automatically split your PyTorch models on multiple GPUs for training & inference
@@ -12378,7 +12394,7 @@
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [bethgelab/foolbox](https://github.com/bethgelab/foolbox) - A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3/INT4/NF4/INT5/INT8) optimizations using bigdl-llm
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3 / INT4 / NF4 / INT5 / INT8) optimizations using bigdl-llm
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
 
 ## qt 
@@ -13144,7 +13160,7 @@
 - [Angel-ML/angel](https://github.com/Angel-ML/angel) - A Flexible and Powerful Parameter Server for large-scale machine learning
 - [jtransc/jtransc](https://github.com/jtransc/jtransc) - Bytecode to source converting Java & Kotlin code into JavaScript, C++, D, C#, PHP, AS3, Dart and Haxe and run it everywhere. Also use JVM code in your favourite language as a library.
 - [apache/carbondata](https://github.com/apache/carbondata) - High performance data store solution
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3/INT4/NF4/INT5/INT8) optimizations using bigdl-llm
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3 / INT4 / NF4 / INT5 / INT8) optimizations using bigdl-llm
 - [scala-native/scala-native](https://github.com/scala-native/scala-native) - Your favorite language gets closer to bare metal.
 - [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math c
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
@@ -13334,7 +13350,7 @@
 - [netlify/functions.netlify.com](https://github.com/netlify/functions.netlify.com) - Tutorials, examples, workshops and a playground for serverless with Netlify Functions
 - [serverless/event-gateway](https://github.com/serverless/event-gateway) - React to any event with serverless functions across clouds
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -13650,7 +13666,7 @@
 - [mjdietzx/SimGAN](https://github.com/mjdietzx/SimGAN) - Implementation of Apple's Learning from Simulated and Unsupervised Images through Adversarial Training
 - [anantzoid/Conditional-PixelCNN-decoder](https://github.com/anantzoid/Conditional-PixelCNN-decoder) - Tensorflow implementation of Gated Conditional Pixel Convolutional Neural Network
 - [carpedm20/pixel-rnn-tensorflow](https://github.com/carpedm20/pixel-rnn-tensorflow) - in progress
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3/INT4/NF4/INT5/INT8) optimizations using bigdl-llm
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3 / INT4 / NF4 / INT5 / INT8) optimizations using bigdl-llm
 - [TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [transcranial/keras-js](https://github.com/transcranial/keras-js) - Run Keras models in the browser, with GPU support using WebGL
@@ -13746,7 +13762,7 @@
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [andywer/leakage](https://github.com/andywer/leakage) - 🐛 Memory leak testing for node.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [mefellows/muxy](https://github.com/mefellows/muxy) - Chaos engineering tool for simulating real-world distributed system failures
 - [qiniu/httptest](https://github.com/qiniu/httptest) - Qiniu httptest utilities
@@ -13829,7 +13845,7 @@
 - [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) - A blazing fast js bundler/loader with a comprehensive API :fire:
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [andywer/webpack-blocks](https://github.com/andywer/webpack-blocks) - 📦 Configure webpack using functional feature blocks.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [charto/nbind](https://github.com/charto/nbind) - :sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3

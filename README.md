@@ -2615,6 +2615,7 @@
 
 ## JavaScript 
 
+- [arthurpaulino/chrome-lean-unicode](https://github.com/arthurpaulino/chrome-lean-unicode) - Type Lean unicode characters in your web browser
 - [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples) - JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - [cubing/alg.cubing.net](https://github.com/cubing/alg.cubing.net) - ▶️ Multi-purpose puzzle viewer – the old generation of alg/reconstruction viewing and sharing. Superseded by Twizzle.
 - [3b1b/perseus](https://github.com/3b1b/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
@@ -4856,6 +4857,9 @@
 
 ## Lean 
 
+- [malthefogsporring/lean-coends](https://github.com/malthefogsporring/lean-coends) - My fork of the lftcm2023 repo
+- [bhgomes/lean-riemann-hypothesis](https://github.com/bhgomes/lean-riemann-hypothesis) - Riemann Hypothesis in Lean
+- [yangky11/lean4-example](https://github.com/yangky11/lean4-example) - 
 - [AdrienChampion/collChoSoWel](https://github.com/AdrienChampion/collChoSoWel) - 
 - [Kha/lean4export](https://github.com/Kha/lean4export) - Plain-text declaration export for Lean 4
 - [unitb/separation-logic](https://github.com/unitb/separation-logic) - 
@@ -5220,6 +5224,7 @@
 
 ## Others 
 
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [Arize-ai/open-inference-spec](https://github.com/Arize-ai/open-inference-spec) - A specification for OpenInference, a semantic mapping of ML inferences
 - [madvorak/vscode-lean4-colors](https://github.com/madvorak/vscode-lean4-colors) - My color settings for Lean 4 in VS Code
@@ -5966,6 +5971,7 @@
 
 ## Python 
 
+- [gebner/espanso-lean](https://github.com/gebner/espanso-lean) - Espanso configuration for Lean abbreviations
 - [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [forestagostinelli/DeepCubeA](https://github.com/forestagostinelli/DeepCubeA) - Code for DeepCubeA, a Deep Reinforcement Learning algorithm that can learn to solve the Rubik's cube.
 - [infer-actively/pymdp](https://github.com/infer-actively/pymdp) - A Python implementation of active inference for Markov Decision Processes
@@ -6368,7 +6374,7 @@
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [ViperX7/Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
-- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [thohag/alpaca_llama_index](https://github.com/thohag/alpaca_llama_index) - Example of Alpaca-LoRA with llama index.
 - [nomiscientist/Llama_Difu](https://github.com/nomiscientist/Llama_Difu) - A Web-UI for Llama_index. Allow ChatGPT to access your own database.
 - [logan-markewich/llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack) - This repository provides very basic flask, streamlit, and docker examples for the llama_index (fka gpt_index) package
@@ -8774,6 +8780,7 @@
 
 ## TypeScript 
 
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
 - [curvenote/tex-to-typst](https://github.com/curvenote/tex-to-typst) - Translate latex math markup to typst
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.

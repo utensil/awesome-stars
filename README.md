@@ -122,6 +122,7 @@
 - [TSQL](#tsql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -145,7 +146,7 @@
 
 ## Agda 
 
-- [UniMath/agda-unimath](https://github.com/UniMath/agda-unimath) - Univalent mathematics in Agda
+- [UniMath/agda-unimath](https://github.com/UniMath/agda-unimath) - The agda-unimath library
 - [CodaFi/Agda-Metaprogramming](https://github.com/CodaFi/Agda-Metaprogramming) - Dependently Typed Metaprogramming Exercises
 - [martinescardo/HoTT-UF-Agda-Lecture-Notes](https://github.com/martinescardo/HoTT-UF-Agda-Lecture-Notes) - Lecture notes on univalent foundations of mathematics with Agda
 - [agda/agda-stdlib](https://github.com/agda/agda-stdlib) - The Agda standard library
@@ -204,6 +205,7 @@
 
 ## C 
 
+- [ufbx/ufbx](https://github.com/ufbx/ufbx) - Single source file FBX loader
 - [bollu/llama.lean](https://github.com/bollu/llama.lean) - Reimplementation of llama.cpp in Lean4
 - [bollu/sdl2.lean](https://github.com/bollu/sdl2.lean) - bindings to SDL2 (Simple DirectMedia library) in Lean
 - [zenomt/pikchr-cmd](https://github.com/zenomt/pikchr-cmd) - Pikchr Command-Line Tool
@@ -596,7 +598,7 @@
 
 ## C++ 
 
-- [lean-dojo/LeanInfer](https://github.com/lean-dojo/LeanInfer) - Neural Network Inference in Lean 4
+- [mathSlib-dev/mathSlib](https://github.com/mathSlib-dev/mathSlib) - A C++ computer algebra (symbolic computation) library.
 - [secretflow/spu](https://github.com/secretflow/spu) - SPU (Secure Processing Unit) aims to be a provable, measurable secure computation device, which provides computation ability while keeping your private data protected.
 - [HackerPoet/Chaos-Equations](https://github.com/HackerPoet/Chaos-Equations) - Simple mathematical art
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
@@ -622,7 +624,7 @@
 - [Chuyu-Team/VC-LTL](https://github.com/Chuyu-Team/VC-LTL) - Shared to msvcrt.dll and optimize the C/C++ application file size.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [Ali-Stanford/ChatGPT_Programming_Numerical_Methods](https://github.com/Ali-Stanford/ChatGPT_Programming_Numerical_Methods) - Coding numerical methods using ChatGPT: successes, failures, and challenges
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/fo
@@ -1625,6 +1627,7 @@
 
 ## Go 
 
+- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [andbron/yaml-docs](https://github.com/andbron/yaml-docs) - A tool for automatically generating markdown documentation from yaml
 - [rhinouser0/riverpass](https://github.com/rhinouser0/riverpass) - A handy local disk based cache for hot content from remote storage.
@@ -2454,6 +2457,7 @@
 - [ZieIony/Carbon](https://github.com/ZieIony/Carbon) - Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.
 - [vinaysshenoy/mugen](https://github.com/vinaysshenoy/mugen) - Microlibrary for implementing infinite scroll on Android
 - [Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload) - We are not Gif makers, We are developers
+- [ScribesZone/PyModelio](https://github.com/ScribesZone/PyModelio) - Python framework for UML Modelio open source environment
 - [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager) - A Material Design ViewPager easy to use library
 - [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [code-mc/loadtoast](https://github.com/code-mc/loadtoast) - Pretty material design toasts with feedback animations
@@ -2577,7 +2581,7 @@
 - [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
 - [prova/prova](https://github.com/prova/prova) - 
 - [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process eng
-- [kiegroup/drools](https://github.com/kiegroup/drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
+- [apache/incubator-kie-drools](https://github.com/apache/incubator-kie-drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
 - [johnmay/metingear](https://github.com/johnmay/metingear) - An open source desktop application for creating and curating genome scale metabolic networks with chemical structure. This code was created by members of the Cheminformatics and Metabolism group, EMBL
 - [johnmay/mdk](https://github.com/johnmay/mdk) - Model Development Kit (MDK) - a library for managing metabolic information related to models. This code was created by members of the Cheminformatics and Metabolism group, EMBL-EBI
 - [iSECPartners/android-ssl-bypass](https://github.com/iSECPartners/android-ssl-bypass) - Black box tool to bypass SSL verification on Android, even when pinning is used.
@@ -2615,6 +2619,7 @@
 
 ## JavaScript 
 
+- [mjbvz/vscode-markdown-shiki](https://github.com/mjbvz/vscode-markdown-shiki) - Uses Shiki for VS Code's built-in markdown preview syntax highlighting
 - [arthurpaulino/chrome-lean-unicode](https://github.com/arthurpaulino/chrome-lean-unicode) - Type Lean unicode characters in your web browser
 - [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples) - JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - [cubing/alg.cubing.net](https://github.com/cubing/alg.cubing.net) - ▶️ Multi-purpose puzzle viewer – the old generation of alg/reconstruction viewing and sharing. Superseded by Twizzle.
@@ -3485,7 +3490,7 @@
 - [IjzerenHein/autolayout.js](https://github.com/IjzerenHein/autolayout.js) - Apple's Auto Layout and Visual Format Language for javascript (using cassowary constraints)
 - [jussi-kalliokoski/trine](https://github.com/jussi-kalliokoski/trine) - A utility library for modern JavaScript.
 - [benhmoore/Knwl](https://github.com/benhmoore/Knwl) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
-- [Khan/tota11y](https://github.com/Khan/tota11y) - an accessibility (a11y) visualization toolkit
+- [jdan/tota11y](https://github.com/jdan/tota11y) - an accessibility (a11y) visualization toolkit
 - [thlorenz/visulator](https://github.com/thlorenz/visulator) - A machine emulator that visualizes how each instruction is processed
 - [MartinChavez/Javascript](https://github.com/MartinChavez/Javascript) - Javascript : Test-Driven Learning
 - [bevacqua/woofmark](https://github.com/bevacqua/woofmark) - :dog2: Barking up the DOM tree. A modular, progressive, and beautiful Markdown and HTML editor
@@ -4449,7 +4454,6 @@
 - [ThisIsMissEm/node-websocket-server](https://github.com/ThisIsMissEm/node-websocket-server) - [DEPRECATED] A WebSocket server written in low-level node.js, should be 90-100% spec compatible.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [BorisMoore/jquery-tmpl](https://github.com/BorisMoore/jquery-tmpl) - The original official jQuery Templates plugin. This project was maintained by the jQuery team as an official jQuery plugin. It is no longer in active development, and has been superseded by JsRender.
-- [broofa/mime](https://github.com/broofa/mime) - Mime types for JavaScript
 - [dyoo/js-numbers](https://github.com/dyoo/js-numbers) - Javascript implementation of Scheme's numeric tower
 - [less/less.js](https://github.com/less/less.js) - Less. The dynamic stylesheet language.
 - [jplayer/jPlayer](https://github.com/jplayer/jPlayer) - jPlayer : HTML5 Audio & Video for jQuery
@@ -4493,7 +4497,7 @@
 - [chrisjldoran/SimpleGA](https://github.com/chrisjldoran/SimpleGA) - A simple implementation of low-dimensional geometric algebras in Julia.
 - [Oblynx/HTMAssemblyCalculus](https://github.com/Oblynx/HTMAssemblyCalculus) - Neuron assembly calculus with HTM.jl
 - [augustinas1/MomentClosure.jl](https://github.com/augustinas1/MomentClosure.jl) - Tools to generate and study moment equations for any chemical reaction network using various moment closure approximations
-- [SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl) - Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software
+- [SciML/Catalyst.jl](https://github.com/SciML/Catalyst.jl) - Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.
 - [numericalEFT/FeynmanDiagram.jl](https://github.com/numericalEFT/FeynmanDiagram.jl) - Computational graph representation of multiloop Feynman diagrams
 - [wbhart/Nemo.jl](https://github.com/wbhart/Nemo.jl) - My personal fork of the Nemo project. The official repository is at https://github.com/Nemocas/Nemo.jl
 - [ATell-SoundTheory/CliffordAlgebras.jl](https://github.com/ATell-SoundTheory/CliffordAlgebras.jl) - A fast and lightweight Julia package for Clifford and geometric algebras.
@@ -4600,6 +4604,7 @@
 
 ## Jupyter Notebook 
 
+- [vvkisil/MoebInv-notebooks](https://github.com/vvkisil/MoebInv-notebooks) - A collections of notebooks on Lie-Möbius geometry and MoebInv package
 - [gshartnett/rubiks-clifford-synthesis](https://github.com/gshartnett/rubiks-clifford-synthesis) - A Rubik's Cube inspired approach to Clifford synthesis
 - [my-other-github-account/llm-humaneval-benchmarks](https://github.com/my-other-github-account/llm-humaneval-benchmarks) - 
 - [open-spaced-repetition/fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on free spaced repetition scheduler algorithm
@@ -4677,7 +4682,6 @@
 - [unit-mesh/unit-minions](https://github.com/unit-mesh/unit-minions) - 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……
 - [davidjurgens/potato](https://github.com/davidjurgens/potato) - potato: portable text annotation tool
 - [aiplaybookin/novice-ChatGPT](https://github.com/aiplaybookin/novice-ChatGPT) - ChatGPT API Usage using LangChain, LlamaIndex, Guardrails, AutoGPT and more
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [EleutherAI/pythia](https://github.com/EleutherAI/pythia) - 
 - [donflopez/alpaca-lora-llama-index](https://github.com/donflopez/alpaca-lora-llama-index) - Instruct-tune LLaMA on consumer hardware and qa inference with llama_index
 - [greshake/llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
@@ -4857,11 +4861,15 @@
 
 ## Lean 
 
+- [adamtopaz/hw_template_test](https://github.com/adamtopaz/hw_template_test) - 
+- [mariainesdff/local_class_field_theory](https://github.com/mariainesdff/local_class_field_theory) - Formalization of local fields, and eventually LCFT
+- [kbuzzard/MweSkeletons](https://github.com/kbuzzard/MweSkeletons) - Mathlib4 hierarchy skeletons for making mathlib-free MWEs in Lean 4
 - [malthefogsporring/lean-coends](https://github.com/malthefogsporring/lean-coends) - My fork of the lftcm2023 repo
 - [bhgomes/lean-riemann-hypothesis](https://github.com/bhgomes/lean-riemann-hypothesis) - Riemann Hypothesis in Lean
 - [yangky11/lean4-example](https://github.com/yangky11/lean4-example) - 
 - [AdrienChampion/collChoSoWel](https://github.com/AdrienChampion/collChoSoWel) - 
 - [Kha/lean4export](https://github.com/Kha/lean4export) - Plain-text declaration export for Lean 4
+- [lean-dojo/LeanInfer](https://github.com/lean-dojo/LeanInfer) - Native Neural Network Inference in Lean
 - [unitb/separation-logic](https://github.com/unitb/separation-logic) - 
 - [haruhisa-enomoto/mathlib4-all-tactics](https://github.com/haruhisa-enomoto/mathlib4-all-tactics) - Markdown file of the list and explanations of all mathlib4 tactics
 - [chasenorman/Formalized-Voting](https://github.com/chasenorman/Formalized-Voting) - 
@@ -5000,7 +5008,7 @@
 - [b-mehta/topos](https://github.com/b-mehta/topos) - Topos theory in lean
 - [ImperialCollegeLondon/natural_number_game](https://github.com/ImperialCollegeLondon/natural_number_game) - Building the natural numbers in Lean.
 - [ImperialCollegeLondon/M1P1-lean](https://github.com/ImperialCollegeLondon/M1P1-lean) - Material from M1P1, formalised in Lean
-- [ImperialCollegeLondon/M40001_lean](https://github.com/ImperialCollegeLondon/M40001_lean) - Lean stuff for M40001
+- [ImperialCollegeLondon/M40001_lean](https://github.com/ImperialCollegeLondon/M40001_lean) - Lean 3 material related to Imperial College's "Introduction to University Mathematics" course
 - [ImperialCollegeLondon/complex-number-game](https://github.com/ImperialCollegeLondon/complex-number-game) - The Complex Number Game. Make the complex numbers in Lean.
 - [ImperialCollegeLondon/xena-UROP-2018](https://github.com/ImperialCollegeLondon/xena-UROP-2018) - A place to put our 2018 Xena project UROP thoughts and programs.
 - [JasonKYi/M4000x_LEAN_formalisation](https://github.com/JasonKYi/M4000x_LEAN_formalisation) - Formalising lecture notes from 1st year Imperial Mathematics course.
@@ -5224,7 +5232,7 @@
 
 ## Others 
 
-- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
+- [jneug/typst-mantys](https://github.com/jneug/typst-mantys) - Template for documenting Typst Packages and Templates.
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [Arize-ai/open-inference-spec](https://github.com/Arize-ai/open-inference-spec) - A specification for OpenInference, a semantic mapping of ML inferences
 - [madvorak/vscode-lean4-colors](https://github.com/madvorak/vscode-lean4-colors) - My color settings for Lean 4 in VS Code
@@ -5971,6 +5979,8 @@
 
 ## Python 
 
+- [robocorp/robotframework-lsp](https://github.com/robocorp/robotframework-lsp) - Language Server Protocol implementation for Robot Framework
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [gebner/espanso-lean](https://github.com/gebner/espanso-lean) - Espanso configuration for Lean abbreviations
 - [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [forestagostinelli/DeepCubeA](https://github.com/forestagostinelli/DeepCubeA) - Code for DeepCubeA, a Deep Reinforcement Learning algorithm that can learn to solve the Rubik's cube.
@@ -6118,7 +6128,7 @@
 - [aimhubio/aimlflow](https://github.com/aimhubio/aimlflow) - aim-mlflow integration
 - [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
-- [ray-project/aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
+- [ray-project/ray-llm](https://github.com/ray-project/ray-llm) - RayLLM - LLMs on Ray
 - [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练、有监督微调、RLHF(奖励建模、强化学习训练)和DPO(直接偏好优化)。
 - [altenderfer/mindfeeder2](https://github.com/altenderfer/mindfeeder2) - This program is designed to generate new instruction, input, and output (IIO) pairs using OpenAI's GPT-3.5-turbo (Or any completion model). Given an input dataset containing IIO pairs, the script will
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identifi
@@ -6305,7 +6315,7 @@
 - [soulteary/docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) - Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
 - [OpenLMLab/collie](https://github.com/OpenLMLab/collie) - Collaborative Tuning of Large Language Models in an Efficient Way
 - [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
-- [chatarena/chatarena](https://github.com/chatarena/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
+- [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 - [BillSchumacher/Auto-Vicuna](https://github.com/BillSchumacher/Auto-Vicuna) - 
 - [jessevig/bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -6371,6 +6381,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [ViperX7/Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
@@ -7107,7 +7118,6 @@
 - [NervanaSystems/neon](https://github.com/NervanaSystems/neon) - Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
 - [pypyjs/pypyjs](https://github.com/pypyjs/pypyjs) - PyPy compiled to JavaScript
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
-- [ScribesZone/PyModelio](https://github.com/ScribesZone/PyModelio) - Python framework for UML Modelio open source environment
 - [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
 - [htm-community/nupic.audio](https://github.com/htm-community/nupic.audio) - Audio (analog, digital) experiments using NuPIC HTM/CLA
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
@@ -7918,7 +7928,7 @@
 - [Taaitaaiger/jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
-- [digama0/olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files
+- [digama0/olean-rs](https://github.com/digama0/olean-rs) - parser/viewer for olean files (lean 3)
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [yaahc/displaydoc](https://github.com/yaahc/displaydoc) - A derive macro for implementing the display Trait via a doc comment and string interpolation
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
@@ -8474,7 +8484,6 @@
 - [practical-dreamer/build-a-dataset](https://github.com/practical-dreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
 - [kasmtech/workspaces-images](https://github.com/kasmtech/workspaces-images) - 
 - [pinting/SuspiciousKeePassMini](https://github.com/pinting/SuspiciousKeePassMini) - 
-- [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - CetZ - A library for drawing stuff with Typst. Formerly known as typst-canvas.
 - [lamini-ai/lamini](https://github.com/lamini-ai/lamini) - 
 - [loubnabnl/bloom-code-evaluation](https://github.com/loubnabnl/bloom-code-evaluation) - Evaluation of BLOOM on the HumanEval benchmark
 - [ncopa/lddtree](https://github.com/ncopa/lddtree) - Fork of pax-utils' lddtree.sh
@@ -8689,7 +8698,6 @@
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1) - Methods in Algebra (Volume 1): A Chinese textbook on Algebra
 - [SodiumIodide/Standard-Model-Lagrangian](https://github.com/SodiumIodide/Standard-Model-Lagrangian) - From "An Introduction to the Standard Model of Particle Physics, 2nd Edition" by W.N. Cottingham and D.A. Greenwood, Cambridge University Press, Cambridge, 2007. General equations in a LaTeX -&gt; pdf
 - [champsproject/chem_react_dyn](https://github.com/champsproject/chem_react_dyn) - Book on Chemical Reactions and Dynamical Systems
-- [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
 - [gjoncas/Diagrammatic](https://github.com/gjoncas/Diagrammatic) - Philosophy diagrams in Ti𝑘Z
 - [gjoncas/Lacan-Mathemes](https://github.com/gjoncas/Lacan-Mathemes) - Ti𝑘Z diagrams of mathemes from Lacanian psychoanalysis
 - [GeometryCollective/wost-simple](https://github.com/GeometryCollective/wost-simple) - Simple didactic code + tutorial for the Walk on Stars (WoSt) algorithm
@@ -8780,6 +8788,8 @@
 
 ## TypeScript 
 
+- [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
+- [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
 - [curvenote/tex-to-typst](https://github.com/curvenote/tex-to-typst) - Translate latex math markup to typst
@@ -8822,7 +8832,7 @@
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gladiaio/gladia-sdk-js](https://github.com/gladiaio/gladia-sdk-js) - Gladia SDK for JavaScript/TypeScript
-- [hey-pal/toolkit-ai](https://github.com/hey-pal/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
+- [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 - [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -9080,6 +9090,13 @@
 - [p-m-p/slider](https://github.com/p-m-p/slider) - A modern, light weight content slider
 - [mozilla/shumway](https://github.com/mozilla/shumway) - Shumway is a Flash VM and runtime written in JavaScript
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
+- [broofa/mime](https://github.com/broofa/mime) - Mime types for JavaScript
+
+## Typst 
+
+- [jneug/typst-finite](https://github.com/jneug/typst-finite) - Typst-setting finite automata with CeTZ.
+- [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
+- [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - CetZ - A library for drawing stuff with Typst. Formerly known as typst-canvas.
 
 ## V 
 

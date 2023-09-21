@@ -597,6 +597,7 @@
 
 ## C++ 
 
+- [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
 - [foonathan/cppast](https://github.com/foonathan/cppast) - Library to parse and work with the C++ AST
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [Daninet/ginac-wasm](https://github.com/Daninet/ginac-wasm) - WebAssembly bindings for the GiNaC computer algebra system
@@ -3169,7 +3170,6 @@
 - [hustcc/PTHospital.chrome](https://github.com/hustcc/PTHospital.chrome) - :warning: :hospital: Chrome浏览器插件——打开莆田系医院网站，发出警告提醒、显示医院信息。
 - [joshwcomeau/panther](https://github.com/joshwcomeau/panther) - Discover artists through an infinite node graph
 - [notablemind/jupyter-nodejs](https://github.com/notablemind/jupyter-nodejs) - A node.js kernel for jupyter/ipython
-- [jakwings/toml-j0.4](https://github.com/jakwings/toml-j0.4) - This is how TOML laughs at you. Let's create a new config language. Damn those half-done projects.
 - [samim23/GitXiv](https://github.com/samim23/GitXiv) - GitXiv - Collaborative Open Computer Science.
 - [davidmz/apng-canvas](https://github.com/davidmz/apng-canvas) - APNG implementation on canvas.
 - [johnkhunter/jblitter](https://github.com/johnkhunter/jblitter) - A Javascript library for creating HTML5 canvas animations with image sprites and blitting
@@ -5889,7 +5889,7 @@
 - [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 - [prasathmani/tinyfilemanager](https://github.com/prasathmani/tinyfilemanager) - Single-file PHP file manager, browser and manage your files efficiently and easily with tinyfilemanager
-- [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail written in PHP and JavaScript
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules.
@@ -5907,7 +5907,7 @@
 - [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB) - Free database of geographic place names and corresponding geospatial data
 - [Tencent/tsf](https://github.com/Tencent/tsf) - coroutine and Swoole based php server framework in tencent
 - [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) - A curated list of resources for learning about application security
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [lincanbin/Pythonic-PHP-Code-Formatter](https://github.com/lincanbin/Pythonic-PHP-Code-Formatter) - Pythonic PHP code formatter. Just for fun.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
@@ -5980,6 +5980,7 @@
 
 ## Python 
 
+- [arcee-ai/DALM](https://github.com/arcee-ai/DALM) - Domain Adapted Language Modeling Toolkit
 - [sighingnow/libclang](https://github.com/sighingnow/libclang) - (Unofficial) Release libclang (clang.cindex) on pypi.
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [robocorp/robotframework-lsp](https://github.com/robocorp/robotframework-lsp) - Language Server Protocol implementation for Robot Framework
@@ -8482,6 +8483,7 @@
 
 ## Shell 
 
+- [onettboots/update-alternative-clang](https://github.com/onettboots/update-alternative-clang) - setting up many clang and llvm version to --config
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [practical-dreamer/build-a-dataset](https://github.com/practical-dreamer/build-a-dataset) - A set of Python scripts to generate complex datasets using OpenAI API. Still under active development, may contain bugs. Contributions are welcome.
@@ -9101,7 +9103,7 @@
 - [sitandr/conchord](https://github.com/sitandr/conchord) - Typst package to easily write lyrics with chords and generate colorful fretboard diagrams
 - [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
 - [neunenak/typst-leipzig-glossing](https://github.com/neunenak/typst-leipzig-glossing) - 
-- [johannes-wolf/typst-canvas](https://github.com/johannes-wolf/typst-canvas) - CetZ - A library for drawing stuff with Typst. Formerly known as typst-canvas.
+- [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz) - CetZ - A library for drawing stuff with Typst. Formerly known as typst-canvas.
 
 ## V 
 

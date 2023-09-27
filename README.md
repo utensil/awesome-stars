@@ -30,6 +30,7 @@
 - [Crystal](#crystal)
 - [Cuda](#cuda)
 - [Cython](#cython)
+- [D](#d)
 - [D2](#d2)
 - [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
@@ -1525,6 +1526,10 @@
 - [symengine/symengine.py](https://github.com/symengine/symengine.py) - Python wrappers for SymEngine
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
+## D 
+
+- [Syniurge/Calypso](https://github.com/Syniurge/Calypso) - LDC fork to experiment direct interfacing with C++
+
 ## D2 
 
 - [terrastruct/d2-docs](https://github.com/terrastruct/d2-docs) - Language documentation and blog for D2.
@@ -1786,7 +1791,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, 
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [whee/rp](https://github.com/whee/rp) - CLI to pipe data through Redis Pub/Sub
 - [fumin/ntm](https://github.com/fumin/ntm) - An implementation of Neural Turing Machines
@@ -1829,7 +1834,6 @@
 - [untoldone/bloomapi](https://github.com/untoldone/bloomapi) - Create APIs out of public datasources
 - [shurcooL/markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [nsf/termbox-go](https://github.com/nsf/termbox-go) - Pure Go termbox implementation
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -2629,6 +2633,7 @@
 
 ## JavaScript 
 
+- [liskin/gh-problem-matcher-wrap](https://github.com/liskin/gh-problem-matcher-wrap) - Invoke linters, detect errors/warnings, show them as annotations. Supports PRs from forks, unlike other Actions.
 - [samuelcolvin/jinjahtml-vscode](https://github.com/samuelcolvin/jinjahtml-vscode) - Syntax highlighting for jinja(2) html templates in vscode
 - [mjbvz/vscode-markdown-shiki](https://github.com/mjbvz/vscode-markdown-shiki) - Uses Shiki for VS Code's built-in markdown preview syntax highlighting
 - [arthurpaulino/chrome-lean-unicode](https://github.com/arthurpaulino/chrome-lean-unicode) - Type Lean unicode characters in your web browser
@@ -3152,7 +3157,7 @@
 - [GitbookIO/plugin-quizzes](https://github.com/GitbookIO/plugin-quizzes) - Interactive quizzes in a gitbook
 - [quizzimodo/quizzimodo](https://github.com/quizzimodo/quizzimodo) - A community-driven quizzing platform
 - [voxmedia/quiz-generator](https://github.com/voxmedia/quiz-generator) - 
-- [git-pwn/is.js](https://github.com/git-pwn/is.js) - Minimalistic predicate library.
+- [s1010g/is.js](https://github.com/s1010g/is.js) - Minimalistic predicate library.
 - [airbnb/hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views
 - [markushedvall/plantuml-viewer](https://github.com/markushedvall/plantuml-viewer) - PlantUML Viewer package for Atom
 - [bafolts/plantcode](https://github.com/bafolts/plantcode) - Provides a javascript utility to generate code in various languages given a plantuml class diagram.
@@ -3986,8 +3991,8 @@
 - [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 - [jrideout/melt.js](https://github.com/jrideout/melt.js) - Javascript library inspired by the R reshape package
 - [LazarSoft/jsqrcode](https://github.com/LazarSoft/jsqrcode) - Javascript QRCode scanner
-- [harthur/classifier](https://github.com/harthur/classifier) - [UNMAINTAINED] Bayesian classifier with Redis backend
-- [harthur/brain](https://github.com/harthur/brain) - [UNMAINTAINED] Simple feed-forward neural network in JavaScript
+- [harthur/classifier](https://github.com/harthur/classifier) - Bayesian classifier with Redis backend
+- [harthur/brain](https://github.com/harthur/brain) - Simple feed-forward neural network in JavaScript
 - [mezzoblue/PaintbrushJS](https://github.com/mezzoblue/PaintbrushJS) - A lightweight browser-based image processing library
 - [zhijie/psx](https://github.com/zhijie/psx) - PSX is a light weight image processing library which implements photoshop operations for html5 and ios.
 - [misoproject/storyboard](https://github.com/misoproject/storyboard) - 
@@ -4868,6 +4873,8 @@
 
 ## Lean 
 
+- [semorrison/lean-training-data](https://github.com/semorrison/lean-training-data) - 
+- [nomeata/lean-darray](https://github.com/nomeata/lean-darray) - 
 - [avigad/lean-auto](https://github.com/avigad/lean-auto) - Experiments in automation for Lean
 - [proost-assistant/ProostLean](https://github.com/proost-assistant/ProostLean) - An reimplementation of the Proost proof-assistant written in Lean 4
 - [lurk-lab/RustFFI.lean](https://github.com/lurk-lab/RustFFI.lean) - Template for Lean&lt;-&gt;Rust FFI
@@ -5994,9 +6001,10 @@
 
 ## Python 
 
+- [perfide/render-jinja-with-yaml](https://github.com/perfide/render-jinja-with-yaml) - Render Jinja2 templates with a yaml-config
 - [alexharv074/jinja2-unit-testing](https://github.com/alexharv074/jinja2-unit-testing) - A method of unit testing Jinja2 templates.
 - [modm-io/lbuild](https://github.com/modm-io/lbuild) - lbuild: a generic, modular code generator in Python 3
-- [arcee-ai/DALM](https://github.com/arcee-ai/DALM) - Domain Adapted Language Modeling Toolkit
+- [arcee-ai/DALM](https://github.com/arcee-ai/DALM) - Domain Adapted Language Modeling Toolkit - E2E RAG
 - [sighingnow/libclang](https://github.com/sighingnow/libclang) - (Unofficial) Release libclang (clang.cindex) on pypi.
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [robocorp/robotframework-lsp](https://github.com/robocorp/robotframework-lsp) - Language Server Protocol implementation for Robot Framework
@@ -8407,8 +8415,9 @@
 - [autumnai/collenchyma](https://github.com/autumnai/collenchyma) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 
 ## SCSS 

@@ -210,6 +210,7 @@
 
 ## C 
 
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [ufbx/ufbx](https://github.com/ufbx/ufbx) - Single source file FBX loader
 - [bollu/llama.lean](https://github.com/bollu/llama.lean) - Reimplementation of llama.cpp in Lean4
 - [bollu/sdl2.lean](https://github.com/bollu/sdl2.lean) - bindings to SDL2 (Simple DirectMedia library) in Lean
@@ -603,6 +604,8 @@
 
 ## C++ 
 
+- [LeenHawk/Professional-Cpp-5th-Answer](https://github.com/LeenHawk/Professional-Cpp-5th-Answer) - 这是对于《Professional C++》第五版的一些自己做的答案（可能借鉴了一点点原书答案），采用MSVC最新支持的C++语法
+- [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
 - [foonathan/cppast](https://github.com/foonathan/cppast) - Library to parse and work with the C++ AST
@@ -4261,7 +4264,7 @@
 - [ajoslin/angular-mobile-nav](https://github.com/ajoslin/angular-mobile-nav) - An angular navigation service for mobile applications
 - [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 - [rmx/threejs-collada](https://github.com/rmx/threejs-collada) - An alternative COLLADA loader for the three.js project
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [geuis/helium-css](https://github.com/geuis/helium-css) - Helium - javascript tool to scan your site and show unused CSS
 - [rstacruz/jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
 - [maqetta/maqetta](https://github.com/maqetta/maqetta) - Maqetta Designer
@@ -4498,6 +4501,7 @@
 
 ## Julia 
 
+- [JuliaIPU/IPUToolkit.jl](https://github.com/JuliaIPU/IPUToolkit.jl) - IPU programming in Julia
 - [GuidoDipietro/julia-small-rubiks-cube-model](https://github.com/GuidoDipietro/julia-small-rubiks-cube-model) - A 2x2x2 Rubik's Cube (or just the corners of a 3x3x3 Cube) modelled in the Julia Programming Language. (Not a solver!)
 - [miguelraz/Rubin.jl](https://github.com/miguelraz/Rubin.jl) - A rule based integrator written in Julia called Rubin, because lord know we need a world with less Stephens slapping their name on everything and more recognition of Vera Rubin.
 - [gronniger/RubiSymbolics.jl](https://github.com/gronniger/RubiSymbolics.jl) - Project to translate Rubi Rules to Julia and make available for Symbolics.jl
@@ -4630,7 +4634,6 @@
 - [champsproject/lagrangian_descriptors](https://github.com/champsproject/lagrangian_descriptors) - Repo to host book about Lagrangian Descriptors technique
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 - [Mandar-Sharma/OvercomingBarriers](https://github.com/Mandar-Sharma/OvercomingBarriers) - 
-- [EleutherAI/math-lm](https://github.com/EleutherAI/math-lm) - 
 - [guochengqian/Magic123](https://github.com/guochengqian/Magic123) - Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors
 - [nglviewer/nglview](https://github.com/nglviewer/nglview) - Jupyter widget to interactively view molecular structures and trajectories
 - [materialsvirtuallab/matgenb](https://github.com/materialsvirtuallab/matgenb) - Jupyter notebooks demonstrating the utilization of open-source codes for the study of materials science.
@@ -4805,10 +4808,10 @@
 - [tingelst/game](https://github.com/tingelst/game) - Geometric Algebra Multivector Estimation
 - [dformoso/sklearn-classification](https://github.com/dformoso/sklearn-classification) - Data Science Notebook on a Classification Task, using sklearn and Tensorflow.
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerating LLM with low-bit (INT3 / INT4 / NF4 / INT5 / INT8) optimizations using bigdl-llm
+- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Accelerate LLM with low-bit (INT3 / INT4 / NF4 / INT5 / INT8) optimizations using bigdl-llm
 - [backstopmedia/tensorflowbook](https://github.com/backstopmedia/tensorflowbook) - 
 - [tmbdev/clstm](https://github.com/tmbdev/clstm) - A small C++ implementation of LSTM networks, focused on OCR.
-- [ocropus/ocropy](https://github.com/ocropus/ocropy) - Python-based tools for document analysis and OCR
+- [ocropus-archive/DUP-ocropy](https://github.com/ocropus-archive/DUP-ocropy) - Python-based tools for document analysis and OCR
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [titu1994/Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras 2.0+
@@ -4873,6 +4876,7 @@
 
 ## Lean 
 
+- [SchrodingerZhu/lean-gccjit](https://github.com/SchrodingerZhu/lean-gccjit) - libgccjit bindings for Lean4
 - [semorrison/lean-training-data](https://github.com/semorrison/lean-training-data) - 
 - [nomeata/lean-darray](https://github.com/nomeata/lean-darray) - 
 - [avigad/lean-auto](https://github.com/avigad/lean-auto) - Experiments in automation for Lean
@@ -4890,7 +4894,7 @@
 - [bhgomes/lean-riemann-hypothesis](https://github.com/bhgomes/lean-riemann-hypothesis) - Riemann Hypothesis in Lean
 - [yangky11/lean4-example](https://github.com/yangky11/lean4-example) - 
 - [AdrienChampion/collChoSoWel](https://github.com/AdrienChampion/collChoSoWel) - 
-- [Kha/lean4export](https://github.com/Kha/lean4export) - Plain-text declaration export for Lean 4
+- [leanprover/lean4export](https://github.com/leanprover/lean4export) - Plain-text declaration export for Lean 4
 - [lean-dojo/LeanInfer](https://github.com/lean-dojo/LeanInfer) - Native Neural Network Inference in Lean
 - [unitb/separation-logic](https://github.com/unitb/separation-logic) - 
 - [haruhisa-enomoto/mathlib4-all-tactics](https://github.com/haruhisa-enomoto/mathlib4-all-tactics) - Markdown file of the list and explanations of all mathlib4 tactics
@@ -5254,6 +5258,7 @@
 
 ## Others 
 
+- [pi-base/data](https://github.com/pi-base/data) - A community database of topological counterexamples
 - [jneug/typst-mantys](https://github.com/jneug/typst-mantys) - Template for documenting Typst Packages and Templates.
 - [ansuz/RIIR](https://github.com/ansuz/RIIR) - why not Rewrite It In Rust
 - [Arize-ai/open-inference-spec](https://github.com/Arize-ai/open-inference-spec) - A specification for OpenInference, a semantic mapping of ML inferences
@@ -6001,6 +6006,13 @@
 
 ## Python 
 
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source framework for orchestrating GPU workloads across multiple cloud GPU providers. It provides a simple cloud-agnostic interface for development and deployment of generative AI mo
+- [emrgnt-cmplxty/sciphi](https://github.com/emrgnt-cmplxty/sciphi) - SciPhi is a simple framework for generating synthetic / fine-tuning data, and for robust evaluation of LLMs.
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [rnag/dataclass-wizard](https://github.com/rnag/dataclass-wizard) - A simple, yet elegant, set of wizarding tools for interacting with Python dataclasses.
 - [perfide/render-jinja-with-yaml](https://github.com/perfide/render-jinja-with-yaml) - Render Jinja2 templates with a yaml-config
 - [alexharv074/jinja2-unit-testing](https://github.com/alexharv074/jinja2-unit-testing) - A method of unit testing Jinja2 templates.
 - [modm-io/lbuild](https://github.com/modm-io/lbuild) - lbuild: a generic, modular code generator in Python 3
@@ -6016,10 +6028,10 @@
 - [abacaj/code-eval](https://github.com/abacaj/code-eval) - Run evaluation on LLMs using human-eval benchmark
 - [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
 - [yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [lmstudio-ai/examples](https://github.com/lmstudio-ai/examples) - Client code examples & integrations that utilize LM Studio's local inference server
 - [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)
 - [jquesnelle/yarn](https://github.com/jquesnelle/yarn) - YaRN: Efficient Context Window Extension of Large Language Models
@@ -6069,6 +6081,7 @@
 - [moverzp/GoodBooks](https://github.com/moverzp/GoodBooks) - 推荐你可能喜欢的好书
 - [nmwsharp/neural-physics-subspaces](https://github.com/nmwsharp/neural-physics-subspaces) - Fit low-dimensional subspaces to physical systems with neural networks (SIGGRAPH 2023)
 - [huggingface/datasets-server](https://github.com/huggingface/datasets-server) - Lightweight web API for visualizing and exploring all types of datasets - computer vision, speech, text, and tabular - stored on the Hugging Face Hub
+- [EleutherAI/math-lm](https://github.com/EleutherAI/math-lm) - 
 - [chuanyang-Zheng/Progressive-Hint](https://github.com/chuanyang-Zheng/Progressive-Hint) - This is the official implementation of "Progressive-Hint Prompting Improves Reasoning in Large Language Models"
 - [lrgresearch/gpaw-tools](https://github.com/lrgresearch/gpaw-tools) - gpaw-tools is a powerful and user-friendly UI/GUI tool for conducting Density Functional Theory (DFT) and molecular dynamics (MD) calculations
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
@@ -6136,7 +6149,7 @@
 - [KaiyangZhou/CoOp](https://github.com/KaiyangZhou/CoOp) - Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22)
 - [Arnav0400/ViT-Slim](https://github.com/Arnav0400/ViT-Slim) - Official code for our CVPR'22 paper “Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space”
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
-- [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers with math
+- [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers with math expressions
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
@@ -6377,6 +6390,7 @@
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 - [google-deepmind/dm_control](https://github.com/google-deepmind/dm_control) - Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
@@ -6393,7 +6407,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications
 - [ruogudu/PaperGPT](https://github.com/ruogudu/PaperGPT) - Chat with research papers
 - [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
-- [GammaTauAI/leetcode-hard-gym](https://github.com/GammaTauAI/leetcode-hard-gym) - 
+- [GammaTauAI/leetcode-hard-gym](https://github.com/GammaTauAI/leetcode-hard-gym) - A hard gym for programming
 - [smyja/blackmaria](https://github.com/smyja/blackmaria) - Python package for webscraping in Natural language
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [MrBlenny/py-d2](https://github.com/MrBlenny/py-d2) - A fully typed python interface for building .d2 graph files for use with the D2 engine.
@@ -6866,7 +6880,7 @@
 - [kootenpv/neural_complete](https://github.com/kootenpv/neural_complete) - A neural network trained to help writing neural network code using autocomplete
 - [jatinshah/ufldl_tutorial](https://github.com/jatinshah/ufldl_tutorial) - Stanford Unsupervised Feature Learning and Deep Learning Tutorial
 - [mathics/Mathics](https://github.com/mathics/Mathics) - This repository is for archival. Please see https://github.com/Mathics3/mathics-core
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [drasmuss/hessianfree](https://github.com/drasmuss/hessianfree) - Hessian-free optimization for deep networks
 - [masasin/latexipy](https://github.com/masasin/latexipy) - Generate beautiful plots for LaTeX using your existing matplotlib-based code.
 - [lspvic/jupyter_tensorboard](https://github.com/lspvic/jupyter_tensorboard) - Start Tensorboard in Jupyter Notebook
@@ -7864,7 +7878,7 @@
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [google-research/deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) - 
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx) - Deep learning in Rust, with shape checked tensors and neural networks
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
@@ -8818,6 +8832,7 @@
 
 ## TypeScript 
 
+- [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [hot3eed/xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more. Powered by Frida
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
@@ -8863,13 +8878,12 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [gladiaio/gladia-sdk-js](https://github.com/gladiaio/gladia-sdk-js) - Gladia SDK for JavaScript/TypeScript
 - [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Sandboxed cloud environments for AI agents & apps with a single line of code
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.

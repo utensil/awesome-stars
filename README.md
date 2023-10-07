@@ -4673,7 +4673,7 @@
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [bigcode-project/bigcode-dataset](https://github.com/bigcode-project/bigcode-dataset) - 
-- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - A Library for Aligning Causal Variables with Transformers Model
+- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - A Library for Aligning Causal Mechanisms with Transformer Model Internals
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - A framework for creating grounded instruction based datasets and training conversational domain expert Large Language Models (LLMs).
 - [leehanchung/lora-instruct](https://github.com/leehanchung/lora-instruct) - Finetune Falcon, LLaMA, MPT, and RedPajama on consumer hardware using PEFT LoRA

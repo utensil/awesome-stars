@@ -213,6 +213,7 @@
 
 ## C 
 
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [conda/pycosat](https://github.com/conda/pycosat) - Python bindings to picosat (a SAT solver)
 - [opencompl/C-parsing-for-Lean4](https://github.com/opencompl/C-parsing-for-Lean4) - A parser for ANSI C, in Lean4.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.

@@ -178,6 +178,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [perl](#perl)
 - [phaser](#phaser)
 - [php](#php)
@@ -6441,6 +6442,7 @@
 
 ## others 
 
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [NoahGav/oxide-lang](https://github.com/NoahGav/oxide-lang) - 
 - [forked-from-1kasper/ground_zero](https://github.com/forked-from-1kasper/ground_zero) - Ground Zero: Lean 4 HoTT Library
 - [kuruczgy/lean-vulkan](https://github.com/kuruczgy/lean-vulkan) - 
@@ -9915,7 +9917,6 @@
 - [shaunlebron/blinky](https://github.com/shaunlebron/blinky) - Exploring peripheral vision in games (using Quake)
 - [DanielRapp/doppler](https://github.com/DanielRapp/doppler) - :wave: Motion detection using the doppler effect
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [trevnorris/threx](https://github.com/trevnorris/threx) - Spawn threads in JS
 - [nasa/trick](https://github.com/nasa/trick) - Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
 - [simongog/sdsl-lite](https://github.com/simongog/sdsl-lite) - Succinct Data Structure Library 2.0
@@ -11947,6 +11948,24 @@
 - [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) - SSH man-in-the-middle tool
 - [Hack-with-Github/Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - Free Security and Hacking eBooks
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+
+## pentesting 
+
+- [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [mablanco/docker-rapidscan](https://github.com/mablanco/docker-rapidscan) - Docker image for Rapidscan, a multi-tool web vulnerability scanner
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
+- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
+- [IvanVoronov/SecTools](https://github.com/IvanVoronov/SecTools) - List of tools for SecDevOps, vulnerability analysis, network scanning
+- [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX) - An evil RAT (Remote Administration Tool) for macOS / OS X.
+- [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - An Information Security Reference That Doesn't Suck; https://rmusser.net/git/admin-2/Infosec_Reference for non-MS Git hosted version.
+- [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [stampery/mongoaudit](https://github.com/stampery/mongoaudit) - 🔥 A powerful MongoDB auditing and pentesting tool 🔥
 
 ## perl 
 
@@ -13988,6 +14007,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [piotrmurach/tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more

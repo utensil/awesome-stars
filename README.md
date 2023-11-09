@@ -634,7 +634,6 @@
 - [sudgy/sga](https://github.com/sudgy/sga) - A basic, sparse, and decently efficient geometric algebra library in C++
 - [google/heir](https://github.com/google/heir) - Standard MLIR dialects for homomorphic encryption
 - [neuronsimulator/nrn](https://github.com/neuronsimulator/nrn) - NEURON Simulator
-- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
 - [idiap/gafro](https://github.com/idiap/gafro) - An efficient c++ library targeting robotics applications using geometric algebra
 - [google/cld3](https://github.com/google/cld3) - 
 - [bsolomon1124/pycld3](https://github.com/bsolomon1124/pycld3) - Python3 bindings for the Compact Language Detector v3 (CLD3)
@@ -2695,7 +2694,7 @@
 - [ant-tool/atool-l10n](https://github.com/ant-tool/atool-l10n) - 🌍 localized message files generating automatic solution
 - [locize/translation-check](https://github.com/locize/translation-check) - This package shows an overview of your translations. Check which keys are not yet translated.
 - [stanford-crfm/ecosystem-graphs](https://github.com/stanford-crfm/ecosystem-graphs) - 
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化首页、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
 - [hnmr293/posex](https://github.com/hnmr293/posex) - Posex - Estimated Image Generator for Pose2Image
 - [keldenl/gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - A llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
@@ -2793,7 +2792,7 @@
 - [oakmac/kidif.js](https://github.com/oakmac/kidif.js) - Store raw text as structured data in simple text files.
 - [Keno/julia-wasm](https://github.com/Keno/julia-wasm) - Running julia on wasm
 - [hypercore-protocol/hypertrie](https://github.com/hypercore-protocol/hypertrie) - Distributed single writer key/value store
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
 - [tsherif/glcheck](https://github.com/tsherif/glcheck) - A testing framework for WebGL 1 and 2 applications
@@ -3076,6 +3075,7 @@
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [EtherbitHQ/donut](https://github.com/EtherbitHQ/donut) - 🏹 Dead-simple cross-platform cryptocurrency tracker.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [pablopunk/chronocube](https://github.com/pablopunk/chronocube) - [UNMANTAINED]. Simple app to time your Rubik's Cube solves
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
@@ -3504,7 +3504,6 @@
 - [steelbrain/linter](https://github.com/steelbrain/linter) - A Base Linter with Cow Powers http://steelbrain.me/linter/
 - [atom/autocomplete-plus](https://github.com/atom/autocomplete-plus) - View and insert possible completions in the editor while typing
 - [file-icons/atom](https://github.com/file-icons/atom) - Atom file-specific icons for improved visual grepping.
-- [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [electron-archive/grunt-electron-installer](https://github.com/electron-archive/grunt-electron-installer) - Grunt plugin to build Windows installers for Electron apps
 - [electron-userland/electron-prebuilt](https://github.com/electron-userland/electron-prebuilt) - 🎂  Retired project. See README
 - [spolu/node-shell](https://github.com/spolu/node-shell) - Atom Shell bindings for nodeJS
@@ -3629,7 +3628,7 @@
 - [ljharb/tape](https://github.com/ljharb/tape) - tap-producing test harness for node and browsers
 - [stackgl/webgl-workshop](https://github.com/stackgl/webgl-workshop) - :mortar_board: The sequel to shader-school: Learn the WebGL API
 - [stackgl/gl-shader](https://github.com/stackgl/gl-shader) - 🎁 WebGL shader wrapper
-- [glslify/glslify](https://github.com/glslify/glslify) - :sparkles: A node.js-style module system for GLSL!
+- [glslify/glslify](https://github.com/glslify/glslify) - A node.js-style module system for GLSL! :sparkles:
 - [isaacs/sax-js](https://github.com/isaacs/sax-js) - A sax style parser for JS
 - [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) - A BPMN 2.0 rendering toolkit and web modeler.
 - [e2ebridge/bpmn](https://github.com/e2ebridge/bpmn) - BPMN 2.0 execution engine
@@ -4864,7 +4863,7 @@
 
 - [archguard/archguard](https://github.com/archguard/archguard) - ArchGuard is a architecture workbench, also for architecture governance, which can analysis architecture in container, component, code level, create architecure fitness functions, and anaysis system d
 - [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Testing feature 🧪 included!
-- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，Demo数据预计这周末迁移到另外的服务器，请耐心等待
+- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 - [owo-lang/intellij-dtlc](https://github.com/owo-lang/intellij-dtlc) - IntelliJ plugin for several experimental programming languages here
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [Gh0u1L5/WechatMagician](https://github.com/Gh0u1L5/WechatMagician) - WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
@@ -5612,7 +5611,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [osxfuse/osxfuse](https://github.com/osxfuse/osxfuse) - FUSE extends macOS by adding support for user space file systems
-- [xyflow/awesome-interactive-journalism](https://github.com/xyflow/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
+- [wbkd/awesome-interactive-journalism](https://github.com/wbkd/awesome-interactive-journalism) - A list of awesome interactive journalism projects.
 - [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
@@ -5759,7 +5758,7 @@
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [ghosert/cmd-editor](https://github.com/ghosert/cmd-editor) - 报告 【Cmd 在线 Markdown 编辑阅读器】的问题，臭虫，改进建议
 - [wwsun/awesome-javascript](https://github.com/wwsun/awesome-javascript) - A learning guide for JavaScript programmers.
-- [xyflow/awesome-d3](https://github.com/xyflow/awesome-d3) - A list of D3 libraries, plugins and utilities
+- [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
 - [coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
 - [zenorocha/atom-javascript-snippets](https://github.com/zenorocha/atom-javascript-snippets) - JavaScript & NodeJS Snippets for Atom Editor
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
@@ -6078,7 +6077,7 @@
 - [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Lazarus
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source cloud platform for generative AI workloads orchestration. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack simplifies training, fine-tuning, and deploying generative AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
 - [SciPhi-AI/sciphi](https://github.com/SciPhi-AI/sciphi) - SciPhi is AI's knowledge engine
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -6124,6 +6123,7 @@
 - [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers) - Parallelformers: An Efficient Model Parallelization Toolkit for Deployment
 - [prex1030/xppy](https://github.com/prex1030/xppy) - [UNMAINTAINED] XPPy is Python interface for Bard Ermentrout's XPP.
 - [jsnowacki/xppy](https://github.com/jsnowacki/xppy) - [UNMAINTAINED] XPPy is Python interface for Bard Ermentrout's XPP.
+- [THUDM/AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
 - [Gryphe/BlockMerge_Gradient](https://github.com/Gryphe/BlockMerge_Gradient) - Merge Transformers language models by use of gradient parameters.
 - [py499372727/AgentSims](https://github.com/py499372727/AgentSims) - AgentSims is an easy-to-use infrastructure for researchers from all disciplines to test the specific capacities they are interested in.
 - [tmm1/axolotl](https://github.com/tmm1/axolotl) - Go ahead and axolotl questions
@@ -6171,7 +6171,7 @@
 - [zilliztech/akcio](https://github.com/zilliztech/akcio) - Akcio is a demonstration project for Retrieval Augmented Generation (RAG). It leverages the power of LLM to generate responses and uses vector databases to fetch relevant documents to enhance the qual
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [OpenNLPLab/TransnormerLLM](https://github.com/OpenNLPLab/TransnormerLLM) - Official implementation of TransNormerLLM: A Faster and Better LLM
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM)
 - [lz1oceani/verify_cot](https://github.com/lz1oceani/verify_cot) - 
 - [declare-lab/instruct-eval](https://github.com/declare-lab/instruct-eval) - This repository contains code to quantitatively evaluate instruction-tuned models such as Alpaca and Flan-T5 on held-out tasks.
 - [Lichang-Chen/InstructZero](https://github.com/Lichang-Chen/InstructZero) - Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!
@@ -6208,7 +6208,7 @@
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [ictnlp/BayLing](https://github.com/ictnlp/BayLing) - “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chines
 - [onesuper/HuggingFace-Datasets-Text-Quality-Analysis](https://github.com/onesuper/HuggingFace-Datasets-Text-Quality-Analysis) - Retrieves parquet files from Hugging Face, identifies and quantifies junky data, duplication, contamination, and biased content in dataset using pandas
-- [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [izikeros/trend_classifier](https://github.com/izikeros/trend_classifier) - Library for automated signal segmentation, trend classification and analysis.
 - [rafa-rod/pytrendseries](https://github.com/rafa-rod/pytrendseries) - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
@@ -6316,7 +6316,7 @@
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
-- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality
+- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - [Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
 - [OpenGVLab/Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP
 - [salesforce/AuditNLG](https://github.com/salesforce/AuditNLG) - AuditNLG: Auditing Generative AI Language Modeling for Trustworthiness
 - [PhilJd/contiguous_pytorch_params](https://github.com/PhilJd/contiguous_pytorch_params) - Accelerate training by storing  parameters in one contiguous chunk of memory.
@@ -6556,7 +6556,7 @@
 - [butaixianran/Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
 - [randaller/llama-chat](https://github.com/randaller/llama-chat) - Chat with Meta's LLaMA models at home made easy
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
+- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -7217,7 +7217,7 @@
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [no13bus/baymax](https://github.com/no13bus/baymax) - "Hello, I am your personal health companion"
 - [datalib/libextract](https://github.com/datalib/libextract) - Extract data from websites using basic statistical magic
-- [joshenders/dnsdiff](https://github.com/joshenders/dnsdiff) - DNS migration tool which helps you validate a new provider
+- [joshenders/dnsdiff](https://github.com/joshenders/dnsdiff) - DNS migration tool which helps validate a new provider
 - [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
@@ -7938,7 +7938,7 @@
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [SchrodingerZhu/hashbrown4lean](https://github.com/SchrodingerZhu/hashbrown4lean) - 
 - [anandijain/leetcode_evals](https://github.com/anandijain/leetcode_evals) - 
-- [rose-lang/rose](https://github.com/rose-lang/rose) - Extensible interactive autodiff.
+- [rose-lang/rose](https://github.com/rose-lang/rose) - Efficient pointful autodiff on the web.
 - [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [Gadersd/llama2-burn](https://github.com/Gadersd/llama2-burn) - Llama2 LLM ported to Rust burn
 - [burn-rs/burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
@@ -8981,7 +8981,7 @@
 - [linonetwo/langchain-alpaca](https://github.com/linonetwo/langchain-alpaca) - Run Alpaca LLM in LangChain
 - [Meteo-Pig/CursorCode](https://github.com/Meteo-Pig/CursorCode) - Cursor GPT vscode扩展插件
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
@@ -9136,7 +9136,6 @@
 - [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies

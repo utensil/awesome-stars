@@ -213,6 +213,7 @@
 
 ## C 
 
+- [orangeduck/BVHView](https://github.com/orangeduck/BVHView) - A simple viewer for the .bvh animation file format written using raylib.
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 - [conda/pycosat](https://github.com/conda/pycosat) - Python bindings to picosat (a SAT solver)
 - [opencompl/C-parsing-for-Lean4](https://github.com/opencompl/C-parsing-for-Lean4) - A parser for ANSI C, in Lean4.
@@ -643,6 +644,7 @@
 - [markusschwenk/midieditor](https://github.com/markusschwenk/midieditor) - Provides an interface to edit, record, and play Midi data
 - [harrisonvanderbyl/godot-rwkv](https://github.com/harrisonvanderbyl/godot-rwkv) - RWKV godot interface module
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is
@@ -715,7 +717,7 @@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [Prograf-UFF/TbGAL](https://github.com/Prograf-UFF/TbGAL) - TbGAL: Tensor-Based Geometric Algebra Library
 - [vprover/vampire](https://github.com/vprover/vampire) - The Vampire Theorem Prover
-- [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean Theorem Prover
+- [leanprover-community/lean](https://github.com/leanprover-community/lean) - Lean 3 Theorem Prover (community fork)
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework
 - [jeremyong/klein](https://github.com/jeremyong/klein) - P(R*_{3, 0, 1}) specialized SIMD Geometric Algebra Library
 - [google/or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
@@ -1571,7 +1573,6 @@
 - [selkies-project/docker-nvidia-glx-desktop](https://github.com/selkies-project/docker-nvidia-glx-desktop) - KDE Plasma Desktop container designed for Kubernetes supporting OpenGL GLX and Vulkan for NVIDIA GPUs with WebRTC and HTML5, providing an open-source remote cloud graphics or game streaming platform. 
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [madduci/docker-compiler-explorer](https://github.com/madduci/docker-compiler-explorer) - A docker-based version of Matt Godbolt's compiler-explorer application
-- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [denniskcheung/crytomator-docker](https://github.com/denniskcheung/crytomator-docker) - 
 - [vh13294/cryptomator-docker](https://github.com/vh13294/cryptomator-docker) - 
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
@@ -1675,7 +1676,6 @@
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [yuzutech/kroki-cli](https://github.com/yuzutech/kroki-cli) - A Kroki CLI
 - [alasdairforsythe/tokenmonster](https://github.com/alasdairforsythe/tokenmonster) - Ungreedy subword tokenizer and vocabulary trainer for Python, Go & Javascript
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [euphoricrhino/cg](https://github.com/euphoricrhino/cg) - arbitrary precision clebsch-gordan coefficients for SO(3)
 - [euphoricrhino/sakurai-go](https://github.com/euphoricrhino/sakurai-go) - 
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
@@ -1767,6 +1767,7 @@
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [cossacklabs/acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("tra
+- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -2169,7 +2170,6 @@
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [vbauer/android-arsenal.com](https://github.com/vbauer/android-arsenal.com) - Source to android-arsenal.herokuapp.com
-- [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [owenversteeg/min](https://github.com/owenversteeg/min) - the world's smallest (995 bytes) CSS framework
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -3419,7 +3419,7 @@
 - [medialize/sass.js](https://github.com/medialize/sass.js) - Sass.js - API for emscripted libsass to run in the browser
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
 - [fex-team/kityminder-core](https://github.com/fex-team/kityminder-core) - 强大的脑图可视化工具
-- [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+- [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [bevacqua/promisees](https://github.com/bevacqua/promisees) - :incoming_envelope: Promise visualization playground for the adventurous
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
@@ -3804,6 +3804,7 @@
 - [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
 - [hughsk/markdown-tree](https://github.com/hughsk/markdown-tree) - Convert a markdown document into a JSON tree structure.
 - [hughsk/stability-badges](https://github.com/hughsk/stability-badges) - A set of SVG badges to mark your modules with the Node stability index
+- [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [pragmaticly/smart-time-ago](https://github.com/pragmaticly/smart-time-ago) - Smart Time Ago is a little jQuery library to update the relative timestamps in your document.
 - [jamesplease/unicode-math.js](https://github.com/jamesplease/unicode-math.js) - Unicode values for math symbols.
 - [minutelabsio/Chaotic-Planets](https://github.com/minutelabsio/Chaotic-Planets) - Under construction
@@ -4847,7 +4848,7 @@
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [piiswrong/deep3d](https://github.com/piiswrong/deep3d) - Automatic 2D-to-3D Video Conversion with CNNs
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [jupyter-attic/dashboards](https://github.com/jupyter-attic/dashboards) - [RETIRED] See Voilà as a supported replacement
+- [jupyter/dashboards](https://github.com/jupyter/dashboards) - [RETIRED] See Voilà as a supported replacement
 - [Roger-luo/AdiaComput.jl](https://github.com/Roger-luo/AdiaComput.jl) - A tweakable quantum adiabatic computation simulator
 - [JuliaOpt/juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) - A collection of IJulia notebooks related to optimization
 - [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) - 中文 Python 笔记
@@ -4866,7 +4867,6 @@
 - [unit-mesh/auto-dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assistant 🐞! Customizable prompts 🎨 and a magic Auto Testing feature 🧪 included!
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 - [owo-lang/intellij-dtlc](https://github.com/owo-lang/intellij-dtlc) - IntelliJ plugin for several experimental programming languages here
-- [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [Gh0u1L5/WechatMagician](https://github.com/Gh0u1L5/WechatMagician) - WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.
 - [Gh0u1L5/WechatSpellbook](https://github.com/Gh0u1L5/WechatSpellbook) - Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。
 - [android/architecture-samples](https://github.com/android/architecture-samples) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
@@ -4895,6 +4895,8 @@
 
 ## Lean 
 
+- [teorth/pfr](https://github.com/teorth/pfr) - 
+- [fpvandoorn/sard](https://github.com/fpvandoorn/sard) - Work towards a general version of Sard's theorem in Lean 4
 - [forked-from-1kasper/ground_zero](https://github.com/forked-from-1kasper/ground_zero) - Ground Zero: Lean 4 HoTT Library
 - [kuruczgy/lean-vulkan](https://github.com/kuruczgy/lean-vulkan) - 
 - [Stavan-Jain/linear_algebra_game](https://github.com/Stavan-Jain/linear_algebra_game) - Building the linear algebra game!
@@ -4956,6 +4958,7 @@
 - [adamtopaz/lean_grader](https://github.com/adamtopaz/lean_grader) - 
 - [hargoniX/nest-slimcheck](https://github.com/hargoniX/nest-slimcheck) - 
 - [hargoniX/nest-core](https://github.com/hargoniX/nest-core) - 
+- [nomeata/loogle](https://github.com/nomeata/loogle) - Mathlib search tool
 - [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
 - [YaelDillies/LeanAPAP](https://github.com/YaelDillies/LeanAPAP) - Formalisation of the Kelley-Meka bound on Roth numbers
 - [leanprover-community/quote4](https://github.com/leanprover-community/quote4) - Intuitive, type-safe expression quotations for Lean 4.
@@ -6098,7 +6101,7 @@
 - [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
 - [SillyTavern/SillyTavern-Extras](https://github.com/SillyTavern/SillyTavern-Extras) - Extensions API for SillyTavern.
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
-- [yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
+- [yvann-ba/Robby-chatbot](https://github.com/yvann-ba/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—bring the power of ChatGPT to VS Code and JetBrains
 - [lmstudio-ai/examples](https://github.com/lmstudio-ai/examples) - Client code examples & integrations that utilize LM Studio's local inference server
 - [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)
@@ -6110,7 +6113,6 @@
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq) - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
-- [nomeata/loogle](https://github.com/nomeata/loogle) - Mathlib search tool
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [7eu7d7/HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - A universal Stable-Diffusion toolbox
 - [showlab/UniVTG](https://github.com/showlab/UniVTG) - [ICCV2023] UniVTG: Towards Unified Video-Language Temporal Grounding
@@ -6608,7 +6610,7 @@
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [facebookresearch/co3d](https://github.com/facebookresearch/co3d) - Tooling for the Common Objects In 3D dataset.
 - [DoubleGremlin181/RubiksCubeGym](https://github.com/DoubleGremlin181/RubiksCubeGym) - OpenAI Gym environments for various twisty puzzles
-- [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for AI
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [eigenchris/MathNotes](https://github.com/eigenchris/MathNotes) - 
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -7540,7 +7542,6 @@
 - [ruby/did_you_mean](https://github.com/ruby/did_you_mean) - The gem that has been saving people from typos since 2014
 - [Intrepidd/working_hours](https://github.com/Intrepidd/working_hours) - ⏰ A modern ruby gem allowing to do time calculation with business / working hours.
 - [danielsdeleo/Decider](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby
-- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [piotrmurach/tty](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps.
 - [imasahiro/rujit](https://github.com/imasahiro/rujit) - RuJIT: a trace based just in time compile for CRuby
 - [nullscreen/bh](https://github.com/nullscreen/bh) - Bootstrap Helpers for Ruby
@@ -7976,7 +7977,7 @@
 - [lurk-lab/lurk-rs](https://github.com/lurk-lab/lurk-rs) - Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - The KCL Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - The KCL Language Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [randombit/wycheproof-rs](https://github.com/randombit/wycheproof-rs) - Wycheproof for Rust
 - [polymonster/maths-rs](https://github.com/polymonster/maths-rs) - Linear algebra library for graphics and gamedev.
@@ -8616,6 +8617,7 @@
 - [wxpusher/wxpusher-docs](https://github.com/wxpusher/wxpusher-docs) - 微信消息实时推送服务[WxPusher]的服务说明文档，通过本文档，你可以了解如何使用WxPusher的服务。 文档预览地址：
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [render-examples/ghost](https://github.com/render-examples/ghost) - Ghost on Render
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [Jonnyan404/verysync](https://github.com/Jonnyan404/verysync) - 微力同步 docker 版本
@@ -8697,6 +8699,7 @@
 - [phusion/traveling-ruby](https://github.com/phusion/traveling-ruby) - Self-contained Ruby binaries that can run on any Linux distribution and any macOS machine.
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [geo8bit/nodebob](https://github.com/geo8bit/nodebob) - nodebob is a build tool for node-webkit.
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [elasticdog/transcrypt](https://github.com/elasticdog/transcrypt) - transparently encrypt files within a git repository

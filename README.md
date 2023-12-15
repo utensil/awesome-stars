@@ -213,7 +213,6 @@
 
 ## C 
 
-- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [SwiftLaTeX/Texlive-Ondemand](https://github.com/SwiftLaTeX/Texlive-Ondemand) - Serving TexLive Files from Our Web-based Engine
 - [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [orangeduck/BVHView](https://github.com/orangeduck/BVHView) - A simple viewer for the .bvh animation file format written using raylib.
@@ -4084,6 +4083,7 @@
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [leeoniya/reMarked.js](https://github.com/leeoniya/reMarked.js) - client-side HTML &gt; markdown
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [gfranko/jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js) - A jQuery Table of Contents plugin that can be themed with Twitter Bootstrap or jQueryUI.
 - [malditogeek/vmux](https://github.com/malditogeek/vmux) - Secure P2P text, audio and video chats in your browser.
@@ -4651,6 +4651,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 - [geomstats/geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.
 - [profConradi/eigenfish](https://github.com/profConradi/eigenfish) - # Eigenfish Ideas by the wonderful ["Computational Discovery on Jupyter"](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html) by Neil J. Calkin, Eunice 
@@ -4909,6 +4910,8 @@
 
 ## Lean 
 
+- [T-Brick/lean2wasm](https://github.com/T-Brick/lean2wasm) - 
+- [AdrienChampion/loadTerms.lean](https://github.com/AdrienChampion/loadTerms.lean) - Testing dynamic term loading in Lean 4.
 - [paulcadman/lean4-leetcode](https://github.com/paulcadman/lean4-leetcode) - 
 - [arienmalec/axler](https://github.com/arienmalec/axler) - 
 - [iehality/lean4-logic](https://github.com/iehality/lean4-logic) - Lean4 Logic Formalization
@@ -5164,7 +5167,7 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [zhangxiangxiao/Crepe](https://github.com/zhangxiangxiao/Crepe) - Character-level Convolutional Networks for Text Classification
 - [tylerneylon/termtris](https://github.com/tylerneylon/termtris) - A text-based game inspired by tetris.
-- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - Simon’s Improved Layout Engine
+- [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - The SILE Typesetter — Simon’s Improved Layout Engine
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [kennyledet/Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations) - Share, discuss and learn about algorithm implementations!
@@ -5423,7 +5426,7 @@
 - [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
 - [euphoricrhino/sakurai-notes](https://github.com/euphoricrhino/sakurai-notes) - Notes and solutions for Modern Quantum Mechanics by Sakurai & Napolitano
 - [daochenzha/data-centric-AI](https://github.com/daochenzha/data-centric-AI) - A curated, but incomplete, list of data-centric AI resources.
-- [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
+- [Ly0n/awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
 - [arnav-gudibande/koala-test-set](https://github.com/arnav-gudibande/koala-test-set) - The test set for Koala
 - [libertine-fonts/libertine](https://github.com/libertine-fonts/libertine) - The Libertine typeface family
@@ -6104,7 +6107,7 @@
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [mrob95/mathfly-talon](https://github.com/mrob95/mathfly-talon) - Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook 5.5.
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning
 - [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
@@ -6117,7 +6120,7 @@
 - [facebookresearch/minimax](https://github.com/facebookresearch/minimax) - Efficient baselines for autocurricula in JAX.
 - [discopy/discopy](https://github.com/discopy/discopy) - The Python toolkit for computing with string diagrams.
 - [Qualcomm-AI-research/geometric-algebra-transformer](https://github.com/Qualcomm-AI-research/geometric-algebra-transformer) - 
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
 - [cocktailpeanut/mirror](https://github.com/cocktailpeanut/mirror) - 
 - [ul-fmf/mlfmf-data](https://github.com/ul-fmf/mlfmf-data) - Machine Learning for Mathematical Formalization
 - [morph-labs/mci](https://github.com/morph-labs/mci) - Morph Code Index
@@ -6136,7 +6139,7 @@
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - dstack simplifies training, fine-tuning, and deploying generative AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
-- [SciPhi-AI/sciphi](https://github.com/SciPhi-AI/sciphi) - SciPhi is AI's knowledge engine
+- [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - Synthesizer is a synthetic data framework.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [rnag/dataclass-wizard](https://github.com/rnag/dataclass-wizard) - A simple, yet elegant, set of wizarding tools for interacting with Python dataclasses.
@@ -6519,7 +6522,6 @@
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [ucinlp/autoprompt](https://github.com/ucinlp/autoprompt) - AutoPrompt: Automatic Prompt Construction for Masked Language Models.
 - [teknium1/GPTeacher](https://github.com/teknium1/GPTeacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 - [google-deepmind/dm_control](https://github.com/google-deepmind/dm_control) - Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
@@ -7403,7 +7405,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [roger-/PyTwoPort](https://github.com/roger-/PyTwoPort) - A Python library for analyzing linear two-port electrical networks
 - [py-sherlock/sherlock](https://github.com/py-sherlock/sherlock) - Easy distributed locks for Python with a choice of backends.
-- [okfn/dataconverters](https://github.com/okfn/dataconverters) - Python library and command line tool for converting data from one format to another
+- [rufuspollock-okfn/dataconverters](https://github.com/rufuspollock-okfn/dataconverters) - Python library and command line tool for converting data from one format to another
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc) - Bayesian Modeling and Probabilistic Programming in Python
 - [okfn/dataproxy](https://github.com/okfn/dataproxy) - Web application (targeted at appengine) to proxy data from certain data types into a JSON-P data type so that users can create mashups against remote data sets.
 - [ckan/ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.hu
@@ -8882,6 +8884,8 @@
 
 ## TeX 
 
+- [hairer/reconstruction](https://github.com/hairer/reconstruction) - Formalisation of the proof of the 'germs' version of the reconstruction theorem
+- [Armael/coq-procrastination](https://github.com/Armael/coq-procrastination) - A small Coq library for collecting side conditions and deferring their proof
 - [gpoore/minted](https://github.com/gpoore/minted) - minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
 - [tectonic-typesetting/tectonic-texlive-bundles](https://github.com/tectonic-typesetting/tectonic-texlive-bundles) - Generate Tectonic bundles from the TeXLive source tree
 - [Nazgand/NazgandMathBook](https://github.com/Nazgand/NazgandMathBook) - A collection of math notes
@@ -9042,6 +9046,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - 
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
@@ -9275,7 +9280,6 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.

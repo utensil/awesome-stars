@@ -299,7 +299,7 @@
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - Synthesizer is a synthetic data framework.
+- [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for inference, RAG, and data creation.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [the-crypt-keeper/can-ai-code](https://github.com/the-crypt-keeper/can-ai-code) - Self-evaluating interview for AI coders
 - [yvann-ba/Robby-chatbot](https://github.com/yvann-ba/Robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
@@ -599,7 +599,7 @@
 ## artificial-intelligence 
 
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - Synthesizer is a synthetic data framework.
+- [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for inference, RAG, and data creation.
 - [zilliztech/akcio](https://github.com/zilliztech/akcio) - Akcio is a demonstration project for Retrieval Augmented Generation (RAG). It leverages the power of LLM to generate responses and uses vector databases to fetch relevant documents to enhance the qual
 - [lucidrains/st-moe-pytorch](https://github.com/lucidrains/st-moe-pytorch) - Implementation of ST-Moe, the latest incarnation of MoE after years of research at Brain, in Pytorch
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
@@ -5284,7 +5284,7 @@
 
 - [geomstats/geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - dstack simplifies training, fine-tuning, and deploying generative AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
-- [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - Synthesizer is a synthetic data framework.
+- [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for inference, RAG, and data creation.
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 - [BlackSamorez/tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) - Automatically split your PyTorch models on multiple GPUs for training & inference
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
@@ -6451,6 +6451,7 @@
 
 ## others 
 
+- [yangky11/miniF2F-lean4](https://github.com/yangky11/miniF2F-lean4) - 
 - [T-Brick/lean2wasm](https://github.com/T-Brick/lean2wasm) - 
 - [hairer/reconstruction](https://github.com/hairer/reconstruction) - Formalisation of the proof of the 'germs' version of the reconstruction theorem
 - [AdrienChampion/loadTerms.lean](https://github.com/AdrienChampion/loadTerms.lean) - Testing dynamic term loading in Lean 4.
@@ -7471,7 +7472,7 @@
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [schrodinger/pymol-open-source](https://github.com/schrodinger/pymol-open-source) - Open-source foundation of the user-sponsored PyMOL molecular visualization system.
 - [RosettaCommons/RoseTTAFold](https://github.com/RosettaCommons/RoseTTAFold) - This package contains deep learning models and related scripts for RoseTTAFold
-- [lobolab/mergem](https://github.com/lobolab/mergem) - mergem is a Python package for merging and comparing genome-scale metabolic models
+- [lobolab/mergem](https://github.com/lobolab/mergem) - mergem is a python package and command-line tool for merging, comparing, and translating genome-scale metabolic models
 - [ELIFE-ASU/PyInform](https://github.com/ELIFE-ASU/PyInform) - A Python Wrapper for the Inform Information Analysis Library
 - [plfa/plfl](https://github.com/plfa/plfl) - Programming Language Foundations in Lean
 - [unconed/shadergraph](https://github.com/unconed/shadergraph) - Functional GLSL Linker

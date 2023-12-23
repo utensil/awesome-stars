@@ -352,7 +352,7 @@
 - [lunixbochs/patchkit](https://github.com/lunixbochs/patchkit) - binary patching from Python
 - [forhappy/uvbook](https://github.com/forhappy/uvbook) - 《An Introduction to libuv》中文翻译
 - [mpapierski/http-server](https://github.com/mpapierski/http-server) - 100% async http-server library written in C
-- [networkprotocol/yojimbo](https://github.com/networkprotocol/yojimbo) - A network library for client/server games written in C++
+- [mas-bandwidth/yojimbo](https://github.com/mas-bandwidth/yojimbo) - A network library for client/server games written in C++
 - [licstar/compare](https://github.com/licstar/compare) - compare embedding
 - [lzfse/lzfse](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
@@ -3358,7 +3358,7 @@
 - [escomplex/complexity-report](https://github.com/escomplex/complexity-report) - **UNMAINTAINED** Software complexity analysis for JavaScript projects
 - [invertase/react-native-material-design](https://github.com/invertase/react-native-material-design) - React Native UI Components for Material Design
 - [mattkrick/meatier](https://github.com/mattkrick/meatier) - :hamburger: like meteor, but meatier :hamburger:
-- [aoao-eth/js2image](https://github.com/aoao-eth/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
+- [Yootou-dev/js2image](https://github.com/Yootou-dev/js2image) - 一个可以把js源代码压缩成一个ascii字符画的源代码的工具，压缩后的代码仍可运行 （A tool can compress JavaScript code to any ascii image and still run normally )
 - [lockys/AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in seconds.
 - [aframevr/aframe](https://github.com/aframevr/aframe) - :a: Web framework for building virtual reality experiences.
 - [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
@@ -3566,7 +3566,7 @@
 - [messageformat/Jed](https://github.com/messageformat/Jed) - Gettext Style i18n for Modern JavaScript Apps
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
-- [foldmap/colorette](https://github.com/foldmap/colorette) - 🌈Easily set your terminal text color & styles
+- [joxji/colorette](https://github.com/joxji/colorette) - 🌈Easily set your terminal text color & styles
 - [brianium/watermarkjs](https://github.com/brianium/watermarkjs) - :rice_scene: Watermarking for the browser
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
 - [utensil/riotjs-experiments](https://github.com/utensil/riotjs-experiments) - Try to experiment RiotJS with my preferred workflows.
@@ -8145,7 +8145,7 @@
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing for Rust
 - [kanishkarj/snoopy](https://github.com/kanishkarj/snoopy) - A highly configurable multi-threaded packet sniffer and parser build in rust-lang.
 - [llogiq/flamer](https://github.com/llogiq/flamer) - A compiler plugin to insert flame calls
-- [leanprover/elan](https://github.com/leanprover/elan) - A Lean version manager
+- [leanprover/elan](https://github.com/leanprover/elan) - The Lean version manager
 - [griba2001/rust-monadic](https://github.com/griba2001/rust-monadic) - Macro to use rust IntoIterator as a monad with haskell like syntax
 - [murarth/ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs
 - [Nelarius/weekend-raytracer-rust](https://github.com/Nelarius/weekend-raytracer-rust) - A Rust implementation of the "Ray Tracing in One Weekend" book
@@ -9108,6 +9108,7 @@
 - [hobofan/rust-interop](https://github.com/hobofan/rust-interop) - Website to highlight Rust language interop options
 - [niklasvh/css-line-break](https://github.com/niklasvh/css-line-break) - A JavaScript library for Line Breaking and identifying Word Boundaries, implementing the Unicode Line Breaking Algorithm (UAX #14)
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
@@ -9356,7 +9357,6 @@
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [kempsteven/vue-html2pdf](https://github.com/kempsteven/vue-html2pdf) - vue-html2pdf converts any vue component or element into PDF, vue-html2pdf is basically a vue wrapper only and uses html2pdf.js behind the scenes.
 - [rhaiscript/playground](https://github.com/rhaiscript/playground) - A Rhai scripting playground that runs Rhai scripts using WebAssembly in a web browser.
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [DrSensor/example-vue-component-rust](https://github.com/DrSensor/example-vue-component-rust) - example of how to mix Rust code compiled as WebAssembly with Vue

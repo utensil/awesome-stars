@@ -633,7 +633,7 @@
 - [qqiangwu/cppship](https://github.com/qqiangwu/cppship) - Cargo-like build tool for modern cpp
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
-- [foonathan/cppast](https://github.com/foonathan/cppast) - Library to parse and work with the C++ AST
+- [standardese/cppast](https://github.com/standardese/cppast) - Library to parse and work with the C++ AST
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [Daninet/ginac-wasm](https://github.com/Daninet/ginac-wasm) - WebAssembly bindings for the GiNaC computer algebra system
 - [mathSlib-dev/mathSlib](https://github.com/mathSlib-dev/mathSlib) - A C++ computer algebra (symbolic computation) library.
@@ -952,6 +952,7 @@
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [emilk/loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library
 - [fsaintjacques/disruptor--](https://github.com/fsaintjacques/disruptor--) - disruptor concurency pattern in c++
 - [aarond10/epoll_threadpool](https://github.com/aarond10/epoll_threadpool) - A small, clean, linux-only thread-pool implementation using epoll with support for sockets, scheduled callbacks and TCP connections.
@@ -1597,7 +1598,7 @@
 - [EasyPi/docker-scrapyd](https://github.com/EasyPi/docker-scrapyd) - 🕷️ Scrapyd is an application for deploying and running Scrapy spiders.
 - [madnight/docker-alpine-wkhtmltopdf](https://github.com/madnight/docker-alpine-wkhtmltopdf) - wkhtmltopdf alpine docker container with headless qt patches
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
-- [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - 
+- [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - The official Docker images for Rust
 - [triagemd/tensorflow-builds](https://github.com/triagemd/tensorflow-builds) - Tensorflow binaries and Docker images compiled with GPU support and CPU optimizations.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
@@ -2466,7 +2467,6 @@
 - [wequick/Small](https://github.com/wequick/Small) - A small framework to split app into small parts
 - [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 - [SonarOpenCommunity/sonar-cxx](https://github.com/SonarOpenCommunity/sonar-cxx) - SonarQube C++ Community plugin (cxx plugin): This plugin adds C++ support to SonarQube with the focus on integration of existing C++ tools.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [lets-blade/blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
 - [apache/datasketches-java](https://github.com/apache/datasketches-java) - A software library of stochastic streaming algorithms, a.k.a. sketches.
 - [taoliuh/CardSlidePanel](https://github.com/taoliuh/CardSlidePanel) - Based on https://github.com/xmuSistone/android-card-slide-panel.git
@@ -4919,6 +4919,7 @@
 
 ## Lean 
 
+- [goens/lost-pop-lean](https://github.com/goens/lost-pop-lean) - POP Memory Model in Lean
 - [alexjbest/leaff](https://github.com/alexjbest/leaff) - Leaff is a diff tool for Lean environments
 - [hanwenzhu/primality-tests](https://github.com/hanwenzhu/primality-tests) - Miller–Rabin primality test in Lean
 - [adri326/rubin-lean4](https://github.com/adri326/rubin-lean4) - Proof of Rubin's theorem, written in Lean 4
@@ -5351,6 +5352,7 @@
 
 ## Others 
 
+- [Zaffer/lean-gpt](https://github.com/Zaffer/lean-gpt) - Pre-prompt for ChatGPT-4 AI Assistant to do Lean Theorem Prover proofs.
 - [danielvoconnor/calc_on_manifolds_intuition](https://github.com/danielvoconnor/calc_on_manifolds_intuition) - Notes about the intuition behind calculus on manifolds and the generalized Stokes's theorem
 - [C0nsumption/Consume-ComfyUI-Workflows](https://github.com/C0nsumption/Consume-ComfyUI-Workflows) - A collection of some of my basic ComfyUI workflows. These are meant to act as building block to construct larger workflows of your own.
 - [friederrr/GHOSTS](https://github.com/friederrr/GHOSTS) - GHOSTS dataset
@@ -6112,6 +6114,7 @@
 
 ## Python 
 
+- [Re-Align/URIAL](https://github.com/Re-Align/URIAL) - 
 - [carbonsilicon-ai/CarsiDock](https://github.com/carbonsilicon-ai/CarsiDock) - Official repo of CarsiDock proposed by CarbonSilicon AI.
 - [YoWASP/yosys](https://github.com/YoWASP/yosys) - Unofficial Yosys WebAssembly packages
 - [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
@@ -6140,7 +6143,6 @@
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
 - [cocktailpeanut/mirror](https://github.com/cocktailpeanut/mirror) - 
 - [ul-fmf/mlfmf-data](https://github.com/ul-fmf/mlfmf-data) - Machine Learning for Mathematical Formalization
-- [morph-labs/mci](https://github.com/morph-labs/mci) - Morph Code Index
 - [morph-labs/morph-prover-cli](https://github.com/morph-labs/morph-prover-cli) - 
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [utensil/ginac-lean](https://github.com/utensil/ginac-lean) - 
@@ -6741,7 +6743,7 @@
 - [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax/
 - [patrick-kidger/torchcde](https://github.com/patrick-kidger/torchcde) - Differentiable controlled differential equation solvers for PyTorch with GPU support and memory-efficient adjoint backpropagation.
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
-- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
 - [Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis - 静态代码分析
 - [dbrnz/pptx2svg](https://github.com/dbrnz/pptx2svg) - A utility to convert Powerpoint slides to SVG
@@ -6840,7 +6842,7 @@
 - [JTPond/ICalcify](https://github.com/JTPond/ICalcify) - Interactive Calcify Tree explorer
 - [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
 - [naeka/pybtex-apa-style](https://github.com/naeka/pybtex-apa-style) - Pybtex APA-like style
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [sympy/sympy_gamma](https://github.com/sympy/sympy_gamma) - A SymPy version of WolframAlpha.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [t3db0t/logpy-examples](https://github.com/t3db0t/logpy-examples) - A couple of nifty logic programming examples for logpy including the infamous Zebra Problem

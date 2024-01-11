@@ -1679,7 +1679,7 @@
 
 ## Go 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [kstone-io/kstone](https://github.com/kstone-io/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
@@ -4715,7 +4715,7 @@
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [bigcode-project/bigcode-dataset](https://github.com/bigcode-project/bigcode-dataset) - 
-- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - A Library for Finding Causal Mechanisms of Activations in Transformers and Beyond
+- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - A Python Library for Intervening on Neural Networks to Gain Interpretability
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - A framework for creating grounded instruction based datasets and training conversational domain expert Large Language Models (LLMs).
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
@@ -4924,6 +4924,7 @@
 
 ## Lean 
 
+- [alexoltean61/hybrid_logic_lean](https://github.com/alexoltean61/hybrid_logic_lean) - 
 - [Seasawher/mdgen](https://github.com/Seasawher/mdgen) - Tool to generate markdown files from lean files. This is heavily inspired by lean2md.
 - [goens/lost-pop-lean](https://github.com/goens/lost-pop-lean) - POP Memory Model in Lean
 - [alexjbest/leaff](https://github.com/alexjbest/leaff) - Leaff is a diff tool for Lean environments
@@ -6120,6 +6121,7 @@
 
 ## Python 
 
+- [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 - [Re-Align/URIAL](https://github.com/Re-Align/URIAL) - 
 - [carbonsilicon-ai/CarsiDock](https://github.com/carbonsilicon-ai/CarsiDock) - Official repo of CarsiDock proposed by CarbonSilicon AI.
 - [YoWASP/yosys](https://github.com/YoWASP/yosys) - Unofficial Yosys WebAssembly packages
@@ -6163,7 +6165,7 @@
 - [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Lazarus
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack simplifies training, fine-tuning, and deploying generative AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source toolkit for running GPU workloads on any cloud. It works seamlessly with any cloud GPU providers. Discord: https://discord.gg/u8SmfwPpMd
 - [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for RAG and data creation.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -7498,7 +7500,6 @@
 - [nose-devs/nose](https://github.com/nose-devs/nose) - nose is nicer testing for python
 - [zacharyvoase/humanhash](https://github.com/zacharyvoase/humanhash) - Human-readable digests.
 - [perone/stallion](https://github.com/perone/stallion) - Stallion - A Python Package Manager
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [gregglind/OpenSiri](https://github.com/gregglind/OpenSiri) - OpenSiri is an open emulator of the Siri program.
 - [yue/node-gui](https://github.com/yue/node-gui) - Node.js bindings to the Yue library.
@@ -8598,6 +8599,7 @@
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## SCSS 
 

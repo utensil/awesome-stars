@@ -4715,7 +4715,7 @@
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [asigalov61/Tegridy-MIDI-Dataset](https://github.com/asigalov61/Tegridy-MIDI-Dataset) - Tegridy MIDI Dataset for precise and effective Music AI models creation.
 - [bigcode-project/bigcode-dataset](https://github.com/bigcode-project/bigcode-dataset) - 
-- [frankaging/align-transformers](https://github.com/frankaging/align-transformers) - A Python Library for Intervening on Neural Networks to Gain Interpretability
+- [stanfordnlp/pyvene](https://github.com/stanfordnlp/pyvene) - Stanford NLP Python library for using activation intervention (or activation patching) to interpret causal mechanism of neural model
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [CogStack/OpenGPT](https://github.com/CogStack/OpenGPT) - A framework for creating grounded instruction based datasets and training conversational domain expert Large Language Models (LLMs).
 - [Troyanovsky/Local-LLM-Comparison-Colab-UI](https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI) - Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.
@@ -4924,6 +4924,8 @@
 
 ## Lean 
 
+- [smorel394/ExteriorPowers](https://github.com/smorel394/ExteriorPowers) - 
+- [kmill/LeanTeX](https://github.com/kmill/LeanTeX) - Lean 4 library for pretty printing expressions as LaTeX
 - [alexoltean61/hybrid_logic_lean](https://github.com/alexoltean61/hybrid_logic_lean) - 
 - [Seasawher/mdgen](https://github.com/Seasawher/mdgen) - Tool to generate markdown files from lean files. This is heavily inspired by lean2md.
 - [goens/lost-pop-lean](https://github.com/goens/lost-pop-lean) - POP Memory Model in Lean
@@ -4931,7 +4933,7 @@
 - [hanwenzhu/primality-tests](https://github.com/hanwenzhu/primality-tests) - Miller–Rabin primality test in Lean
 - [adri326/rubin-lean4](https://github.com/adri326/rubin-lean4) - Proof of Rubin's theorem, written in Lean 4
 - [yangky11/miniF2F-lean4](https://github.com/yangky11/miniF2F-lean4) - 
-- [T-Brick/lean2wasm](https://github.com/T-Brick/lean2wasm) - 
+- [T-Brick/lean2wasm](https://github.com/T-Brick/lean2wasm) - Tool for compiling Lean to WASM
 - [AdrienChampion/loadTerms.lean](https://github.com/AdrienChampion/loadTerms.lean) - Testing dynamic term loading in Lean 4.
 - [paulcadman/lean4-leetcode](https://github.com/paulcadman/lean4-leetcode) - 
 - [arienmalec/axler](https://github.com/arienmalec/axler) - 
@@ -6476,7 +6478,7 @@
 - [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [clue-ai/ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan: Large Language Model for Dialogue in Chinese and English
-- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
+- [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [HashPals/Search-That-Hash](https://github.com/HashPals/Search-That-Hash) - 🔎Searches Hash APIs to crack your hash quickly🔎 If hash is not found, automatically pipes into HashCat⚡
 - [run-ai/genv](https://github.com/run-ai/genv) - GPU environment management and cluster orchestration
@@ -8724,7 +8726,7 @@
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [JakeWharton/dockerfile-shebang](https://github.com/JakeWharton/dockerfile-shebang) - Treat your Dockerfiles as self-contained, editable scripts
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [talonvoice/speech](https://github.com/talonvoice/speech) - speech engine training projects
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [sclorg/centos-release-scl](https://github.com/sclorg/centos-release-scl) - yum Configs and basic docs for Software Collections as delivered via the CentOS SCLo SIG.
@@ -9028,7 +9030,7 @@
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
 - [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
-- [curvenote/tex-to-typst](https://github.com/curvenote/tex-to-typst) - Translate latex math markup to typst
+- [curvenote/tex-to-typst](https://github.com/curvenote/tex-to-typst) - Translate LaTeX or TeX math markup to typst
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
 - [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js) - A JavaScript library for the Qieyun phonological system
 - [DenisGorbachev/vscode-lean4-code-actions](https://github.com/DenisGorbachev/vscode-lean4-code-actions) - 
@@ -9102,7 +9104,7 @@
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [CodyJasonBennett/react-nylon](https://github.com/CodyJasonBennett/react-nylon) - react-reconciler implemented in &lt; 4KB.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件

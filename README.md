@@ -714,7 +714,7 @@
 - [LatticeX-Foundation/Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A Privacy-Preserving Framework Based on TensorFlow
 - [geno4neurips/genosolver](https://github.com/geno4neurips/genosolver) - 
 - [eBay/Gringofts](https://github.com/eBay/Gringofts) - Gringofts makes it easy to build a replicated, fault-tolerant, high throughput and distributed event-sourced system.
-- [iovisor/bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 - [Tencent/flare](https://github.com/Tencent/flare) - Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。
 - [Tencent/ScriptX](https://github.com/Tencent/ScriptX) - A versatile script engine abstraction layer.
 - [zenustech/zeno](https://github.com/zenustech/zeno) - ZEn NOde system - a simulation & rendering engine in nodes
@@ -1673,7 +1673,7 @@
 
 ## Gherkin 
 
-- [middleman/middleman-blog](https://github.com/middleman/middleman-blog) - Middleman : Blog Engine Extension
+- [middleman/middleman-blog](https://github.com/middleman/middleman-blog) - Blog Engine Extension for Middleman
 
 ## Go 
 
@@ -1810,7 +1810,7 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [twitchyliquid64/subnet](https://github.com/twitchyliquid64/subnet) - Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN.
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
@@ -3100,7 +3100,7 @@
 - [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - This repository is outdated and new Boost Note app is available! We've launched a new Boost Note app which supports real-time collaborative writing. https://github.com/BoostIO/BoostNote-App
 - [decosoftware/deco-ide](https://github.com/decosoftware/deco-ide) - The React Native IDE
 - [liujians/Wa-UI](https://github.com/liujians/Wa-UI) - 针对微信小程序整合的一套UI库
-- [kraaas/timer](https://github.com/kraaas/timer) - 小程序版番茄时钟
+- [ououpao/timer](https://github.com/ououpao/timer) - 小程序版番茄时钟
 - [trheyi/xpmjs](https://github.com/trheyi/xpmjs) - 微信小程序云端增强 SDK
 - [ffbinaries/ffbinaries-node](https://github.com/ffbinaries/ffbinaries-node) - Download binaries for ffmpeg, ffprobe, ffserver and ffplay (cross-platform)
 - [Munkei/atom-linter-cppcheck](https://github.com/Munkei/atom-linter-cppcheck) - A linter for Atom using Cppcheck
@@ -4081,7 +4081,6 @@
 - [caolan/highland](https://github.com/caolan/highland) - High-level streams library for Node.js and the browser
 - [ChrisBeaumont/floppybird](https://github.com/ChrisBeaumont/floppybird) - flappy bird, using html5!
 - [pstadler/flightplan](https://github.com/pstadler/flightplan) - Run sequences of shell commands against local and remote hosts.
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [shancarter/mr-data-converter](https://github.com/shancarter/mr-data-converter) - Takes CSV or tab-delimited data from Excel and converts it into several web-friendly formats, include JSON and XML.
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [i5ting/i5ting_ztree_toc](https://github.com/i5ting/i5ting_ztree_toc) - [NO MAINTENANCE] a jQuery plugin for preview markdown table of content jQuery.zTree_Toc.js toc ztree and online demo site  v0.4.1
@@ -4872,7 +4871,6 @@
 - [joelgrus/fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow) - fizz buzz in tensorflow
 - [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) - Simple tutorials using Google's TensorFlow Framework
 - [piiswrong/deep3d](https://github.com/piiswrong/deep3d) - Automatic 2D-to-3D Video Conversion with CNNs
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [jupyter/dashboards](https://github.com/jupyter/dashboards) - [RETIRED] See Voilà as a supported replacement
 - [Roger-luo/AdiaComput.jl](https://github.com/Roger-luo/AdiaComput.jl) - A tweakable quantum adiabatic computation simulator
 - [JuliaOpt/juliaopt-notebooks](https://github.com/JuliaOpt/juliaopt-notebooks) - A collection of IJulia notebooks related to optimization
@@ -4920,6 +4918,7 @@
 
 ## Lean 
 
+- [leanprover/verso](https://github.com/leanprover/verso) - Lean documentation authoring tool
 - [leanprover-community/import-graph](https://github.com/leanprover-community/import-graph) - 
 - [pandaman64/lean-regex](https://github.com/pandaman64/lean-regex) - 
 - [smorel394/ExteriorPowers](https://github.com/smorel394/ExteriorPowers) - 
@@ -5938,6 +5937,7 @@
 - [jiahuang/d3-timeline](https://github.com/jiahuang/d3-timeline) - Simple JS timeline plugin for d3
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 - [paulvi/eclipse-node-ide](https://github.com/paulvi/eclipse-node-ide) - Eclipse Node.js IDE - Enide: "will you love me forever?" -&gt; moved to Nodeclipse at GitHub
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [tdm00/sublime-theme-railscasts](https://github.com/tdm00/sublime-theme-railscasts) - Sublime Text 2 Theme based on Railscasts
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [pyloque/shellquery_ppt](https://github.com/pyloque/shellquery_ppt) - compare shell command vs sql ppt
@@ -6120,6 +6120,8 @@
 
 ## Python 
 
+- [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+- [ianjauslin-rutgers/leanblueprint-extract](https://github.com/ianjauslin-rutgers/leanblueprint-extract) - A tool to extract the blueprint from a lean file
 - [shadden/celmech](https://github.com/shadden/celmech) - Sandbox for celestial mechanics calculations
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
@@ -7229,6 +7231,7 @@
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [uploadcare/pillow-simd](https://github.com/uploadcare/pillow-simd) - The friendly PIL fork
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [WheatonCS/Lexos](https://github.com/WheatonCS/Lexos) - Python/Flask-based website for text analysis workflow. Previous (stable) release is live at:
 - [Mendeley/mrec](https://github.com/Mendeley/mrec) - A recommender systems development and evaluation package by Mendeley
 - [meuns/galgebra](https://github.com/meuns/galgebra) - a repository for hacking things with pygae/galgebra
@@ -8921,6 +8924,8 @@
 
 ## TeX 
 
+- [loopspace/spath3](https://github.com/loopspace/spath3) - TikZ/PGF package for manipulating soft paths, includes the knots and calligraphy TikZ libraries.
+- [jemmybutton/fiziko](https://github.com/jemmybutton/fiziko) - MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook
 - [hairer/reconstruction](https://github.com/hairer/reconstruction) - Formalisation of the proof of the 'germs' version of the reconstruction theorem
 - [Armael/coq-procrastination](https://github.com/Armael/coq-procrastination) - A small Coq library for collecting side conditions and deferring their proof
 - [gpoore/minted](https://github.com/gpoore/minted) - minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
@@ -9066,7 +9071,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [marginnoteapp/milkdown](https://github.com/marginnoteapp/milkdown) - Use milkdown as markdown editor of MarginNote
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources

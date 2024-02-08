@@ -214,6 +214,7 @@
 
 ## C 
 
+- [3-manifolds/SnapPy](https://github.com/3-manifolds/SnapPy) - SnapPy is a package for studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures. It is based on the SnapPea kernel written by Jeff Weeks.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [SwiftLaTeX/Texlive-Ondemand](https://github.com/SwiftLaTeX/Texlive-Ondemand) - Serving TexLive Files from Our Web-based Engine
 - [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
@@ -611,6 +612,9 @@
 
 ## C++ 
 
+- [cseed/knotkit](https://github.com/cseed/knotkit) - knot theory and computational algebra software
+- [cbz20/khtpp](https://github.com/cbz20/khtpp) - computing Khovanov invariants for links and tangles
+- [topology-tool-kit/ttk](https://github.com/topology-tool-kit/ttk) - TTK - Topological Data Analysis and Visualization - Source Code
 - [idaholab/moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
 - [YosysHQ/yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -1600,7 +1604,7 @@
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - The official Docker images for Rust
 - [triagemd/tensorflow-builds](https://github.com/triagemd/tensorflow-builds) - Tensorflow binaries and Docker images compiled with GPU support and CPU optimizations.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
 - [ondrejmo/Dockerfiles](https://github.com/ondrejmo/Dockerfiles) - These are Dockerfiles I've created for programs without official docker image.
 - [crisbal/docker-torch-rnn](https://github.com/crisbal/docker-torch-rnn) - Docker images for using torch-rnn
@@ -2673,6 +2677,8 @@
 
 ## JavaScript 
 
+- [file-acomplaint/knottingham](https://github.com/file-acomplaint/knottingham) - A Tool for Drawing Pretty Knots
+- [kmill/knotfolio](https://github.com/kmill/knotfolio) - A program for drawing knots and links, with support for importing images
 - [GAIR-NLP/MathPile](https://github.com/GAIR-NLP/MathPile) - Generative AI for Math: MathPile
 - [projectfluent/fluent](https://github.com/projectfluent/fluent) - Fluent — planning, spec and documentation
 - [brijeshb42/monaco-themes](https://github.com/brijeshb42/monaco-themes) - Themes to be used and generated with monaco-editor in web browser
@@ -2792,6 +2798,7 @@
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [HYLZ-2019/FriendsOfFriends](https://github.com/HYLZ-2019/FriendsOfFriends) - Crawl WeChat Moments and visualize friend interactions.
 - [badboysm890/clara-copilot](https://github.com/badboysm890/clara-copilot) - A alternative to Github Copilot for vscode until you get the access to github copilot
+- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [yobibyte/ar5iv_chrome_ext](https://github.com/yobibyte/ar5iv_chrome_ext) - automatically replace Arxiv.org pdf links with ar5iv
 - [BananaKhan/ppt2svg](https://github.com/BananaKhan/ppt2svg) - Package for converting ppt[x] or pdf files to svg images.
@@ -3453,11 +3460,12 @@
 - [vega/vega](https://github.com/vega/vega) - A visualization grammar.
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [TalAter/UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online
-- [clippings/layout-grid](https://github.com/clippings/layout-grid) - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
+- [OpenBuildings/layout-grid](https://github.com/OpenBuildings/layout-grid) - Static responsive grid with pure css. Javascript using native drag-n-drop to reorder for each screen size on desktop and mobile.
 - [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
 - [felixge/faster-than-c](https://github.com/felixge/faster-than-c) - Talk outline: Faster than C? Parsing binary data in JavaScript.
 - [girliemac/RPi-KittyCam](https://github.com/girliemac/RPi-KittyCam) - Raspberry Pi app using a camera and PIR motion sensor, written in Node.js with Johnny-Five and Kittydar for cat facial detection
+- [leibnizli/panda](https://github.com/leibnizli/panda) - A font processing App, Support for macOS and Windows. With which you can manipulate fonts as you like.
 - [ivopetkov/responsively-lazy](https://github.com/ivopetkov/responsively-lazy) - Lazy load responsive images and HTML
 - [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
 - [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
@@ -3629,7 +3637,7 @@
 - [bevacqua/hit-that](https://github.com/bevacqua/hit-that) - :fist: Render beautiful pixel perfect representations of websites in your terminal
 - [bitbof/webchemy](https://github.com/bitbof/webchemy) - Cross-Platform Web-App for Sketching - based on Alchemy
 - [Netflix/vector](https://github.com/Netflix/vector) - Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
-- [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
+- [Kong/mockbin](https://github.com/Kong/mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
 - [greggman/twgl.js](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library
 - [stewdio/beep.js](https://github.com/stewdio/beep.js) - Beep is a JavaScript toolkit for building browser-based synthesizers.
 - [crcn/mesh.js](https://github.com/crcn/mesh.js) - utility library for async iterable iterators
@@ -4556,7 +4564,6 @@
 - [numericalEFT/FeynmanDiagram.jl](https://github.com/numericalEFT/FeynmanDiagram.jl) - Computational graph representation of multiloop Feynman diagrams
 - [wbhart/Nemo.jl](https://github.com/wbhart/Nemo.jl) - My personal fork of the Nemo project. The official repository is at https://github.com/Nemocas/Nemo.jl
 - [ATell-SoundTheory/CliffordAlgebras.jl](https://github.com/ATell-SoundTheory/CliffordAlgebras.jl) - A fast and lightweight Julia package for Clifford and geometric algebras.
-- [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - Combine ingredients for a plot
 - [sswatson/AsyPlots.jl](https://github.com/sswatson/AsyPlots.jl) - A Julia package for making figures with Asymptote and Cairo
 - [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equation
@@ -4683,7 +4690,7 @@
 - [cccntu/minLoRA](https://github.com/cccntu/minLoRA) - minLoRA: a minimal PyTorch library that allows you to apply LoRA to any PyTorch model.
 - [niharshah/ReviewerGPT2023](https://github.com/niharshah/ReviewerGPT2023) - 
 - [salesforce/factualNLG](https://github.com/salesforce/factualNLG) - Code for the arXiv paper: "LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond"
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [Guitaricet/relora](https://github.com/Guitaricet/relora) - Official code for ReLoRA from the paper Stack More Layers Differently: High-Rank Training Through Low-Rank Updates
 - [bigscience-workshop/data-preparation](https://github.com/bigscience-workshop/data-preparation) - Code used for sourcing and cleaning the BigScience ROOTS corpus
 - [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
@@ -4760,7 +4767,7 @@
 - [Near32/SymbolicBehaviourBenchmark](https://github.com/Near32/SymbolicBehaviourBenchmark) - Suite of OpenAI Gym-compatible multi-agent reinforcement learning environment to benchmark for behavioral traits pertaining to symbolic behaviours (primarily: being receptive, constructive, malleable,
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [paperswithcode/galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA
-- [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2022/Spring 2022
+- [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [GQCG/GQCP](https://github.com/GQCG/GQCP) - The Ghent Quantum Chemistry Package for electronic structure calculations
 - [raphlinus/raphlinus.github.io](https://github.com/raphlinus/raphlinus.github.io) - Raph's personal blog
@@ -5242,6 +5249,7 @@
 
 ## Mathematica 
 
+- [kmill/arrow_poly](https://github.com/kmill/arrow_poly) - Computation of (cabled) arrow polynomials of virtual knots
 - [RuleBasedIntegration/Rubi](https://github.com/RuleBasedIntegration/Rubi) - Rubi for Mathematica
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
 - [chakravala/Grassmann.wl](https://github.com/chakravala/Grassmann.wl) - ⟨Leibniz-Grassmann-Clifford⟩ multilinear differential geometric algebra
@@ -5428,7 +5436,6 @@
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-- [fenjalien/circuitypst](https://github.com/fenjalien/circuitypst) - A port of circuitikz to Typst using typst-canvas!
 - [mbzuai-nlp/LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [ksluckow/awesome-symbolic-execution](https://github.com/ksluckow/awesome-symbolic-execution) - A curated list of awesome symbolic execution resources including essential research papers, lectures, videos, and tools.
@@ -6368,7 +6375,7 @@
 - [legekka/GanyuTTS](https://github.com/legekka/GanyuTTS) - A small VITS+SOVITS/RVC TTS API
 - [rendchevi/nix-tts](https://github.com/rendchevi/nix-tts) - 🐤 Nix-TTS: Lightweight and End-to-end Text-to-Speech via Module-wise Distillation
 - [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) - 🤖 Build voice-based LLM agents. Modular + open source.
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
 - [Embedding/Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors) - 100+ Chinese Word Vectors 上百种预训练中文词向量
 - [tBuLi/kingdon](https://github.com/tBuLi/kingdon) - A symbolically optimized and pythonic Clifford (geometric) algebra library named after none other than William Kingdon Clifford.
@@ -6531,7 +6538,7 @@
 - [aypan17/machiavelli](https://github.com/aypan17/machiavelli) - 
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
-- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练MiniCPM、Mixtral-8x7B、Zephyr、Mistral、Aquila2、Baichuan2、CodeLlama、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
 - [0cc4m/KoboldAI](https://github.com/0cc4m/KoboldAI) - 
 - [Ph0rk0z/text-generation-webui-testing](https://github.com/Ph0rk0z/text-generation-webui-testing) - A fork of textgen that still supports V1 GPTQ, 4-bit lora and other GPTQ models besides llama.
@@ -6683,7 +6690,7 @@
 - [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 - [fugary/calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 - [danmou/onenote_export](https://github.com/danmou/onenote_export) - This Python script exports all the OneNote notebooks linked to your Microsoft account to HTML files.
-- [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
+- [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [daggaz/json-stream](https://github.com/daggaz/json-stream) - Simple streaming JSON parser and encoder.
 - [Renovamen/Speech-and-Text](https://github.com/Renovamen/Speech-and-Text) - Speech to text (PocketSphinx, Iflytex API, Baidu API) and text to speech (pyttsx3) | 语音转文字（PocketSphinx、百度 API、科大讯飞 API）和文字转语音（pyttsx3）
@@ -6703,7 +6710,7 @@
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
 - [facebookresearch/co3d](https://github.com/facebookresearch/co3d) - Tooling for the Common Objects In 3D dataset.
 - [DoubleGremlin181/RubiksCubeGym](https://github.com/DoubleGremlin181/RubiksCubeGym) - OpenAI Gym environments for various twisty puzzles
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for SpatialAI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [eigenchris/MathNotes](https://github.com/eigenchris/MathNotes) - 
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -7062,6 +7069,7 @@
 - [Narsil/alphagozero](https://github.com/Narsil/alphagozero) - Unofficial attempt to rebuild AlphaGo Zero
 - [llSourcell/alphago_demo](https://github.com/llSourcell/alphago_demo) - This is the code for "How Does DeepMind's AlphaGo Zero Work?" Siraj Raval on Youtube
 - [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) - AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [TuSimple/mx-maskrcnn](https://github.com/TuSimple/mx-maskrcnn) - An MXNet implementation of Mask R-CNN
 - [naturomics/CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow) - A Tensorflow implementation of CapsNet(Capsules Net) in paper Dynamic Routing Between Capsules
 - [bazelment/trunk](https://github.com/bazelment/trunk) - Make bazel an out of box solution for C++/Java developers
@@ -7659,6 +7667,7 @@
 - [jamesrwhite/minicron](https://github.com/jamesrwhite/minicron) - 🕰️ Monitor your cron jobs
 - [Eric-Guo/wechat](https://github.com/Eric-Guo/wechat) - API, command and message handling for WeChat in Rails
 - [benbalter/word-to-markdown](https://github.com/benbalter/word-to-markdown) - A ruby gem to liberate content from Microsoft Word documents
+- [defunkt/dotjs](https://github.com/defunkt/dotjs) - ~/.js
 - [seattlerb/graph](https://github.com/seattlerb/graph) - Graph is a type of hash that outputs in graphviz's dot format. It comes with a command-line interface that is easily pluggable.
 - [ruby-concurrency/concurrent-ruby](https://github.com/ruby-concurrency/concurrent-ruby) - Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 - [arrigonialberto86/ruby-band](https://github.com/arrigonialberto86/ruby-band) - Machine learning and data mining algorithms for JRuby
@@ -8008,9 +8017,12 @@
 - [jicksta/ami-ragel](https://github.com/jicksta/ami-ragel) - The new Asterisk Manager Interface implementation that uses Ragel and EventMachine
 - [alexvollmer/pci4r](https://github.com/alexvollmer/pci4r) - Ruby port of Programming Collective Intelligence
 - [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server
+- [defunkt/exception_logger](https://github.com/defunkt/exception_logger) - Unmaintained. Sorry.
 
 ## Rust 
 
+- [google/crubit](https://github.com/google/crubit) - 
+- [rust-diplomat/diplomat](https://github.com/rust-diplomat/diplomat) - Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [patrik-cihal/lean-graph](https://github.com/patrik-cihal/lean-graph) - Theorem relational dependencies automatic extraction and visualization as a graph for Lean4.
@@ -9351,6 +9363,7 @@
 - [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
 - [neunenak/typst-leipzig-glossing](https://github.com/neunenak/typst-leipzig-glossing) - 
 - [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+- [fenjalien/circuitypst](https://github.com/fenjalien/circuitypst) - A port of circuitikz to Typst using typst-canvas!
 
 ## V 
 

@@ -667,7 +667,7 @@
 - [Chuyu-Team/VC-LTL](https://github.com/Chuyu-Team/VC-LTL) - Shared to msvcrt.dll and optimize the C/C++ application file size.
 - [carla-simulator/carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [Ali-Stanford/ChatGPT_Programming_Numerical_Methods](https://github.com/Ali-Stanford/ChatGPT_Programming_Numerical_Methods) - Coding numerical methods using ChatGPT: successes, failures, and challenges
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/fo
@@ -1807,7 +1807,6 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [yongman/tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [systemaccounting/mxfactorial](https://github.com/systemaccounting/mxfactorial) - a payment application intended for deployment by the united states treasury that replaces banking with accounting
 - [jinzhu/inflection](https://github.com/jinzhu/inflection) - Pluralizes and singularizes English nouns
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -1836,7 +1835,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, 
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [whee/rp](https://github.com/whee/rp) - CLI to pipe data through Redis Pub/Sub
 - [fumin/ntm](https://github.com/fumin/ntm) - An implementation of Neural Turing Machines
@@ -6147,6 +6146,7 @@
 - [yl4579/StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [mrob95/mathfly-talon](https://github.com/mrob95/mathfly-talon) - Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook 5.5.
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - 5X faster 60% less memory QLoRA finetuning
@@ -6318,7 +6318,7 @@
 - [KaiyangZhou/CoOp](https://github.com/KaiyangZhou/CoOp) - Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22)
 - [Arnav0400/ViT-Slim](https://github.com/Arnav0400/ViT-Slim) - Official code for our CVPR'22 paper “Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space”
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - A Jupyter Notebook magic for browser notifications of cell completion
-- [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers in latex
+- [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers in latex, especially arxiv papers
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
@@ -7111,7 +7111,7 @@
 - [openai/universe-starter-agent](https://github.com/openai/universe-starter-agent) - A starter agent that can solve a number of universe environments.
 - [calclavia/htm-tensorflow](https://github.com/calclavia/htm-tensorflow) - An implementation of Numenta's HTM algorithm in Tensorflow.
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
-- [pantsbuild/pex](https://github.com/pantsbuild/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
+- [pex-tool/pex](https://github.com/pex-tool/pex) - A tool for generating .pex (Python EXecutable) files, lock files and venvs.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -8521,6 +8521,7 @@
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [Limeth/hestenes](https://github.com/Limeth/hestenes) - Geometric algebra library for Rust
 - [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
+- [systemaccounting/mxfactorial](https://github.com/systemaccounting/mxfactorial) - a payment application intended for deployment by the united states treasury that replaces banking with accounting
 - [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables
 - [redox-os/rusttype](https://github.com/redox-os/rusttype) - Mirror of https://gitlab.redox-os.org/redox-os/rusttype
 - [kriomant/mockers](https://github.com/kriomant/mockers) - Mocking library for Rust
@@ -9040,7 +9041,6 @@
 
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit) - Next Generation Visual Programming System
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Siri, but for your  own product. ship an AI copilot for your product in minutes.
-- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [JetBrains-Research/coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs.
 - [svenstaro/upload-release-action](https://github.com/svenstaro/upload-release-action) - Upload files to a GitHub release
@@ -9363,7 +9363,7 @@
 - [Dherse/masterproef](https://github.com/Dherse/masterproef) - My master thesis for the MSc. in Photonics engineering at Ghent University
 - [neunenak/typst-leipzig-glossing](https://github.com/neunenak/typst-leipzig-glossing) - 
 - [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz) - CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
-- [fenjalien/circuitypst](https://github.com/fenjalien/circuitypst) - A port of circuitikz to Typst using typst-canvas!
+- [fenjalien/cirCeTZ](https://github.com/fenjalien/cirCeTZ) - A port of circuitikz to Typst using CeTZ!
 
 ## V 
 

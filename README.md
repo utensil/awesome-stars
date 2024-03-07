@@ -646,7 +646,7 @@
 - [HackerPoet/NonEuclidean](https://github.com/HackerPoet/NonEuclidean) - A Non-Euclidean Rendering Engine for 3D scenes.
 - [RobinKa/ConstGA](https://github.com/RobinKa/ConstGA) - Geometric Algebra in C++ using constexpr to compile out zeros (WIP)
 - [sudgy/sga](https://github.com/sudgy/sga) - A basic, sparse, and decently efficient geometric algebra library in C++
-- [google/heir](https://github.com/google/heir) - Standard MLIR dialects for homomorphic encryption
+- [google/heir](https://github.com/google/heir) - A compiler for homomorphic encryption
 - [neuronsimulator/nrn](https://github.com/neuronsimulator/nrn) - NEURON Simulator
 - [idiap/gafro](https://github.com/idiap/gafro) - An efficient c++ library targeting robotics applications using geometric algebra
 - [google/cld3](https://github.com/google/cld3) - 
@@ -1712,7 +1712,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [jpillora/webproc](https://github.com/jpillora/webproc) - Wrap any program in a simple web-based user-interface
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :honeybee: :sparkles: eBPF-Powered Observability & Zero-Code Distributed Tracing
+- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - :honeybee: eBPF-Powered Observability & Zero-Code Distributed Tracing :sparkles:
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -3282,7 +3282,7 @@
 - [metalsmith/collections](https://github.com/metalsmith/collections) - A Metalsmith plugin that groups files together into collections, which it adds to the global metadata.
 - [MoOx/phenomic](https://github.com/MoOx/phenomic) - DEPRECATED. Please use Next.js instead.
 - [brockfanning/docpad-plugin-lunr](https://github.com/brockfanning/docpad-plugin-lunr) - Adds support for client-side search with Lunr, full-text and faceted.
-- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator.
+- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator for Node.js
 - [DKirwan/calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - A d3 heatmap for representing time series data similar to github's contribution chart
 - [victorb/trymodule](https://github.com/victorb/trymodule) - ➰ It's never been easier to try nodejs modules!
 - [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
@@ -3345,7 +3345,6 @@
 - [reactjs/react-router-redux](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and redux in sync
 - [madyankin/postcss-modules](https://github.com/madyankin/postcss-modules) - PostCSS plugin to use CSS Modules everywhere
 - [tj/frontend-boilerplate](https://github.com/tj/frontend-boilerplate) - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate (unmaintained, I don't use it anymore)
-- [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [kuitos/kuitos.github.io](https://github.com/kuitos/kuitos.github.io) - 📝Kuitos's Blog https://github.com/kuitos/kuitos.github.io/issues
 - [icons8/webicon](https://github.com/icons8/webicon) - Icon library
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
@@ -4665,6 +4664,7 @@
 
 ## Jupyter Notebook 
 
+- [gabegrand/lilo](https://github.com/gabegrand/lilo) - LILO: Library Induction with Language Observations
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 - [geomstats/geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.
@@ -4923,6 +4923,7 @@
 
 ## Lean 
 
+- [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) - blueprint for prime number theorem and more
 - [opencompl/egg-tactic-code](https://github.com/opencompl/egg-tactic-code) - 
 - [0art0/lean-slides](https://github.com/0art0/lean-slides) - A tool to auto-generate and render slides from Markdown comments in the Lean editor.
 - [extism/lean4-sdk](https://github.com/extism/lean4-sdk) - Extism Lean 4 Host SDK
@@ -5443,7 +5444,7 @@
 - [anthropics/evals](https://github.com/anthropics/evals) - 
 - [carbonz0/alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset) - alpaca中文指令微调数据集
 - [Longyichen/Alpaca-family-library](https://github.com/Longyichen/Alpaca-family-library) - Summarize all open source Large Languages Models and low-cost replication methods for Chatgpt.
-- [akoksal/LongForm](https://github.com/akoksal/LongForm) - Instruction Tuning Dataset and Models for Long Text Generation with Corpus Extraction
+- [akoksal/LongForm](https://github.com/akoksal/LongForm) - Reverse Instructions to generate instruction tuning data with corpus examples
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [Nan-Do/LeetCodeContestsDataset](https://github.com/Nan-Do/LeetCodeContestsDataset) - Curated dataset including the description and best solutions for several programming languages ​​of (probably all) LeetCode's contests
 - [leaningtech/cheerp-compiler](https://github.com/leaningtech/cheerp-compiler) - C++ to JavaScript/WebAssembly compiler
@@ -6158,7 +6159,7 @@
 - [xyz2tex/dot2tex](https://github.com/xyz2tex/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [svenkreiss/unicodeit](https://github.com/svenkreiss/unicodeit) - Converts LaTeX tags to unicode: \mathcal{H} → ℋ. Available on the web or as Automator script for the Mac.
 - [bzhan/iscalc](https://github.com/bzhan/iscalc) - An Interactive Symbolic Computation Framework
-- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - ⚗️ AI Feedback framework for scalable LLM alignment
+- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is the framework for synthetic data and AI feedback for AI engineers that require high-quality outputs, full data ownership, and overall efficiency
 - [toyxyz/ComfyUI_toyxyz_test_nodes](https://github.com/toyxyz/ComfyUI_toyxyz_test_nodes) - Custom node and script for sending webcam to ComfyUI
 - [akissinger/chyp](https://github.com/akissinger/chyp) - An interactive theorem prover for string diagrams
 - [facebookresearch/minimax](https://github.com/facebookresearch/minimax) - Efficient baselines for autocurricula in JAX.
@@ -6182,7 +6183,7 @@
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine for running GPU workloads. It simplifies development, training, and deployment of gen AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
 - [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for RAG and data creation.
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [rnag/dataclass-wizard](https://github.com/rnag/dataclass-wizard) - A simple, yet elegant, set of wizarding tools for interacting with Python dataclasses.
 - [perfide/render-jinja-with-yaml](https://github.com/perfide/render-jinja-with-yaml) - Render Jinja2 templates with a yaml-config
@@ -6665,7 +6666,7 @@
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -6783,7 +6784,7 @@
 - [izar/pytm](https://github.com/izar/pytm) - A Pythonic framework for threat modeling
 - [Tencent/Lichee](https://github.com/Tencent/Lichee) - 一个多模态内容理解算法框架，其中包含数据处理、预训练模型、常见模型以及模型加速等模块。
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
-- [IvanVoronov/SecTools](https://github.com/IvanVoronov/SecTools) - List of tools for SecDevOps, vulnerability analysis, network scanning
+- [Myskiv-Ivan/SecTools](https://github.com/Myskiv-Ivan/SecTools) - List of tools for SecDevOps, vulnerability analysis, network scanning
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
@@ -9068,7 +9069,7 @@
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Amplify your team's potential with customizable and secure AI assistants.
 - [mathigon/textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [anaclumos/heimdall](https://github.com/anaclumos/heimdall) - Hacker News, but in Your Language.
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
 - [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter kit for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
@@ -9107,7 +9108,7 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
-- [webrecorder/browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud) - Browsertrix Cloud is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
+- [webrecorder/browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [qdm12/caddy-ui](https://github.com/qdm12/caddy-ui) - UI for the Caddy proxy server
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -9295,6 +9296,7 @@
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
+- [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.

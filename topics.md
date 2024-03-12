@@ -971,19 +971,19 @@
 
 ## aws 
 
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine for running GPU workloads. It simplifies development, training, and deployment of gen AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to run and deploy AI jobs and services on any infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 
 ## azure 
 
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine for running GPU workloads. It simplifies development, training, and deployment of gen AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to run and deploy AI jobs and services on any infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
@@ -2983,7 +2983,7 @@
 - [AirtestProject/Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [maxpumperla/betago](https://github.com/maxpumperla/betago) - BetaGo: AlphaGo for the masses, live on GitHub.
 - [opentomb/OpenTomb](https://github.com/opentomb/OpenTomb) - An open-source Tomb Raider 1-5 engine remake
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
@@ -3016,7 +3016,7 @@
 - [stride3d/stride](https://github.com/stride3d/stride) - Stride Game Engine (formerly Xenko)
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
@@ -3046,7 +3046,7 @@
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
@@ -3077,7 +3077,7 @@
 - [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
@@ -4797,7 +4797,7 @@
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
@@ -5349,7 +5349,7 @@
 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [geomstats/geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine for running GPU workloads. It simplifies development, training, and deployment of gen AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for RAG and data creation.
 - [lean-dojo/LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
 - [BlackSamorez/tensor_parallel](https://github.com/BlackSamorez/tensor_parallel) - Automatically split your PyTorch models on multiple GPUs for training & inference
@@ -5710,6 +5710,7 @@
 
 ## markdown 
 
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex) - LTeX: Grammar/spell checker :mag::heavy_check_mark: for VS Code using LanguageTool with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [curvenote/curvenote](https://github.com/curvenote/curvenote) - Create, edit, share, and publish scientific and technical documents.
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
@@ -6112,7 +6113,7 @@
 
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter kit for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
+- [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter boilerplate for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Cloud Runtime for AI Agents
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
@@ -6592,6 +6593,14 @@
 
 ## others 
 
+- [leanprover-community/duper](https://github.com/leanprover-community/duper) - 
+- [leanprover/leansat](https://github.com/leanprover/leansat) - This package provides an interface and foundation for verified SAT reasoning
+- [rahul3613/ProofNet-lean4](https://github.com/rahul3613/ProofNet-lean4) - ProofNet dataset ported into Lean 4
+- [jsm28/AperiodicMonotilesLean](https://github.com/jsm28/AperiodicMonotilesLean) - Lean formalization of aperiodic monotiles papers (staging repository for material not yet in mathlib)
+- [JamesGallicchio/http](https://github.com/JamesGallicchio/http) - Basic HTTP definitions and parsing for Lean
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 - [gabegrand/lilo](https://github.com/gabegrand/lilo) - LILO: Library Induction with Language Observations
 - [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) - blueprint for prime number theorem and more
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
@@ -6954,7 +6963,7 @@
 - [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
 - [IDEA-Research/DWPose](https://github.com/IDEA-Research/DWPose) - "Effective Whole-body Pose Estimation with Two-stages Distillation" (ICCV 2023, CV4Metaverse Workshop)
 - [cnewstead/infdesc](https://github.com/cnewstead/infdesc) - An Infinite Descent into Pure Mathematics
-- [ImperialCollegeLondon/formalising-mathematics](https://github.com/ImperialCollegeLondon/formalising-mathematics) - Material for Kevin Buzzard's 2021 TCC courrse on formalising mathematics.
+- [ImperialCollegeLondon/formalising-mathematics](https://github.com/ImperialCollegeLondon/formalising-mathematics) - Lean 3 material for Kevin Buzzard's 2021 TCC courrse on formalising mathematics. Lean 4 version available here: https://github.com/ImperialCollegeLondon/formalising-mathematics-2024
 - [arthurpaulino/LeanREPL](https://github.com/arthurpaulino/LeanREPL) - 
 - [insightmind/LeanInk](https://github.com/insightmind/LeanInk) - LeanInk is a command line helper tool for Alectryon which aims to ease the integration of Lean 4.
 - [madvorak/lean-mam](https://github.com/madvorak/lean-mam) - Zdrojové kódy pro řešitele M&M témátka "Programování a dokazování v Leanu"
@@ -7029,7 +7038,7 @@
 - [DAMO-NLP-SG/Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - [EMNLP 2023 Demo] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
 - [google/cld3](https://github.com/google/cld3) - 
 - [microsoft/RLHF-APA](https://github.com/microsoft/RLHF-APA) - RL algorithm: Advantage induced policy alignment
-- [DYZhang09/SAM3D](https://github.com/DYZhang09/SAM3D) - SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model
+- [DYZhang09/SAM3D](https://github.com/DYZhang09/SAM3D) - [SCIS] SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality [NeurIPS 2023]
 - [facebookresearch/hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
 - [hila-chefer/Conceptor](https://github.com/hila-chefer/Conceptor) - Official implementation of the paper The Hidden Language of Diffusion Models
@@ -7499,7 +7508,7 @@
 - [getaurora/download](https://github.com/getaurora/download) - 极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
+- [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
@@ -7621,7 +7630,7 @@
 - [eigenchris/MathNotes](https://github.com/eigenchris/MathNotes) - 
 - [spaghetti-source/gdd](https://github.com/spaghetti-source/gdd) - Group Decision Diagram
 - [avigad/mathematics_in_lean](https://github.com/avigad/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
-- [ImperialCollegeLondon/formalising-mathematics-2022](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022) - Lean material for Kevin Buzzard's Jan-Mar 2022 course on formalising mathematics.
+- [ImperialCollegeLondon/formalising-mathematics-2022](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022) - Lean 3 material for Kevin Buzzard's Jan-Mar 2022 course on formalising mathematics. Lean 4 version available here: https://github.com/ImperialCollegeLondon/formalising-mathematics-2024
 - [dselsam/lean-gym](https://github.com/dselsam/lean-gym) - 
 - [Kha/alectryon](https://github.com/Kha/alectryon) - A collection of tools for writing technical documents that mix Coq code and prose.
 - [alexjbest/dag-tools](https://github.com/alexjbest/dag-tools) - 
@@ -7942,7 +7951,7 @@
 - [regro/cf-scripts](https://github.com/regro/cf-scripts) - Flagship repo for cf-regro-autotick-bot
 - [Kha/electrolysis](https://github.com/Kha/electrolysis) - Simple verification of Rust programs via functional purification in Lean 2(!)
 - [alcides/lean3_tutorial](https://github.com/alcides/lean3_tutorial) - Tutorial to use Lean for theorem proving
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [rfielding/ga-ref-impl](https://github.com/rfielding/ga-ref-impl) - www.geometricalgebra.net Java source code packaged up to use common Maven/Java7/Git workflow
 - [lean-forward/field](https://github.com/lean-forward/field) - a tactic to normalize field expressions
 - [lean-forward/ring_exp](https://github.com/lean-forward/ring_exp) - A short paper on the `ring_exp` tactic
@@ -7968,7 +7977,7 @@
 - [kckennylau/local-langlands-abelian](https://github.com/kckennylau/local-langlands-abelian) - Formalization of Statement of Local Langlands Correspondence for Tori
 - [a3nm/academia](https://github.com/a3nm/academia) - 
 - [b-mehta/topos](https://github.com/b-mehta/topos) - Topos theory in lean
-- [ImperialCollegeLondon/natural_number_game](https://github.com/ImperialCollegeLondon/natural_number_game) - Building the natural numbers in Lean.
+- [ImperialCollegeLondon/natural_number_game](https://github.com/ImperialCollegeLondon/natural_number_game) - Building the natural numbers in Lean 3. The original natural number game, now frozen. See README for Lean 4 information.
 - [ImperialCollegeLondon/M1P1-lean](https://github.com/ImperialCollegeLondon/M1P1-lean) - Material from M1P1, formalised in Lean
 - [ImperialCollegeLondon/M40001_lean](https://github.com/ImperialCollegeLondon/M40001_lean) - Lean 3 material related to Imperial College's "Introduction to University Mathematics" course
 - [ImperialCollegeLondon/complex-number-game](https://github.com/ImperialCollegeLondon/complex-number-game) - The Complex Number Game. Make the complex numbers in Lean.
@@ -12251,7 +12260,7 @@
 
 ## pico-8 
 
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 ## pixel-art 
 
@@ -12372,7 +12381,7 @@
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [edimetia3d/pybind11_weaver](https://github.com/edimetia3d/pybind11_weaver) - A fully customizable pybind11 generator to help generate code for exsiting c/c++ library.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source engine for running GPU workloads. It simplifies development, training, and deployment of gen AI models on any cloud. Discord: https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source engine that automates AI infrastructure provisioning on any cloud  for development, training and deployment. Discord: https://discord.gg/u8SmfwPpMd
 - [rnag/dataclass-wizard](https://github.com/rnag/dataclass-wizard) - A simple, yet elegant, set of wizarding tools for interacting with Python dataclasses.
 - [modm-io/lbuild](https://github.com/modm-io/lbuild) - lbuild: a generic, modular code generator in Python 3
 - [robocorp/robotframework-lsp](https://github.com/robocorp/robotframework-lsp) - Robocorp extensions for VS Code: Robocorp Code and RFW LSP
@@ -12591,7 +12600,7 @@
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [pixiedust/pixiedust](https://github.com/pixiedust/pixiedust) - Python Helper library for Jupyter Notebooks
 - [keras-team/autokeras](https://github.com/keras-team/autokeras) - AutoML library for deep learning
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [triagemd/tensorflow-builds](https://github.com/triagemd/tensorflow-builds) - Tensorflow binaries and Docker images compiled with GPU support and CPU optimizations.
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -12768,7 +12777,7 @@
 - [revolunet/sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3
 - [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 - [Slicer/SlicerGitSVNArchive](https://github.com/Slicer/SlicerGitSVNArchive) - :warning: OBSOLETE | Multi-platform, free open source software for visualization and image computing.
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [rpicard/explore-flask](https://github.com/rpicard/explore-flask) - Source of Explore Flask book
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [chen3feng/blade-build](https://github.com/chen3feng/blade-build) - Blade is a powerful build system from Tencent, supports many mainstream programming languages, such as C/C++, java, scala, python, protobuf...
@@ -12808,7 +12817,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [hugohadfield/cefFlask](https://github.com/hugohadfield/cefFlask) - cefpython with a Flask sever
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
 - [zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
 - [Marten4n6/EvilOSX](https://github.com/Marten4n6/EvilOSX) - An evil RAT (Remote Administration Tool) for macOS / OS X.
@@ -13031,7 +13040,7 @@
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
-- [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter kit for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
+- [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter boilerplate for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop
@@ -13353,6 +13362,7 @@
 
 ## rust 
 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) - Cross-platform compute shader engine
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -13621,7 +13631,7 @@
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [PistonDevelopers/piston](https://github.com/PistonDevelopers/piston) - A modular game engine written in Rust
 - [enkimute/ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
-- [kitao/pyxel](https://github.com/kitao/pyxel) - Retro Game Engine for Python
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [redox-os/rusttype](https://github.com/redox-os/rusttype) - Mirror of https://gitlab.redox-os.org/redox-os/rusttype
 - [kriomant/mockers](https://github.com/kriomant/mockers) - Mocking library for Rust
@@ -13920,7 +13930,7 @@
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## shell 
@@ -14175,10 +14185,11 @@
 
 ## telegram 
 
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 
 ## tensorflow 
@@ -14371,7 +14382,7 @@
 ## twitter 
 
 - [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally -- DEPRECATED, SEE TIMELINIZE (link below)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [aritraroy/UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference) - :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -14381,7 +14392,7 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [vscode-elements/elements](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
-- [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter kit for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
+- [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter boilerplate for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.

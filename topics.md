@@ -8086,7 +8086,7 @@
 - [griba2001/rust-monadic](https://github.com/griba2001/rust-monadic) - Macro to use rust IntoIterator as a monad with haskell like syntax
 - [jtauber/functional-differential-geometry](https://github.com/jtauber/functional-differential-geometry) - working my way through Sussman and Wisdom's Functional Differential Geometry and implementing it in Python
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-- [geometryzen/davinci-eight](https://github.com/geometryzen/davinci-eight) - WebGL library for mathematical physics using Geometric Algebra
+- [geometryzen/g3o](https://github.com/geometryzen/g3o) - WebGL library for mathematical physics using Geometric Algebra
 - [appliedgeometry/poissongeometry](https://github.com/appliedgeometry/poissongeometry) - A Python module for (local) Poisson-Nijenhuis calculus on Poisson manifolds
 - [zjhmale/vscode-idris](https://github.com/zjhmale/vscode-idris) - Idris for Visual Studio Code
 - [owo-lang/intellij-dtlc](https://github.com/owo-lang/intellij-dtlc) - IntelliJ plugin for several experimental programming languages here

@@ -163,6 +163,7 @@
 - [nativescript](#nativescript)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -1274,7 +1275,7 @@
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [mymusise/ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) - 基于ChatGLM-6B + LoRA的Fintune方案
 - [TheExplainthis/AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
 - [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
@@ -2223,7 +2224,7 @@
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [QUVA-Lab/escnn](https://github.com/QUVA-Lab/escnn) - Equivariant Steerable CNNs Library for Pytorch https://quva-lab.github.io/escnn/
 - [neurreps/awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry) - A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - 😎 📜 Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
@@ -2552,7 +2553,7 @@
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
 - [rocker-org/rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
 - [ondrejmo/Dockerfiles](https://github.com/ondrejmo/Dockerfiles) - These are Dockerfiles I've created for programs without official docker image.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -2576,6 +2577,7 @@
 
 ## documentation 
 
+- [fredrikekre/Literate.jl](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia
 - [omnilib/sphinx-mdinclude](https://github.com/omnilib/sphinx-mdinclude) - Markdown extension for Sphinx
 - [ROCm/ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 - [ilyaspiridonov/awesome-community-translations](https://github.com/ilyaspiridonov/awesome-community-translations) - A curated list of awesome community translation projects
@@ -3537,6 +3539,7 @@
 
 ## hacktoberfest 
 
+- [JuliaPackaging/BinaryBuilder.jl](https://github.com/JuliaPackaging/BinaryBuilder.jl) - Binary Dependency Builder for Julia
 - [omnilib/sphinx-mdinclude](https://github.com/omnilib/sphinx-mdinclude) - Markdown extension for Sphinx
 - [anchore/vunnel](https://github.com/anchore/vunnel) - Tool for collecting vulnerability data from various sources (used to build the grype database)
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
@@ -3587,7 +3590,7 @@
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [ICB-DCM/pyPESTO](https://github.com/ICB-DCM/pyPESTO) - python Parameter EStimation TOolbox
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
@@ -4848,6 +4851,9 @@
 
 ## julia 
 
+- [fredrikekre/Literate.jl](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia
+- [JuliaPy/PythonCall.jl](https://github.com/JuliaPy/PythonCall.jl) - Python and Julia in harmony.
+- [JuliaPackaging/BinaryBuilder.jl](https://github.com/JuliaPackaging/BinaryBuilder.jl) - Binary Dependency Builder for Julia
 - [Clemapfel/jluna](https://github.com/Clemapfel/jluna) - Julia Wrapper for C++ with Focus on Safety, Elegance, and Ease of Use
 - [JuliaIPU/IPUToolkit.jl](https://github.com/JuliaIPU/IPUToolkit.jl) - IPU programming in Julia
 - [GuidoDipietro/julia-small-rubiks-cube-model](https://github.com/GuidoDipietro/julia-small-rubiks-cube-model) - A 2x2x2 Rubik's Cube (or just the corners of a 3x3x3 Cube) modelled in the Julia Programming Language. (Not a solver!)
@@ -5020,7 +5026,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
-- [eclipse/che](https://github.com/eclipse/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
+- [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
@@ -6077,6 +6083,10 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
+## nestjs 
+
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+
 ## neural-network 
 
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
@@ -6622,6 +6632,7 @@
 
 ## others 
 
+- [JuliaBinaryWrappers/GiNaC_jll.jl](https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl) - 
 - [charles-r-earp/krnl](https://github.com/charles-r-earp/krnl) - Safe, portable, high performance compute (GPGPU) kernels.
 - [riccardobrasca/flt3](https://github.com/riccardobrasca/flt3) - Proof in Lean of Fermat Last Theorem for exponent 3
 - [gap-packages/wedderga](https://github.com/gap-packages/wedderga) - Wedderburn Decomposition of Group Algebras
@@ -12429,6 +12440,7 @@
 
 ## python 
 
+- [JuliaPy/PythonCall.jl](https://github.com/JuliaPy/PythonCall.jl) - Python and Julia in harmony.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
@@ -12972,7 +12984,7 @@
 - [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023
 - [QUVA-Lab/escnn](https://github.com/QUVA-Lab/escnn) - Equivariant Steerable CNNs Library for Pytorch https://quva-lab.github.io/escnn/
 - [QUVA-Lab/e2cnn](https://github.com/QUVA-Lab/e2cnn) - E(2)-Equivariant CNNs Library for Pytorch
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
 - [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [a-r-j/graphein](https://github.com/a-r-j/graphein) - Protein Graph Library
@@ -14137,6 +14149,7 @@
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [nickbabcock/rrinlog](https://github.com/nickbabcock/rrinlog) - Replacing Elasticsearch with Rust and SQLite
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases

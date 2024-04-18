@@ -33,6 +33,7 @@
 - [D](#d)
 - [D2](#d2)
 - [DIGITAL Command Language](#digital-command-language)
+- [Dafny](#dafny)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Earthly](#earthly)
@@ -153,6 +154,7 @@
 
 ## Agda 
 
+- [DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate) - PhD course on Functional Programming and Climate Impact Research
 - [gallais/agdarsec](https://github.com/gallais/agdarsec) - Total Parser Combinators in Agda
 - [martinescardo/TypeTopology](https://github.com/martinescardo/TypeTopology) - Logical manifestations of topological concepts, and other things, via the univalent point of view.
 - [UniMath/agda-unimath](https://github.com/UniMath/agda-unimath) - The agda-unimath library
@@ -562,6 +564,7 @@
 
 ## C# # 
 
+- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
 - [andrewlock/convert-disqus-to-giscus](https://github.com/andrewlock/convert-disqus-to-giscus) - A small .NET script/tool for converting Disqus comments to giscus
 - [JuergenGutsch/disqus-to-github-issues](https://github.com/JuergenGutsch/disqus-to-github-issues) - 
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -1082,6 +1085,7 @@
 - [ReadyTalk/avian](https://github.com/ReadyTalk/avian) - [INACTIVE] Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - [Thekla/hlslparser](https://github.com/Thekla/hlslparser) - HLSL Parser and Translator for HLSL, GLSL, and MSL.
+- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [MTG/gaia](https://github.com/MTG/gaia) - C++ library  to apply similarity measures and classiﬁcations on the results of audio analysis, including Python bindings. Together with Essentia it can be used to compute high-level descriptions of mu
 - [Audacity-Team/Audacity](https://github.com/Audacity-Team/Audacity) - A mirror of the Audacity svn at http://audacity.googlecode.com/svn/audacity-src/trunk/
@@ -1583,6 +1587,10 @@
 
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 
+## Dafny 
+
+- [dafny-lang/Dafny-VMC](https://github.com/dafny-lang/Dafny-VMC) - VMC: a Library for Verified Monte Carlo Algorithms
+
 ## Dart 
 
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -1975,7 +1983,7 @@
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [soundcloud/roshi](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 - [gitchain/gitchain](https://github.com/gitchain/gitchain) - Decentralized, peer-to-peer Git repositories aka "Git meets Bitcoin"
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
@@ -3351,7 +3359,7 @@
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [kazupon/vue-validator](https://github.com/kazupon/vue-validator) - :white_check_mark: Validator component for Vue.js
 - [Jack000/SVGnest](https://github.com/Jack000/SVGnest) - An open source vector nesting tool
-- [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+- [strawdynamics/drift](https://github.com/strawdynamics/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 - [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [coryhouse/react-slingshot](https://github.com/coryhouse/react-slingshot) - React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in
@@ -4943,6 +4951,8 @@
 
 ## Lean 
 
+- [negiizhao/Algorithm](https://github.com/negiizhao/Algorithm) - Verified efficient algorithms in Lean4. Only a bit of stuff now.
+- [leanprover/SampCert](https://github.com/leanprover/SampCert) - 
 - [Seasawher/mk-exercise](https://github.com/Seasawher/mk-exercise) - Simple and intuitive tool to manage exercises in textbooks written in Lean.
 - [calcu16/lean_complexity](https://github.com/calcu16/lean_complexity) - Complexity analysis in Lean
 - [JilinWang326/Mechanization-of-meta-theoretical-results-about-Frege-s-Begriffsschrift-in-Lean](https://github.com/JilinWang326/Mechanization-of-meta-theoretical-results-about-Frege-s-Begriffsschrift-in-Lean) - This is the mechanization of Duarte's independence proof of Begriﬀsschrift in Lean in order to have a better understanding the formal system of Begriﬀsschrift.
@@ -5233,7 +5243,6 @@
 - [zhangxiangxiao/Crepe](https://github.com/zhangxiangxiao/Crepe) - Character-level Convolutional Networks for Text Classification
 - [tylerneylon/termtris](https://github.com/tylerneylon/termtris) - A text-based game inspired by tetris.
 - [sile-typesetter/sile](https://github.com/sile-typesetter/sile) - The SILE Typesetter — Simon’s Improved Layout Engine
-- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [luarocks/luarocks](https://github.com/luarocks/luarocks) - LuaRocks is the package manager for the Lua programming language.
 - [kennyledet/Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations) - Share, discuss and learn about algorithm implementations!
 - [fjolnir/TLC](https://github.com/fjolnir/TLC) - The Tiny Lua Cocoa Bridge
@@ -5306,6 +5315,7 @@
 
 ## Mojo 
 
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 
 ## Mustache 
@@ -5333,6 +5343,7 @@
 
 ## OCaml 
 
+- [jonsterling/ocaml-forester](https://github.com/jonsterling/ocaml-forester) - Mirror of ocaml-forester
 - [sorawee/pretty-expressive-ocaml](https://github.com/sorawee/pretty-expressive-ocaml) - An implementation of "A Pretty Expressive Printer" in OCaml
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
@@ -5421,7 +5432,6 @@
 - [naivesystems/analyze](https://github.com/naivesystems/analyze) - NaiveSystems Analyze is a static analysis tool for code security and compliance.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [BjarneStroustrup/profiles](https://github.com/BjarneStroustrup/profiles) - site for discussing profiles design
-- [DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate) - PhD course on Functional Programming and Climate Impact Research
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [leanprover/lean4-pr-releases](https://github.com/leanprover/lean4-pr-releases) - Automated releases from leanprover/lean4 PRs
 - [madvorak/lean4-tactics](https://github.com/madvorak/lean4-tactics) - Overview of tactics in Lean 4 for beginners — longer version
@@ -6205,7 +6215,7 @@
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [mrob95/mathfly-talon](https://github.com/mrob95/mathfly-talon) - Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook 5.5.
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2-5X faster 80% less memory QLoRA & LoRA finetuning
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2-5X faster 80% less memory LLM finetuning
 - [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - [ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
@@ -6246,7 +6256,6 @@
 - [sighingnow/libclang](https://github.com/sighingnow/libclang) - (Unofficial) Release libclang (clang.cindex) on pypi.
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [robocorp/robotframework-lsp](https://github.com/robocorp/robotframework-lsp) - Robocorp extensions for VS Code: Robocorp Code and RFW LSP
-- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [gebner/espanso-lean](https://github.com/gebner/espanso-lean) - Espanso configuration for Lean abbreviations
 - [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [forestagostinelli/DeepCubeA](https://github.com/forestagostinelli/DeepCubeA) - Code for DeepCubeA, a Deep Reinforcement Learning algorithm that can learn to solve the Rubik's cube.
@@ -6395,7 +6404,7 @@
 - [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
 - [google-research/FLAN](https://github.com/google-research/FLAN) - 
 - [ray-project/ray-llm](https://github.com/ray-project/ray-llm) - RayLLM - LLMs on Ray
-- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练、有监督微调、RLHF(奖励建模、强化学习训练)和DPO(直接偏好优化)。
+- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO。
 - [altenderfer/mindfeeder2](https://github.com/altenderfer/mindfeeder2) - This program is designed to generate new instruction, input, and output (IIO) pairs using OpenAI's GPT-3.5-turbo (Or any completion model). Given an input dataset containing IIO pairs, the script will
 - [google-research-datasets/paws](https://github.com/google-research-datasets/paws) - This dataset contains 108,463 human-labeled and 656k noisily labeled pairs that feature the importance of modeling structure, context, and word order information for the problem of paraphrase identifi
 - [allenai/natural-instructions](https://github.com/allenai/natural-instructions) - Expanding natural instructions
@@ -6497,7 +6506,7 @@
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [yxuansu/OpenAlpaca](https://github.com/yxuansu/OpenAlpaca) - OpenAlpaca: A Fully Open-Source Instruction-Following Model Based On OpenLLaMA
 - [evandez/REMEDI](https://github.com/evandez/REMEDI) - Inspecting and Editing Knowledge Representations in Language Models
-- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for Databricks foundation models
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [bigcode-project/Megatron-LM](https://github.com/bigcode-project/Megatron-LM) - Ongoing research training transformer models at scale
@@ -8078,6 +8087,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sjtug/mirror-clone](https://github.com/sjtug/mirror-clone) - All-in-one mirror utility for SJTUG mirror
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust
@@ -9010,6 +9020,7 @@
 
 ## TeX 
 
+- [martinescardo/HoTTEST-Summer-School](https://github.com/martinescardo/HoTTEST-Summer-School) - HoTTEST Summer School materials
 - [linlib/TheWhiteheadTheoremandTwoVariations](https://github.com/linlib/TheWhiteheadTheoremandTwoVariations) - Proving three variations of the Whitehead theorem for simplicial and point-set models
 - [Bergschaf/banach-tarski](https://github.com/Bergschaf/banach-tarski) - 
 - [mpenciak/LLL2023](https://github.com/mpenciak/LLL2023) - Slides from my talk in London Learning Lean
@@ -9151,7 +9162,7 @@
 - [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter boilerplate for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [TerriaJS/terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data platforms.
-- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
+- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [JamesLMilner/terra-draw](https://github.com/JamesLMilner/terra-draw) - A library for drawing on maps that supports Mapbox, MapLibre, Google Maps, OpenLayers and Leaflet out the box
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.

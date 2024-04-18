@@ -235,6 +235,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
@@ -273,7 +274,7 @@
 ## 3d 
 
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
-- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
+- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [tensorspace-team/tensorspace](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
@@ -294,6 +295,7 @@
 - [jagenjo/webglstudio.js](https://github.com/jagenjo/webglstudio.js) - A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
 - [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [kovacsv/JSModeler](https://github.com/kovacsv/JSModeler) - A JavaScript framework to create and visualize 3D models.
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [vaiorabbit/rmath3d](https://github.com/vaiorabbit/rmath3d) - Ruby Math Module for 3D Applications
@@ -303,7 +305,7 @@
 ## ai 
 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2-5X faster 80% less memory QLoRA & LoRA finetuning
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2-5X faster 80% less memory LLM finetuning
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for AI engineers that require high-quality outputs, full data ownership, and overall efficiency.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [Jordan-Gilliam/ai-template](https://github.com/Jordan-Gilliam/ai-template) - Mercury - Train your own custom GPT. Chat with any file, or website.
@@ -1224,7 +1226,7 @@
 - [kyegomez/LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 - [ictnlp/BayLing](https://github.com/ictnlp/BayLing) - “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chines
 - [OFA-Sys/ExpertLLaMA](https://github.com/OFA-Sys/ExpertLLaMA) - An opensource ChatBot built with ExpertPrompting which achieves 96% of ChatGPT's capability.
-- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练、有监督微调、RLHF(奖励建模、强化学习训练)和DPO(直接偏好优化)。
+- [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO。
 - [hitz-zentroa/lm-contamination](https://github.com/hitz-zentroa/lm-contamination) - The LM Contamination Index is a manually created database of contamination evidences for LMs.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
@@ -2031,7 +2033,7 @@
 ## data-visualization 
 
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
-- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
+- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 - [Renumics/spotlight](https://github.com/Renumics/spotlight) - Interactively explore unstructured datasets from your dataframe.
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
@@ -2166,7 +2168,7 @@
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [opendilab/awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
-- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for Databricks foundation models
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
 - [juliusberner/theory2practice](https://github.com/juliusberner/theory2practice) - Learning ReLU networks to high uniform accuracy is intractable (ICLR 2023)
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
@@ -3119,7 +3121,7 @@
 
 - [nvkelso/natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) - A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.
 - [dekguh/Leaflet.MoveMarker](https://github.com/dekguh/Leaflet.MoveMarker) - L.MoveMarker is a leaflet plugin that is used to create moving marker and also trail polyline animation.
-- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
+- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
 - [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
@@ -3743,7 +3745,7 @@
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
-- [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+- [strawdynamics/drift](https://github.com/strawdynamics/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -4278,7 +4280,7 @@
 - [dekguh/Leaflet.MoveMarker](https://github.com/dekguh/Leaflet.MoveMarker) - L.MoveMarker is a leaflet plugin that is used to create moving marker and also trail polyline animation.
 - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
-- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
+- [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
 - [caseycesari/GeoJSON.js](https://github.com/caseycesari/GeoJSON.js) - Turn your geo data into GeoJSON. For Node.js and the browser.
 - [htoooth/Leaflet.ChineseTmsProviders](https://github.com/htoooth/Leaflet.ChineseTmsProviders) - Provider for Chinese Tms Service
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
@@ -4498,7 +4500,7 @@
 - [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
-- [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+- [strawdynamics/drift](https://github.com/strawdynamics/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 - [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
@@ -4640,6 +4642,7 @@
 - [mstefaniuk/graph-viz-d3-js](https://github.com/mstefaniuk/graph-viz-d3-js) - Graphviz web D3.js renderer
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 - [ResponsiveBP/Responsive](https://github.com/ResponsiveBP/Responsive) - :iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites
+- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
@@ -6196,7 +6199,7 @@
 - [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) - 大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP
 - [SunLemuria/OpenGPTAndBeyond](https://github.com/SunLemuria/OpenGPTAndBeyond) - Open efforts to implement ChatGPT-like models and beyond.
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
-- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for Databricks foundation models
 - [CVI-SZU/Linly](https://github.com/CVI-SZU/Linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
@@ -6635,6 +6638,12 @@
 
 ## others 
 
+- [negiizhao/Algorithm](https://github.com/negiizhao/Algorithm) - Verified efficient algorithms in Lean4. Only a bit of stuff now.
+- [jonsterling/ocaml-forester](https://github.com/jonsterling/ocaml-forester) - Mirror of ocaml-forester
+- [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
+- [dafny-lang/Dafny-VMC](https://github.com/dafny-lang/Dafny-VMC) - VMC: a Library for Verified Monte Carlo Algorithms
+- [leanprover/SampCert](https://github.com/leanprover/SampCert) - 
+- [martinescardo/HoTTEST-Summer-School](https://github.com/martinescardo/HoTTEST-Summer-School) - HoTTEST Summer School materials
 - [nick8325/twee](https://github.com/nick8325/twee) - An equational theorem prover based on Knuth-Bendix completion
 - [Seasawher/mk-exercise](https://github.com/Seasawher/mk-exercise) - Simple and intuitive tool to manage exercises in textbooks written in Lean.
 - [clayrat/fav-ssr](https://github.com/clayrat/fav-ssr) - Functional Algorithms Verified in SSReflect
@@ -6771,7 +6780,6 @@
 - [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 - [C0nsumption/Consume-ComfyUI-Workflows](https://github.com/C0nsumption/Consume-ComfyUI-Workflows) - A collection of some of my basic ComfyUI workflows. These are meant to act as building block to construct larger workflows of your own.
 - [adomani/advents](https://github.com/adomani/advents) - Advent of Code
-- [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - [ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [friederrr/GHOSTS](https://github.com/friederrr/GHOSTS) - GHOSTS dataset
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [xyz2tex/dot2tex](https://github.com/xyz2tex/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
@@ -7129,7 +7137,6 @@
 - [DYZhang09/SAM3D](https://github.com/DYZhang09/SAM3D) - [SCIS] SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality [NeurIPS 2023]
 - [facebookresearch/hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
-- [hila-chefer/Conceptor](https://github.com/hila-chefer/Conceptor) - Official implementation of the paper The Hidden Language of Diffusion Models
 - [niharshah/ReviewerGPT2023](https://github.com/niharshah/ReviewerGPT2023) - 
 - [wenhuchen/TheoremQA](https://github.com/wenhuchen/TheoremQA) - The dataset and code for paper: TheoremQA: A Theorem-driven Question Answering dataset
 - [suzgunmirac/BIG-Bench-Hard](https://github.com/suzgunmirac/BIG-Bench-Hard) - Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them
@@ -7435,7 +7442,6 @@
 - [Miffyli/im2latex-dataset](https://github.com/Miffyli/im2latex-dataset) - Python tools for creating suitable dataset for OpenAI's im2latex task: https://openai.com/requests-for-research/#im2latex
 - [kagisearch/pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
-- [soulteary/docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) - Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
 - [lilianweng/lil-log](https://github.com/lilianweng/lil-log) - Lilian's Blog
 - [changebo/blog](https://github.com/changebo/blog) - Blog
 - [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
@@ -7577,7 +7583,6 @@
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
 - [Julian/tree-sitter-lean](https://github.com/Julian/tree-sitter-lean) - Experimental tree-sitter parser for the Lean (4) Theorem Prover
-- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [clockfort/GitHub-Backup](https://github.com/clockfort/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
@@ -10643,7 +10648,6 @@
 - [ahoward/middleman-gibberish](https://github.com/ahoward/middleman-gibberish) - password protect middleman pages - even on s3
 - [julianshapiro/blast](https://github.com/julianshapiro/blast) - Blast text apart to make it manipulable.
 - [invertase/rdash-angular](https://github.com/invertase/rdash-angular) - AngularJS implementation of the RDash admin dashboard theme
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
 - [ttencate/jfxr](https://github.com/ttencate/jfxr) - A browser-based tool to create sound effects for games.
 - [js2coffee/js2coffee](https://github.com/js2coffee/js2coffee) - Compile JavaScript to CoffeeScript
 - [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
@@ -10812,7 +10816,7 @@
 - [soundcloud/roshi](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 - [gitchain/gitchain](https://github.com/gitchain/gitchain) - Decentralized, peer-to-peer Git repositories aka "Git meets Bitcoin"
 - [c9s/r3](https://github.com/c9s/r3) - libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes wi
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [oomagnitude/duke-of-url](https://github.com/oomagnitude/duke-of-url) - Predicting next URLs from browsing history using NuPIC
 - [mrcslws/BackseatDriver](https://github.com/mrcslws/BackseatDriver) - 
@@ -12963,7 +12967,7 @@
 - [dataflowr/notebooks](https://github.com/dataflowr/notebooks) - code for deep learning courses
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [primeqa/primeqa](https://github.com/primeqa/primeqa) - The prime repository for state-of-the-art Multilingual Question Answering research and development.
-- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+- [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for Databricks foundation models
 - [mosaicml/streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
 - [juliusberner/theory2practice](https://github.com/juliusberner/theory2practice) - Learning ReLU networks to high uniform accuracy is intractable (ICLR 2023)
 - [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection) - A Repo For Document AI
@@ -13461,6 +13465,7 @@
 
 ## rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
@@ -14172,6 +14177,26 @@
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 
+## stable-diffusion 
+
+- [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - [ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
+- [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+- [hila-chefer/Conceptor](https://github.com/hila-chefer/Conceptor) - Official implementation of the paper The Hidden Language of Diffusion Models
+- [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
+- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
+- [runpod/containers](https://github.com/runpod/containers) - 🐳 |  Dockerfiles for the RunPod container images used for our official templates.
+- [soulteary/docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) - Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
+- [SkalskiP/courses](https://github.com/SkalskiP/courses) - This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)
+- [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
+- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
+- [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+
 ## statistics 
 
 - [geomstats/geomstats](https://github.com/geomstats/geomstats) - Computations and statistics on manifolds with geometric structures.
@@ -14514,7 +14539,6 @@
 - [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible and includes networking and XR - across platforms. D
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
@@ -14612,6 +14636,7 @@
 
 ## vim 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [valentjn/vscode-ltex](https://github.com/valentjn/vscode-ltex) - LTeX: Grammar/spell checker :mag::heavy_check_mark: for VS Code using LanguageTool with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [bioSyntax/bioSyntax](https://github.com/bioSyntax/bioSyntax) - Syntax highlighting for computational biology

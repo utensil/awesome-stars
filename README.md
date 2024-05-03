@@ -176,7 +176,7 @@
 ## Assembly 
 
 - [HazyResearch/safari](https://github.com/HazyResearch/safari) - Convolutions for Sequence Modeling
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
 - [mrfearless/ModernUI](https://github.com/mrfearless/ModernUI) - Modern UI controls for win32 assembler
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
@@ -243,6 +243,7 @@
 - [vermaseren/form](https://github.com/vermaseren/form) - The FORM project for symbolic manipulation of very big expressions
 - [NolanoOrg/cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
 - [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Main monorepo for @zig-gamedev libs and example applications
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [zanussbaum/gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp) - Locally run an Assistant-Tuned Chat-Style LLM
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -619,6 +620,8 @@
 
 ## C++ 
 
+- [zenorogue/hyperrogue](https://github.com/zenorogue/hyperrogue) - A SDL roguelike in a non-euclidean world
+- [mgieseki/dvisvgm](https://github.com/mgieseki/dvisvgm) - A fast DVI, EPS, and PDF to SVG converter
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [Singular/Singular](https://github.com/Singular/Singular) - sources for the Singular computer algebra system
@@ -1335,6 +1338,7 @@
 - [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh) - 📘《Python进阶》（Intermediate Python - Chinese Version）
 - [ahangchen/How-to-Be-A-Programmer-CN](https://github.com/ahangchen/How-to-Be-A-Programmer-CN) - [译]如何做好一枚程序员
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [HunterLarco/voxel.css](https://github.com/HunterLarco/voxel.css) - A lightweight 3D CSS voxel library.
 - [csstools/precss](https://github.com/csstools/precss) - Use Sass-like markup in your CSS
 - [douban/code](https://github.com/douban/code) - [DEPRECATED]Douban CODE
@@ -1378,7 +1382,7 @@
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
-- [claudemamo/kafka-web-console](https://github.com/claudemamo/kafka-web-console) - A web console for Apache Kafka (retired)
+- [cjmamo/kafka-web-console](https://github.com/cjmamo/kafka-web-console) - A web console for Apache Kafka (retired)
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》
 - [typlog/yue.css](https://github.com/typlog/yue.css) - A typography stylesheet for readable content
 - [mkaz/lanyon](https://github.com/mkaz/lanyon) - markdown web server
@@ -1546,6 +1550,7 @@
 
 ## Coq 
 
+- [CohenCyril/LFTCM2024_Rocq](https://github.com/CohenCyril/LFTCM2024_Rocq) - Coq/Rocq practice session @ Lean For The Curious Mathematicians 2024
 - [clayrat/fav-ssr](https://github.com/clayrat/fav-ssr) - Functional Algorithms Verified in SSReflect
 - [UCSD-PL/proverbot9001](https://github.com/UCSD-PL/proverbot9001) - 
 - [palmskog/DependentTypesForExtensiveGames](https://github.com/palmskog/DependentTypesForExtensiveGames) - In this repository I present a Coq developement of extensive games using dependent types, together with examples
@@ -1609,7 +1614,6 @@
 - [madduci/docker-compiler-explorer](https://github.com/madduci/docker-compiler-explorer) - A docker-based version of Matt Godbolt's compiler-explorer application
 - [denniskcheung/crytomator-docker](https://github.com/denniskcheung/crytomator-docker) - 
 - [vh13294/cryptomator-docker](https://github.com/vh13294/cryptomator-docker) - 
-- [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [P3TERX/Aria2-Pro-Docker](https://github.com/P3TERX/Aria2-Pro-Docker) - Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -1860,7 +1864,7 @@
 - [cpmech/gosl](https://github.com/cpmech/gosl) - Linear algebra, eigenvalues, FFT, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, 
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [whee/rp](https://github.com/whee/rp) - CLI to pipe data through Redis Pub/Sub
 - [fumin/ntm](https://github.com/fumin/ntm) - An implementation of Neural Turing Machines
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
@@ -2377,6 +2381,8 @@
 
 ## Java 
 
+- [InterworldTransport/Clados](https://github.com/InterworldTransport/Clados) - Clifford Algebra Library - Interworld Transport Project
+- [ice1000/anqur](https://github.com/ice1000/anqur) - Elaboration with inductive types
 - [ice1000/guest0x0](https://github.com/ice1000/guest0x0) - Neon lights in the night tonight and stars that shine in the open sky
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
@@ -2560,7 +2566,7 @@
 - [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-17 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+- [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-18 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [ftomassetti/effectivejava](https://github.com/ftomassetti/effectivejava) - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others.
 - [nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine) - Free Android 2D OpenGL Game Engine
 - [NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
@@ -2708,6 +2714,8 @@
 
 ## JavaScript 
 
+- [CAIMEOX/caimeox.github.io](https://github.com/CAIMEOX/caimeox.github.io) - My Zettelkasten - The Rabbit Hole
+- [microsoft/z3guide](https://github.com/microsoft/z3guide) - Tutorials and courses for Z3
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [hidakatsuya/action-setup-diff-pdf](https://github.com/hidakatsuya/action-setup-diff-pdf) - A GitHub Action to install diff-pdf
 - [enkimute/LookMaNoMatrices](https://github.com/enkimute/LookMaNoMatrices) - Supplanting matrices with PGA in a forward 3D renderer.
@@ -3223,7 +3231,7 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [clenemt/docdash](https://github.com/clenemt/docdash) - :zap: Lodash inspired JSDoc 3 template/theme
 - [jdalton/docdown](https://github.com/jdalton/docdown) - A simple JSDoc to Markdown generator.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [fed135/Kalm](https://github.com/fed135/Kalm) - Moved to https://github.com/kalm/kalm.js
@@ -4703,6 +4711,7 @@
 
 ## Jupyter Notebook 
 
+- [tBuLi/teahouse](https://github.com/tBuLi/teahouse) - Charming teahouse offering a carefully catered selection of exquisite kingdon samples
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
 - [gabegrand/lilo](https://github.com/gabegrand/lilo) - LILO: Library Induction with Language Observations
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
@@ -4796,7 +4805,7 @@
 - [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [KohakuBlueleaf/guanaco-lora](https://github.com/KohakuBlueleaf/guanaco-lora) - Instruct-tune LLaMA on consumer hardware
-- [hikariming/alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) - 人工精调的中文对话数据集和一段chatglm的微调代码
+- [hikariming/chat-dataset-baseline](https://github.com/hikariming/chat-dataset-baseline) - 人工精调的中文对话数据集和一段chatglm的微调代码
 - [LC1332/CamelBell-Chinese-LoRA](https://github.com/LC1332/CamelBell-Chinese-LoRA) - CamelBell（驼铃) is be a Chinese Language Tuning project based on LoRA. CamelBell is belongs to Project Luotuo(骆驼), an open sourced Chinese-LLM project created by  冷子昂 @ 商汤科技 & 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技
 - [LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) - 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
@@ -4961,6 +4970,13 @@
 
 ## Lean 
 
+- [SchrodingerZhu/LeanGccBackend](https://github.com/SchrodingerZhu/LeanGccBackend) - Lean4 backend using `libgccjit`!
+- [katjabercic/Lean-HoG](https://github.com/katjabercic/Lean-HoG) - 
+- [ADedecker/ProperAction](https://github.com/ADedecker/ProperAction) - 
+- [ammkrn/timelib](https://github.com/ammkrn/timelib) - A date and time library for Lean 4
+- [lengyijun/tarjan-kosaraju-why3-lean4](https://github.com/lengyijun/tarjan-kosaraju-why3-lean4) - 
+- [negiizhao/transcendental](https://github.com/negiizhao/transcendental) - Lindemann–Weierstrass Theorem
+- [Some-random/theorem-proving-reasoning](https://github.com/Some-random/theorem-proving-reasoning) - Code for the paper LeanReasoner: Boosting Complex Logical Reasoning with Lean: https://arxiv.org/pdf/2403.13312.pdf
 - [leanprover-community/con-nf](https://github.com/leanprover-community/con-nf) - A formal consistency proof of Quine's set theory New Foundations
 - [dignissimus/Untangle](https://github.com/dignissimus/Untangle) - Graphical rewriting for diagrammatic reasoning in monoidal categories in Lean4
 - [paulch42/lean-spec](https://github.com/paulch42/lean-spec) - Program Specification in Lean 4
@@ -4968,7 +4984,7 @@
 - [NUS-Math-Formalization/coxeter](https://github.com/NUS-Math-Formalization/coxeter) - 
 - [chenjulang/rubikcubegroup](https://github.com/chenjulang/rubikcubegroup) - rubikcubegroup魔方定理证明+视频分享
 - [negiizhao/Algorithm](https://github.com/negiizhao/Algorithm) - Verified efficient algorithms in Lean4.
-- [leanprover/SampCert](https://github.com/leanprover/SampCert) - 
+- [leanprover/SampCert](https://github.com/leanprover/SampCert) - SampCert : a Verified Implementation of the Discrete Gaussian Sampler for Differential Privacy
 - [Seasawher/mk-exercise](https://github.com/Seasawher/mk-exercise) - Simple and intuitive tool to manage exercises in textbooks written in Lean.
 - [calcu16/lean_complexity](https://github.com/calcu16/lean_complexity) - Complexity analysis in Lean
 - [JilinWang326/Mechanization-of-meta-theoretical-results-about-Frege-s-Begriffsschrift-in-Lean](https://github.com/JilinWang326/Mechanization-of-meta-theoretical-results-about-Frege-s-Begriffsschrift-in-Lean) - This is the mechanization of Duarte's independence proof of Begriﬀsschrift in Lean in order to have a better understanding the formal system of Begriﬀsschrift.
@@ -5362,6 +5378,7 @@
 
 ## OCaml 
 
+- [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [jonsterling/ocaml-forester](https://github.com/jonsterling/ocaml-forester) - Mirror of ocaml-forester
 - [sorawee/pretty-expressive-ocaml](https://github.com/sorawee/pretty-expressive-ocaml) - An implementation of "A Pretty Expressive Printer" in OCaml
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -5441,6 +5458,7 @@
 
 ## Others 
 
+- [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [zhaoyu-li/DL4TP](https://github.com/zhaoyu-li/DL4TP) - A Survey on Deep Learning for Theorem Proving
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
@@ -5545,6 +5563,7 @@
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [getaurora/download](https://github.com/getaurora/download) - 极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由
+- [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
 - [tailscale/tailscale-synology](https://github.com/tailscale/tailscale-synology) - Synology packages for tailscale.com
 - [john-rocky/CoreML-Models](https://github.com/john-rocky/CoreML-Models) - Converted CoreML Model Zoo.
 - [anthropics/hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
@@ -5985,7 +6004,7 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [anvaka/ngraph](https://github.com/anvaka/ngraph) - Beautiful Graphs
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
-- [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [bevacqua/js](https://github.com/bevacqua/js) - :art: A JavaScript Quality Guide
 - [widuu/chinese_docker](https://github.com/widuu/chinese_docker) - docker中文文档，docker Chinese Documation
 - [iliterobotics/3D](https://github.com/iliterobotics/3D) - 3D models for ILITE Robotics team competing in FIRST challenge. As featured on GitHub... twice!
@@ -6110,6 +6129,7 @@
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [cypht-org/cypht](https://github.com/cypht-org/cypht) - Cypht: Lightweight Open Source webmail written in PHP and JavaScript
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
+- [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Go to chevereto/chevereto for new Chevereto releases. This is the repo for the old "Chevereto-Free" (Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules).
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
@@ -6150,6 +6170,7 @@
 
 ## Pascal 
 
+- [MizarProject/system](https://github.com/MizarProject/system) - 
 - [fpc/Lazarus](https://github.com/fpc/Lazarus) - Lazarus IDE ----- READ-ONLY Mirror of https://gitlab.com/freepascal.org/lazarus/lazarus
 - [Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 
@@ -6205,6 +6226,8 @@
 
 ## Python 
 
+- [manzt/anywidget](https://github.com/manzt/anywidget) - jupyter widgets made easy
+- [leanprover-community/blog](https://github.com/leanprover-community/blog) - Source for the community blog
 - [bgeron/diff-pdf-visually](https://github.com/bgeron/diff-pdf-visually) - Quickly check whether there is a visible difference between two PDFs.
 - [VintLin/pdf-comparator](https://github.com/VintLin/pdf-comparator) - This tool is used to compare PDF files. With the diff-pdf, you can streamline your PDF document analysis process and ensure the accuracy and consistency of your documents.
 - [omnilib/sphinx-mdinclude](https://github.com/omnilib/sphinx-mdinclude) - Markdown extension for Sphinx
@@ -6267,7 +6290,7 @@
 - [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Free Pascal
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source orchestration engine for running AI workloads at scale in any cloud or data center. https://discord.gg/u8SmfwPpMd
+- [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source container orchestration engine for running AI workloads in any cloud or data center. https://discord.gg/u8SmfwPpMd
 - [SciPhi-AI/synthesizer](https://github.com/SciPhi-AI/synthesizer) - A multi-purpose LLM framework for RAG and data creation.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -6382,7 +6405,7 @@
 - [vast-ai/vast-python](https://github.com/vast-ai/vast-python) - Vast.ai python and cli api client
 - [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
 - [juankysoriano/gpt-producer](https://github.com/juankysoriano/gpt-producer) - 
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
 - [taoyds/spider](https://github.com/taoyds/spider) - scripts and baselines for Spider: Yale complex and cross-domain semantic parsing and text-to-SQL challenge
@@ -6612,7 +6635,7 @@
 - [OpenBMB/CPM-Live](https://github.com/OpenBMB/CPM-Live) - Live Training for Open-source Big Models
 - [Miffyli/im2latex-dataset](https://github.com/Miffyli/im2latex-dataset) - Python tools for creating suitable dataset for OpenAI's im2latex task: https://openai.com/requests-for-research/#im2latex
 - [kagisearch/pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
-- [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
+- [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)
 - [soulteary/docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) - Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
 - [OpenMOSS/CoLLiE](https://github.com/OpenMOSS/CoLLiE) - Collaborative Training of Large Language Models in an Efficient Way
 - [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
@@ -6665,7 +6688,6 @@
 - [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform ro
 - [ruogudu/PaperGPT](https://github.com/ruogudu/PaperGPT) - Chat with research papers
-- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
 - [GammaTauAI/leetcode-hard-gym](https://github.com/GammaTauAI/leetcode-hard-gym) - A hard gym for programming
 - [smyja/blackmaria](https://github.com/smyja/blackmaria) - Python package for webscraping in Natural language
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -6713,7 +6735,7 @@
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [liasece/sd-webui-train-tools](https://github.com/liasece/sd-webui-train-tools) - The stable diffusion webui training aid extension helps you quickly and visually train models such as Lora.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - The fastest way to iterate and deploy AI workloads on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
 - [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - The ParroT framework to enhance and regulate the Translation Abilities during Chat based on open-sourced LLMs (e.g., LLaMA-7b, Bloomz-7b1-mt) and human written translation and evaluation data.
 - [minyoungg/overparam](https://github.com/minyoungg/overparam) - 
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
@@ -7003,7 +7025,7 @@
 - [tBuLi/symfit](https://github.com/tBuLi/symfit) - Symbolic Fitting; fitting as it should be.
 - [simpeg/simpeg](https://github.com/simpeg/simpeg) - Simulation and Parameter Estimation in Geophysics  -  A python package for simulation and gradient based parameter estimation in the context of geophysical applications.
 - [junyanz/pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [gliheng/flutter-app-template](https://github.com/gliheng/flutter-app-template) - Desktop flutter app template
@@ -7683,7 +7705,6 @@
 - [discourse/discourse-chat-integration](https://github.com/discourse/discourse-chat-integration) - 
 - [gjtorikian/html-pipeline](https://github.com/gjtorikian/html-pipeline) - HTML processing filters and utilities
 - [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [gjtorikian/commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for the comrak (CommonMark parser) Rust crate
 - [citation-style-language/styles](https://github.com/citation-style-language/styles) - Official repository for Citation Style Language (CSL) citation styles.
 - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects
 - [jekyll/github-metadata](https://github.com/jekyll/github-metadata) - Jekyll plugin to propagate the `site.github` namespace and set default values for use with GitHub Pages.
@@ -8111,6 +8132,8 @@
 
 ## Rust 
 
+- [digama0/mizar-rs](https://github.com/digama0/mizar-rs) - Alternative Mizar proof checker (http://mizar.org/) written in Rust
+- [xiyuzhai-husky-lang/husky](https://github.com/xiyuzhai-husky-lang/husky) - Empowering everyone towards next generation AI and software.
 - [Centril/refl](https://github.com/Centril/refl) - Provides a Refl encoding in Rust
 - [antonWetzel/prettypst](https://github.com/antonWetzel/prettypst) - Formatter for Typst
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -8157,7 +8180,7 @@
 - [digama0/lean-sys](https://github.com/digama0/lean-sys) - Rust bindings for the Lean 4 proof assistant
 - [SchrodingerZhu/hashbrown4lean](https://github.com/SchrodingerZhu/hashbrown4lean) - 
 - [anandijain/leetcode_evals](https://github.com/anandijain/leetcode_evals) - 
-- [rose-lang/rose](https://github.com/rose-lang/rose) - Efficient pointful autodiff on the web.
+- [rose-lang/rose](https://github.com/rose-lang/rose) - Composable autodiff for the interactive web.
 - [pykeio/ort](https://github.com/pykeio/ort) - A Rust wrapper for ONNX Runtime
 - [Gadersd/llama2-burn](https://github.com/Gadersd/llama2-burn) - Llama2 LLM ported to Rust burn
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
@@ -8307,6 +8330,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [lu-zero/cargo-c](https://github.com/lu-zero/cargo-c) - build and install C-compatible libraries
 - [VictorTaelin/Interaction-Calculus](https://github.com/VictorTaelin/Interaction-Calculus) - A programming language and model of computation that matches the optimal λ-calculus reduction algorithm perfectly.
+- [gjtorikian/commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for the comrak (CommonMark parser) Rust crate
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [snipsco/rust-paillier](https://github.com/snipsco/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
 - [mortendahl/rust-paillier](https://github.com/mortendahl/rust-paillier) - A pure-Rust implementation of the Paillier encryption scheme
@@ -8697,7 +8721,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [KyleMayes/clang-rs](https://github.com/KyleMayes/clang-rs) - A somewhat idiomatic Rust wrapper for libclang.
-- [spearow/juice](https://github.com/spearow/juice) - The Hacker's Machine Learning Engine
+- [fff-rs/juice](https://github.com/fff-rs/juice) - The Hacker's Machine Learning Engine
 - [anowell/are-we-learning-yet](https://github.com/anowell/are-we-learning-yet) - How ready is Rust for Machine Learning?
 - [Jascha-N/minhook-rs](https://github.com/Jascha-N/minhook-rs) - A function hooking library for the Rust programming language
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
@@ -8745,7 +8769,6 @@
 - [shepmaster/rust-ffi-omnibus](https://github.com/shepmaster/rust-ffi-omnibus) - A collection of examples of using code written in Rust from other languages
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [OfficeDev/office-ui-fabric-core](https://github.com/OfficeDev/office-ui-fabric-core) - The front-end CSS framework for building experiences for Office and Microsoft 365.
 - [fvsch/remarkdown](https://github.com/fvsch/remarkdown) - Styling HTML as if it were raw Markdown text.
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
@@ -8977,6 +9000,7 @@
 
 ## Swift 
 
+- [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [liuliu/swift-diffusion](https://github.com/liuliu/swift-diffusion) - 
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
@@ -9051,6 +9075,9 @@
 
 ## TeX 
 
+- [jjaassoonn/GAGA](https://github.com/jjaassoonn/GAGA) - (Attempt of) Formalising the GAGA theorem
+- [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
+- [PrAbsInt/appendix](https://github.com/PrAbsInt/appendix) - Appendix of "Principles of Abstract Interpretation", P. Cousot, MIT Press, 2021, containing the proofs and the solutions of exercises not included in the book, the  indexes of names and cited authors,
 - [martinescardo/HoTTEST-Summer-School](https://github.com/martinescardo/HoTTEST-Summer-School) - HoTTEST Summer School materials
 - [linlib/TheWhiteheadTheoremandTwoVariations](https://github.com/linlib/TheWhiteheadTheoremandTwoVariations) - Proving three variations of the Whitehead theorem for simplicial and point-set models
 - [Bergschaf/banach-tarski](https://github.com/Bergschaf/banach-tarski) - 
@@ -9158,6 +9185,9 @@
 
 ## TypeScript 
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
+- [alexharri/website](https://github.com/alexharri/website) - Personal website and blog
+- [teatimeguest/setup-texlive-action](https://github.com/teatimeguest/setup-texlive-action) - A GitHub Action to set up TeX Live
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [estruyf/disqus-to-github-discussions](https://github.com/estruyf/disqus-to-github-discussions) - Disqus to GitHub Discussions migration script
@@ -9206,10 +9236,10 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [artisticat1/obsidian-tikzjax](https://github.com/artisticat1/obsidian-tikzjax) - Render LaTeX and TikZ diagrams in your notes
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [marginnoteapp/milkdown](https://github.com/marginnoteapp/milkdown) - Use milkdown as markdown editor of MarginNote
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeWhisperer, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
+- [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 - [terrastruct/d2-vscode](https://github.com/terrastruct/d2-vscode) - VSCode extension for D2 files.
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop
@@ -9219,7 +9249,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [jqueguiner/gladia-sdk-js](https://github.com/jqueguiner/gladia-sdk-js) - Gladia SDK for JavaScript/TypeScript
 - [toolkit-ai/toolkit-ai](https://github.com/toolkit-ai/toolkit-ai) - AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [leanprover-community/lean4game](https://github.com/leanprover-community/lean4game) - Server to host lean games.
@@ -9242,7 +9272,6 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
@@ -9277,7 +9306,6 @@
 - [hobofan/rust-interop](https://github.com/hobofan/rust-interop) - Website to highlight Rust language interop options
 - [niklasvh/css-line-break](https://github.com/niklasvh/css-line-break) - A JavaScript library for Line Breaking and identifying Word Boundaries, implementing the Unicode Line Breaking Algorithm (UAX #14)
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
@@ -9535,6 +9563,7 @@
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [kempsteven/vue-html2pdf](https://github.com/kempsteven/vue-html2pdf) - vue-html2pdf converts any vue component or element into PDF, vue-html2pdf is basically a vue wrapper only and uses html2pdf.js behind the scenes.
 - [rhaiscript/playground](https://github.com/rhaiscript/playground) - A Rhai scripting playground that runs Rhai scripts using WebAssembly in a web browser.
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [DrSensor/example-vue-component-rust](https://github.com/DrSensor/example-vue-component-rust) - example of how to mix Rust code compiled as WebAssembly with Vue
@@ -9557,6 +9586,7 @@
 
 ## XSLT 
 
+- [kentookura/forester-penrose-theme](https://github.com/kentookura/forester-penrose-theme) - 
 - [nathanielw/Material-Icons-for-Pencil](https://github.com/nathanielw/Material-Icons-for-Pencil) - Google's Material icons for Pencil
 - [niedbalski/nosetest-xunit-xslt](https://github.com/niedbalski/nosetest-xunit-xslt) - XSLT template used to convert nose XUnit files to HTML.
 - [oyvindkinsey/easyXDM](https://github.com/oyvindkinsey/easyXDM) - A javascript library providing cross-browser, cross-site messaging/method invocation.

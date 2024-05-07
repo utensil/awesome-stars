@@ -576,7 +576,7 @@
 - [runpod/runpod-python](https://github.com/runpod/runpod-python) - 🐍 | Python library for RunPod API and serverless worker SDK.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
@@ -660,7 +660,7 @@
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
@@ -982,7 +982,7 @@
 - [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source container orchestration engine for running AI workloads in any cloud or data center. https://discord.gg/u8SmfwPpMd
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -992,7 +992,7 @@
 ## azure 
 
 - [dstackai/dstack](https://github.com/dstackai/dstack) - An open-source container orchestration engine for running AI workloads in any cloud or data center. https://discord.gg/u8SmfwPpMd
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) - Best Practices, code samples, and documentation for Computer Vision.
 - [Azure/autorest](https://github.com/Azure/autorest) - OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
@@ -1131,6 +1131,8 @@
 
 ## c 
 
+- [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
+- [danielchasehooper/ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -1486,6 +1488,7 @@
 
 ## compiler 
 
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [xiyuzhai-husky-lang/husky](https://github.com/xiyuzhai-husky-lang/husky) - Empowering everyone towards next generation AI and software.
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [ygg-lang/yggdrasil.rs](https://github.com/ygg-lang/yggdrasil.rs) - yggdrasil compiler with rust runtime
@@ -1960,7 +1963,7 @@
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [Benjamin-Lee/deep-rules](https://github.com/Benjamin-Lee/deep-rules) - Ten Quick Tips for Deep Learning in Biology
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
@@ -2402,7 +2405,7 @@
 ## deployment 
 
 - [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
@@ -2420,6 +2423,7 @@
 - [tooll3/t3](https://github.com/tooll3/t3) - Tooll 3 is an open source software to create realtime motion graphics.
 - [dvgodoy/dl-visuals](https://github.com/dvgodoy/dl-visuals) - Over 200 figures and diagrams of the most popular deep learning architectures and layers FREE TO USE in your blog posts, slides, presentations, or papers.
 - [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) - 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
+- [rabbit-ear/rabbit-ear](https://github.com/rabbit-ear/rabbit-ear) - computational origami library
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
@@ -3683,7 +3687,7 @@
 - [wavedrom/wavedrom](https://github.com/wavedrom/wavedrom) - :ocean: Digital timing diagram rendering engine
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 - [Gallopsled/pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 - [rustindia/Rust-for-undergrads](https://github.com/rustindia/Rust-for-undergrads) - C/C++ programming probelms re-written in Rust
@@ -5068,6 +5072,7 @@
 
 ## language 
 
+- [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 - [xiyuzhai-husky-lang/husky](https://github.com/xiyuzhai-husky-lang/husky) - Empowering everyone towards next generation AI and software.
 - [babashka/sci](https://github.com/babashka/sci) - Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs
 - [SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate) - translate scientific papers in latex, especially arxiv papers
@@ -5495,7 +5500,7 @@
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
@@ -6219,7 +6224,7 @@
 - [onesuper/HuggingFace-Datasets-Text-Quality-Analysis](https://github.com/onesuper/HuggingFace-Datasets-Text-Quality-Analysis) - Retrieves parquet files from Hugging Face, identifies and quantifies junky data, duplication, contamination, and biased content in dataset using pandas
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
-- [sileod/tasksource](https://github.com/sileod/tasksource) - Datasets collection and standardization preprocessings for NLP extreme multitask learning
+- [sileod/tasksource](https://github.com/sileod/tasksource) - Datasets collection and preprocessings framework for NLP extreme multitask learning
 - [CornellNLP/ConvoKit](https://github.com/CornellNLP/ConvoKit) - ConvoKit is a toolkit for extracting conversational features and analyzing social phenomena in conversations. It includes several large conversational datasets along with scripts exemplifying the use 
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
@@ -6624,7 +6629,7 @@
 - [fendevel/Guide-to-Modern-OpenGL-Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions) - A guide to using modern OpenGL functions.
 - [gfx-rs/gfx](https://github.com/gfx-rs/gfx) - [maintenance mode] A low-overhead Vulkan-like GPU API for Rust.
 - [DragonJoker/Ashes](https://github.com/DragonJoker/Ashes) - Drop-in replacement for Vulkan shared library, for older hardware compatibility
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
 - [fschutt/azul](https://github.com/fschutt/azul) - Desktop GUI Framework
@@ -6668,6 +6673,18 @@
 
 ## others 
 
+- [akhauriyash/MathForCS_ML](https://github.com/akhauriyash/MathForCS_ML) - Contains important notes/definitions/propositions from the book Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning Jean Gallier and Jocelyn Qua
+- [Saxonica/Saxon-HE](https://github.com/Saxonica/Saxon-HE) - Saxon-HE open source repository
+- [floooh/sokol-tools](https://github.com/floooh/sokol-tools) - Command line tools for use with sokol headers
+- [Trebor-Huang/forester-theme](https://github.com/Trebor-Huang/forester-theme) - 
+- [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
+- [lyze/xetex-js](https://github.com/lyze/xetex-js) - Javascript port of XeTeX
+- [PatrickMassot/leanblueprint](https://github.com/PatrickMassot/leanblueprint) - plasTeX plugin to build formalization blueprints.
+- [fpvandoorn/carleson](https://github.com/fpvandoorn/carleson) - A (WIP) formalized proof of Carleson's theorem in Lean
+- [samvang/StoneDualityInLean](https://github.com/samvang/StoneDualityInLean) - 
+- [fpvandoorn/BonnAnalysis](https://github.com/fpvandoorn/BonnAnalysis) - repository for the collaborative formalization seminar in Analysis in Bonn
+- [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+- [leque/dc-machine](https://github.com/leque/dc-machine) - a call-by-value abstract machine for lambda-calculus + control, shift, control0, shift0, and prompt.
 - [tBuLi/teahouse](https://github.com/tBuLi/teahouse) - Charming teahouse offering a carefully catered selection of exquisite kingdon samples
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [SchrodingerZhu/LeanGccBackend](https://github.com/SchrodingerZhu/LeanGccBackend) - Lean4 backend using `libgccjit`!
@@ -8405,7 +8422,6 @@
 - [cristicbz/failchain](https://github.com/cristicbz/failchain) - failure + error-chain = 💖
 - [sympy/sympy-bot](https://github.com/sympy/sympy-bot) - GitHub bot for SymPy
 - [Tim-Pohlmann/Screeps-Nooby-Guide](https://github.com/Tim-Pohlmann/Screeps-Nooby-Guide) - Code used in my Screeps Nooby Guide video series
-- [mayakraft/Origami](https://github.com/mayakraft/Origami) - computational origami
 - [spring-projects/spring-cloud](https://github.com/spring-projects/spring-cloud) - Umbrella project for Spring Cloud
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
 - [Libbum/Wafer](https://github.com/Libbum/Wafer) - Parallelized 3D FDTD Schrödinger Equation Solver
@@ -10252,7 +10268,6 @@
 - [djcas9/envdb](https://github.com/djcas9/envdb) - LEGACY use https://github.com/mephux/kolide -- Envdb - Ask your environment questions with osquery.
 - [harshithere/programming-challenges](https://github.com/harshithere/programming-challenges) - My solutions to various challenging programs and compeditions
 - [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) - Website for pid.codes
-- [amokjs/amok](https://github.com/amokjs/amok) - Development on hold, playing around with different approaches at the moment
 - [gopatrik/space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling.
 - [rchipka/node-osmosis](https://github.com/rchipka/node-osmosis) - Web scraper for NodeJS
 - [nasa/pvslib](https://github.com/nasa/pvslib) - NASA PVS Library of Formal Developments
@@ -12627,7 +12642,7 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [WassimTenachi/PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [alisen39/TrWebOCR](https://github.com/alisen39/TrWebOCR) - 开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口，方便人类日常工作使用或者其他程序来调用~
@@ -13067,7 +13082,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 - [Denys88/rl_games](https://github.com/Denys88/rl_games) - RL implementations
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
@@ -13716,7 +13731,7 @@
 - [hatoo/Accepted](https://github.com/hatoo/Accepted) - A terminal text editor to be ACCEPTED
 - [gliheng/flutter-app-template](https://github.com/gliheng/flutter-app-template) - Desktop flutter app template
 - [flutter-rs/flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust. 🌠 (wip)
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
 - [rustgd/rhusics](https://github.com/rustgd/rhusics) - A cgmath physics library that can be used with Specs
 - [ggez/ggez](https://github.com/ggez/ggez) - Rust library to create a Good Game Easily
@@ -14109,7 +14124,7 @@
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [aws/aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode) - Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [run-house/runhouse](https://github.com/run-house/runhouse) - Fast, Pythonic AI services and workflows on your own infra. Unobtrusive, debuggable, PyTorch-like APIs.
+- [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
@@ -14261,6 +14276,7 @@
 
 ## stable-diffusion 
 
+- [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - [ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [hila-chefer/Conceptor](https://github.com/hila-chefer/Conceptor) - Official implementation of the paper The Hidden Language of Diffusion Models

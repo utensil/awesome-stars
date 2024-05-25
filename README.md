@@ -226,6 +226,7 @@
 
 ## C 
 
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [danielchasehooper/ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
@@ -1653,7 +1654,7 @@
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - The official Docker images for Rust
 - [triagemd/tensorflow-builds](https://github.com/triagemd/tensorflow-builds) - Tensorflow binaries and Docker images compiled with GPU support and CPU optimizations.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
-- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱
+- [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fighting Against Dictatorship)
 - [ondrejmo/Dockerfiles](https://github.com/ondrejmo/Dockerfiles) - These are Dockerfiles I've created for programs without official docker image.
 - [crisbal/docker-torch-rnn](https://github.com/crisbal/docker-torch-rnn) - Docker images for using torch-rnn
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -2419,7 +2420,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
-- [apache/parquet-mr](https://github.com/apache/parquet-mr) - Apache Parquet
+- [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet
 - [jamebal/jmal-cloud-server](https://github.com/jamebal/jmal-cloud-server) - 基于springboot的网盘服务端。JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
@@ -2742,6 +2743,8 @@
 
 ## JavaScript 
 
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
 - [lecopivo/scientific-computing-lean](https://github.com/lecopivo/scientific-computing-lean) - work in progress book on Scientific Computing in Lean
 - [ammkrn/type_checking_in_lean4](https://github.com/ammkrn/type_checking_in_lean4) - Type Checking in Lean 4
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -2808,7 +2811,6 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
@@ -4613,6 +4615,9 @@
 
 ## Julia 
 
+- [RelationalAI-oss/XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - XUnit.jl is a unit-testing framework for Julia.
+- [JuliaTesting/ReTest.jl](https://github.com/JuliaTesting/ReTest.jl) - Testing framework for Julia
+- [PumasAI/QuartoNotebookRunner.jl](https://github.com/PumasAI/QuartoNotebookRunner.jl) - 
 - [fredrikekre/Literate.jl](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia
 - [JuliaPy/PythonCall.jl](https://github.com/JuliaPy/PythonCall.jl) - Python and Julia in harmony.
 - [JuliaBinaryWrappers/GiNaC_jll.jl](https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl) - 
@@ -4740,6 +4745,7 @@
 
 ## Jupyter Notebook 
 
+- [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [tamlhp/awesome-machine-unlearning](https://github.com/tamlhp/awesome-machine-unlearning) - Awesome Machine Unlearning (A Survey of Machine Unlearning)
 - [tBuLi/teahouse](https://github.com/tBuLi/teahouse) - Charming teahouse offering a carefully catered selection of exquisite kingdon samples
 - [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora) - Training LLMs with QLoRA + FSDP
@@ -5000,6 +5006,11 @@
 
 ## Lean 
 
+- [lucasvreis/BirkhoffErgodicThm](https://github.com/lucasvreis/BirkhoffErgodicThm) - 
+- [liuchengwucn/FIMO](https://github.com/liuchengwucn/FIMO) - 
+- [mseri/BET](https://github.com/mseri/BET) - Project for "Machine-Checked Mathematics" at the Lorentz Center
+- [todbeibrot/Lean-Oscar](https://github.com/todbeibrot/Lean-Oscar) - An interface between Lean4 and Oscar.
+- [technosentience/ltlcheck](https://github.com/technosentience/ltlcheck) - LTL model checker for the FM-CPS course.
 - [leanprover/smt2_interface](https://github.com/leanprover/smt2_interface) - Interface to SMT2 solvers
 - [anfelor/coc-lean](https://github.com/anfelor/coc-lean) - A calculus of constructions in Lean
 - [MichaelStollBayreuth/EulerProducts](https://github.com/MichaelStollBayreuth/EulerProducts) - An attempt at formalizing facts on Euler products in Lean
@@ -5513,7 +5524,7 @@
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [zhaoyu-li/DL4TP](https://github.com/zhaoyu-li/DL4TP) - A Survey on Deep Learning for Theorem Proving
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的5000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [Zaffer/lean-gpt](https://github.com/Zaffer/lean-gpt) - Pre-prompt for ChatGPT-4 AI Assistant to do Lean Theorem Prover proofs.
 - [danielvoconnor/calc_on_manifolds_intuition](https://github.com/danielvoconnor/calc_on_manifolds_intuition) - Notes about the intuition behind calculus on manifolds and the generalized Stokes's theorem
@@ -6277,6 +6288,12 @@
 
 ## Python 
 
+- [utensil/lean4_jupyter](https://github.com/utensil/lean4_jupyter) - A Lean 4 Jupyter kernel via repl
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+- [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+- [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [OpenGVLab/Vision-RWKV](https://github.com/OpenGVLab/Vision-RWKV) - Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures
 - [BlinkDL/LinearAttentionArena](https://github.com/BlinkDL/LinearAttentionArena) - Here we will test various linear attention designs.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
@@ -6695,7 +6712,7 @@
 - [eth-sri/lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 - [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve) - ⚡ Langchain apps in production using Jina & FastAPI
 - [alvarosevilla95/opencopilot](https://github.com/alvarosevilla95/opencopilot) - 
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Multi-model Inference Graph/Pipelines, LLM/RAG apps, and more!
 - [ssheng/BentoChain](https://github.com/ssheng/BentoChain) - A voice-enabled chatbot application built using of 🦜️🔗 LangChain, text-to-speech, and speech-to-text models from  🤗 Hugging Face, and 🍱 BentoML.
 - [GanjinZero/RRHF](https://github.com/GanjinZero/RRHF) - [NIPS2023] RRHF & Wombat
 - [OpenBMB/CPM-Live](https://github.com/OpenBMB/CPM-Live) - Live Training for Open-source Big Models
@@ -6715,7 +6732,7 @@
 - [aypan17/machiavelli](https://github.com/aypan17/machiavelli) - 
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
-- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
 - [0cc4m/KoboldAI](https://github.com/0cc4m/KoboldAI) - 
 - [Ph0rk0z/text-generation-webui-testing](https://github.com/Ph0rk0z/text-generation-webui-testing) - A fork of textgen that still supports V1 GPTQ, 4-bit lora and other GPTQ models besides llama.
@@ -6772,6 +6789,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [ViperX7/Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
@@ -6925,7 +6943,7 @@
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to chec
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -7591,7 +7609,7 @@
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
 - [replit-archive/empythoned](https://github.com/replit-archive/empythoned) - CPython compiled to JS using emscripten
 - [PythonJS/PythonJS](https://github.com/PythonJS/PythonJS) - PythonJS development has moved to Rusthon
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
+- [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
@@ -8199,6 +8217,9 @@
 
 ## Rust 
 
+- [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
+- [theleagueof/fontship](https://github.com/theleagueof/fontship) - A font development toolkit and collaborative work flow.
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
@@ -9067,6 +9088,7 @@
 
 ## Svelte 
 
+- [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -9408,8 +9430,8 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [mpedramfar/Lean-game-maker](https://github.com/mpedramfar/Lean-game-maker) - This project converts structured Lean code into an interactive browser game.
 - [tjpalmer/languish](https://github.com/tjpalmer/languish) - Languish, a web page for exploring programming language trends
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [geometryzen/g3o](https://github.com/geometryzen/g3o) - WebGL library for mathematical physics using Geometric Algebra
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [geometryzen/davinci-eight](https://github.com/geometryzen/davinci-eight) - WebGL library for mathematical physics using Geometric Algebra
 - [lupyuen/visual-embedded-rust](https://github.com/lupyuen/visual-embedded-rust) - Visual Embedded Rust extension for Visual Studio Code
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
@@ -9530,7 +9552,7 @@
 - [getguesstimate/guesstimate-app](https://github.com/getguesstimate/guesstimate-app) - Create Fermi Estimates and Perform Monte Carlo Estimates
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
+- [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and recommend experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [furnishup/blueprint3d](https://github.com/furnishup/blueprint3d) - Build interior spaces in 3D
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format

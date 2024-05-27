@@ -218,6 +218,7 @@
 
 ## Bikeshed 
 
+- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [Orillusion/orillusion-web](https://github.com/Orillusion/orillusion-web) - The official doc website of Orillusion
 
 ## Boogie 
@@ -335,7 +336,6 @@
 - [vectorgraphics/asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
 - [Oblomov/clinfo](https://github.com/Oblomov/clinfo) - Print all known information about all available OpenCL platforms and devices in the system
 - [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
-- [nelhage/rules_boost](https://github.com/nelhage/rules_boost) - bazel build rules to use boost in bazel projects
 - [facebookresearch/darkforestGo](https://github.com/facebookresearch/darkforestGo) - DarkForest, the Facebook Go engine.
 - [martijnberger/clew](https://github.com/martijnberger/clew) - The OpenCL Extension Wrangler Library
 - [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things.
@@ -484,7 +484,6 @@
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [flowgrind/flowgrind](https://github.com/flowgrind/flowgrind) - Advanced TCP traffic generator for Linux, FreeBSD, and Mac OS X
-- [chewing/libchewing](https://github.com/chewing/libchewing) - libchewing - The intelligent phonetic input method library
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 - [rxi/lovedos](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
@@ -633,6 +632,7 @@
 
 ## C++ 
 
+- [Einsums/Einsums](https://github.com/Einsums/Einsums) - Provides compile-time contraction pattern analysis to determine optimal tensor operation to perform.
 - [scrossuk/llvm-abi](https://github.com/scrossuk/llvm-abi) - Library for generating ABI-compliant LLVM IR
 - [BallisticLA/RandBLAS](https://github.com/BallisticLA/RandBLAS) - A header-only C++ library for sketching in randomized linear algebra
 - [jeremyong/coop](https://github.com/jeremyong/coop) - C++20 coroutines-based cooperative multitasking library
@@ -878,6 +878,7 @@
 - [hetong007/higgsml](https://github.com/hetong007/higgsml) - Repository for post higgs-competition model submission
 - [hughperkins/DeepCL](https://github.com/hughperkins/DeepCL) - OpenCL library to train deep convolutional neural networks
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
+- [nelhage/rules_boost](https://github.com/nelhage/rules_boost) - bazel build rules to use boost in bazel projects
 - [yenw/computer-go-dataset](https://github.com/yenw/computer-go-dataset) - datasets for computer go
 - [KhronosGroup/OpenCL-CLHPP](https://github.com/KhronosGroup/OpenCL-CLHPP) - Khronos OpenCL-CLHPP
 - [leela-zero/leela-zero](https://github.com/leela-zero/leela-zero) - Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.
@@ -1732,6 +1733,7 @@
 
 ## Go 
 
+- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) - Work in progress.
 - [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites.
@@ -2345,6 +2347,7 @@
 
 ## Haskell 
 
+- [haskell/ghcup-hs](https://github.com/haskell/ghcup-hs) - 
 - [AndrasKovacs/elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo) - Minimal implementations for dependent type checking and elaboration
 - [nick8325/twee](https://github.com/nick8325/twee) - An equational theorem prover based on Knuth-Bendix completion
 - [nick8325/jukebox](https://github.com/nick8325/jukebox) - A theorem prover
@@ -2743,6 +2746,7 @@
 
 ## JavaScript 
 
+- [ORVEYL/orveyl.github.io](https://github.com/ORVEYL/orveyl.github.io) - A Non-Euclidean WebGPU Hobby Renderer
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [iconfu/svg-inject](https://github.com/iconfu/svg-inject) - A tiny, intuitive, robust, caching solution for injecting SVG files inline into the DOM.
 - [lecopivo/scientific-computing-lean](https://github.com/lecopivo/scientific-computing-lean) - work in progress book on Scientific Computing in Lean
@@ -4745,6 +4749,7 @@
 
 ## Jupyter Notebook 
 
+- [jxbz/modula](https://github.com/jxbz/modula) - Scalable neural net training via automatic normalization in the modular norm.
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [tamlhp/awesome-machine-unlearning](https://github.com/tamlhp/awesome-machine-unlearning) - Awesome Machine Unlearning (A Survey of Machine Unlearning)
 - [tBuLi/teahouse](https://github.com/tBuLi/teahouse) - Charming teahouse offering a carefully catered selection of exquisite kingdon samples
@@ -5039,7 +5044,7 @@
 - [leanprover/SampCert](https://github.com/leanprover/SampCert) - SampCert : Verified Differential Privacy
 - [Seasawher/mk-exercise](https://github.com/Seasawher/mk-exercise) - Simple and intuitive tool to manage exercises in textbooks written in Lean.
 - [calcu16/lean_complexity](https://github.com/calcu16/lean_complexity) - Complexity analysis in Lean
-- [JilinWang326/Mechanization-of-meta-theoretical-results-about-Frege-s-Begriffsschrift-in-Lean](https://github.com/JilinWang326/Mechanization-of-meta-theoretical-results-about-Frege-s-Begriffsschrift-in-Lean) - This is the mechanization of Duarte's independence proof of Begriﬀsschrift in Lean in order to have a better understanding the formal system of Begriﬀsschrift.
+- [JilinWang326/Begriffsschrift-in-lean](https://github.com/JilinWang326/Begriffsschrift-in-lean) - This is the mechanization of the propositional fragment of Frege's Begriﬀsschrift and Duarte's independence proof using the Lean theorem prover.
 - [DonghengChen/IFOL](https://github.com/DonghengChen/IFOL) - 
 - [riccardobrasca/flt3](https://github.com/riccardobrasca/flt3) - Proof in Lean of Fermat Last Theorem for exponent 3
 - [Shreyas4991/iris-lean](https://github.com/Shreyas4991/iris-lean) - Lean 4 port of Iris, a higher-order concurrent separation logic framework
@@ -5524,7 +5529,7 @@
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
 - [zhaoyu-li/DL4TP](https://github.com/zhaoyu-li/DL4TP) - A Survey on Deep Learning for Theorem Proving
 - [fricas/fricas](https://github.com/fricas/fricas) - Official repository of the FriCAS computer algebra system
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的5000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的5000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [Zaffer/lean-gpt](https://github.com/Zaffer/lean-gpt) - Pre-prompt for ChatGPT-4 AI Assistant to do Lean Theorem Prover proofs.
 - [danielvoconnor/calc_on_manifolds_intuition](https://github.com/danielvoconnor/calc_on_manifolds_intuition) - Notes about the intuition behind calculus on manifolds and the generalized Stokes's theorem
@@ -6288,6 +6293,12 @@
 
 ## Python 
 
+- [talkdai/dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
+- [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
+- [mattduck/gh2md](https://github.com/mattduck/gh2md) - Export Github repository issues, pull requests and comments to markdown.
+- [Gerenuk/Algebrant](https://github.com/Gerenuk/Algebrant) - Simple, extensible symbolic algebra
+- [sciunto-org/python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) - Bibtex parser for Python 3
+- [qiskit-community/qiskit-machine-learning](https://github.com/qiskit-community/qiskit-machine-learning) - Quantum Machine Learning
 - [utensil/lean4_jupyter](https://github.com/utensil/lean4_jupyter) - A Lean 4 Jupyter kernel via repl
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
@@ -6321,7 +6332,7 @@
 - [avigad/boole](https://github.com/avigad/boole) - The Boole Interactive Reasoning Assistant
 - [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) - [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [NUS-HPC-AI-Lab/Neural-Network-Diffusion](https://github.com/NUS-HPC-AI-Lab/Neural-Network-Diffusion) - We introduce a novel approach for parameter generation, named neural network diffusion (\textbf{p-diff}, p stands for parameter), which employs a standard latent diffusion model to synthesize a new se
+- [NUS-HPC-AI-Lab/Neural-Network-Parameter-Diffusion](https://github.com/NUS-HPC-AI-Lab/Neural-Network-Parameter-Diffusion) - We introduce a novel approach for parameter generation, named neural network parameter diffusion (p-diff), which employs a standard latent diffusion model to synthesize a new set of parameters
 - [foocker/AIGC](https://github.com/foocker/AIGC) - 扩散模型算法基础文档、训练、实验、部署等仓库
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [ianjauslin-rutgers/leanblueprint-extract](https://github.com/ianjauslin-rutgers/leanblueprint-extract) - A tool to extract the blueprint from a lean file
@@ -8217,6 +8228,8 @@
 
 ## Rust 
 
+- [Marwes/pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [theleagueof/fontship](https://github.com/theleagueof/fontship) - A font development toolkit and collaborative work flow.
@@ -8843,6 +8856,7 @@
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+- [chewing/libchewing](https://github.com/chewing/libchewing) - libchewing - The intelligent phonetic input method library
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -9345,7 +9359,7 @@
 - [terrastruct/d2-vscode](https://github.com/terrastruct/d2-vscode) - VSCode extension for D2 files.
 - [visheratin/web-ai](https://github.com/visheratin/web-ai) - Run modern deep learning models in the browser.
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [zhangir-azerbayev/lean-chat-vscode](https://github.com/zhangir-azerbayev/lean-chat-vscode) - 
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -9615,6 +9629,10 @@
 
 ## Typst 
 
+- [mgoulao/arkheion](https://github.com/mgoulao/arkheion) - A Typst template for arXiv
+- [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
+- [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics) - physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.
+- [francois-rozet/postr](https://github.com/francois-rozet/postr) - A minimal poster template in Typst.
 - [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
 - [quarto-ext/typst-templates](https://github.com/quarto-ext/typst-templates) - Repository of Typst templates for Quarto
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst

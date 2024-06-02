@@ -632,6 +632,8 @@
 
 ## C++ 
 
+- [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
+- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++20 RISC-V RV32/64/128 userspace emulator library
 - [Einsums/Einsums](https://github.com/Einsums/Einsums) - Provides compile-time contraction pattern analysis to determine optimal tensor operation to perform.
 - [scrossuk/llvm-abi](https://github.com/scrossuk/llvm-abi) - Library for generating ABI-compliant LLVM IR
 - [BallisticLA/RandBLAS](https://github.com/BallisticLA/RandBLAS) - A header-only C++ library for sketching in randomized linear algebra
@@ -6311,6 +6313,8 @@
 
 ## Python 
 
+- [savoirfairelinux/num2words](https://github.com/savoirfairelinux/num2words) - Modules to convert numbers to words. 42 --&gt; forty-two
+- [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 - [PatrickMassot/plastexdepgraph](https://github.com/PatrickMassot/plastexdepgraph) - Dependency graph plugin for plasTeX
 - [leanprover-contrib/lean-upgrade-action](https://github.com/leanprover-contrib/lean-upgrade-action) - An action to upgrade Lean and mathlib versions to their latest
 - [gaphor/gaphor](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool
@@ -9207,6 +9211,7 @@
 
 ## TeX 
 
+- [phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src) - The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.
 - [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
 - [BNFC/bnfc](https://github.com/BNFC/bnfc) - BNF Converter
 - [fpvandoorn/carleson](https://github.com/fpvandoorn/carleson) - A formalized proof of Carleson's theorem in Lean
@@ -9320,6 +9325,8 @@
 
 ## TypeScript 
 
+- [nhtoby311/WaterSurface](https://github.com/nhtoby311/WaterSurface) - 🌊 Interactive Water Surface shader component for React Three Fiber
+- [FunTechInc/use-shader-fx](https://github.com/FunTechInc/use-shader-fx) - ⚡️ More FXs, Less GLSL
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI. Written in TypeScript/Node
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet

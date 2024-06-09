@@ -227,6 +227,12 @@
 
 ## C 
 
+- [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
+- [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) - take off every zig
+- [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
+- [pwbh/SDL](https://github.com/pwbh/SDL) - SDL on Zig build system and in-sync with latest SDL versions
+- [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - Zig bindings for the sokol headers (https://github.com/floooh/sokol)
+- [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [DarkPlacesEngine/darkplaces](https://github.com/DarkPlacesEngine/darkplaces) - 
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
@@ -636,6 +642,9 @@
 
 ## C++ 
 
+- [eliemichel/LearnWebGPU](https://github.com/eliemichel/LearnWebGPU) - Learn to use WebGPU for native graphic applications in C++
+- [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
+- [styluslabs/ugui](https://github.com/styluslabs/ugui) - Cross-platform C++ SVG-based GUI library
 - [lassade/c2z](https://github.com/lassade/c2z) - C++ to Zig bindings and transpiler
 - [haiku/haiku](https://github.com/haiku/haiku) - The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).
 - [innative-sdk/innative](https://github.com/innative-sdk/innative) - A native non-web embedding of WebAssembly for Windows/Linux
@@ -2459,7 +2468,7 @@
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
 - [parrt/bookish](https://github.com/parrt/bookish) - A tool that translates augmented markdown into HTML or latex
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
-- [aya-prover/aya-dev](https://github.com/aya-prover/aya-dev) - A proof assistant
+- [aya-prover/aya-dev](https://github.com/aya-prover/aya-dev) - A proof assistant and a dependently-typed language
 - [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [multilang-depends/depends](https://github.com/multilang-depends/depends) - Depends is a fast, comprehensive code dependency analysis tool
@@ -2767,6 +2776,7 @@
 
 ## JavaScript 
 
+- [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
 - [linux-china/js-engine-benchmark](https://github.com/linux-china/js-engine-benchmark) - JavaScript Engine benchmark: V8 vs JSC, Bun vs Deno vs Node, Zig vs Cpp vs Rust
 - [gzuidhof/coi-serviceworker](https://github.com/gzuidhof/coi-serviceworker) - Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)
 - [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew's GitHub Actions
@@ -5041,6 +5051,8 @@
 
 ## Lean 
 
+- [Kiiyya/lean-wgpu](https://github.com/Kiiyya/lean-wgpu) - 
+- [marcusrossel/lean-ccs](https://github.com/marcusrossel/lean-ccs) - A definition of CCS and verified computable reduction to LTS in Lean.
 - [Seasawher/import-all](https://github.com/Seasawher/import-all) - This script can check and auto-generate `import` statements in a lean4 repository.
 - [madvorak/thue](https://github.com/madvorak/thue) - Semi-Thue systems a.k.a. string rewriting systems
 - [loganrjmurphy/LeanEuclid](https://github.com/loganrjmurphy/LeanEuclid) - LeanEuclid is a benchmark for autoformalization in the domain of Euclidean geometry, targeting the proof assistant Lean.
@@ -5562,6 +5574,7 @@
 
 ## Others 
 
+- [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [KhronosGroup/SPIRV-Guide](https://github.com/KhronosGroup/SPIRV-Guide) - One stop shop for getting started with SPIR-V.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [lijiannuist/Efficient-Multimodal-LLMs-Survey](https://github.com/lijiannuist/Efficient-Multimodal-LLMs-Survey) - Efficient Multimodal Large Language Models: A Survey
@@ -5951,7 +5964,6 @@
 - [nieweidong/learn-atom](https://github.com/nieweidong/learn-atom) - 最佳的Atom入门使用记录，上手就是如此简单。
 - [windiest/Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - :smiley_cat:猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you, and hoping slowly improve, if you like you can star
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [cyclejs-community/awesome-cyclejs](https://github.com/cyclejs-community/awesome-cyclejs) - A curated list of awesome Cycle.js resources
 - [vuejs/vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) - 💡 Sublime Text syntax highlighting for single-file Vue components
 - [island205/Single-Page-App-Break](https://github.com/island205/Single-Page-App-Break) - 单页应用开发权威指南
@@ -6336,6 +6348,11 @@
 
 ## Python 
 
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
+- [ziglang/zig-pypi](https://github.com/ziglang/zig-pypi) - The Zig programming language, packaged for PyPI
+- [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - 
+- [google/mesop](https://github.com/google/mesop) - 
+- [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [robotpy/cxxheaderparser](https://github.com/robotpy/cxxheaderparser) - Modern pure python C++ header parser
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [keraJLi/rejax](https://github.com/keraJLi/rejax) - 
@@ -6381,7 +6398,7 @@
 - [manzt/anywidget](https://github.com/manzt/anywidget) - jupyter widgets made easy
 - [leanprover-community/blog](https://github.com/leanprover-community/blog) - Source for the community blog
 - [bgeron/diff-pdf-visually](https://github.com/bgeron/diff-pdf-visually) - Quickly check whether there is a visible difference between two PDFs.
-- [VintLin/pdf-comparator](https://github.com/VintLin/pdf-comparator) - This tool is used to compare PDF files. With the diff-pdf, you can streamline your PDF document analysis process and ensure the accuracy and consistency of your documents.
+- [VintLin/pdf-comparator](https://github.com/VintLin/pdf-comparator) - This tool is used to compare PDF files. With the pdf-comparator, you can streamline your PDF document analysis process and ensure the accuracy and consistency of your documents.
 - [omnilib/sphinx-mdinclude](https://github.com/omnilib/sphinx-mdinclude) - Markdown extension for Sphinx
 - [anchore/vunnel](https://github.com/anchore/vunnel) - Tool for collecting vulnerability data from various sources (used to build the grype database)
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
@@ -6430,7 +6447,7 @@
 - [ul-fmf/mlfmf-data](https://github.com/ul-fmf/mlfmf-data) - Machine Learning for Mathematical Formalization
 - [morph-labs/morph-prover-cli](https://github.com/morph-labs/morph-prover-cli) - 
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-- [utensil/ginac-lean](https://github.com/utensil/ginac-lean) - 
+- [utensil/ginac-lean](https://github.com/utensil/ginac-lean) - A work-in-progress Lean 4 binding to GiNaC
 - [trishullab/copra](https://github.com/trishullab/copra) - COPRA: An in-COntext PRoof Agent which uses LLMs like GPTs to prove theorems in formal languages.
 - [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
 - [DRMacIver/structureshrink](https://github.com/DRMacIver/structureshrink) - Structured shrinking of unknown file formats
@@ -6799,7 +6816,7 @@
 - [aypan17/machiavelli](https://github.com/aypan17/machiavelli) - 
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) - Example models using DeepSpeed
 - [yangjianxin1/LLMPruner](https://github.com/yangjianxin1/LLMPruner) - 
-- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly) - The user analytics platform for LLMs
 - [0cc4m/KoboldAI](https://github.com/0cc4m/KoboldAI) - 
 - [Ph0rk0z/text-generation-webui-testing](https://github.com/Ph0rk0z/text-generation-webui-testing) - A fork of textgen that still supports V1 GPTQ, 4-bit lora and other GPTQ models besides llama.
@@ -7414,7 +7431,7 @@
 - [xianhu/PSpider](https://github.com/xianhu/PSpider) - 简单易用的Python爬虫框架，QQ交流群：597510560
 - [PythonTurtle/PythonTurtle](https://github.com/PythonTurtle/PythonTurtle) - A learning environment for Python suited for beginners and children, inspired by Logo.
 - [lan2720/cnn-for-captcha](https://github.com/lan2720/cnn-for-captcha) - 代码讲解部分请前往blog：http://lan2720.github.io/
-- [TheAbhiKumar/tensorflow-value-iteration-networks](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
+- [hi-abhi/tensorflow-value-iteration-networks](https://github.com/hi-abhi/tensorflow-value-iteration-networks) - TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper
 - [fchollet/hualos](https://github.com/fchollet/hualos) - Keras Total Visualization project
 - [ichuang/tflearn_wide_and_deep](https://github.com/ichuang/tflearn_wide_and_deep) - Pedagogical example realization of wide & deep networks, using TensorFlow and TFLearn.
 - [yosinski/deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox) - DeepVis Toolbox
@@ -7819,6 +7836,7 @@
 
 ## Racket 
 
+- [wargrey/graphics](https://github.com/wargrey/graphics) - Essential computer graphics
 - [herbie-fp/egg-herbie](https://github.com/herbie-fp/egg-herbie) - An interface for using mwillsey/egg with math simplification.
 - [morazanm/fsm](https://github.com/morazanm/fsm) - A DSL for the Automata Theory Classroom
 
@@ -8284,6 +8302,11 @@
 
 ## Rust 
 
+- [anweiss/cddl](https://github.com/anweiss/cddl) - Concise data definition language (RFC 8610) implementation and JSON and CBOR validator in Rust
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
+- [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
+- [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
+- [astrale-sharp/wasm-minimal-protocol](https://github.com/astrale-sharp/wasm-minimal-protocol) - 
 - [RazrFalcon/tiny-skia](https://github.com/RazrFalcon/tiny-skia) - A tiny Skia subset ported to Rust
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -8914,6 +8937,7 @@
 - [autumnai/collenchyma](https://github.com/autumnai/collenchyma) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [chewing/libchewing](https://github.com/chewing/libchewing) - libchewing - The intelligent phonetic input method library
@@ -9013,6 +9037,7 @@
 
 ## Shell 
 
+- [roc-lang/examples](https://github.com/roc-lang/examples) - All kinds of Roc examples
 - [leanprover/lean-action](https://github.com/leanprover/lean-action) - GitHub action for standard CI in Lean projects
 - [austinletson/lean-standard-action](https://github.com/austinletson/lean-standard-action) - 
 - [vra/mirrors-china](https://github.com/vra/mirrors-china) - Mirrors and registries in China to speedup your package installation.
@@ -9711,6 +9736,7 @@
 
 ## V 
 
+- [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## Vim Script 
@@ -9784,6 +9810,23 @@
 
 ## Zig 
 
+- [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
+- [sleibrock/zigtoys](https://github.com/sleibrock/zigtoys) - All about Zig + WASM and seeing what we can do
+- [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
+- [sin-ack/zigself](https://github.com/sin-ack/zigself) - An implementation of the Self programming language in Zig
+- [ikskuh/parser-toolkit](https://github.com/ikskuh/parser-toolkit) - A toolkit that makes it easier to write recursive-descent parsers in Zig.
+- [edqx/ccb](https://github.com/edqx/ccb) - The Comptime Compiler for Brainfuck
+- [Game4all/brainz](https://github.com/Game4all/brainz) - Braaaaaaaaaaaaaaaaaaainnnnnss🧠🧟‍♂️🧟‍♂️
+- [nektro/zig-json](https://github.com/nektro/zig-json) - A JSON library for inspecting arbitrary values
+- [ikskuh/zig-network](https://github.com/ikskuh/zig-network) - A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP
+- [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal build.zig for targeting iOS
+- [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
+- [rsepassi/zigcoro](https://github.com/rsepassi/zigcoro) - A Zig coroutine library
+- [sectasy0/zcached](https://github.com/sectasy0/zcached) - Lightweight and efficient in-memory caching system akin to databases like Redis.
+- [jetzig-framework/jetzig](https://github.com/jetzig-framework/jetzig) - Jetzig is a web framework written in Zig
+- [nektro/gimme](https://github.com/nektro/gimme) - A yummy collection of useful Allocators.
+- [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig) - Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib
+- [ippsav/redzig](https://github.com/ippsav/redzig) - 
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - The open-source browser made for headless usage
 - [lightpanda-io/zig-js-runtime](https://github.com/lightpanda-io/zig-js-runtime) - Add a JS runtime in your Zig project

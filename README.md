@@ -227,6 +227,11 @@
 
 ## C 
 
+- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [acmepjz/md4lean](https://github.com/acmepjz/md4lean) - a Lean wrapper for the MD4C Markdown parser
+- [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
+- [flibitijibibo/SDL](https://github.com/flibitijibibo/SDL) - Simple Directmedia Layer
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) - take off every zig
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
@@ -642,6 +647,8 @@
 
 ## C++ 
 
+- [eliaskosunen/scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++
+- [eliaskosunen/libcppffi](https://github.com/eliaskosunen/libcppffi) - C++ bindings over libffi
 - [eliemichel/LearnWebGPU](https://github.com/eliemichel/LearnWebGPU) - Learn to use WebGPU for native graphic applications in C++
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations
 - [styluslabs/ugui](https://github.com/styluslabs/ugui) - Cross-platform C++ SVG-based GUI library
@@ -718,6 +725,7 @@
 - [JonathanSalwan/Triton](https://github.com/JonathanSalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 - [KratosMultiphysics/Kratos](https://github.com/KratosMultiphysics/Kratos) - Kratos Multiphysics (A.K.A Kratos) is a framework for building parallel multi-disciplinary simulation software. Modularity, extensibility and HPC are the main objectives. Kratos has BSD license and is
 - [takemaru/graphillion](https://github.com/takemaru/graphillion) - Fast, lightweight graphset operation library
+- [leaningtech/cheerp-compiler](https://github.com/leaningtech/cheerp-compiler) - C++ to JavaScript/WebAssembly compiler
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [Chuyu-Team/VC-LTL](https://github.com/Chuyu-Team/VC-LTL) - Shared to msvcrt.dll and optimize the C/C++ application file size.
@@ -774,7 +782,6 @@
 - [LatticeX-Foundation/Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A Privacy-Preserving Framework Based on TensorFlow
 - [geno4neurips/genosolver](https://github.com/geno4neurips/genosolver) - 
 - [eBay/Gringofts](https://github.com/eBay/Gringofts) - Gringofts makes it easy to build a replicated, fault-tolerant, high throughput and distributed event-sourced system.
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 - [Tencent/flare](https://github.com/Tencent/flare) - Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。
 - [Tencent/ScriptX](https://github.com/Tencent/ScriptX) - A versatile script engine abstraction layer.
 - [zenustech/zeno](https://github.com/zenustech/zeno) - ZEn NOde system - a simulation & rendering engine in nodes
@@ -1593,6 +1600,7 @@
 
 ## Coq 
 
+- [kcrary/istari](https://github.com/kcrary/istari) - 
 - [coq-community/semantics](https://github.com/coq-community/semantics) - A survey of semantics styles in Coq, from natural semantics through structural operational, axiomatic, and denotational semantics, to abstract interpretation [maintainer=@k4rtik]
 - [coq-community/reglang](https://github.com/coq-community/reglang) - Regular Language Representations in Coq [maintainers=@chdoc,@palmskog]
 - [coq-community/tarjan](https://github.com/coq-community/tarjan) - Coq formalization of algorithms due to Tarjan and Kosaraju for finding strongly connected graph components using Mathematical Components and SSReflect [maintainers=@CohenCyril,@palmskog]
@@ -1735,6 +1743,7 @@
 
 ## Fortran 
 
+- [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) - Collection of builder repositories for BinaryBuilder.jl
 - [sagemathinc/cocalc-howto](https://github.com/sagemathinc/cocalc-howto) - How to do things on https://cocalc.com
 - [dftbplus/dftbplus](https://github.com/dftbplus/dftbplus) - DFTB+ general package for performing fast atomistic simulations
 
@@ -2185,7 +2194,7 @@
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [nikomatsakis/rust-tutorials-keynote](https://github.com/nikomatsakis/rust-tutorials-keynote) - Keynote versions of my Rust tutorials.
-- [nikomatsakis/intorust](https://github.com/nikomatsakis/intorust) - Learn Rust real good.
+- [intorust/intorust.com](https://github.com/intorust/intorust.com) - Learn Rust real good.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [aaalgo/picpac](https://github.com/aaalgo/picpac) - An image database for deep learning.
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
@@ -2236,6 +2245,7 @@
 - [aaronfrost/es6-femasters-slides](https://github.com/aaronfrost/es6-femasters-slides) - My Slides for Frontend Masters
 - [javierbyte/colorblendjs](https://github.com/javierbyte/colorblendjs) - Color blends for javascript.
 - [1000ch/grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [degouville/sublime-bootstrap4](https://github.com/degouville/sublime-bootstrap4) - Bootstrap 4 Snippets for Sublime Text 3
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [codrops/SeatPreview](https://github.com/codrops/SeatPreview) - An experimental demo where a 3D perspective preview is shown for a selected seat in a cinema room.
@@ -2776,6 +2786,7 @@
 
 ## JavaScript 
 
+- [Schneegans/dynamic-badges-action](https://github.com/Schneegans/dynamic-badges-action) - This action allows you to create badges for your README.md with shields.io which may change with every commit. To do this, this action does not need to push anything to your repository!
 - [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
 - [linux-china/js-engine-benchmark](https://github.com/linux-china/js-engine-benchmark) - JavaScript Engine benchmark: V8 vs JSC, Bun vs Deno vs Node, Zig vs Cpp vs Rust
 - [gzuidhof/coi-serviceworker](https://github.com/gzuidhof/coi-serviceworker) - Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)
@@ -4654,6 +4665,7 @@
 
 ## Julia 
 
+- [JuliaBinaryWrappers/CLN_jll.jl](https://github.com/JuliaBinaryWrappers/CLN_jll.jl) - 
 - [MilesCranmer/DispatchDoctor.jl](https://github.com/MilesCranmer/DispatchDoctor.jl) - The dispatch doctor prescribes type stability
 - [RelationalAI-oss/XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - XUnit.jl is a unit-testing framework for Julia.
 - [JuliaTesting/ReTest.jl](https://github.com/JuliaTesting/ReTest.jl) - Testing framework for Julia
@@ -5047,6 +5059,7 @@
 ## LLVM 
 
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 - [hughperkins/coriander](https://github.com/hughperkins/coriander) - Build NVIDIA® CUDA™ code for OpenCL™ 1.2 devices
 
 ## Lean 
@@ -5069,6 +5082,7 @@
 - [anfelor/coc-lean](https://github.com/anfelor/coc-lean) - A calculus of constructions in Lean
 - [MichaelStollBayreuth/EulerProducts](https://github.com/MichaelStollBayreuth/EulerProducts) - An attempt at formalizing facts on Euler products in Lean
 - [ufmg-smite/lean-smt](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
+- [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
 - [HEPLean/HepLean](https://github.com/HEPLean/HepLean) - 
 - [axiomed/Parse.lean](https://github.com/axiomed/Parse.lean) - Parser generation for Lean4
 - [Gopiandcode/deriving-such-that](https://github.com/Gopiandcode/deriving-such-that) - 
@@ -5574,6 +5588,7 @@
 
 ## Others 
 
+- [felixwellen/synthetic-geometry](https://github.com/felixwellen/synthetic-geometry) - Synthetic geometry. Probably mostly algebraic geometry.
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [KhronosGroup/SPIRV-Guide](https://github.com/KhronosGroup/SPIRV-Guide) - One stop shop for getting started with SPIR-V.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
@@ -5664,7 +5679,6 @@
 - [akoksal/LongForm](https://github.com/akoksal/LongForm) - Reverse Instructions to generate instruction tuning data with corpus examples
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [Nan-Do/LeetCodeContestsDataset](https://github.com/Nan-Do/LeetCodeContestsDataset) - Curated dataset including the description and best solutions for several programming languages ​​of (probably all) LeetCode's contests
-- [leaningtech/cheerp-compiler](https://github.com/leaningtech/cheerp-compiler) - C++ to JavaScript/WebAssembly compiler
 - [jllllll/GPTQ-for-LLaMa-Wheels](https://github.com/jllllll/GPTQ-for-LLaMa-Wheels) - Precompiled Wheels for GPTQ-for-LLaMa
 - [imaurer/awesome-llm-json](https://github.com/imaurer/awesome-llm-json) - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
@@ -6348,6 +6362,7 @@
 
 ## Python 
 
+- [rcooke-ast/ALIS](https://github.com/rcooke-ast/ALIS) - Absorption LIne Software
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [ziglang/zig-pypi](https://github.com/ziglang/zig-pypi) - The Zig programming language, packaged for PyPI
 - [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - 
@@ -6357,7 +6372,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [keraJLi/rejax](https://github.com/keraJLi/rejax) - 
 - [revalo/iceberg](https://github.com/revalo/iceberg) - A compositional diagramming and animation library as an eDSL in Python
-- [revalo/tree-diffusion](https://github.com/revalo/tree-diffusion) - 
+- [revalo/tree-diffusion](https://github.com/revalo/tree-diffusion) - Diffusion on syntax trees for program synthesis
 - [phys-sim-book/solid-sim-tutorial](https://github.com/phys-sim-book/solid-sim-tutorial) - A curated collection of Python examples for optimization-based solid simulation, emphasizing algorithmic convergence, penetration-free, and inversion-free conditions, designed for readability and unde
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
 - [py-sdl/py-sdl2](https://github.com/py-sdl/py-sdl2) - Python ctypes wrapper around SDL2
@@ -7863,6 +7878,7 @@
 
 ## Ruby 
 
+- [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
 - [gap-system/homebrew-gap](https://github.com/gap-system/homebrew-gap) - Homebrew tap for GAP
 - [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
@@ -8302,6 +8318,7 @@
 
 ## Rust 
 
+- [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin) - A utility for downloading and packaging the Microsoft CRT headers and libraries, and Windows SDK headers and libraries needed for compiling and linking programs targeting Windows.
 - [anweiss/cddl](https://github.com/anweiss/cddl) - Concise data definition language (RFC 8610) implementation and JSON and CBOR validator in Rust
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings to the quickjs javascript engine
@@ -8937,7 +8954,6 @@
 - [autumnai/collenchyma](https://github.com/autumnai/collenchyma) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
-- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [chewing/libchewing](https://github.com/chewing/libchewing) - libchewing - The intelligent phonetic input method library
@@ -9037,6 +9053,8 @@
 
 ## Shell 
 
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
+- [Zeranoe/mingw-w64-build](https://github.com/Zeranoe/mingw-w64-build) - MinGW-w64 build script
 - [roc-lang/examples](https://github.com/roc-lang/examples) - All kinds of Roc examples
 - [leanprover/lean-action](https://github.com/leanprover/lean-action) - GitHub action for standard CI in Lean projects
 - [austinletson/lean-standard-action](https://github.com/austinletson/lean-standard-action) - 
@@ -9271,7 +9289,6 @@
 ## TeX 
 
 - [phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src) - The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.
-- [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
 - [BNFC/bnfc](https://github.com/BNFC/bnfc) - BNF Converter
 - [fpvandoorn/carleson](https://github.com/fpvandoorn/carleson) - A formalized proof of Carleson's theorem in Lean
 - [fpvandoorn/BonnAnalysis](https://github.com/fpvandoorn/BonnAnalysis) - repository for the collaborative formalization seminar in Analysis in Bonn
@@ -9384,6 +9401,7 @@
 
 ## TypeScript 
 
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [nhtoby311/WaterSurface](https://github.com/nhtoby311/WaterSurface) - 🌊 Interactive Water Surface shader component for React Three Fiber
 - [FunTechInc/use-shader-fx](https://github.com/FunTechInc/use-shader-fx) - ⚡️ More FXs, Less GLSL
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.

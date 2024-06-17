@@ -228,6 +228,8 @@
 
 ## C 
 
+- [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
+- [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [acmepjz/md4lean](https://github.com/acmepjz/md4lean) - a Lean wrapper for the MD4C Markdown parser
 - [mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
@@ -648,6 +650,7 @@
 
 ## C++ 
 
+- [managarm/lil](https://github.com/managarm/lil) - Lightweight Intel gpu Library
 - [eliaskosunen/scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++
 - [eliaskosunen/libcppffi](https://github.com/eliaskosunen/libcppffi) - C++ bindings over libffi
 - [eliemichel/LearnWebGPU](https://github.com/eliemichel/LearnWebGPU) - Learn to use WebGPU for native graphic applications in C++
@@ -659,7 +662,7 @@
 - [eliemichel/WebGPU-Cpp](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper for WebGPU native
 - [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 - [nihui/opencv-mobile](https://github.com/nihui/opencv-mobile) - The minimal opencv for Android, iOS, ARM Linux, Windows, Linux, MacOS, WebAssembly
-- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - C++20 RISC-V RV32/64/128 userspace emulator library
+- [fwsGonzo/libriscv](https://github.com/fwsGonzo/libriscv) - The fastest RISC-V sandbox
 - [Einsums/Einsums](https://github.com/Einsums/Einsums) - Provides compile-time contraction pattern analysis to determine optimal tensor operation to perform.
 - [scrossuk/llvm-abi](https://github.com/scrossuk/llvm-abi) - Library for generating ABI-compliant LLVM IR
 - [BallisticLA/RandBLAS](https://github.com/BallisticLA/RandBLAS) - A header-only C++ library for sketching in randomized linear algebra
@@ -5114,7 +5117,7 @@
 - [paulch42/lean-spec](https://github.com/paulch42/lean-spec) - Program Specification in Lean 4
 - [jstoobysmith/Anomaly_Cancellation_in_Lean](https://github.com/jstoobysmith/Anomaly_Cancellation_in_Lean) - 
 - [NUS-Math-Formalization/coxeter](https://github.com/NUS-Math-Formalization/coxeter) - 
-- [chenjulang/rubikcubegroup](https://github.com/chenjulang/rubikcubegroup) - rubikcubegroup魔方定理证明+视频分享
+- [chenjulang/rubikcubegroup](https://github.com/chenjulang/rubikcubegroup) - rubikcubegroup魔方定理证明+视频分享。discuss here:https://lean4daydayup.zulipchat.com/join/l5pajaapwvkikcp
 - [negiizhao/Algorithm](https://github.com/negiizhao/Algorithm) - Verified efficient algorithms in Lean4.
 - [leanprover/SampCert](https://github.com/leanprover/SampCert) - SampCert : Verified Differential Privacy
 - [Seasawher/mk-exercise](https://github.com/Seasawher/mk-exercise) - Simple and intuitive tool to manage exercises in textbooks written in Lean.
@@ -5601,6 +5604,7 @@
 
 ## Others 
 
+- [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [felixwellen/synthetic-geometry](https://github.com/felixwellen/synthetic-geometry) - Synthetic geometry. Probably mostly algebraic geometry.
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources

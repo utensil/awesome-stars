@@ -1062,7 +1062,7 @@
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [eklitzke/c.sh](https://github.com/eklitzke/c.sh) - Inline C/asm in Bash
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
@@ -1445,7 +1445,7 @@
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [wooorm/emphasize](https://github.com/wooorm/emphasize) - ANSI syntax highlighting for the terminal
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
@@ -1654,7 +1654,7 @@
 
 - [liskin/gh-problem-matcher-wrap](https://github.com/liskin/gh-problem-matcher-wrap) - Invoke linters, detect errors/warnings, show them as annotations. Supports PRs from forks, unlike other Actions.
 - [iterative/cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [thyrlian/AndroidSDK](https://github.com/thyrlian/AndroidSDK) - 🐳 Full-fledged Android SDK Docker Image
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
@@ -2086,7 +2086,7 @@
 - [airbnb/knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [blue-yonder/tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series:
 - [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [chrisvoncsefalvay/learn-julia-the-hard-way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way) - Learn Julia the hard way!
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 - [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
@@ -2496,7 +2496,7 @@
 
 ## deployment 
 
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Write local debuggable Python which traverses your powerful remote infra. Deploy as-is. Unobtrusive, unopinionated, PyTorch-like APIs.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
@@ -2542,7 +2542,7 @@
 
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -2554,7 +2554,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -2603,7 +2603,7 @@
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
 - [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
 - [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
@@ -2790,7 +2790,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -3696,6 +3696,7 @@
 
 ## hacktoberfest 
 
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [JuliaPackaging/Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) - Collection of builder repositories for BinaryBuilder.jl
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [savoirfairelinux/num2words](https://github.com/savoirfairelinux/num2words) - Modules to convert numbers to words. 42 --&gt; forty-two
@@ -3890,7 +3891,7 @@
 - [SciML/Sundials.jl](https://github.com/SciML/Sundials.jl) - Julia interface to Sundials, including a nonlinear solver (KINSOL), ODE's (CVODE and ARKODE), and DAE's (IDA) in a SciML scientific machine learning enabled manner
 - [PyCQA/pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.
 - [JuliaData/DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl) - Metaprogramming tools for DataFrames
 - [JuliaData/DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia
@@ -6870,7 +6871,7 @@
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
 - [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) - Cool open source projects. Choose your project and get involved in Open Source development now.
 - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars!
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -6955,6 +6956,9 @@
 
 ## others 
 
+- [aya-prover/aya-vscode](https://github.com/aya-prover/aya-vscode) - ~ VSCode extension for Aya Prover
+- [dupuisf/BibtexQuery](https://github.com/dupuisf/BibtexQuery) - A simple command-line bibtex query utility written in Lean 4
+- [texfaq/texfaq.github.io](https://github.com/texfaq/texfaq.github.io) - The TeX FAQ List
 - [envytools/envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
 - [managarm/lil](https://github.com/managarm/lil) - Lightweight Intel gpu Library
 - [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
@@ -6985,7 +6989,7 @@
 - [InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math) - 
 - [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) - take off every zig
 - [sin-ack/zigself](https://github.com/sin-ack/zigself) - An implementation of the Self programming language in Zig
-- [google/mesop](https://github.com/google/mesop) - 
+- [google/mesop](https://github.com/google/mesop) - Build delightful web apps quickly in Python
 - [marcusrossel/lean-ccs](https://github.com/marcusrossel/lean-ccs) - A definition of CCS and verified computable reduction to LTS in Lean.
 - [wargrey/graphics](https://github.com/wargrey/graphics) - Essential computer graphics
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
@@ -7374,14 +7378,14 @@
 - [MuGdxy/muda](https://github.com/MuGdxy/muda) - μ-Cuda, COVER THE LAST MILE OF CUDA. With features: intellisense-friendly, structured launch, automatic cuda graph generation and updating.
 - [LuisaGroup/LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-Performance Rendering Framework on Stream Architectures
 - [kokkos/kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
-- [opencompl/ssa](https://github.com/opencompl/ssa) - A minimal development of SSA theory
+- [opencompl/lean-mlir](https://github.com/opencompl/lean-mlir) - A minimal development of SSA theory
 - [utensil/ginac-lean](https://github.com/utensil/ginac-lean) - A work-in-progress Lean 4 binding to GiNaC
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [palmskog/DependentTypesForExtensiveGames](https://github.com/palmskog/DependentTypesForExtensiveGames) - In this repository I present a Coq developement of extensive games using dependent types, together with examples
 - [MohanadAhmed/LeanMathSigProc](https://github.com/MohanadAhmed/LeanMathSigProc) - 
 - [trishullab/copra](https://github.com/trishullab/copra) - COPRA: An in-COntext PRoof Agent which uses LLMs like GPTs to prove theorems in formal languages.
 - [leanprover/reservoir](https://github.com/leanprover/reservoir) - Package registry for Lean/Lake. (WIP)
-- [opencompl/lean-mlir](https://github.com/opencompl/lean-mlir) - embedding MLIR in LEAN
+- [opencompl/lean-mlir-old](https://github.com/opencompl/lean-mlir-old) - embedding MLIR in LEAN
 - [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec) - `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
 - [girving/mandelbrot](https://github.com/girving/mandelbrot) - Bounding the area of the Mandelbrot set via the Böttcher series
 - [digama0/lean4lean](https://github.com/digama0/lean4lean) - Lean 4 kernel / 'external checker' written in Lean 4
@@ -8114,7 +8118,7 @@
 - [wxpusher/wxpusher-docs](https://github.com/wxpusher/wxpusher-docs) - 微信消息实时推送服务[WxPusher]的服务说明文档，通过本文档，你可以了解如何使用WxPusher的服务。 文档预览地址：
 - [kapitainsky/RcloneBrowser](https://github.com/kapitainsky/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
-- [candiddev/homechart](https://github.com/candiddev/homechart) - A web platform for managing households
+- [candiddev/homechart](https://github.com/candiddev/homechart) - Your Family's Mission Control
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 - [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
@@ -13306,7 +13310,7 @@
 - [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [letiantian/TextRank4ZH](https://github.com/letiantian/TextRank4ZH) - :deciduous_tree:从中文文本中自动提取关键词和摘要
 - [mpmath/mpmath](https://github.com/mpmath/mpmath) - Python library for arbitrary-precision floating-point arithmetic
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [stan-dev/pystan2](https://github.com/stan-dev/pystan2) - PyStan, the Python interface to Stan
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
@@ -13645,6 +13649,7 @@
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [wzpan/dingdang-robot](https://github.com/wzpan/dingdang-robot) - 🤖 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -14566,6 +14571,7 @@
 
 ## serverless 
 
+- [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
@@ -14605,7 +14611,7 @@
 - [GitAlias/gitalias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control
 - [codecov/codecov-bash](https://github.com/codecov/codecov-bash) - Global coverage report uploader for Codecov
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -14972,7 +14978,7 @@
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/sftp client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/RDP/VNC/sftp client(linux, mac, win)
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
@@ -14993,7 +14999,6 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [wooorm/emphasize](https://github.com/wooorm/emphasize) - ANSI syntax highlighting for the terminal
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings

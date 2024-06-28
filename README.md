@@ -465,7 +465,7 @@
 - [g1mv/density](https://github.com/g1mv/density) - Superfast compression library
 - [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
 - [damonkohler/sl4a](https://github.com/damonkohler/sl4a) - SL4A brings scripting languages to Android by allowing you to edit and execute scripts and interactive interpreters directly on the Android device.
-- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webass
+- [capstone-engine/capstone](https://github.com/capstone-engine/capstone) - Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC
 - [wishstudio/flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.
 - [shaunlebron/blinky](https://github.com/shaunlebron/blinky) - Exploring peripheral vision in games (using Quake)
 - [seppo0010/rlite](https://github.com/seppo0010/rlite) - self-contained, serverless, zero-configuration, transactional redis-compatible database engine. rlite is to Redis what SQLite is to SQL.
@@ -1610,7 +1610,7 @@
 - [coq-community/semantics](https://github.com/coq-community/semantics) - A survey of semantics styles in Coq, from natural semantics through structural operational, axiomatic, and denotational semantics, to abstract interpretation [maintainer=@k4rtik]
 - [coq-community/reglang](https://github.com/coq-community/reglang) - Regular Language Representations in Coq [maintainers=@chdoc,@palmskog]
 - [coq-community/tarjan](https://github.com/coq-community/tarjan) - Coq formalization of algorithms due to Tarjan and Kosaraju for finding strongly connected graph components using Mathematical Components and SSReflect [maintainers=@CohenCyril,@palmskog]
-- [ndslusarz/LDL_coq](https://github.com/ndslusarz/LDL_coq) - 
+- [ndslusarz/formal_LDL](https://github.com/ndslusarz/formal_LDL) - 
 - [CohenCyril/LFTCM2024_Rocq](https://github.com/CohenCyril/LFTCM2024_Rocq) - Coq/Rocq practice session @ Lean For The Curious Mathematicians 2024
 - [clayrat/fav-ssr](https://github.com/clayrat/fav-ssr) - Functional Algorithms Verified in SSReflect
 - [UCSD-PL/proverbot9001](https://github.com/UCSD-PL/proverbot9001) - 
@@ -1690,7 +1690,7 @@
 - [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images) - Ready to use docker images for Gitpod workspaces
 - [rust-lang/docker-rust](https://github.com/rust-lang/docker-rust) - The official Docker images for Rust
 - [triagemd/tensorflow-builds](https://github.com/triagemd/tensorflow-builds) - Tensorflow binaries and Docker images compiled with GPU support and CPU optimizations.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A curated list of delicious docker recipes 🇺🇦🇮🇱 (Let's Fight Against Dictatorship)
 - [ondrejmo/Dockerfiles](https://github.com/ondrejmo/Dockerfiles) - These are Dockerfiles I've created for programs without official docker image.
 - [crisbal/docker-torch-rnn](https://github.com/crisbal/docker-torch-rnn) - Docker images for using torch-rnn
@@ -1778,7 +1778,7 @@
 - [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites.
 - [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams
 - [rjeczalik/cmd](https://github.com/rjeczalik/cmd) - Handmade tools for day-to-day plumbing.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [kstone-io/kstone](https://github.com/kstone-io/kstone) - Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.
 - [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
@@ -2798,7 +2798,7 @@
 
 - [LocalCharts/silviculture](https://github.com/LocalCharts/silviculture) - 
 - [Seasawher/mathlib4-tactics](https://github.com/Seasawher/mathlib4-tactics) - List of the all tactics of mathlib4. This is heavily inspired by haruhisa-enomoto/mathlib4-all-tactics
-- [squaredtechnologies/thread](https://github.com/squaredtechnologies/thread) - An AI-powered Python notebook built in React — generate and edit code cells, automatically fix errors, and chat with your code
+- [squaredtechnologies/thread](https://github.com/squaredtechnologies/thread) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [Schneegans/dynamic-badges-action](https://github.com/Schneegans/dynamic-badges-action) - This action allows you to create badges for your README.md with shields.io which may change with every commit. To do this, this action does not need to push anything to your repository!
 - [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
 - [linux-china/js-engine-benchmark](https://github.com/linux-china/js-engine-benchmark) - JavaScript Engine benchmark: V8 vs JSC, Bun vs Deno vs Node, Zig vs Cpp vs Rust
@@ -6816,7 +6816,7 @@
 - [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [reasoning-machines/pal](https://github.com/reasoning-machines/pal) - PaL: Program-Aided Language Models (ICML 2023)
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org
+- [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org
 - [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat) - Creative interactive views of any dataset.
 - [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
@@ -9789,7 +9789,7 @@
 ## Vim Script 
 
 - [StylishThemes/Syntax-Themes](https://github.com/StylishThemes/Syntax-Themes) - :art: Information and files on various syntax highlighting themes
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [tpope/vim-sensible](https://github.com/tpope/vim-sensible) - sensible.vim: Defaults everyone can agree on
 - [exvim/main](https://github.com/exvim/main) - This is the main repository for exVim!
 - [ruchee/vimrc](https://github.com/ruchee/vimrc) - Ruchee's Vim Config Files

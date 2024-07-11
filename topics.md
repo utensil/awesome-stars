@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
+- [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -32,6 +33,7 @@
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -441,6 +443,11 @@
 - [vkostyukov/scalacaster](https://github.com/vkostyukov/scalacaster) - Purely Functional Algorithms and Data Structures in Scala
 - [sagivo/algorithms](https://github.com/sagivo/algorithms) - algorithms playground for common questions
 - [EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - EKAlgorithms contains some well known CS algorithms & data structures.
+
+## algorithmic-trading 
+
+- [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+- [izikeros/trend_classifier](https://github.com/izikeros/trend_classifier) - Library for automated signal segmentation, trend classification and analysis.
 
 ## analytics 
 
@@ -1152,6 +1159,15 @@
 - [maxbbraun/trump2cash](https://github.com/maxbbraun/trump2cash) - A stock trading bot powered by Trump tweets
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot.
+
+## bugbounty 
+
+- [six2dez/reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+- [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
+- [alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) - BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔
 
 ## c 
 
@@ -2010,7 +2026,6 @@
 ## data-analysis 
 
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -2343,7 +2358,7 @@
 - [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 - [novak-99/MLPP](https://github.com/novak-99/MLPP) - A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
@@ -5809,7 +5824,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 - [novak-99/MLPP](https://github.com/novak-99/MLPP) - A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.
@@ -6430,7 +6445,7 @@
 - [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 - [Oblynx/HTMAssemblyCalculus](https://github.com/Oblynx/HTMAssemblyCalculus) - Neuron assembly calculus with HTM.jl
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [wagamamaz/tensorlayer-tricks](https://github.com/wagamamaz/tensorlayer-tricks) - How to use TensorLayer
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers
@@ -6820,7 +6835,7 @@
 - [RobinKa/jaxga](https://github.com/RobinKa/jaxga) - Geometric Algebra package for JAX
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Flexible and powerful tensor operations for readable and reliable code (for pytorch, jax, TF and others)
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 - [google/trax](https://github.com/google/trax) - Trax — Deep Learning with Clear Code and Speed
@@ -6966,6 +6981,12 @@
 
 ## others 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [tom-doerr/dspy_nodes](https://github.com/tom-doerr/dspy_nodes) - WIP - Allows you to create DSPy pipelines using ComfyUI
+- [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) - Fast and simple fluid simulator in Julia
+- [OSU-NLP-Group/GrokkedTransformer](https://github.com/OSU-NLP-Group/GrokkedTransformer) - Code for the paper 'Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization'
+- [SMPLOlympics/SMPLOlympics](https://github.com/SMPLOlympics/SMPLOlympics) - 
+- [test-time-training/ttt-lm-jax](https://github.com/test-time-training/ttt-lm-jax) - Official JAX implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - [reaslab/jixia](https://github.com/reaslab/jixia) - A static analysis tool for Lean 4.
 - [ccz181078/Coq-BB5](https://github.com/ccz181078/Coq-BB5) - 
 - [JuliaArrays/AxisArrays.jl](https://github.com/JuliaArrays/AxisArrays.jl) - Performant arrays where each dimension can have a named axis with values
@@ -7724,7 +7745,6 @@
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [bigscience-workshop/data-preparation](https://github.com/bigscience-workshop/data-preparation) - Code used for sourcing and cleaning the BigScience ROOTS corpus
 - [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models
-- [izikeros/trend_classifier](https://github.com/izikeros/trend_classifier) - Library for automated signal segmentation, trend classification and analysis.
 - [wandb/server](https://github.com/wandb/server) - W&B Server is the self hosted version of Weights & Biases
 - [EleutherAI/concept-erasure](https://github.com/EleutherAI/concept-erasure) - Erasing concepts from neural representations with provable guarantees
 - [KaiyangZhou/CoOp](https://github.com/KaiyangZhou/CoOp) - Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22)
@@ -8091,7 +8111,7 @@
 - [LC1332/CamelBell-Chinese-LoRA](https://github.com/LC1332/CamelBell-Chinese-LoRA) - CamelBell（驼铃) is be a Chinese Language Tuning project based on LoRA. CamelBell is belongs to Project Luotuo(骆驼), an open sourced Chinese-LLM project created by  冷子昂 @ 商汤科技 & 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技
 - [LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM) - 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
 - [liasece/sd-webui-train-tools](https://github.com/liasece/sd-webui-train-tools) - The stable diffusion webui training aid extension helps you quickly and visually train models such as Lora.
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [camenduru/stable-diffusion-webui-docker](https://github.com/camenduru/stable-diffusion-webui-docker) - 
@@ -9258,7 +9278,7 @@
 - [Jascha-N/minhook-rs](https://github.com/Jascha-N/minhook-rs) - A function hooking library for the Rust programming language
 - [richelbilderbeek/cppcast_notes](https://github.com/richelbilderbeek/cppcast_notes) - Notes for CppCast episode 103
 - [mrfearless/ModernUI](https://github.com/mrfearless/ModernUI) - Modern UI controls for win32 assembler
-- [Nukem9/SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) - x64dbg utility for linker map files, diff files, PEiD/IDA signatures, and code signature generation
+- [Nukem9/SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) - x64dbg utility for linker map files, diff files, PEiD/IDA signatures, and code signature generation.
 - [Rprop/CppDLL](https://github.com/Rprop/CppDLL) - CppDLL a small tool that will help you generate Cpp Header(.h) and Import Library(.lib) from Dynamic Link Library(.dll)
 - [DoumanAsh/windows-win-rs](https://github.com/DoumanAsh/windows-win-rs) - Library to interact with windows and processes in Windows.
 - [contextfree/winrt-rust](https://github.com/contextfree/winrt-rust) - Use and (eventually) make Windows Runtime APIs with Rust
@@ -10201,7 +10221,7 @@
 - [princejwesley/Mancy](https://github.com/princejwesley/Mancy) - &gt;_ Electron based NodeJS REPL :see_no_evil:
 - [es-analysis/plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 - [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
-- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
+- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
@@ -13131,7 +13151,7 @@
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) - 表情包资源合集，张张都是经典
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equation
@@ -13559,7 +13579,7 @@
 - [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research
 - [numenta/nupic.torch](https://github.com/numenta/nupic.torch) - Numenta Platform for Intelligent Computing PyTorch libraries
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [DiffEqML/torchdyn](https://github.com/DiffEqML/torchdyn) - A PyTorch library entirely dedicated to neural differential equations, implicit models and related numerical methods
 - [google-research/torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
@@ -14927,7 +14947,7 @@
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [EnzymeAD/Enzyme](https://github.com/EnzymeAD/Enzyme) - High-performance automatic differentiation of LLVM and MLIR.
 - [wagamamaz/tensorlayer-tricks](https://github.com/wagamamaz/tensorlayer-tricks) - How to use TensorLayer
 - [tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer) - Deep Learning and Reinforcement Learning Library for Scientists and Engineers

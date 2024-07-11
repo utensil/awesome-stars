@@ -341,7 +341,7 @@
 - [Aethelflaed/kompex-sqlite-wrapper](https://github.com/Aethelflaed/kompex-sqlite-wrapper) - An open source C++ wrapper library for sqlite. This is a linux-style port from main project.
 - [codecat/ClawSearch](https://github.com/codecat/ClawSearch) - A memory scanner plugin for x64dbg, inspired by Cheat Engine.
 - [ThunderCls/xAnalyzer](https://github.com/ThunderCls/xAnalyzer) - xAnalyzer plugin for x64dbg
-- [Nukem9/SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) - x64dbg utility for linker map files, diff files, PEiD/IDA signatures, and code signature generation
+- [Nukem9/SwissArmyKnife](https://github.com/Nukem9/SwissArmyKnife) - x64dbg utility for linker map files, diff files, PEiD/IDA signatures, and code signature generation.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [F-Stack/f-stack](https://github.com/F-Stack/f-stack) - F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
@@ -4675,6 +4675,7 @@
 
 ## Julia 
 
+- [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) - Fast and simple fluid simulator in Julia
 - [JuliaArrays/AxisArrays.jl](https://github.com/JuliaArrays/AxisArrays.jl) - Performant arrays where each dimension can have a named axis with values
 - [JuliaBinaryWrappers/CLN_jll.jl](https://github.com/JuliaBinaryWrappers/CLN_jll.jl) - 
 - [MilesCranmer/DispatchDoctor.jl](https://github.com/MilesCranmer/DispatchDoctor.jl) - The dispatch doctor prescribes type stability
@@ -5720,7 +5721,7 @@
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [madvorak/lean3-tactic-lean4](https://github.com/madvorak/lean3-tactic-lean4) - Reference sheet for people who know Lean 3 and want to write tactic-based proofs in Lean 4
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [ryh04x/CEH-Exam-Questions](https://github.com/ryh04x/CEH-Exam-Questions) - Planning To Take Certified Ethical Hacker (CEH)?  Here are github repo with 125 questions and answers to help you prep for the test
 - [githubocto/repo-visualizer-demo](https://github.com/githubocto/repo-visualizer-demo) - 
 - [TheExplainthis/AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
@@ -6389,6 +6390,11 @@
 
 ## Python 
 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
+- [tom-doerr/dspy_nodes](https://github.com/tom-doerr/dspy_nodes) - WIP - Allows you to create DSPy pipelines using ComfyUI
+- [OSU-NLP-Group/GrokkedTransformer](https://github.com/OSU-NLP-Group/GrokkedTransformer) - Code for the paper 'Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization'
+- [SMPLOlympics/SMPLOlympics](https://github.com/SMPLOlympics/SMPLOlympics) - 
+- [test-time-training/ttt-lm-jax](https://github.com/test-time-training/ttt-lm-jax) - Official JAX implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - [raphaelmansuy/code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your 
 - [ofnote/tsalib](https://github.com/ofnote/tsalib) - Tensor Shape Annotation Library (numpy, tensorflow, pytorch, ...)
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
@@ -7079,7 +7085,7 @@
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - The Unified ML Representation
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
 - [ant-research/Pyraformer](https://github.com/ant-research/Pyraformer) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [SunilBoopalan/quantum-chess-Qiskit](https://github.com/SunilBoopalan/quantum-chess-Qiskit) - Quantum Chess.
@@ -9425,7 +9431,7 @@
 - [manuels/texlive.js](https://github.com/manuels/texlive.js) - Compiling LaTeX (TeX live) in your browser
 - [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Functional Algorithms and Data structures
 - [zhanggyb/nndl](https://github.com/zhanggyb/nndl) - Another Chinese Translation of Neural Networks and Deep Learning
-- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine
+- [soulmachine/leetcode](https://github.com/soulmachine/leetcode) - LeetCode题解，151道题完整版。
 - [derric/cleanthesis](https://github.com/derric/cleanthesis) - Clean Thesis is a clean, simple, and elegant LaTeX style (or template) for thesis documents.
 - [bamos/latex-templates](https://github.com/bamos/latex-templates) - Website for personal collection and previewing of LaTeX templates. Presented with Python/Jinja2.
 - [soulmachine/acm-cheat-sheet](https://github.com/soulmachine/acm-cheat-sheet) - Acm Cheat Sheet

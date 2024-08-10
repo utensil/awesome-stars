@@ -245,7 +245,7 @@
 - [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - Zig bindings for the sokol headers (https://github.com/floooh/sokol)
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
-- [DarkPlacesEngine/darkplaces](https://github.com/DarkPlacesEngine/darkplaces) - Branches `master` and `div0-stable` are synchronised with https://gitlab.com/xonotic/darkplaces.   Merge requests should target the `master` branch.
+- [DarkPlacesEngine/DarkPlaces](https://github.com/DarkPlacesEngine/DarkPlaces) - The official repo (replaces SVN).  Branches `master` and `div0-stable` are synchronised with https://gitlab.com/xonotic/darkplaces.   Merge requests should target the `master` branch.
 - [pygame/pygame](https://github.com/pygame/pygame) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [BartolHrg/hotkeys](https://github.com/BartolHrg/hotkeys) - all of my hotkeys
@@ -1866,6 +1866,7 @@
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) - An implementation of failpoints for Golang.
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
@@ -2399,7 +2400,6 @@
 
 ## Handlebars 
 
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
@@ -2819,7 +2819,7 @@
 - [thosgood/maths-dictionary](https://github.com/thosgood/maths-dictionary) - multilingual dictionary of mathematical terminology
 - [LocalCharts/silviculture](https://github.com/LocalCharts/silviculture) - 
 - [Seasawher/mathlib4-tactics](https://github.com/Seasawher/mathlib4-tactics) - List of the all tactics of mathlib4. This is heavily inspired by haruhisa-enomoto/mathlib4-all-tactics
-- [squaredtechnologies/thread](https://github.com/squaredtechnologies/thread) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
+- [squaredtechnologies/vizly-notebook](https://github.com/squaredtechnologies/vizly-notebook) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [Schneegans/dynamic-badges-action](https://github.com/Schneegans/dynamic-badges-action) - This action allows you to create badges for your README.md with shields.io which may change with every commit. To do this, this action does not need to push anything to your repository!
 - [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
 - [linux-china/js-engine-benchmark](https://github.com/linux-china/js-engine-benchmark) - JavaScript Engine benchmark: V8 vs JSC, Bun vs Deno vs Node, Zig vs Cpp vs Rust
@@ -4974,7 +4974,7 @@
 - [lmoroney/dlaicourse](https://github.com/lmoroney/dlaicourse) - Notebooks for learning deep learning
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 - [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
-- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 - [santosjorge/cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas
 - [xinychen/transdim](https://github.com/xinychen/transdim) - Machine learning for transportation data imputation and prediction.
 - [pygae/GAlgebra.jl](https://github.com/pygae/GAlgebra.jl) - Julia interface to GAlgebra via PyCall
@@ -6113,6 +6113,7 @@
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [vbarbaresi/MetroGit](https://github.com/vbarbaresi/MetroGit) - Paris Metro lines on a Git graph
 - [nathco/Office-Code-Pro](https://github.com/nathco/Office-Code-Pro) - Customized version of Source Code Pro
 - [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
@@ -9494,7 +9495,7 @@
 - [nhtoby311/WaterSurface](https://github.com/nhtoby311/WaterSurface) - 🌊 Interactive Water Surface shader component for React Three Fiber
 - [FunTechInc/use-shader-fx](https://github.com/FunTechInc/use-shader-fx) - ⚡️ More FXs, Less GLSL
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
-- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI. Written in TypeScript/Node
+- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [krassowski/jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
@@ -9779,7 +9780,6 @@
 - [tgdwyer/WebCola](https://github.com/tgdwyer/WebCola) - Javascript constraint-based graph layout
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [pgilad/leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility

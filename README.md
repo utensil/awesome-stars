@@ -652,6 +652,11 @@
 
 ## C++ 
 
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
+- [Apress/Ray-Tracing-Gems-II](https://github.com/Apress/Ray-Tracing-Gems-II) - Source Code for "Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX" by Adam Marrs, Peter Shirley, and Ingo Wald
+- [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
+- [mkeeter/mpr](https://github.com/mkeeter/mpr) - Reference implementation for "Massively Parallel Rendering of Complex Closed-Form Implicit Surfaces" (SIGGRAPH 2020)
+- [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [Jurwen/Adaptive-grid-generation](https://github.com/Jurwen/Adaptive-grid-generation) - The code of paper "Adaptive grid generation for discretizing implicit complexes" (Proc. SIGGRAPH 2024)
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [DoerriesT/Implicit-Surface-Fluid-Rendering](https://github.com/DoerriesT/Implicit-Surface-Fluid-Rendering) - Demonstration of a technique for rendering fluids similar to those found in the video game ‘Portal 2’. Written in C++ with OpenGL 3.3
@@ -2108,6 +2113,7 @@
 
 ## HTML 
 
+- [mmp/pbr-book-website](https://github.com/mmp/pbr-book-website) - 
 - [kmill/kmill.github.io](https://github.com/kmill/kmill.github.io) - Professional website
 - [BlackFoundryCom/InriaFonts](https://github.com/BlackFoundryCom/InriaFonts) - Fonts and UFO Masters of Inria Serif and Inria Sans Typeface
 - [Howardzhangdqs/jumping-latex-ocr](https://github.com/Howardzhangdqs/jumping-latex-ocr) - 
@@ -2812,6 +2818,9 @@
 
 ## JavaScript 
 
+- [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
+- [vorg/pragmatic-pbr](https://github.com/vorg/pragmatic-pbr) - 
+- [dirkk0/Shadertoy2Threejs](https://github.com/dirkk0/Shadertoy2Threejs) - Example of a Shadertoy conversion
 - [ComplexCurves/ComplexCurves](https://github.com/ComplexCurves/ComplexCurves) - A JavaScript library for visualization of complex plane algebraic curves
 - [Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...
 - [LogCreative/PGFPlotsEdt](https://github.com/LogCreative/PGFPlotsEdt) - Faster to PGFPlot in LaTeX - A PGFPlots Statistic Graph Interactive Editor
@@ -2902,7 +2911,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [sonnyp/aria2.js](https://github.com/sonnyp/aria2.js) - JavaScript library for aria2, "The next generation download utility."
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux
 - [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -7098,7 +7107,7 @@
 - [Mariewelt/OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research
 - [biotite-dev/biotite](https://github.com/biotite-dev/biotite) - A comprehensive library for computational molecular biology
 - [numenta/nupic.torch](https://github.com/numenta/nupic.torch) - Numenta Platform for Intelligent Computing PyTorch libraries
-- [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
+- [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
 - [EleutherAI/knowledge-neurons](https://github.com/EleutherAI/knowledge-neurons) - A library for finding knowledge neurons in pretrained transformer models.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -8387,6 +8396,8 @@
 
 ## Rust 
 
+- [repi/shadertoy-browser](https://github.com/repi/shadertoy-browser) - Shadertoy browser & viewer for Mac built in Rust
+- [eliotbo/bevy_shadertoy_wgsl](https://github.com/eliotbo/bevy_shadertoy_wgsl) - A Shadertoy clone for the Bevy game engine. The glsl language is replaced by wgsl.
 - [markusmoenig/ForgedThoughts](https://github.com/markusmoenig/ForgedThoughts) - A 3D modeling and rendering programming language utilizing SDFs.
 - [mkeeter/fidget](https://github.com/mkeeter/fidget) - blazing fast implicit surface evaluation
 - [parallel-rust-cpp/shortcut-comparison](https://github.com/parallel-rust-cpp/shortcut-comparison) - Performance comparison of parallel Rust and C++
@@ -9289,6 +9300,8 @@
 
 ## Swift 
 
+- [markusmoenig/Render-Z](https://github.com/markusmoenig/Render-Z) - A visual Metal shader editor for macOS and iPadOS
+- [markusmoenig/ShaderMania](https://github.com/markusmoenig/ShaderMania) - A Metal fragment shader editor for macOS and iOS
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [liuliu/swift-diffusion](https://github.com/liuliu/swift-diffusion) - 
 - [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
@@ -9486,6 +9499,7 @@
 
 ## TypeScript 
 
+- [stevensona/shader-toy](https://github.com/stevensona/shader-toy) - Shadertoy-like live preview for GLSL shaders in Visual Studio Code
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [cqb13/Learning-Latin](https://github.com/cqb13/Learning-Latin) - A website with many resources to help you learn Latin!
 - [YoWASP/vscode](https://github.com/YoWASP/vscode) - YoWASP toolchain for Visual Studio Code
@@ -9534,7 +9548,7 @@
 - [mathigon/textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
-- [anaclumos/SignalKite](https://github.com/anaclumos/SignalKite) - 🪁 Your Personal Correspondent
+- [anaclumos/signalkite](https://github.com/anaclumos/signalkite) - 🪁 notifies you based on your algo
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
 - [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter boilerplate for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser

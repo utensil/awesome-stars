@@ -652,6 +652,8 @@
 
 ## C++ 
 
+- [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
+- [MarkGillespie/harnack-blender](https://github.com/MarkGillespie/harnack-blender) - 
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [Apress/Ray-Tracing-Gems-II](https://github.com/Apress/Ray-Tracing-Gems-II) - Source Code for "Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX" by Adam Marrs, Peter Shirley, and Ingo Wald
 - [libfive/libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling
@@ -803,7 +805,7 @@
 - [LatticeX-Foundation/Rosetta](https://github.com/LatticeX-Foundation/Rosetta) - A Privacy-Preserving Framework Based on TensorFlow
 - [geno4neurips/genosolver](https://github.com/geno4neurips/genosolver) - 
 - [eBay/Gringofts](https://github.com/eBay/Gringofts) - Gringofts makes it easy to build a replicated, fault-tolerant, high throughput and distributed event-sourced system.
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [Tencent/flare](https://github.com/Tencent/flare) - Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。
 - [Tencent/ScriptX](https://github.com/Tencent/ScriptX) - A versatile script engine abstraction layer.
 - [zenustech/zeno](https://github.com/zenustech/zeno) - ZEn NOde system - a simulation & rendering engine in nodes
@@ -828,7 +830,7 @@
 - [Lab41/PySEAL](https://github.com/Lab41/PySEAL) - This repository is a fork of Microsoft Research's homomorphic encryption implementation, the Simple Encrypted Arithmetic Library (SEAL).  This code wraps the SEAL build in a docker container and provi
 - [zhongjn/Messier87](https://github.com/zhongjn/Messier87) - A realtime raytracing blackhole renderer
 - [vincentnozick/garamon](https://github.com/vincentnozick/garamon) - 
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
 - [laffernandes/gatl](https://github.com/laffernandes/gatl) - GATL: Geometric Algebra Template Library
 - [penguian/glucat](https://github.com/penguian/glucat) - GluCat: Clifford algebra templates
@@ -880,7 +882,7 @@
 - [justinfreitag-zz/node-botan](https://github.com/justinfreitag-zz/node-botan) - A fully asynchronous wrapper of the Botan crypto library for Node JS
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor with LLM wingman.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [UncP/Mushroom](https://github.com/UncP/Mushroom) - Distributed In-Memory Index 分布式内存索引
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and
@@ -1527,6 +1529,8 @@
 
 ## CoffeeScript 
 
+- [edemaine/cp-editor](https://github.com/edemaine/cp-editor) - Crease pattern editor
+- [edemaine/fold](https://github.com/edemaine/fold) - FOLD file format for origami models, crease patterns, etc.
 - [larspetrus/Roofpig](https://github.com/larspetrus/Roofpig) - Rubik's Cube animation for the modern web.
 - [dschwen/linter-moose](https://github.com/dschwen/linter-moose) - Linter to enforce MOOSE finite element framework coding styleguide rules.
 - [littlebee/git-time-machine](https://github.com/littlebee/git-time-machine) - Atom package that allows you to travel back in commit history
@@ -2480,10 +2484,11 @@
 
 ## Janet 
 
-- [ianthehenry/bauble.studio](https://github.com/ianthehenry/bauble.studio) - a playground for making 3D art with lisp and math
+- [ianthehenry/bauble](https://github.com/ianthehenry/bauble) - a playground for making 3D art with lisp and math
 
 ## Java 
 
+- [oripa/oripa](https://github.com/oripa/oripa) - ORIPA is a drawing software dedicated to designing the crease patterns of origami. The unique feature of ORIPA is calculation of the folded shape from the pattern.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [InterworldTransport/Clados](https://github.com/InterworldTransport/Clados) - Clifford Algebra Library - Interworld Transport Project
 - [ice1000/anqur](https://github.com/ice1000/anqur) - Elaboration with inductive types
@@ -2818,6 +2823,12 @@
 
 ## JavaScript 
 
+- [doxas/twigl](https://github.com/doxas/twigl) - twigl.app is an online editor for One tweet shader, with gif generator and sound shader, and broadcast live coding.
+- [matthewarcus/webgl](https://github.com/matthewarcus/webgl) - WebGL experiments
+- [rohan-sawhney/linear-algebra-js](https://github.com/rohan-sawhney/linear-algebra-js) - 
+- [micahscopes/webscape-wanderer](https://github.com/micahscopes/webscape-wanderer) - 
+- [amandaghassaei/OrigamiSimulator](https://github.com/amandaghassaei/OrigamiSimulator) - Realtime WebGL origami simulator
+- [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
 - [vorg/pragmatic-pbr](https://github.com/vorg/pragmatic-pbr) - 
 - [dirkk0/Shadertoy2Threejs](https://github.com/dirkk0/Shadertoy2Threejs) - Example of a Shadertoy conversion
@@ -2935,7 +2946,7 @@
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
-- [doufen-org/tofu](https://github.com/doufen-org/tofu) - 一款 Chrome 扩展。用于备份豆瓣账号的数据，并支持导出 Excel 文档。
+- [doufen-org/tofu](https://github.com/doufen-org/tofu) - Chrome 扩展，用于备份豆瓣账号的数据，并支持导出 Excel 文档。
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) - A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting Obsidian内置编辑器的(简体)中文分词支持
 - [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible and includes networking and XR - across platforms. D
@@ -5141,7 +5152,7 @@
 - [ufmg-smite/lean-smt](https://github.com/ufmg-smite/lean-smt) - Tactics for discharging Lean goals into SMT solvers.
 - [ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT) - Ongoing Lean formalisation of the proof of Fermat's Last Theorem
 - [HEPLean/HepLean](https://github.com/HEPLean/HepLean) - A project to digitalise results from high energy physics into Lean.
-- [axiomed/Parse.lean](https://github.com/axiomed/Parse.lean) - Parser generation for Lean4
+- [algebraic-dev/parse](https://github.com/algebraic-dev/parse) - 🧩 | Parser generation for Lean 4.
 - [kiranandcode/deriving-such-that](https://github.com/kiranandcode/deriving-such-that) - 
 - [Happyves/BerLean_Workshop](https://github.com/Happyves/BerLean_Workshop) - Repo for the first BerLean workshop.
 - [bernborgess/lean-cutting-planes](https://github.com/bernborgess/lean-cutting-planes) - Cutting Planes formal logic modelled in Lean 4 for verified reasoning.
@@ -5652,6 +5663,8 @@
 
 ## Others 
 
+- [eisenbud/PracticalCurvesDraft](https://github.com/eisenbud/PracticalCurvesDraft) - 
+- [multimedia-berkeley/OriSet](https://github.com/multimedia-berkeley/OriSet) - Dataset with images of origami.
 - [gjoncas/Working-Papers](https://github.com/gjoncas/Working-Papers) - My working papers in pdf
 - [fpsvogel/learn-latin-and-greek](https://github.com/fpsvogel/learn-latin-and-greek) - Resources for learning Latin and ancient Greek.
 - [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
@@ -5660,7 +5673,7 @@
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [KhronosGroup/SPIRV-Guide](https://github.com/KhronosGroup/SPIRV-Guide) - One stop shop for getting started with SPIR-V.
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
-- [SwordliCoder/Efficient-Multimodal-LLMs-Survey](https://github.com/SwordliCoder/Efficient-Multimodal-LLMs-Survey) - Efficient Multimodal Large Language Models: A Survey
+- [swordlidev/Efficient-Multimodal-LLMs-Survey](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey) - Efficient Multimodal Large Language Models: A Survey
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [j991222/ai4math-papers](https://github.com/j991222/ai4math-papers) - AI for Mathematics (AI4Math) paper list
 - [akhauriyash/MathForCS_ML](https://github.com/akhauriyash/MathForCS_ML) - Contains important notes/definitions/propositions from the book Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning Jean Gallier and Jocelyn Qua
@@ -6428,6 +6441,10 @@
 
 ## Python 
 
+- [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package) - Python scripting library for generating designs readable by scadnano.
+- [ClaireLee22/Leetcode](https://github.com/ClaireLee22/Leetcode) - 
+- [ClaireLee22/Detect-cycle-in-a-graph](https://github.com/ClaireLee22/Detect-cycle-in-a-graph) - 
+- [ClaireLee22/Floyds-Cycle-Detection-Algorithm](https://github.com/ClaireLee22/Floyds-Cycle-Detection-Algorithm) - 
 - [QBobWatson/ila](https://github.com/QBobWatson/ila) - Interactive Linear Algebra
 - [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz) - An Inkscape extension for exporting SVG paths as TikZ/PGF paths
 - [Pseudonym321/LaTeX_Repository](https://github.com/Pseudonym321/LaTeX_Repository) - 
@@ -6536,7 +6553,7 @@
 - [xyz2tex/dot2tex](https://github.com/xyz2tex/dot2tex) - Convert graphs generated by Graphviz to LaTeX friendly formats
 - [svenkreiss/unicodeit](https://github.com/svenkreiss/unicodeit) - Converts LaTeX tags to unicode: \mathcal{H} → ℋ. Available on the web or as Automator script for the Mac.
 - [bzhan/iscalc](https://github.com/bzhan/iscalc) - An Interactive Symbolic Computation Framework
-- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - ⚗️ distilabel is a framework for synthetic data and AI feedback for AI engineers that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
 - [toyxyz/ComfyUI_toyxyz_test_nodes](https://github.com/toyxyz/ComfyUI_toyxyz_test_nodes) - Custom node and script for sending webcam to ComfyUI
 - [akissinger/chyp](https://github.com/akissinger/chyp) - An interactive theorem prover for string diagrams
 - [facebookresearch/minimax](https://github.com/facebookresearch/minimax) - Efficient baselines for autocurricula in JAX.
@@ -6796,7 +6813,7 @@
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.
-- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl & mPLUG-Owl2: Modularized Multimodal Large Language Model
+- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family
 - [OpenGVLab/Multi-Modality-Arena](https://github.com/OpenGVLab/Multi-Modality-Arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP
 - [salesforce/AuditNLG](https://github.com/salesforce/AuditNLG) - AuditNLG: Auditing Generative AI Language Modeling for Trustworthiness
 - [PhilJd/contiguous_pytorch_params](https://github.com/PhilJd/contiguous_pytorch_params) - Accelerate training by storing  parameters in one contiguous chunk of memory.
@@ -8486,7 +8503,7 @@
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models.
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
@@ -9499,6 +9516,8 @@
 
 ## TypeScript 
 
+- [hhu-adam/lean4monaco](https://github.com/hhu-adam/lean4monaco) - Browser support for Lean using a monaco editor.
+- [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [stevensona/shader-toy](https://github.com/stevensona/shader-toy) - Shadertoy-like live preview for GLSL shaders in Visual Studio Code
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [cqb13/Learning-Latin](https://github.com/cqb13/Learning-Latin) - A website with many resources to help you learn Latin!
@@ -9843,6 +9862,7 @@
 
 ## Typst 
 
+- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) - 
 - [QuadnucYard/touying-theme-seu](https://github.com/QuadnucYard/touying-theme-seu) - Touying theme for Southeast University 东南大学幻灯片模板（typst）
 - [mgoulao/arkheion](https://github.com/mgoulao/arkheion) - A Typst template for arXiv
 - [LaPreprint/typst](https://github.com/LaPreprint/typst) - Easily create beautiful preprints in Typst
@@ -9902,7 +9922,7 @@
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [kempsteven/vue-html2pdf](https://github.com/kempsteven/vue-html2pdf) - vue-html2pdf converts any vue component or element into PDF, vue-html2pdf is basically a vue wrapper only and uses html2pdf.js behind the scenes.
 - [rhaiscript/playground](https://github.com/rhaiscript/playground) - A Rhai scripting playground that runs Rhai scripts using WebAssembly in a web browser.
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [DrSensor/example-vue-component-rust](https://github.com/DrSensor/example-vue-component-rust) - example of how to mix Rust code compiled as WebAssembly with Vue

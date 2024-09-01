@@ -7223,6 +7223,8 @@
 
 ## others 
 
+- [amir9480/michka](https://github.com/amir9480/michka) - 
+- [tweag/topiary](https://github.com/tweag/topiary) - 
 - [tr1ckydev/hyperimport](https://github.com/tr1ckydev/hyperimport) - ⚡ Import c, rust, zig etc. files in your TypeScript code and more.
 - [jotoh98/bun-ffi-rust](https://github.com/jotoh98/bun-ffi-rust) - 
 - [Experience-Monks/get-canvas-context](https://github.com/Experience-Monks/get-canvas-context) - create a new canvas context

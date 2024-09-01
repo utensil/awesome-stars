@@ -657,6 +657,7 @@
 
 ## C++ 
 
+- [amir9480/michka](https://github.com/amir9480/michka) - 
 - [vixorien/IntroductionToRealTimeRayTracing](https://github.com/vixorien/IntroductionToRealTimeRayTracing) - 
 - [voxcraft/voxcraft-viz](https://github.com/voxcraft/voxcraft-viz) - a visualization tool for voxcraft-sim
 - [google/swiftshader](https://github.com/google/swiftshader) - SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.
@@ -8490,6 +8491,7 @@
 
 ## Rust 
 
+- [tweag/topiary](https://github.com/tweag/topiary) - 
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
 - [igor-petruk/scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write scripts in compiled languages.
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker

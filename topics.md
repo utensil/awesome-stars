@@ -1186,6 +1186,7 @@
 
 ## c 
 
+- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.dev
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
@@ -1848,6 +1849,7 @@
 
 ## cpp 
 
+- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.dev
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [CGAL/cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
 - [parallel-rust-cpp/shortcut-comparison](https://github.com/parallel-rust-cpp/shortcut-comparison) - Performance comparison of parallel Rust and C++
@@ -5501,7 +5503,7 @@
 
 ## latex 
 
-- [TruongNhanNguyen/LaTeX-TikZ](https://github.com/TruongNhanNguyen/LaTeX-TikZ) - This LaTeX TikZ project is a collection of pictures generated using the TikZ library.
+- [sozelfist/LaTeX-TikZ](https://github.com/sozelfist/LaTeX-TikZ) - This LaTeX TikZ project is a collection of pictures generated using the TikZ library.
 - [janicicpredrag/gclc](https://github.com/janicicpredrag/gclc) - GCLC is a mathematical software tool for producing high-quality mathematical illustrations, for teaching mathematics, and for automated proving of geometry theorems.
 - [thomas-saigre/tikzplotly](https://github.com/thomas-saigre/tikzplotly) - Export plotly figures as TikZ/PGFplots for integration in LaTeX
 - [anthonyywangmath/tikzsd](https://github.com/anthonyywangmath/tikzsd) - A program for generating LaTeX TikZ code for string diagrams.
@@ -5777,7 +5779,7 @@
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
-- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
+- [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
@@ -7223,6 +7225,7 @@
 
 ## others 
 
+- [ducdetronquito/pybun](https://github.com/ducdetronquito/pybun) - The bun toolkit, packaged for Python 🍞 + 🐍 = 🚀
 - [amir9480/michka](https://github.com/amir9480/michka) - 
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [tr1ckydev/hyperimport](https://github.com/tr1ckydev/hyperimport) - ⚡ Import c, rust, zig etc. files in your TypeScript code and more.
@@ -7870,7 +7873,7 @@
 - [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd) - Command line tools for working with MyST Markdown.
 - [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei) - 东北方言编程语言
 - [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples) - JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
-- [nk2028/qieyun-js](https://github.com/nk2028/qieyun-js) - A JavaScript library for the Qieyun phonological system
+- [nk2028/tshet-uinh-js](https://github.com/nk2028/tshet-uinh-js) - A JavaScript library for the Tshet-uinh phonological system
 - [gshartnett/rubiks-clifford-synthesis](https://github.com/gshartnett/rubiks-clifford-synthesis) - A Rubik's Cube inspired approach to Clifford synthesis
 - [haruhisa-enomoto/mathlib4-all-tactics](https://github.com/haruhisa-enomoto/mathlib4-all-tactics) - Markdown file of the list and explanations of all mathlib4 tactics
 - [chasenorman/Formalized-Voting](https://github.com/chasenorman/Formalized-Voting) - 
@@ -10446,7 +10449,7 @@
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [huangzworks/redis-3.0-annotated](https://github.com/huangzworks/redis-3.0-annotated) - 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。
 - [vuejs/vue-touch](https://github.com/vuejs/vue-touch) - Hammer.js wrapper for Vue.js
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 - [jhermsmeier/node-envelope](https://github.com/jhermsmeier/node-envelope) - Quite liberal Email parser
 - [XavierGeerinck/Brewr-Site](https://github.com/XavierGeerinck/Brewr-Site) - Brewr IO site repository

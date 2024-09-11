@@ -80,6 +80,7 @@
 - [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Meson](#meson)
+- [Metal](#metal)
 - [Mojo](#mojo)
 - [Mustache](#mustache)
 - [NSIS](#nsis)
@@ -230,6 +231,9 @@
 
 ## C 
 
+- [Gy-Hu/E-Syn](https://github.com/Gy-Hu/E-Syn) - E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis (DAC 2024)
+- [floooh/sokol-samples](https://github.com/floooh/sokol-samples) - Sample code for https://github.com/floooh/sokol
+- [webgpu-native/webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - 
 - [tgjones/shader-playground](https://github.com/tgjones/shader-playground) - Shader playground website for exploring HLSL, GLSL, SPIR-V compilers
 - [cleak/VoxelPerf](https://github.com/cleak/VoxelPerf) - Performance testing sandbox for voxel graphics
 - [ColleagueRiley/RGFW](https://github.com/ColleagueRiley/RGFW) - A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries.
@@ -246,7 +250,6 @@
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 - [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) - take off every zig
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
-- [pwbh/SDL](https://github.com/pwbh/SDL) - SDL on Zig build system and in-sync with latest SDL versions
 - [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - Zig bindings for the sokol headers (https://github.com/floooh/sokol)
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
@@ -282,7 +285,7 @@
 - [baidu/dperf](https://github.com/baidu/dperf) - dperf is a 100Gbps network load tester.
 - [vermaseren/form](https://github.com/vermaseren/form) - The FORM project for symbolic manipulation of very big expressions
 - [NolanoOrg/cformers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
-- [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Main monorepo for @zig-gamedev libs and example applications
+- [zig-gamedev/zig-gamedev](https://github.com/zig-gamedev/zig-gamedev) - Development repo for @zig-gamedev libs and sample applications
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [zanussbaum/gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp) - Locally run an Assistant-Tuned Chat-Style LLM
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -658,6 +661,7 @@
 
 ## C++ 
 
+- [twiddlingbits/twr-wasm](https://github.com/twiddlingbits/twr-wasm) - twr-wasm: easily run C/C++ code in a web browser using Web Assembly, with examples
 - [DragonJoker/ShaderWriter](https://github.com/DragonJoker/ShaderWriter) - Library used to write shaders from C++, and export them in either GLSL, HLSL or SPIR-V.
 - [AcademySoftwareFoundation/OpenShadingLanguage](https://github.com/AcademySoftwareFoundation/OpenShadingLanguage) - Advanced shading language for production GI renderers
 - [amir9480/michka](https://github.com/amir9480/michka) - 
@@ -995,7 +999,7 @@
 - [scipr-lab/libsnark](https://github.com/scipr-lab/libsnark) - C++ library for zkSNARKs
 - [zcash/zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
 - [SVF-tools/SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
 - [Tencent/phxsql](https://github.com/Tencent/phxsql) - A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 - [Tencent/phxrpc](https://github.com/Tencent/phxrpc) - A simple C++ based RPC framework.
 - [liangqi/zhsc-qt](https://github.com/liangqi/zhsc-qt) - A ZHSC Qt version, which is based on Poems 6000. ZHSC(http://www.zhsc.com) is for Chinese poems.
@@ -1052,7 +1056,7 @@
 - [percona/percona-server](https://github.com/percona/percona-server) - Percona Server
 - [Croteam-official/Serious-Engine](https://github.com/Croteam-official/Serious-Engine) - An open source version of a game engine developed by Croteam for the classic Serious Sam games.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [abumq/easyloggingpp](https://github.com/abumq/easyloggingpp) - C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own cus
+- [abumq/easyloggingpp](https://github.com/abumq/easyloggingpp) - C++ logging library. It is powerful, supports asynchronous low latency, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to w
 - [KjellKod/g3log](https://github.com/KjellKod/g3log) - G3log is  an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own.  G3log is made with plain C++14 (C++11 support up to release 1.3.2)  with no ext
 - [sass/libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler
 - [google/zopfli](https://github.com/google/zopfli) - Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
@@ -1483,7 +1487,7 @@
 - [jxnblk/loading](https://github.com/jxnblk/loading) - This could take a while
 - [jbranchaud/splitting-atoms](https://github.com/jbranchaud/splitting-atoms) - :dizzy_face: a community-built, community-driven guide to hacking on the Atom editor
 - [t32k/stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 - [ruby-china/rails-guides-old](https://github.com/ruby-china/rails-guides-old) - A Ruby on Rails Traslation Guide
 - [lexrus/fontdiao](https://github.com/lexrus/fontdiao) - [已废弃]中文图标字体，可用于 Web 或 iOS，同时提供了国内各种常用网站、应用的徽标 SVG 源文件。
@@ -2039,7 +2043,7 @@
 - [didip/tollbooth](https://github.com/didip/tollbooth) - Simple middleware to rate-limit HTTP requests.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation. OpenNHP Docs: https://opennhp.org/
 - [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH
 - [constabulary/gb](https://github.com/constabulary/gb) - gb, the project based build tool for Go
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
@@ -2137,6 +2141,7 @@
 
 ## HTML 
 
+- [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) - 
 - [mmp/pbr-book-website](https://github.com/mmp/pbr-book-website) - 
 - [kmill/kmill.github.io](https://github.com/kmill/kmill.github.io) - Professional website
 - [BlackFoundryCom/InriaFonts](https://github.com/BlackFoundryCom/InriaFonts) - Fonts and UFO Masters of Inria Serif and Inria Sans Typeface
@@ -2252,6 +2257,7 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [refscn/rplibs](https://github.com/refscn/rplibs) - Refs.cn 原型设计元件库，基于Axure RP 10/9，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。
 - [PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL) - Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [datitran/jupyter2slides](https://github.com/datitran/jupyter2slides) - Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js
 - [dbashford/textract](https://github.com/dbashford/textract) - node.js module for extracting text from html, pdf, doc, docx, xls, xlsx, csv, pptx, png, jpg, gif, rtf and more!
 - [bnjmnt4n/reveal-code-focus](https://github.com/bnjmnt4n/reveal-code-focus) - A Reveal.js plugin that allows focusing on specific lines of code blocks.
@@ -2373,7 +2379,7 @@
 - [w3ctag/promises-guide](https://github.com/w3ctag/promises-guide) - A guide for spec authors on how to use Promises in prose and WebIDL.
 - [jglovier/gifs](https://github.com/jglovier/gifs) - :joy: :camera: :sparkler: Storage place for all mah gifs.
 - [asadoughi/stat-learning](https://github.com/asadoughi/stat-learning) - Notes and exercise attempts for "An Introduction to Statistical Learning"
-- [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
+- [jstherightway/js-the-right-way](https://github.com/jstherightway/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web
 - [addyosmani/essential-js-design-patterns](https://github.com/addyosmani/essential-js-design-patterns) - Repo for my 'Learning JavaScript Design Patterns' book
 - [omphalos/earhorn](https://github.com/omphalos/earhorn) - JavaScript Execution Logs
 - [sourcebitsllc/chocolatechip-ui](https://github.com/sourcebitsllc/chocolatechip-ui) - Mobile Web App Framework
@@ -2509,6 +2515,9 @@
 
 ## Java 
 
+- [aya-prover/locally-nameless-aya-draft](https://github.com/aya-prover/locally-nameless-aya-draft) - Tmp
+- [mirkosertic/Bytecoder](https://github.com/mirkosertic/Bytecoder) - Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.
+- [MobMonRob/DSL4GeometricAlgebra](https://github.com/MobMonRob/DSL4GeometricAlgebra) - DSL for Geometric algebra with Java
 - [AlloyTools/org.alloytools.alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Alloy is a language for describing structures and a tool for exploring them. It has been used in a wide range of applications from finding holes in security mechanisms to designing telephone switching
 - [AlexBenton/Teaching](https://github.com/AlexBenton/Teaching) - Sample code for Further Graphics lectures, Cambridge University.
 - [oripa/oripa](https://github.com/oripa/oripa) - ORIPA is a drawing software dedicated to designing the crease patterns of origami. The unique feature of ORIPA is calculation of the folded shape from the pattern.
@@ -2524,7 +2533,7 @@
 - [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
 - [apache/parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
-- [jamebal/jmal-cloud-server](https://github.com/jamebal/jmal-cloud-server) - 基于springboot的网盘服务端。JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
+- [jamebal/jmal-cloud-server](https://github.com/jamebal/jmal-cloud-server) - JmalCloud It's a private cloud storage project that makes it simple and secure to manage your files in the cloud
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
@@ -2846,7 +2855,16 @@
 
 ## JavaScript 
 
-- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.dev
+- [jaxry/surface-plotter](https://github.com/jaxry/surface-plotter) - Plot parametric and implicit surfaces in WebGL
+- [gkjohnson/three-gpu-pathtracer](https://github.com/gkjohnson/three-gpu-pathtracer) - Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.
+- [arguiot/Descartes](https://github.com/arguiot/Descartes) - A small plotting JavaScript library, made for TheoremJS
+- [arguiot/TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation in JavaScript 📕
+- [crubier/opov](https://github.com/crubier/opov) - Operator Overloading for Typescript with Tagged Template Literals
+- [biasmv/pv](https://github.com/biasmv/pv) - WebGL protein viewer
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [UstymUkhman/uwal](https://github.com/UstymUkhman/uwal) - :art: Unopinionated WebGPU Abstraction Library :books:
+- [AskingQuestions/Shadeup](https://github.com/AskingQuestions/Shadeup) - A language for WebGPU that makes writing shaders easier
+- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
 - [Experience-Monks/get-canvas-context](https://github.com/Experience-Monks/get-canvas-context) - create a new canvas context
 - [mattdesl/webgl-context](https://github.com/mattdesl/webgl-context) - gets a WebGL context in a browser
 - [akira-cn/node-canvas-webgl](https://github.com/akira-cn/node-canvas-webgl) - Integration of node-canvas and headless-gl.
@@ -2908,7 +2926,7 @@
 - [samuelcolvin/jinjahtml-vscode](https://github.com/samuelcolvin/jinjahtml-vscode) - Syntax highlighting for jinja(2) html templates in vscode
 - [mjbvz/vscode-markdown-shiki](https://github.com/mjbvz/vscode-markdown-shiki) - Uses Shiki for VS Code's built-in markdown preview syntax highlighting
 - [arthurpaulino/chrome-lean-unicode](https://github.com/arthurpaulino/chrome-lean-unicode) - Type Lean unicode characters in your web browser
-- [nk2028/qieyun-examples](https://github.com/nk2028/qieyun-examples) - JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
+- [nk2028/tshet-uinh-examples](https://github.com/nk2028/tshet-uinh-examples) - JavaScript examples to generate the derivatives of the Qieyun phonological system using qieyun-js
 - [cubing/alg.cubing.net](https://github.com/cubing/alg.cubing.net) - ▶️ Multi-purpose puzzle viewer – the old generation of alg/reconstruction viewing and sharing. Superseded by Twizzle.
 - [3b1b/perseus](https://github.com/3b1b/perseus) - Perseus is Khan Academy's new exercise question editor and renderer.
 - [Mathpix/mpx-cli](https://github.com/Mathpix/mpx-cli) - CLI for document conversion for scientific documents, powered by Mathpix OCR
@@ -3204,7 +3222,7 @@
 - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js) - :scroll: A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc
 - [redacademy/vue-ethereum-ipfs](https://github.com/redacademy/vue-ethereum-ipfs) - Distributed Application Starter: Vue front-end, Ethereum / IPFS Backend
 - [rstacruz/details-polyfill](https://github.com/rstacruz/details-polyfill) - Polyfill for the HTML5 &lt;details&gt; element, no dependencies
-- [lukeed/dset](https://github.com/lukeed/dset) - A tiny (194B) utility for safely writing deep Object values~!
+- [lukeed/dset](https://github.com/lukeed/dset) - A tiny (197B) utility for safely writing deep Object values~!
 - [airtap/airtap](https://github.com/airtap/airtap) - Run TAP unit tests in 1789+ browsers.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [ludwick/reveal.js-mermaid-plugin](https://github.com/ludwick/reveal.js-mermaid-plugin) - Simple mermaid plugin for reveal.js
@@ -3217,7 +3235,6 @@
 - [prashantkhurana/decktape](https://github.com/prashantkhurana/decktape) - Export revealjs to pdf : https://github.com/astefanutti/decktape
 - [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 - [robertsdionne/bouncingball](https://github.com/robertsdionne/bouncingball) - Visualizes gradient descent techniques on functions of two variables f(x, y): Stochastic Gradient Descent, Momentum, Nesterov's Accelerated Gradient, AdaGrad, AdaDelta and Bouncing Ball Simulated Anne
-- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
@@ -3731,7 +3748,7 @@
 - [muicss/mui](https://github.com/muicss/mui) - Lightweight CSS framework
 - [hughsk/smokestack](https://github.com/hughsk/smokestack) - Pipe your JavaScript into a browser, logging console output in Node
 - [glslify/glslify-loader](https://github.com/glslify/glslify-loader) - :floppy_disk: glslify loader module for webpack
-- [imagemin/imagemin](https://github.com/imagemin/imagemin) - [Unmaintained] Minify images seamlessly
+- [imagemin/imagemin](https://github.com/imagemin/imagemin) - Minify images seamlessly
 - [casesandberg/reactcss](https://github.com/casesandberg/reactcss) - :lipstick: Inline Styles in JS
 - [esangel/WebGL](https://github.com/esangel/WebGL) - WebGL Examples
 - [lucono/xtypejs](https://github.com/lucono/xtypejs) - Elegant, highly efficient data validation for JavaScript.
@@ -4893,6 +4910,7 @@
 
 ## Jupyter Notebook 
 
+- [thomasahle/tensorgrad](https://github.com/thomasahle/tensorgrad) - Tensor Network Library with Autograd
 - [allefeld/pytikz](https://github.com/allefeld/pytikz) - A Python interface to TikZ
 - [kolibril13/ipyblender-experimental](https://github.com/kolibril13/ipyblender-experimental) - Blender in Jupyter.
 - [yujuisu/gc-tutorial](https://github.com/yujuisu/gc-tutorial) - Notes from David Hestenes and Garret Sobczyk's Clifford Algebra to Geometric Calculus with extra examples, tests and corrections.
@@ -5163,6 +5181,9 @@
 
 ## Lean 
 
+- [levjj/esverify-theory](https://github.com/levjj/esverify-theory) - Formalism and proofs for esverify
+- [siddhartha-gadgil/MetaExamples](https://github.com/siddhartha-gadgil/MetaExamples) - Examples using MetaProgramming for writing tactics etc.
+- [fadoss/maude2lean](https://github.com/fadoss/maude2lean) - Maude to Lean translator
 - [shortc1rcuit/sudoku-lean](https://github.com/shortc1rcuit/sudoku-lean) - A library for solving Sudokus in Lean
 - [blanchette/interactive_theorem_proving_2024](https://github.com/blanchette/interactive_theorem_proving_2024) - Files associated with the course Interactive Theorem Proving at LMU SoSe 2024
 - [Colin166/Lean4](https://github.com/Colin166/Lean4) - Lean 4 programming files / scripts that are helpful to scientists and engineers without a strict mathematical background.
@@ -5183,7 +5204,7 @@
 - [leanprover/LNSym](https://github.com/leanprover/LNSym) - Armv8 Native Code Symbolic Simulator in Lean
 - [DavePearce/LeanEVM](https://github.com/DavePearce/LeanEVM) - A toy implementation of the EVM in Lean4.
 - [AndrasKovacs/smalltt](https://github.com/AndrasKovacs/smalltt) - Demo for high-performance type theory elaboration
-- [lucasvreis/BirkhoffErgodicThm](https://github.com/lucasvreis/BirkhoffErgodicThm) - A proof of Pointwise Birkhoff Ergodic Theorem in Lean
+- [luavreis/BirkhoffErgodicThm](https://github.com/luavreis/BirkhoffErgodicThm) - A proof of Pointwise Birkhoff Ergodic Theorem in Lean
 - [liuchengwucn/FIMO](https://github.com/liuchengwucn/FIMO) - 
 - [mseri/BET](https://github.com/mseri/BET) - Project for "Machine-Checked Mathematics" at the Lorentz Center
 - [todbeibrot/Lean-Oscar](https://github.com/todbeibrot/Lean-Oscar) - An interface between Lean4 and Oscar.
@@ -5586,6 +5607,10 @@
 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
+## Metal 
+
+- [philipturner/metal-benchmarks](https://github.com/philipturner/metal-benchmarks) - Apple GPU microarchitecture
+
 ## Mojo 
 
 - [helehex/infrared](https://github.com/helehex/infrared) - Geometric Algebra
@@ -5709,6 +5734,7 @@
 
 ## Others 
 
+- [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [jakoch/rasterizers](https://github.com/jakoch/rasterizers) - Precompiled libraries for the software rasterizers Mesa's LLVMpipe and Google's Swiftshader for Windows.
 - [adamnemecek/traceoid.ai](https://github.com/adamnemecek/traceoid.ai) - 
 - [ManimCommunity/awesome-manim](https://github.com/ManimCommunity/awesome-manim) - A database with many Manim users and content creators
@@ -6489,6 +6515,15 @@
 
 ## Python 
 
+- [HK-SHAO/RayTracingPBR](https://github.com/HK-SHAO/RayTracingPBR) - A very simple PBR Path Tracing Renderer.
+- [iamgmujtaba/LTC-SUM](https://github.com/iamgmujtaba/LTC-SUM) - Implementation of  LTC-SUM: Lightweight Client-driven Personalized Video Summarization Framework Using 2D CNN
+- [ttharden/Keyframe-Extraction-for-video-summarization](https://github.com/ttharden/Keyframe-Extraction-for-video-summarization) - 
+- [CaptnSeraph/SSIM-keyframe-extraction](https://github.com/CaptnSeraph/SSIM-keyframe-extraction) - A script to evaluate video using SSIM to find frames where the accumulated difference since the previous frame is sufficient to warrant a new keyframe for using stable diffusion and ebsynth effectivel
+- [fudan-generative-vision/dynamicPDB](https://github.com/fudan-generative-vision/dynamicPDB) - Dynamic PDB datasets
+- [ShanechiLab/DPAD](https://github.com/ShanechiLab/DPAD) - 
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
+- [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib) - Next-gen fast plotting library running on WGPU using the pygfx rendering engine
+- [hugohadfield/integration](https://github.com/hugohadfield/integration) - Simple implemenation of various integrators
 - [jupyterlite/xeus](https://github.com/jupyterlite/xeus) - JupyterLite loader for Xeus kernels
 - [polymonster/pmfx-shader](https://github.com/polymonster/pmfx-shader) - Cross platform shader system for HLSL, GLSL, Metal and SPIR-V.
 - [ducdetronquito/pybun](https://github.com/ducdetronquito/pybun) - The bun toolkit, packaged for Python 🍞 + 🐍 = 🚀
@@ -6588,7 +6623,7 @@
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [manzt/anywidget](https://github.com/manzt/anywidget) - jupyter widgets made easy
 - [leanprover-community/blog](https://github.com/leanprover-community/blog) - Source for the community blog
-- [linlib/TheWhiteheadTheorem](https://github.com/linlib/TheWhiteheadTheorem) - Proving the Whitehead theorem and two variations for Mathlib's homotopy groups.
+- [Chern-Weil/TheWhiteheadTheorem](https://github.com/Chern-Weil/TheWhiteheadTheorem) - Proving the Whitehead theorem and two variations for Mathlib's homotopy groups.
 - [bgeron/diff-pdf-visually](https://github.com/bgeron/diff-pdf-visually) - Quickly check whether there is a visible difference between two PDFs.
 - [VintLin/pdf-comparator](https://github.com/VintLin/pdf-comparator) - This tool is used to compare PDF files. With the pdf-comparator, you can streamline your PDF document analysis process and ensure the accuracy and consistency of your documents.
 - [omnilib/sphinx-mdinclude](https://github.com/omnilib/sphinx-mdinclude) - Markdown extension for Sphinx
@@ -7096,7 +7131,7 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - [liasece/sd-webui-train-tools](https://github.com/liasece/sd-webui-train-tools) - The stable diffusion webui training aid extension helps you quickly and visually train models such as Lora.
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [run-house/runhouse](https://github.com/run-house/runhouse) - Orchestrate heterogeneous ML workloads in Python, like PyTorch for ML infra. Iterable, debuggable, multi-cloud, identical across research and production.
 - [wxjiao/ParroT](https://github.com/wxjiao/ParroT) - The ParroT framework to enhance and regulate the Translation Abilities during Chat based on open-sourced LLMs (e.g., LLaMA-7b, Bloomz-7b1-mt) and human written translation and evaluation data.
 - [minyoungg/overparam](https://github.com/minyoungg/overparam) - 
@@ -8026,6 +8061,7 @@
 
 ## Racket 
 
+- [emina/rosette](https://github.com/emina/rosette) - The Rosette solver-aided host language, sample solver-aided DSLs, and demos
 - [soegaard/metapict](https://github.com/soegaard/metapict) - A graphics library for producing Racket picts in a MetaPost/TikZ style.
 - [wargrey/graphics](https://github.com/wargrey/graphics) - Essential computer graphics
 - [herbie-fp/egg-herbie](https://github.com/herbie-fp/egg-herbie) - An interface for using mwillsey/egg with math simplification.
@@ -8498,6 +8534,20 @@
 
 ## Rust 
 
+- [Ralith/hypermine](https://github.com/Ralith/hypermine) - A hyperbolic voxel game
+- [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
+- [timokoesters/nbodysim](https://github.com/timokoesters/nbodysim) - Realtime 3D N-Body-Simulation
+- [simbleau/nbody-wasm-sim](https://github.com/simbleau/nbody-wasm-sim) - An N-body WebAssembly simulation using Web GPU
+- [denosaurs/netsaur](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+- [eunomia-bpf/wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf) - WebAssembly library, toolchain and runtime for eBPF programs
+- [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
+- [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
+- [twitchax/kord](https://github.com/twitchax/kord) - A music theory binary and library for Rust / JS.
+- [jaredly/veoluz](https://github.com/jaredly/veoluz) - "I see light" - visualize the paths of millions of light rays through reflection, refraction and diffusion
+- [jafioti/luminal](https://github.com/jafioti/luminal) - Deep learning at the speed of light.
+- [Aandreba/wasm2spirv](https://github.com/Aandreba/wasm2spirv) - Compile your WebAssembly programs into SPIR-V shaders
+- [pjoe/wasm-naga](https://github.com/pjoe/wasm-naga) - Using naga shader translater with WebAssembly
+- [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
 - [codedhead/webrtx](https://github.com/codedhead/webrtx) - WebGPU Ray Tracing eXtension
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [fornwall/rust-script](https://github.com/fornwall/rust-script) - Run Rust files and expressions as scripts without any setup or compilation step.
@@ -8939,7 +8989,7 @@
 - [arjsin/http_static](https://github.com/arjsin/http_static) - File serving using tower web
 - [ps1dr3x/lachesis](https://github.com/ps1dr3x/lachesis) - 👨‍💻 A work-in-progress web services mass scanner written in Rust
 - [JoshMcguigan/arr_macro](https://github.com/JoshMcguigan/arr_macro) - Initialize arrays with ease!
-- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
+- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation
 - [maekawatoshiki/ferrugo](https://github.com/maekawatoshiki/ferrugo) - Ferrugo is a JVM implementation written in Rust
 - [ehsanmok/tvm-rust](https://github.com/ehsanmok/tvm-rust) - (MERGED) Rust bindings for TVM runtime
 - [crepererum-oss/pdatastructs.rs](https://github.com/crepererum-oss/pdatastructs.rs) - Simple probabilistic data structures
@@ -9251,6 +9301,7 @@
 
 ## Shell 
 
+- [cpitclaudel/z3.wasm](https://github.com/cpitclaudel/z3.wasm) - WASM builds of the Z3 SMT solver
 - [m4lvin/RepLeanTeX](https://github.com/m4lvin/RepLeanTeX) - 
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [Zeranoe/mingw-w64-build](https://github.com/Zeranoe/mingw-w64-build) - MinGW-w64 build script
@@ -9404,6 +9455,7 @@
 
 ## Svelte 
 
+- [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [QuarticCat/detypify](https://github.com/QuarticCat/detypify) - Typst symbol classifier
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
@@ -9412,6 +9464,7 @@
 
 ## Swift 
 
+- [KhronosGroup/glTF-iOS-Viewer](https://github.com/KhronosGroup/glTF-iOS-Viewer) - Khronos glTF Viewer for iOS
 - [markusmoenig/Render-Z](https://github.com/markusmoenig/Render-Z) - A visual Metal shader editor for macOS and iPadOS
 - [markusmoenig/ShaderMania](https://github.com/markusmoenig/ShaderMania) - A Metal fragment shader editor for macOS and iOS
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
@@ -9450,7 +9503,7 @@
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [shu223/iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
 - [johnlui/SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ) - 再造 “手机QQ” 侧滑菜单
-- [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21
+- [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS interview questions;iOS面试题集锦（附答案）
 - [Palleas/NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
 - [mac-cain13/R.swift](https://github.com/mac-cain13/R.swift) - Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 - [netguru/ResponseDetective](https://github.com/netguru/ResponseDetective) - Sherlock Holmes of the networking layer. :male_detective:
@@ -9626,6 +9679,19 @@
 
 ## TypeScript 
 
+- [nelipuu/zbind](https://github.com/nelipuu/zbind) - Zig-TypeScript binding generator 🟦 🦎
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
+- [levjj/esverify](https://github.com/levjj/esverify) - ECMAScript verification with SMT solvers
+- [tanmaysachan/splitcompute](https://github.com/tanmaysachan/splitcompute) - Split model weights and execute partially
+- [praeclarum/webgpu-torch](https://github.com/praeclarum/webgpu-torch) - Tensor computation with WebGPU acceleration
+- [nglviewer/ngl](https://github.com/nglviewer/ngl) - WebGL protein viewer
+- [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
+- [CodyJasonBennett/shaderkit](https://github.com/CodyJasonBennett/shaderkit) - Tools and IntelliSense for GLSL and WGSL.
+- [compute-toys/compute.toys](https://github.com/compute-toys/compute.toys) - Website source code
+- [wcandillon/react-native-webgpu](https://github.com/wcandillon/react-native-webgpu) - React Native implementation of WebGPU using Dawn
+- [mymindstorm/setup-emsdk](https://github.com/mymindstorm/setup-emsdk) - Setup Emscripten for use with GitHub actions
+- [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
+- [kisonecat/dvi2html](https://github.com/kisonecat/dvi2html) - Device independent (DVI) file format parsing with node
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [voila-dashboards/voici](https://github.com/voila-dashboards/voici) - Voici turns any Jupyter Notebook into a static web application
 - [hjlld/LearningWebGPU](https://github.com/hjlld/LearningWebGPU) - WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.
@@ -10095,7 +10161,8 @@
 - [sin-ack/zigself](https://github.com/sin-ack/zigself) - An implementation of the Self programming language in Zig
 - [ikskuh/parser-toolkit](https://github.com/ikskuh/parser-toolkit) - A toolkit that makes it easier to write recursive-descent parsers in Zig.
 - [edqx/ccb](https://github.com/edqx/ccb) - The Comptime Compiler for Brainfuck
-- [Game4all/brainz](https://github.com/Game4all/brainz) - Braaaaaaaaaaaaaaaaaaainnnnnss🧠🧟‍♂️🧟‍♂️
+- [pwbh/SDL](https://github.com/pwbh/SDL) - SDL on Zig build system and in-sync with latest SDL versions
+- [Game4all/brainz](https://github.com/Game4all/brainz) - 🧠 Braaaaaaaaaaaaaaaaaaainnnnnss🧟‍♂️🧟‍♂️
 - [nektro/zig-json](https://github.com/nektro/zig-json) - A JSON library for inspecting arbitrary values
 - [ikskuh/zig-network](https://github.com/ikskuh/zig-network) - A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP
 - [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal build.zig for targeting iOS

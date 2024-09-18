@@ -7,6 +7,7 @@
 
 - [AGS Script](#ags-script)
 - [ANTLR](#antlr)
+- [APL](#apl)
 - [ASP](#asp)
 - [ActionScript](#actionscript)
 - [Agda](#agda)
@@ -15,6 +16,7 @@
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
+- [BQN](#bqn)
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [Boogie](#boogie)
@@ -135,8 +137,10 @@
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [V](#v)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [WGSL](#wgsl)
 - [WebAssembly](#webassembly)
 - [XSLT](#xslt)
 - [Yacc](#yacc)
@@ -149,6 +153,10 @@
 ## ANTLR 
 
 - [kstenerud/concise-encoding](https://github.com/kstenerud/concise-encoding) - The secure data format for a  modern world
+
+## APL 
+
+- [vendethiel/trying.apl](https://github.com/vendethiel/trying.apl) - APL is the greatest language ever
 
 ## ASP 
 
@@ -213,6 +221,10 @@
 - [cckpg/autoproxy2privoxy](https://github.com/cckpg/autoproxy2privoxy) - Convert AutoProxy rules to Privoxy forward rules
 - [darius/awklisp](https://github.com/darius/awklisp) - A Lisp interpreter written in Awk.
 
+## BQN 
+
+- [mlochbaum/BQN](https://github.com/mlochbaum/BQN) - An APL-like programming language
+
 ## Batchfile 
 
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
@@ -231,6 +243,7 @@
 
 ## C 
 
+- [cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [Gy-Hu/E-Syn](https://github.com/Gy-Hu/E-Syn) - E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis (DAC 2024)
 - [floooh/sokol-samples](https://github.com/floooh/sokol-samples) - Sample code for https://github.com/floooh/sokol
@@ -607,6 +620,7 @@
 
 ## C# # 
 
+- [roice3/Honeycombs](https://github.com/roice3/Honeycombs) - Code for visualizing spherical, euclidean, and hyperbolic honeycombs in various ways
 - [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [dafny-lang/dafny](https://github.com/dafny-lang/dafny) - Dafny is a verification-aware programming language
@@ -662,6 +676,13 @@
 
 ## C++ 
 
+- [mfem/mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
+- [LLNL/RAJA](https://github.com/LLNL/RAJA) - RAJA Performance Portability Layer (C++)
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
+- [facebook/igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and V
+- [corporateshark/lightweightvk](https://github.com/corporateshark/lightweightvk) - LightweightVK is a deeply refactored fork of https://github.com/facebook/igl. It provides a lean cross-platform graphics API running on top of Vulkan 1.3.
 - [nzfeng/signed-heat-3d](https://github.com/nzfeng/signed-heat-3d) - 
 - [twiddlingbits/twr-wasm](https://github.com/twiddlingbits/twr-wasm) - twr-wasm: easily run C/C++ code in a web browser using Web Assembly, with examples
 - [DragonJoker/ShaderWriter](https://github.com/DragonJoker/ShaderWriter) - Library used to write shaders from C++, and export them in either GLSL, HLSL or SPIR-V.
@@ -1141,7 +1162,7 @@
 - [dmlc/mshadow](https://github.com/dmlc/mshadow) - Matrix Shadow:Lightweight CPU/GPU Matrix and Tensor  Template Library in C++/CUDA for (Deep) Machine Learning
 - [dmlc/cxxnet](https://github.com/dmlc/cxxnet) - move forward to https://github.com/dmlc/mxnet
 - [baidu/tera](https://github.com/baidu/tera) - An Internet-Scale Database.
-- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [trevnorris/threx](https://github.com/trevnorris/threx) - Spawn threads in JS
 - [simongog/sdsl-lite](https://github.com/simongog/sdsl-lite) - Succinct Data Structure Library 2.0
@@ -1647,6 +1668,8 @@
 
 ## Coq 
 
+- [logsem/aneris](https://github.com/logsem/aneris) - Program logic for developing and verifying distributed systems
+- [vrahli/Velisarios](https://github.com/vrahli/Velisarios) - A Coq-based framework to verify the correctness of Byzantine fault-tolerant distributed systems
 - [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs 🦀 to make applications with no bugs! ✈️ 🚀 ⚕️ 🏦
 - [ccz181078/Coq-BB5](https://github.com/ccz181078/Coq-BB5) - 
 - [kcrary/istari](https://github.com/kcrary/istari) - 
@@ -1679,6 +1702,7 @@
 
 ## Cuda 
 
+- [siboehm/SGEMM_CUDA](https://github.com/siboehm/SGEMM_CUDA) - Fast CUDA matrix multiplication from scratch
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [antonmks/Alenka](https://github.com/antonmks/Alenka) - GPU database engine
 
@@ -1813,6 +1837,7 @@
 
 ## Go 
 
+- [scottgerring/minderbinder](https://github.com/scottgerring/minderbinder) - Use eBPF to inject chaos into local processes
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [polyfloyd/shady](https://github.com/polyfloyd/shady) - CLI tool to render GLSL shaders
@@ -2447,6 +2472,7 @@
 
 ## Haskell 
 
+- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [anthonyywangmath/tikzsd](https://github.com/anthonyywangmath/tikzsd) - A program for generating LaTeX TikZ code for string diagrams.
 - [wangqingjiang-ncwu/my-ccg](https://github.com/wangqingjiang-ncwu/my-ccg) - Categorial Combinatory Grammar for Chinese
 - [clash-lang/clash-compiler](https://github.com/clash-lang/clash-compiler) - Haskell to VHDL/Verilog/SystemVerilog compiler
@@ -2844,7 +2870,6 @@
 - [jenkinsci/analysis-core-plugin](https://github.com/jenkinsci/analysis-core-plugin) - [Deprecated] Jenkins analysis-core plugin
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [netty/netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 - [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - The JMeter Maven Plugin
 - [shakalaca/UniversalAndroot](https://github.com/shakalaca/UniversalAndroot) - One click and your Android device is rooted !
@@ -2860,6 +2885,9 @@
 
 ## JavaScript 
 
+- [stevejtrettel/PathTracer](https://github.com/stevejtrettel/PathTracer) - 
+- [mlugg/setup-zig](https://github.com/mlugg/setup-zig) - Install a Zig compiler for usage in GitHub Actions workflows.
+- [abrudz/ngn-apl](https://github.com/abrudz/ngn-apl) - An APL interpreter written in JavaScript. Runs in a browser or NodeJS.
 - [NikLever/ThreeJS-PathEditor](https://github.com/NikLever/ThreeJS-PathEditor) - 
 - [stackgl/glsl-lighting-walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - :bulb: phong shading tutorial with glslify
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -4917,6 +4945,8 @@
 
 ## Jupyter Notebook 
 
+- [xpqz/learnapl](https://github.com/xpqz/learnapl) - Introduction to Dyalog APL: https://xpqz.github.io/learnapl
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [thomasahle/tensorgrad](https://github.com/thomasahle/tensorgrad) - Tensor Network Library with Autograd
 - [allefeld/pytikz](https://github.com/allefeld/pytikz) - A Python interface to TikZ
 - [kolibril13/ipyblender-experimental](https://github.com/kolibril13/ipyblender-experimental) - Blender in Jupyter.
@@ -5188,6 +5218,7 @@
 
 ## Lean 
 
+- [cmu-l3/llmlean](https://github.com/cmu-l3/llmlean) - LLMs + Lean, on your laptop or in the cloud
 - [levjj/esverify-theory](https://github.com/levjj/esverify-theory) - Formalism and proofs for esverify
 - [siddhartha-gadgil/MetaExamples](https://github.com/siddhartha-gadgil/MetaExamples) - Examples using MetaProgramming for writing tactics etc.
 - [fadoss/maude2lean](https://github.com/fadoss/maude2lean) - Maude to Lean translator
@@ -5650,6 +5681,7 @@
 
 ## OCaml 
 
+- [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs
 - [smimram/strid](https://github.com/smimram/strid) - A string diagram generator for LaTeX.
 - [Octachron/talaria_bibtex](https://github.com/Octachron/talaria_bibtex) - A bibtex file parser
 - [dangtv/BIRDS](https://github.com/dangtv/BIRDS) - Bidirectional transformation for Relational view update Datalog-based Strategies
@@ -5729,6 +5761,8 @@
 
 ## Odin 
 
+- [thetarnav/odin-wasm](https://github.com/thetarnav/odin-wasm) - Odin + WASM = 💙
+- [bones-ai/odin-mnist-nn](https://github.com/bones-ai/odin-mnist-nn) - A MNIST neural network written from scratch in Odin, visualised with Raylib
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
 
 ## OpenEdge ABL 
@@ -5741,6 +5775,9 @@
 
 ## Others 
 
+- [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
+- [bytecodealliance/cranelift](https://github.com/bytecodealliance/cranelift) - Cranelift code generator
+- [vizdom-dev/vizdom](https://github.com/vizdom-dev/vizdom) - A TypeScript library for Vizdom
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [jakoch/rasterizers](https://github.com/jakoch/rasterizers) - Precompiled libraries for the software rasterizers Mesa's LLVMpipe and Google's Swiftshader for Windows.
 - [adamnemecek/traceoid.ai](https://github.com/adamnemecek/traceoid.ai) - 
@@ -6522,6 +6559,14 @@
 
 ## Python 
 
+- [so-okada/twXiv](https://github.com/so-okada/twXiv) - This app twXiv gives arXiv daily new submissions by tweets, abstracts by replies, cross-lists by retweets, and replacements by quotes and retweets. We use python3 scripts. twXiv is not affiliated with
+- [geometric-kernels/GeometricKernels](https://github.com/geometric-kernels/GeometricKernels) - Geometric kernels on manifolds, meshes and graphs
+- [Felix-Petersen/difflogic](https://github.com/Felix-Petersen/difflogic) - A Library for Differentiable Logic Gate Networks
+- [litex-hub/litex-boards](https://github.com/litex-hub/litex-boards) - LiteX boards files
+- [groq/groq-python](https://github.com/groq/groq-python) - The official Python Library for the Groq API
+- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+- [qiboteam/qibo](https://github.com/qiboteam/qibo) - A framework for quantum computing
+- [OutofAi/OutofFocus](https://github.com/OutofAi/OutofFocus) - An AI focused photo manipulation tool based on Gradio
 - [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
 - [Ucas-HaoranWei/Vary](https://github.com/Ucas-HaoranWei/Vary) - [ECCV 2024] Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.
 - [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
@@ -7262,7 +7307,6 @@
 - [alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) - BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔
 - [secretflow/secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to chec
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -8368,6 +8412,7 @@
 - [mikebaldry/math_engine](https://github.com/mikebaldry/math_engine) - A lightweight math expression evaluator
 - [gioele/diff-lcs](https://github.com/gioele/diff-lcs) - Compute differences using the McIlroy-Hunt LCS algorithm
 - [brightbox/brightbox-cli](https://github.com/brightbox/brightbox-cli) - Brightbox Cloud CLI
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [dazuiba/gem-fast](https://github.com/dazuiba/gem-fast) - Gem-fast, make your gem install faster!, Replace gem fetcher with curl
 - [clbustos/rubyvis](https://github.com/clbustos/rubyvis) - Ruby version of Protovis, a visualization toolkit.
 - [diogob/activerecord-postgres-hstore](https://github.com/diogob/activerecord-postgres-hstore) - Goodbye serialize, hello hstore. Speed up hashes in the database.
@@ -8544,6 +8589,19 @@
 
 ## Rust 
 
+- [AeneasVerif/charon](https://github.com/AeneasVerif/charon) - Interface with the rustc compiler for the purpose of program verification
+- [cksac/rai](https://github.com/cksac/rai) - RAI: Rust ML framework with composable transformations like JAX.
+- [JackNarvaez/Rusph](https://github.com/JackNarvaez/Rusph) - Implementation of the SPH algorithm in the Rust programming language
+- [tomsanbear/candle-einops](https://github.com/tomsanbear/candle-einops) - 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
+- [linebender/vello](https://github.com/linebender/vello) - An experimental GPU compute-centric 2D renderer.
+- [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) - Multi-platform high-performance compute language extension for Rust.
+- [rust-ml/linfa-linalg](https://github.com/rust-ml/linfa-linalg) - 
+- [rust-ml/linfa](https://github.com/rust-ml/linfa) - A Rust machine learning framework.
+- [coreylowman/cudarc](https://github.com/coreylowman/cudarc) - Safe rust wrapper around CUDA toolkit
+- [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [nolanderc/glasgow](https://github.com/nolanderc/glasgow) - Language Server for WGSL (WebGPU Shading Language)
 - [altunenes/rusty_art](https://github.com/altunenes/rusty_art) - Creative coding and visual illusions in Rust.
 - [Ralith/hypermine](https://github.com/Ralith/hypermine) - A hyperbolic voxel game
@@ -9477,6 +9535,7 @@
 
 ## Swift 
 
+- [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [KhronosGroup/glTF-iOS-Viewer](https://github.com/KhronosGroup/glTF-iOS-Viewer) - Khronos glTF Viewer for iOS
 - [markusmoenig/Render-Z](https://github.com/markusmoenig/Render-Z) - A visual Metal shader editor for macOS and iPadOS
 - [markusmoenig/ShaderMania](https://github.com/markusmoenig/ShaderMania) - A Metal fragment shader editor for macOS and iOS
@@ -9692,6 +9751,9 @@
 
 ## TypeScript 
 
+- [voideditor/void](https://github.com/voideditor/void) - 
+- [Reon90/redcube](https://github.com/Reon90/redcube) - JS renderer based on GLTF to WebGPU or WebGL backends.
+- [joshbrew/webgpujs](https://github.com/joshbrew/webgpujs) - Write full featured WGSL pipelines in plain javascript.
 - [nelipuu/zbind](https://github.com/nelipuu/zbind) - Zig-TypeScript binding generator 🟦 🦎
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [levjj/esverify](https://github.com/levjj/esverify) - ECMAScript verification with SMT solvers
@@ -9772,7 +9834,7 @@
 - [dust-tt/dust](https://github.com/dust-tt/dust) - Amplify your team's potential with customizable and secure AI assistants.
 - [mathigon/textbooks](https://github.com/mathigon/textbooks) - Source code of Mathigon's interactive textbooks
 - [RandomFractals/vscode-data-preview](https://github.com/RandomFractals/vscode-data-preview) - Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲  charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [anaclumos/signalkite](https://github.com/anaclumos/signalkite) - 🪁 notifies you based on your algo
 - [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
 - [richard-unterberg/leaflet-nextjs-ts-starter](https://github.com/richard-unterberg/leaflet-nextjs-ts-starter) - Create interactive maps with this starter boilerplate for next.js and the leaflet-maps-react plugin. Written in typescript, visually enhanced by tailwind and lucide-react icons. ✨
@@ -9816,7 +9878,7 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [qdm12/caddy-ui](https://github.com/qdm12/caddy-ui) - UI for the Caddy proxy server
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Come join the best place on the internet to learn AI skills. Use code "aicodetranslator" for an extra 20% off.
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [sullivan-sean/chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
@@ -10092,6 +10154,10 @@
 - [vlang/c2v](https://github.com/vlang/c2v) - C/C++ to V translator
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
+## Verilog 
+
+- [davidar/fpgatoy](https://github.com/davidar/fpgatoy) - Shadertoy for FPGAs
+
 ## Vim Script 
 
 - [StylishThemes/Syntax-Themes](https://github.com/StylishThemes/Syntax-Themes) - :art: Information and files on various syntax highlighting themes
@@ -10144,6 +10210,10 @@
 - [vuejs/vue-hackernews](https://github.com/vuejs/vue-hackernews) - HackerNews clone with Vue.js
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 
+## WGSL 
+
+- [FL33TW00D/wgpu-mm](https://github.com/FL33TW00D/wgpu-mm) - 
+
 ## WebAssembly 
 
 - [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
@@ -10169,6 +10239,7 @@
 
 ## Zig 
 
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A C compiler written in Zig.
 - [sleibrock/zigtoys](https://github.com/sleibrock/zigtoys) - All about Zig + WASM and seeing what we can do
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig

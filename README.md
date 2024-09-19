@@ -6656,7 +6656,7 @@
 - [qiskit-community/qiskit-machine-learning](https://github.com/qiskit-community/qiskit-machine-learning) - Quantum Machine Learning
 - [utensil/lean4_jupyter](https://github.com/utensil/lean4_jupyter) - A Lean 4 Jupyter kernel via repl
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
@@ -8608,7 +8608,7 @@
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [timokoesters/nbodysim](https://github.com/timokoesters/nbodysim) - Realtime 3D N-Body-Simulation
 - [simbleau/nbody-wasm-sim](https://github.com/simbleau/nbody-wasm-sim) - An N-body WebAssembly simulation using Web GPU
-- [denosaurs/netsaur](https://github.com/denosaurs/netsaur) - Powerful machine learning, accelerated by WebGPU
+- [denosaurs/netsaur](https://github.com/denosaurs/netsaur) - Powerful Powerful Machine Learning library with GPU, CPU and WASM backends
 - [eunomia-bpf/wasm-bpf](https://github.com/eunomia-bpf/wasm-bpf) - WebAssembly library, toolchain and runtime for eBPF programs
 - [bbodi/notecalc3](https://github.com/bbodi/notecalc3) - NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web.
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine

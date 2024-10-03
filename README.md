@@ -247,6 +247,8 @@
 
 ## C 
 
+- [ancwrd1/qpdf-rs](https://github.com/ancwrd1/qpdf-rs) - Rust bindings for QPDF C++ library
+- [aras-p/smol-cube](https://github.com/aras-p/smol-cube) - Binary format equivalent for color grading (Adobe/Resolve .cube) LUT files
 - [cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [Gy-Hu/E-Syn](https://github.com/Gy-Hu/E-Syn) - E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis (DAC 2024)
@@ -677,6 +679,8 @@
 
 ## C++ 
 
+- [kokkos/kokkos-tutorials](https://github.com/kokkos/kokkos-tutorials) - Tutorials for the Kokkos C++ Performance Portability Programming Ecosystem
+- [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit) - Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
 - [stan-dev/math](https://github.com/stan-dev/math) - The Stan Math Library is a C++ template library for automatic differentiation of any order using forward, reverse, and mixed modes.  It includes a range of built-in functions for probabilistic modelin
 - [autodiff/autodiff](https://github.com/autodiff/autodiff) - automatic differentiation made easier for C++
@@ -2242,7 +2246,6 @@
 - [EugeneDae/zola-vite-demo](https://github.com/EugeneDae/zola-vite-demo) - A minimal working demo showing how to wire up Zola with Vite.
 - [python-poetry/website](https://github.com/python-poetry/website) - Source for the official Poetry website
 - [miguelvaca/gutcp](https://github.com/miguelvaca/gutcp) - GUTCP Simulations
-- [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [distillpub/post--example](https://github.com/distillpub/post--example) - Example Distill article repository—clone, rename, start writing!
 - [SdtElectronics/jekyll-theme-antarctica](https://github.com/SdtElectronics/jekyll-theme-antarctica) - Stylish and feature-rich theme for Jekyll
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
@@ -2906,6 +2909,7 @@
 
 ## JavaScript 
 
+- [danielesteban/three-raymarcher](https://github.com/danielesteban/three-raymarcher) - Raymarching abstraction for creating simple SDF animations with threejs
 - [plepers/nanogl](https://github.com/plepers/nanogl) - webgl micro framework
 - [gkjohnson/three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) - A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh
 - [gkjohnson/three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
@@ -3884,7 +3888,7 @@
 - [zaach/jison](https://github.com/zaach/jison) - Bison in JavaScript.
 - [utensil/riotjs-experiments](https://github.com/utensil/riotjs-experiments) - Try to experiment RiotJS with my preferred workflows.
 - [miloyip/nativejson-benchmark](https://github.com/miloyip/nativejson-benchmark) - C/C++ JSON parser/generator benchmark
-- [TehShrike/abstract-state-router](https://github.com/TehShrike/abstract-state-router) - Like ui-router, but without all the Angular.  The best way to structure a single-page webapp.
+- [TehShrike/abstract-state-router](https://github.com/TehShrike/abstract-state-router) - The best way to structure a single-page webapp.
 - [ListnPlay/riot-isomorphic](https://github.com/ListnPlay/riot-isomorphic) - A riotjs isomorphic application
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [okor/justice](https://github.com/okor/justice) - Embeddable script for displaying web page performance metrics.
@@ -4982,6 +4986,8 @@
 
 ## Jupyter Notebook 
 
+- [stillonearth/bevy_quadruped_neural_control](https://github.com/stillonearth/bevy_quadruped_neural_control) - An example project using bevy_mujoco to make Unitree A1 Robot walk with neural network
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [frank-xwang/UnSAM](https://github.com/frank-xwang/UnSAM) - [NeurIPS 2024] Code release for "Segment Anything without Supervision"
 - [yyuting/Adelta](https://github.com/yyuting/Adelta) - 
 - [abeleinin/Metal-Puzzles](https://github.com/abeleinin/Metal-Puzzles) - Solve Puzzles. Learn Metal 🤘
@@ -5591,7 +5597,7 @@
 
 ## Lua 
 
-- [pandoc-ext/diagram](https://github.com/pandoc-ext/diagram) - Generate diagrams from embedded code; supports Mermaid, Dot/GraphViz, PlantUML, Asymptote, and TikZ.
+- [pandoc-ext/diagram](https://github.com/pandoc-ext/diagram) - Generate diagrams from embedded code; supports Mermaid, Dot/GraphViz, PlantUML, Asymptote, CeTZ, and TikZ.
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [scipag/vulscan](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
@@ -5828,6 +5834,8 @@
 
 ## Others 
 
+- [bryanmcnett/sdf_hardware](https://github.com/bryanmcnett/sdf_hardware) - GPU hardware for Signed Distance Fields
+- [zichenwang01/relaxed-boundary](https://github.com/zichenwang01/relaxed-boundary) - This is the official implementation of "A Simple Approach to Differentiable Rendering of SDFs"
 - [wcphkust/LLM-PLSE-paper](https://github.com/wcphkust/LLM-PLSE-paper) - 
 - [wrstone/fonts-startrek](https://github.com/wrstone/fonts-startrek) - Star Trek TrueType Font Collection
 - [zwang4/awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation
@@ -6779,7 +6787,7 @@
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [mrob95/mathfly-talon](https://github.com/mrob95/mathfly-talon) - Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook 5.5.
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - [ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
@@ -7396,7 +7404,7 @@
 - [presalytics/doc-converter](https://github.com/presalytics/doc-converter) - Microservice to convert Office Open Xml (e.g., pptx, xlsx, docs) files to svg
 - [modAL-python/modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
-- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated Learning Framework
+- [adap/flower](https://github.com/adap/flower) - Flower: A Friendly Federated AI Framework
 - [FedML-AI/FedML](https://github.com/FedML-AI/FedML) - FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on a
 - [google-parfait/tensorflow-federated](https://github.com/google-parfait/tensorflow-federated) - An open-source framework for machine learning and other computations on decentralized data.
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) - A multi-party collaborative machine learning framework
@@ -8658,6 +8666,24 @@
 
 ## Rust 
 
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+- [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
+- [imrn99/poc-kokkos-rs](https://github.com/imrn99/poc-kokkos-rs) - Kokkos-rs: A Proof of Concept
+- [samitbasu/rhdl](https://github.com/samitbasu/rhdl) - A Hardware Description Language based on the Rust Programming Language
+- [stillonearth/bevy_mujoco](https://github.com/stillonearth/bevy_mujoco) - Render MuJoCo scenes in bevy
+- [ajrcarey/pdfium-render](https://github.com/ajrcarey/pdfium-render) - A high-level idiomatic Rust wrapper around Pdfium, the C++ PDF library used by the Google Chromium project.
+- [pdf-rs/pdf_render](https://github.com/pdf-rs/pdf_render) - 
+- [messense/mupdf-rs](https://github.com/messense/mupdf-rs) - Rust binding to mupdf
+- [pdf-rs/pdf](https://github.com/pdf-rs/pdf) - Rust library to read, manipulate and write PDF files.
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
+- [DioxusLabs/dioxus-ai](https://github.com/DioxusLabs/dioxus-ai) - 
+- [floneum/floneum](https://github.com/floneum/floneum) - Instant, controllable, local pre-trained AI models in Rust
+- [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform GUI library for 🦀 Rust  powered by 🧬 Dioxus and 🎨 Skia.
+- [GrandmasterB42/bevyray](https://github.com/GrandmasterB42/bevyray) - Raytracing in One Weekend in Bevy
+- [rYuuk/AstroGen](https://github.com/rYuuk/AstroGen) - Procedural asteroid generator using compute shaders in bevy
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- [google/zerocopy](https://github.com/google/zerocopy) - 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [samestep/phoebe](https://github.com/samestep/phoebe) - Automatic differentiation for Rust.
 - [adroit-lang/adroit](https://github.com/adroit-lang/adroit) - An experimental differentiable programming language.
@@ -8849,7 +8875,7 @@
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
 - [rustwasm/wee_alloc](https://github.com/rustwasm/wee_alloc) - The Wasm-Enabled, Elfin Allocator
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [rksm/axum-yew-setup](https://github.com/rksm/axum-yew-setup) - A starter project that sets up axum and yew for full stack Rust web apps.
 - [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [zevstravitz/NBody-Rust](https://github.com/zevstravitz/NBody-Rust) - 3D N-Body Simulator (Rust-WASM and Three.js)
@@ -8879,7 +8905,7 @@
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [qmonnet/rbpf](https://github.com/qmonnet/rbpf) - Rust virtual machine and JIT compiler for eBPF programs
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
@@ -9271,7 +9297,7 @@
 - [en/kcp-rs](https://github.com/en/kcp-rs) - A KCP implementation in Rust
 - [nickbabcock/rrinlog](https://github.com/nickbabcock/rrinlog) - Replacing Elasticsearch with Rust and SQLite
 - [rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs) - Library for snippet annotations
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source. —— Maintenance status: on hold. I have no time for OSS currently; back late 2024.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [mitsuhiko/systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation
 - [TheNeikos/rustbreak](https://github.com/TheNeikos/rustbreak) - A simple, fast and easy to use self-contained single file storage for Rust
 - [Kobzol/rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate
@@ -9368,6 +9394,7 @@
 - [lilianweng/lil-log](https://github.com/lilianweng/lil-log) - Lilian's Blog
 - [getzola/even](https://github.com/getzola/even) - A clean blog theme for Zola
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
+- [tidyverse/style](https://github.com/tidyverse/style) - The tidyverse style guide for R code
 - [sailinglab/pgm-spring-2019](https://github.com/sailinglab/pgm-spring-2019) - Course webpage for PGM, Spring 2019.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
@@ -9412,6 +9439,7 @@
 
 ## Scala 
 
+- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [sergei-romanenko/spsc](https://github.com/sergei-romanenko/spsc) - SPSC: A Small Positive Supercompiler
 - [siddhartha-gadgil/trepplein4](https://github.com/siddhartha-gadgil/trepplein4) - lean 4 typechecker in scala (based on Gabriel Ebner's trepplein)
@@ -9451,6 +9479,7 @@
 
 ## Scheme 
 
+- [rzukic/zed-latex](https://github.com/rzukic/zed-latex) - 
 - [opencog/opencog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)
 
 ## Shell 
@@ -9844,6 +9873,9 @@
 
 ## TypeScript 
 
+- [pmndrs/react-three-gpu-pathtracer](https://github.com/pmndrs/react-three-gpu-pathtracer) - ⚡️ A React abstraction for the popular three-gpu-pathtracer
+- [ArtifexSoftware/mupdf.js](https://github.com/ArtifexSoftware/mupdf.js) - JavaScript bindings for MuPDF
+- [DesignLiquido/xslt-processor](https://github.com/DesignLiquido/xslt-processor) - A JavaScript XSLT processor without native library dependencies
 - [banana-space/btex](https://github.com/banana-space/btex) - 
 - [Trebor-Huang/vscode-forester](https://github.com/Trebor-Huang/vscode-forester) - VSCode support for Forester
 - [Cammisuli/monodon](https://github.com/Cammisuli/monodon) - 

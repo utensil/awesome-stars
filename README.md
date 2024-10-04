@@ -679,6 +679,7 @@
 
 ## C++ 
 
+- [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [kokkos/kokkos-tutorials](https://github.com/kokkos/kokkos-tutorials) - Tutorials for the Kokkos C++ Performance Portability Programming Ecosystem
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit) - Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
@@ -979,7 +980,7 @@
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [terminaldweller/mutator](https://github.com/terminaldweller/mutator) - mutator is an experimental suite of tools aimed at analysis and automation of C/C++ code development
-- [duneroadrunner/SaferCPlusPlus](https://github.com/duneroadrunner/SaferCPlusPlus) - A collection of safe data types that are compatible with, and can substitute for, common unsafe native c++ types. http://duneroadrunner.github.io/SaferCPlusPlus/
+- [duneroadrunner/SaferCPlusPlus](https://github.com/duneroadrunner/SaferCPlusPlus) - A collection of safe data types that are compatible with, and can substitute for, common unsafe native c++ types
 - [rettichschnidi/clang-tidy-misra](https://github.com/rettichschnidi/clang-tidy-misra) - MISRA C:2012 and MISRA C++:2008 compliance checkers for clang-tidy
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -2909,6 +2910,7 @@
 
 ## JavaScript 
 
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [danielesteban/three-raymarcher](https://github.com/danielesteban/three-raymarcher) - Raymarching abstraction for creating simple SDF animations with threejs
 - [plepers/nanogl](https://github.com/plepers/nanogl) - webgl micro framework
 - [gkjohnson/three-bvh-csg](https://github.com/gkjohnson/three-bvh-csg) - A flexible, memory compact, fast and dynamic CSG implementation on top of three-mesh-bvh
@@ -3978,7 +3980,6 @@
 - [spikebrehm/isomorphic-tutorial](https://github.com/spikebrehm/isomorphic-tutorial) - Tutorial app to demonstrate isomorphic JavaScript concepts.
 - [philogb/jit](https://github.com/philogb/jit) - The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web
 - [wwwtyro/cryptico](https://github.com/wwwtyro/cryptico) - An easy-to-use encryption system utilizing RSA and AES for javascript.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [DanielRapp/doppler](https://github.com/DanielRapp/doppler) - :wave: Motion detection using the doppler effect
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [mroth/unindexed](https://github.com/mroth/unindexed) - :mag_right::grey_question: website that irrevocably deletes itself once indexed
@@ -4884,7 +4885,7 @@
 - [wbhart/Nemo.jl](https://github.com/wbhart/Nemo.jl) - My personal fork of the Nemo project. The official repository is at https://github.com/Nemocas/Nemo.jl
 - [ATell-SoundTheory/CliffordAlgebras.jl](https://github.com/ATell-SoundTheory/CliffordAlgebras.jl) - A fast and lightweight Julia package for Clifford and geometric algebras.
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
-- [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - An algebraic spin on grammar-of-graphics data visualization harnessing the power of the Makie.jl plotting ecosystem.
+- [MakieOrg/AlgebraOfGraphics.jl](https://github.com/MakieOrg/AlgebraOfGraphics.jl) - An algebraic spin on grammar-of-graphics data visualization in Julia. Powered by the Makie.jl plotting ecosystem.
 - [sswatson/AsyPlots.jl](https://github.com/sswatson/AsyPlots.jl) - A Julia package for making figures with Asymptote and Cairo
 - [SciML/DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) - Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equation
 - [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) - Award winning software library for nonlinear dynamics and nonlinear timeseries analysis
@@ -6622,6 +6623,9 @@
 
 ## Python 
 
+- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
+- [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane) - 🔥 Blazing fast bulk data transfers between any cloud 🔥
+- [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Personal AI Assistant for World Wide Web Surfers. Research & Never forget anything you see on the Internet
 - [srush/triton-autodiff](https://github.com/srush/triton-autodiff) - Experiment of using Tangent to autodiff triton
 - [LeCAR-Lab/dial-mpc](https://github.com/LeCAR-Lab/dial-mpc) - Official implementation for the paper "Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing". DIAL-MPC is a novel sampling-based MPC framework for legged rob
@@ -6940,7 +6944,6 @@
 - [xlang-ai/DS-1000](https://github.com/xlang-ai/DS-1000) - [ICML 2023] Data and code release for the paper "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation".
 - [rajasagashe/JuICe](https://github.com/rajasagashe/JuICe) - Code for generating the JuICe dataset.
 - [amazon-science/mxeval](https://github.com/amazon-science/mxeval) - 
-- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [OpenLMLab/LOMO](https://github.com/OpenLMLab/LOMO) - LOMO: LOw-Memory Optimization
 - [kyegomez/RoboCAT](https://github.com/kyegomez/RoboCAT) - Implementation of Deepmind's RoboCat: "Self-Improving Foundation Agent for Robotic Manipulation" An next generation robot LLM
 - [ruixiangcui/AGIEval](https://github.com/ruixiangcui/AGIEval) - 
@@ -6960,7 +6963,7 @@
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [towhee-io/towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
 - [runpod-workers/worker-github_runner](https://github.com/runpod-workers/worker-github_runner) - A self hosted runner for GitHub actions.
 - [sileod/tasksource](https://github.com/sileod/tasksource) - Datasets collection and preprocessings framework for NLP extreme multitask learning
@@ -8666,6 +8669,7 @@
 
 ## Rust 
 
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [imrn99/poc-kokkos-rs](https://github.com/imrn99/poc-kokkos-rs) - Kokkos-rs: A Proof of Concept
@@ -9873,6 +9877,7 @@
 
 ## TypeScript 
 
+- [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
 - [pmndrs/react-three-gpu-pathtracer](https://github.com/pmndrs/react-three-gpu-pathtracer) - ⚡️ A React abstraction for the popular three-gpu-pathtracer
 - [ArtifexSoftware/mupdf.js](https://github.com/ArtifexSoftware/mupdf.js) - JavaScript bindings for MuPDF
 - [DesignLiquido/xslt-processor](https://github.com/DesignLiquido/xslt-processor) - A JavaScript XSLT processor without native library dependencies
@@ -10224,6 +10229,7 @@
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [mathquill/mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.

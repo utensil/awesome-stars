@@ -231,13 +231,13 @@
 
 ## Batchfile 
 
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [Chuyu-Team/vc-ltl-samples](https://github.com/Chuyu-Team/vc-ltl-samples) - Usage samples for the VC-LTL.
 - [fsavje/math-with-slack](https://github.com/fsavje/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## Bikeshed 
 
+- [w3c/window-management](https://github.com/w3c/window-management) - Window Management API
 - [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [Orillusion/orillusion-web](https://github.com/Orillusion/orillusion-web) - The official doc website of Orillusion
 
@@ -679,6 +679,10 @@
 
 ## C++ 
 
+- [mirage-project/mirage](https://github.com/mirage-project/mirage) - A multi-level tensor algebra superoptimizer
+- [otfried/ipe](https://github.com/otfried/ipe) - The Ipe extensible drawing editor
+- [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
+- [lighttransport/tinyusdz](https://github.com/lighttransport/tinyusdz) - Tiny, dependency-free USDZ/USDA/USDC library written in C++14
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [kokkos/kokkos-tutorials](https://github.com/kokkos/kokkos-tutorials) - Tutorials for the Kokkos C++ Performance Portability Programming Ecosystem
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
@@ -1302,7 +1306,7 @@
 - [USCiLab/cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization
 - [indutny/heartbleed](https://github.com/indutny/heartbleed) - Extracting server private key using Heartbleed OpenSSL vulnerability.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [odj/arkleseizure](https://github.com/odj/arkleseizure) - Node bindings for OpenBabel
 - [arturadib/node-qt](https://github.com/arturadib/node-qt) - C++ Qt bindings for Node.js
 - [numenta/nupic.core-legacy](https://github.com/numenta/nupic.core-legacy) - Implementation of core NuPIC algorithms in C++ (under construction)
@@ -1858,6 +1862,7 @@
 
 ## Go 
 
+- [driusan/lmt](https://github.com/driusan/lmt) - literate markdown tangle
 - [scottgerring/minderbinder](https://github.com/scottgerring/minderbinder) - Use eBPF to inject chaos into local processes
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
@@ -2192,6 +2197,7 @@
 
 ## HTML 
 
+- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [open-flash/open-flash](https://github.com/open-flash/open-flash) - OpenFlash main repository (website and meta)
 - [narwhrl/narwhrl.github.io](https://github.com/narwhrl/narwhrl.github.io) - StarTrekChina Website Powered by Node.js.
 - [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) - 
@@ -2495,6 +2501,7 @@
 
 ## Haskell 
 
+- [google-research/dex-lang](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family
 - [diku-dk/futhark](https://github.com/diku-dk/futhark) - :boom::computer::boom: A data-parallel functional programming language
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [anthonyywangmath/tikzsd](https://github.com/anthonyywangmath/tikzsd) - A program for generating LaTeX TikZ code for string diagrams.
@@ -2910,6 +2917,9 @@
 
 ## JavaScript 
 
+- [TungstenHub/tngt-d3js](https://github.com/TungstenHub/tngt-d3js) - D3.js scripts used in Tungsteno
+- [postcss/postcss-nested](https://github.com/postcss/postcss-nested) - PostCSS plugin to unwrap nested rules like how Sass does it.
+- [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [danielesteban/three-raymarcher](https://github.com/danielesteban/three-raymarcher) - Raymarching abstraction for creating simple SDF animations with threejs
 - [plepers/nanogl](https://github.com/plepers/nanogl) - webgl micro framework
@@ -3965,7 +3975,6 @@
 - [brisket/brisket](https://github.com/brisket/brisket) - Brisket JavaScript application framework
 - [asvd/dragscroll](https://github.com/asvd/dragscroll) - micro library for drag-n-drop scrolling style
 - [mafintosh/airpaste](https://github.com/mafintosh/airpaste) - A 1-1 network pipe that auto discovers other peers using mdns
-- [tylingsoft/markdown-plus](https://github.com/tylingsoft/markdown-plus) - Markdown editor with extra features.
 - [kriskowal/gtor](https://github.com/kriskowal/gtor) - A General Theory of Reactivity
 - [evanw/webgl-path-tracing](https://github.com/evanw/webgl-path-tracing) - Path tracing in GLSL using WebGL
 - [gre/transitions.glsl.io](https://github.com/gre/transitions.glsl.io) - WE HAVE MOVED TO
@@ -4475,7 +4484,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [JacksonTian/fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
 - [Rapptz/cpp-sublime-snippet](https://github.com/Rapptz/cpp-sublime-snippet) - C++11 Sublime Text Snippets
-- [Aqzhyi/Sublime-Better-Completion](https://github.com/Aqzhyi/Sublime-Better-Completion) - 手刻的浪漫 DEPRECATED, use TypeScript!
+- [aqzhyi/Sublime-Better-Completion](https://github.com/aqzhyi/Sublime-Better-Completion) - 手刻的浪漫 DEPRECATED, use TypeScript!
 - [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs) - Cross-browser QRCode generator for javascript
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [sroze/ngInfiniteScroll](https://github.com/sroze/ngInfiniteScroll) - Infinite Scrolling for AngularJS
@@ -4987,6 +4996,8 @@
 
 ## Jupyter Notebook 
 
+- [mwatkins1970/SAE_Feature_Interpretability_Tool](https://github.com/mwatkins1970/SAE_Feature_Interpretability_Tool) - A tool to assist in the interpretation of learned features in sparse autoencoders (in particular the four SAE's trained by Joseph Bloom on Gemma-2B).
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [stillonearth/bevy_quadruped_neural_control](https://github.com/stillonearth/bevy_quadruped_neural_control) - An example project using bevy_mujoco to make Unitree A1 Robot walk with neural network
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [frank-xwang/UnSAM](https://github.com/frank-xwang/UnSAM) - [NeurIPS 2024] Code release for "Segment Anything without Supervision"
@@ -5270,6 +5281,7 @@
 
 ## Lean 
 
+- [lecopivo/ReverseFFIwithMathlib](https://github.com/lecopivo/ReverseFFIwithMathlib) - Example project for reverse FFI using Lean+mathlib
 - [madvorak/read-lean](https://github.com/madvorak/read-lean) - How to read Lean
 - [vihdzp/rubik-lean4](https://github.com/vihdzp/rubik-lean4) - Lean 4 formalization of Rubik's cubes
 - [teorth/equational_theories](https://github.com/teorth/equational_theories) - A project to map out the relations between different equational theories of Magmas.
@@ -5835,6 +5847,15 @@
 
 ## Others 
 
+- [RickySkywalker/TheoremLlama](https://github.com/RickySkywalker/TheoremLlama) - This is the official repository for all the code of TheoremLlama
+- [github/roadmap](https://github.com/github/roadmap) - GitHub public roadmap
+- [quux00/PlusCal-Examples](https://github.com/quux00/PlusCal-Examples) - Algorithm examples in PlusCal, the algorithm language of Lamport's TLA+
+- [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
+- [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning.
+- [TungstenHub/tngt-ipe](https://github.com/TungstenHub/tngt-ipe) - IPE images used in Tungsteno http://tungsteno.io
+- [wasiahmad/Awesome-LLM-Synthetic-Data](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data) - A reading list on LLM based Synthetic Data Generation 🔥
+- [hlt-mt/mosel](https://github.com/hlt-mt/mosel) - Collection of Open Source Speech Data
+- [deeperdolphin/papers](https://github.com/deeperdolphin/papers) - 
 - [bryanmcnett/sdf_hardware](https://github.com/bryanmcnett/sdf_hardware) - GPU hardware for Signed Distance Fields
 - [zichenwang01/relaxed-boundary](https://github.com/zichenwang01/relaxed-boundary) - This is the official implementation of "A Simple Approach to Differentiable Rendering of SDFs"
 - [wcphkust/LLM-PLSE-paper](https://github.com/wcphkust/LLM-PLSE-paper) - 
@@ -6053,7 +6074,7 @@
 - [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
 - [jazzdotdev/speakeasy](https://github.com/jazzdotdev/speakeasy) - 🎯🚀 Programming to take the Roaring Twenties into space
 - [sympy/sympy-old](https://github.com/sympy/sympy-old) - git-svn clone of old SymPy SVN source from https://code.google.com/p/sympy/source/browse/.
-- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
+- [integrations/slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with GitHub's integration for Slack
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -6593,6 +6614,7 @@
 
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [quarto-dev/quarto-actions](https://github.com/quarto-dev/quarto-actions) - 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [czhang03/power-theme](https://github.com/czhang03/power-theme) - [deprecated, moving to https://github.com/JanJoris/oh-my-posh] a easy to use powershell theme manager
 - [NytroRST/NetRipper](https://github.com/NytroRST/NetRipper) - NetRipper - Smart traffic sniffing for penetration testers
@@ -6623,6 +6645,10 @@
 
 ## Python 
 
+- [Zhangyanbo/diffusion-evolution](https://github.com/Zhangyanbo/diffusion-evolution) - Diffusion model derived evolutionary algorithm
+- [dlab-ut/motorcycle_mpc](https://github.com/dlab-ut/motorcycle_mpc) - motorcycle control by model predictive control
+- [ml-jku/hopfield-layers](https://github.com/ml-jku/hopfield-layers) - Hopfield Networks is All You Need
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane) - 🔥 Blazing fast bulk data transfers between any cloud 🔥
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
@@ -6697,7 +6723,7 @@
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [tom-doerr/dspy_nodes](https://github.com/tom-doerr/dspy_nodes) - WIP - Allows you to create DSPy pipelines using ComfyUI
-- [OSU-NLP-Group/GrokkedTransformer](https://github.com/OSU-NLP-Group/GrokkedTransformer) - Code for the paper 'Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization'
+- [OSU-NLP-Group/GrokkedTransformer](https://github.com/OSU-NLP-Group/GrokkedTransformer) - Code for NeurIPS'24 paper 'Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization'
 - [SMPLOlympics/SMPLOlympics](https://github.com/SMPLOlympics/SMPLOlympics) - 
 - [test-time-training/ttt-lm-jax](https://github.com/test-time-training/ttt-lm-jax) - Official JAX implementation of Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 - [raphaelmansuy/code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your 
@@ -6810,7 +6836,6 @@
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [utensil/ginac-lean](https://github.com/utensil/ginac-lean) - A work-in-progress Lean 4 binding to GiNaC
 - [trishullab/copra](https://github.com/trishullab/copra) - COPRA: An in-COntext PRoof Agent which uses LLMs like GPTs to prove theorems in formal languages.
-- [leanprover/reservoir](https://github.com/leanprover/reservoir) - Package registry for Lean/Lake.
 - [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
 - [DRMacIver/structureshrink](https://github.com/DRMacIver/structureshrink) - Structured shrinking of unknown file formats
 - [mirefek/geo_logic](https://github.com/mirefek/geo_logic) - Tool for euclidean geometry aware of logic
@@ -8669,6 +8694,12 @@
 
 ## Rust 
 
+- [bosun-ai/swiftide](https://github.com/bosun-ai/swiftide) - Fast, streaming indexing and query library for AI (RAG) applications, written in Rust
+- [gfx-rs/metal-rs](https://github.com/gfx-rs/metal-rs) - Rust bindings for Metal
+- [tlaplus-community/tlauc](https://github.com/tlaplus-community/tlauc) - Rewrites TLA⁺ specs to use Unicode symbols instead of ASCII, and vice-versa
+- [BrianWiz/brusher](https://github.com/BrianWiz/brusher) - Experimental engine agnostic 3D CSG library for game development written in Rust. Started as a port of csg.js to Rust.
+- [ToposInstitute/CatColab](https://github.com/ToposInstitute/CatColab) - A collaborative environment for formal, interoperable, conceptual modeling
+- [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
@@ -8786,7 +8817,7 @@
 - [egraphs-good/extraction-gym](https://github.com/egraphs-good/extraction-gym) - benchmarking e-graph extraction
 - [egraphs-good/egraph-serialize](https://github.com/egraphs-good/egraph-serialize) - egraph &lt;-&gt; json
 - [uwplse/ruler](https://github.com/uwplse/ruler) - Rewrite Rule Inference Using Equality Saturation
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on ??? GPUs
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [rust-diplomat/diplomat](https://github.com/rust-diplomat/diplomat) - Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -9488,6 +9519,7 @@
 
 ## Shell 
 
+- [jdrgoms/awesome-postcss](https://github.com/jdrgoms/awesome-postcss) - A curate list about PostCSS
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [cpitclaudel/z3.wasm](https://github.com/cpitclaudel/z3.wasm) - WASM builds of the Z3 SMT solver
 - [m4lvin/RepLeanTeX](https://github.com/m4lvin/RepLeanTeX) - 
@@ -9877,6 +9909,10 @@
 
 ## TypeScript 
 
+- [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
+- [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [arturbien/balloons-js](https://github.com/arturbien/balloons-js) - 🎈 Animated balloons effect for your website
 - [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
 - [pmndrs/react-three-gpu-pathtracer](https://github.com/pmndrs/react-three-gpu-pathtracer) - ⚡️ A React abstraction for the popular three-gpu-pathtracer
 - [ArtifexSoftware/mupdf.js](https://github.com/ArtifexSoftware/mupdf.js) - JavaScript bindings for MuPDF
@@ -10196,7 +10232,7 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [qntm/hatetris](https://github.com/qntm/hatetris) - Tetris which always gives you the worst piece
 - [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that help you to create more cohesive color schemes. Add a tint to your existing colors.
-- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A functional music theory library for Javascript
+- [tonaljs/tonal](https://github.com/tonaljs/tonal) - A music theory library for Javascript
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
@@ -10229,6 +10265,7 @@
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [angular/zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript
 - [mathquill/mathquill](https://github.com/mathquill/mathquill) - Easily type math in your webapp
+- [tylerlong/markdown-plus](https://github.com/tylerlong/markdown-plus) - Markdown editor with extra features.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue 
@@ -10329,6 +10366,7 @@
 ## Vue 
 
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
+- [leanprover/reservoir](https://github.com/leanprover/reservoir) - Package registry for Lean/Lake.
 - [abetlen/pikchr-editor](https://github.com/abetlen/pikchr-editor) - Online Pikchr diagram editor using Pikchr.js
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
@@ -10387,7 +10425,7 @@
 - [ikskuh/parser-toolkit](https://github.com/ikskuh/parser-toolkit) - A toolkit that makes it easier to write recursive-descent parsers in Zig.
 - [edqx/ccb](https://github.com/edqx/ccb) - The Comptime Compiler for Brainfuck
 - [pwbh/SDL](https://github.com/pwbh/SDL) - SDL on Zig build system and in-sync with latest SDL versions
-- [Game4all/brainz](https://github.com/Game4all/brainz) - 🧠 Braaaaaaaaaaaaaaaaaaainnnnnss🧟‍♂️🧟‍♂️
+- [Game4all/brainz](https://github.com/Game4all/brainz) - 🧠 Braaaaaaaaainnnnnss 🧟‍♂️ - half finished zig ml lib
 - [nektro/zig-json](https://github.com/nektro/zig-json) - A JSON library for inspecting arbitrary values
 - [ikskuh/zig-network](https://github.com/ikskuh/zig-network) - A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP
 - [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal build.zig for targeting iOS

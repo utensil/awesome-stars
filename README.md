@@ -2010,7 +2010,7 @@
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [oliverpool/sparsehash](https://github.com/oliverpool/sparsehash) - Fast hashing for large files
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [030/p2iwd](https://github.com/030/p2iwd) - Pull and Push Images Without Docker (P2IWD).
@@ -2512,6 +2512,7 @@
 - [microsoft/dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [MADEAPPS/newton-dynamics](https://github.com/MADEAPPS/newton-dynamics) - Newton Dynamics is an integrated solution for real time simulation of physics environments.
 - [vbauer/android-arsenal.com](https://github.com/vbauer/android-arsenal.com) - Source to android-arsenal.herokuapp.com
+- [cortical-io/Public](https://github.com/cortical-io/Public) - SDK, Sample-Code, UI-Widgets, Demos
 - [owenversteeg/min](https://github.com/owenversteeg/min) - the world's smallest (995 bytes) CSS framework
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -6646,7 +6647,6 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [wyn/npscipy-binaries](https://github.com/wyn/npscipy-binaries) - Binaries for numpy/scipy on 64bit debian.  Includes blas/lapack/atlas/gfortran archive and so files.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [cortical-io/Public](https://github.com/cortical-io/Public) - SDK, Sample-Code, UI-Widgets, Demos
 - [componentjs/guide](https://github.com/componentjs/guide) - A Guide to Component
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [leeyt/Physics](https://github.com/leeyt/Physics) - Physics lectures by Prof. Walter Lewin
@@ -6882,6 +6882,9 @@
 
 ## Python 
 
+- [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+- [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model Training
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [cognitivecomputations/introspective-attention](https://github.com/cognitivecomputations/introspective-attention) - 
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
@@ -6914,7 +6917,7 @@
 - [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
 - [albertqjiang/Portal-to-ISAbelle](https://github.com/albertqjiang/Portal-to-ISAbelle) - https://albertqjiang.github.io/Portal-to-ISAbelle/
-- [iterative/datachain](https://github.com/iterative/datachain) - AI-data warehouse to enrich, transform and analyze unstructured data
+- [iterative/datachain](https://github.com/iterative/datachain) - ETL and Analytics for Multimodal AI Data
 - [pitmonticone/LeanProject](https://github.com/pitmonticone/LeanProject) - Template for blueprint-driven formalization projects in Lean.
 - [misko/human_descent](https://github.com/misko/human_descent) - 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -9000,6 +9003,7 @@
 
 ## Rust 
 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [FractalFir/rustlantis](https://github.com/FractalFir/rustlantis) - UB-free and deterministic rustc fuzzer
 - [delta-rs/delta](https://github.com/delta-rs/delta) - An Open-Source Machine Learning Framework in Rust Δ
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
@@ -9035,7 +9039,7 @@
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [fragarriss/CurVis](https://github.com/fragarriss/CurVis) - A Rust raytracer over curved spacetimes
-- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground
 - [zflow-dev/zflow](https://github.com/zflow-dev/zflow) - Flow Based Low/No Code Workflow and Robotic Process Automation Library
@@ -9560,7 +9564,7 @@
 - [jonhoo/rust-tcp](https://github.com/jonhoo/rust-tcp) - A learning experience in implementing TCP in Rust
 - [FGRibreau/spinners](https://github.com/FGRibreau/spinners) - 🛎 60+ Elegant terminal spinners for Rust
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [synek317/shellfn](https://github.com/synek317/shellfn) - Rust proc macro for easily and safely use shell scripts in rust
 - [frehberg/spa-rs](https://github.com/frehberg/spa-rs) - Solar Position Algorithm implementation in Rust
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.

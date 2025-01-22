@@ -2363,7 +2363,7 @@
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [analytic-bias/agora](https://github.com/analytic-bias/agora) - Across the Khôra Alexandrians can finally reach every corner of 𝕍.
 - [vscode-elements/elements](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions
-- [mimmackk/unitball](https://github.com/mimmackk/unitball) - Graphing the p-norm unit ball in 2 dimensions is a common exercise introductory analysis. Explore the problem solving process of modeling the 3-dimensional version, a much more difficult problem, usin
+- [mimmackk/unitball](https://github.com/mimmackk/unitball) - Graphing the p-norm unit ball in 2 dimensions is a common exercise in introductory analysis. Explore the process of modeling the 3-dimensional version, a much more difficult problem, using Python.
 - [alectryon-paper/alectryon-paper.github.io](https://github.com/alectryon-paper/alectryon-paper.github.io) - 
 - [champsproject/ldds](https://github.com/champsproject/ldds) - Python package for computing and visualizing Lagrangian Descriptors in Dynamical Systems
 - [jllllll/bitsandbytes-windows-webui](https://github.com/jllllll/bitsandbytes-windows-webui) - Windows compile of bitsandbytes for use in text-generation-webui.
@@ -6967,6 +6967,7 @@
 
 ## Python 
 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer-facing LLM agents
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [TurboReel/mediachain](https://github.com/TurboReel/mediachain) - AI toolkit for making Shorts/Tiktoks
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
@@ -7044,7 +7045,7 @@
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [ppaanngggg/layoutreader](https://github.com/ppaanngggg/layoutreader) - A Faster LayoutReader Model based on LayoutLMv3, Sort OCR bboxes to reading order.
-- [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
+- [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to e
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [hhu-stups/jupyterlab-prolog-codemirror-extension](https://github.com/hhu-stups/jupyterlab-prolog-codemirror-extension) - A JupyterLab extension providing a Prolog CodeMirror
@@ -9284,7 +9285,7 @@
 - [assert-rs/snapbox](https://github.com/assert-rs/snapbox) - Snapshot testing for a herd of CLI tests
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [oxideai/mlx-rs](https://github.com/oxideai/mlx-rs) - Unofficial Rust bindings to Apple's mlx framework
-- [DvvCz/constime](https://github.com/DvvCz/constime) - Zig's comptime for Rust. Allows you to incorporate side effects into your `const` code.
+- [DvvCz/constime](https://github.com/DvvCz/constime) - Zig's comptime for Rust, with zero dependencies.
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [Bevy-Rust-GPU/bevy-rust-gpu](https://github.com/Bevy-Rust-GPU/bevy-rust-gpu) - Bevy plugin for hot-building and hot-reloading rust-gpu shaders.
 - [Enter-tainer/jogs](https://github.com/Enter-tainer/jogs) - 
@@ -9797,7 +9798,7 @@
 - [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) - Coroutine I/O for Rust
 - [Hexilee/async-io-demo](https://github.com/Hexilee/async-io-demo) - demo for rust asynchronous io: from mio to stackless coroutine
 - [arjsin/http_static](https://github.com/arjsin/http_static) - File serving using tower web
-- [ps1dr3x/lachesis](https://github.com/ps1dr3x/lachesis) - 👨‍💻 A work-in-progress web services mass scanner written in Rust
+- [ps1dr3x/lachesis](https://github.com/ps1dr3x/lachesis) - A fast web services mass scanner 🕵🏻‍♂️
 - [JoshMcguigan/arr_macro](https://github.com/JoshMcguigan/arr_macro) - Initialize arrays with ease!
 - [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation
 - [maekawatoshiki/ferrugo](https://github.com/maekawatoshiki/ferrugo) - Ferrugo is a JVM implementation written in Rust
@@ -10763,7 +10764,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -11164,7 +11165,7 @@
 - [Not-Nik/raylib-zig](https://github.com/Not-Nik/raylib-zig) - Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib
 - [ippsav/redzig](https://github.com/ippsav/redzig) - 
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - The open-source browser made for headless usage
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [lightpanda-io/zig-js-runtime](https://github.com/lightpanda-io/zig-js-runtime) - Add a JS runtime in your Zig project
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [gardc/zig-cpp-interop](https://github.com/gardc/zig-cpp-interop) - Test project to show how C++ and Zig can interchangeably call function from both languages, and compile to a single binary.

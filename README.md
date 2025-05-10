@@ -268,7 +268,7 @@
 
 ## C 
 
-- [martinfama/fui](https://github.com/martinfama/fui) - 
+- [martinfama/fui](https://github.com/martinfama/fui) - framebuffer user interface
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - An x86_64 UNIX-like OS from scratch
@@ -592,7 +592,6 @@
 - [panda-re/panda](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis
 - [fastos/fastsocket](https://github.com/fastos/fastsocket) - Fastsocket is a highly scalable socket and its underlying networking implementation of Linux kernel. With the straight linear scalability, Fastsocket can provide extremely good performance in multicor
 - [grisha/thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-TH
-- [clowwindy/ShadowVPN](https://github.com/clowwindy/ShadowVPN) - Removed according to regulations.
 - [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [rcrowder/Burt](https://github.com/rcrowder/Burt) - Burt is currently; Sensors, various processing units, WiFly Wifi, motorized platform, CMUCam3, Netduino mini, dual MEMS microphones attached to the panning head frame, dual servos for camera pan and t
@@ -714,7 +713,7 @@
 - [andrewlock/convert-disqus-to-giscus](https://github.com/andrewlock/convert-disqus-to-giscus) - A small .NET script/tool for converting Disqus comments to giscus
 - [JuergenGutsch/disqus-to-github-issues](https://github.com/JuergenGutsch/disqus-to-github-issues) - 
 - [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [tooll3/t3](https://github.com/tooll3/t3) - Tooll 3 is an open source software to create realtime motion graphics.
+- [tixl3d/tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics.
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [ashmind/SharpLab](https://github.com/ashmind/SharpLab) - .NET language playground
 - [MaxwellGengYF/Unity-MPipeline](https://github.com/MaxwellGengYF/Unity-MPipeline) - Customized High-Quality Rendering Pipeline in Unity3D
@@ -812,7 +811,7 @@
 - [jk-jeon/dragonbox](https://github.com/jk-jeon/dragonbox) - Reference implementation of Dragonbox in C++
 - [Overv/VulkanTutorial](https://github.com/Overv/VulkanTutorial) - Tutorial for the Vulkan graphics and compute API
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [AnyDSL/traversal](https://github.com/AnyDSL/traversal) - AnyDSL traversal code
 - [AnyDSL/impala](https://github.com/AnyDSL/impala) - An imperative and functional programming language
@@ -5627,6 +5626,7 @@
 
 ## Kotlin 
 
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 
 - [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls) - LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [Winnie0408/LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper) - 将您保存在网易云音乐、QQ音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器（如Salt Player、APlayer、Poweramp等）可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。Quickly migrate your playlists from online music platforms to local music player
 - [google/prefab](https://github.com/google/prefab) - Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.
@@ -6369,7 +6369,6 @@
 - [MoonshotAI/Kimina-Prover-Preview](https://github.com/MoonshotAI/Kimina-Prover-Preview) - Technical report of Kimina-Prover Preview.
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
-- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [AniruddhaChattopadhyay/Books](https://github.com/AniruddhaChattopadhyay/Books) - 
 - [redorav/public_source_engines](https://github.com/redorav/public_source_engines) - Game Engines with Source: Learning from the best
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
@@ -6874,7 +6873,6 @@
 - [Trace0429/GameDevPapers](https://github.com/Trace0429/GameDevPapers) - 
 - [tvvocold/free-for-dev-zh](https://github.com/tvvocold/free-for-dev-zh) - 国内免费开发工具/服务清单
 - [ReScience/ReScience](https://github.com/ReScience/ReScience) - The ReScience journal. Reproducible Science is Good. Replicated Science is better.
-- [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking) - A curated list of awesome networking libraries, resources and shiny things
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [danluu/debugging-stories](https://github.com/danluu/debugging-stories) - A collection of debugging stories. PRs welcome (sorry for the backlog) :-)
@@ -7210,6 +7208,10 @@
 
 ## Python 
 
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
+- [cased/kit](https://github.com/cased/kit) - 🛠️ The toolkit for codebase mapping, symbol extraction, and many kinds of code search. Build AI-powered devtools!
+- [UCSC-VLAA/OpenVision](https://github.com/UCSC-VLAA/OpenVision) - OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning
+- [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 - [ArchiveBox/archivebox-proxy](https://github.com/ArchiveBox/archivebox-proxy) - Official ArchiveBox MITM proxy: saves URLs of all requests passing through to an ArchiveBox server for archival.
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [gluckzhang/phoebe](https://github.com/gluckzhang/phoebe) - Realistic Failure Injection for System Calls
@@ -7358,7 +7360,7 @@
 - [tom-doerr/simpledspy](https://github.com/tom-doerr/simpledspy) - 
 - [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source framework for safe, compliant, and tailored generative AI conversations. It gives you the power of LLMs without the unpredictability.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is the open-source engine for controlled, compliant, and purposeful generative AI conversations. It gives you the power of LLMs without the unpredictability.
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [TurboReel/mediachain](https://github.com/TurboReel/mediachain) - AI toolkit for making Shorts/Tiktoks
 - [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction
@@ -7636,7 +7638,7 @@
 - [Re-Align/URIAL](https://github.com/Re-Align/URIAL) - 
 - [carbonsilicon-ai/CarsiDock](https://github.com/carbonsilicon-ai/CarsiDock) - Official repo of "CarsiDock: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training" proposed by CarbonSilicon AI.
 - [YoWASP/yosys](https://github.com/YoWASP/yosys) - Unofficial Yosys WebAssembly packages
-- [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - Python E-book library for handling books in EPUB2/EPUB3  format -
+- [aerkalov/ebooklib](https://github.com/aerkalov/ebooklib) - A versatile Python library for EPUB2/EPUB3 manipulation and processing.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
 - [Suwmlee/ikaros](https://github.com/Suwmlee/ikaros) - 打通下载软件与媒体服务，安心享受影片
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
@@ -8171,7 +8173,7 @@
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [amazon-science/mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
@@ -9526,7 +9528,7 @@
 - [veeso/orange-trees](https://github.com/veeso/orange-trees) - 🍊 A Rust implementation of the Tree data structure 🍊
 - [veeso/tui-realm-treeview](https://github.com/veeso/tui-realm-treeview) - 🌲 treeview component for tui-realm 👑
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach
-- [spiraldb/vortex](https://github.com/spiraldb/vortex) - An extensible, state of the art columnar file format
+- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format
 - [siravan/symjit](https://github.com/siravan/symjit) - 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - ETL framework to turn your data AI-ready - with realtime incremental updates and support custom logic like lego.
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -9626,7 +9628,7 @@
 - [samwho/rust-debugger](https://github.com/samwho/rust-debugger) - A ptrace-based debugger written in Rust.
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - Static analysis for GitHub Actions
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [hydro-project/hydro](https://github.com/hydro-project/hydro) - A high-level distributed programming framework for Rust
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
@@ -9892,7 +9894,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [NoahGav/oxide-lang](https://github.com/NoahGav/oxide-lang) - 
 - [ygg-lang/yggdrasil.rs](https://github.com/ygg-lang/yggdrasil.rs) - yggdrasil compiler with rust runtime
-- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
 - [toooddchen/trrs](https://github.com/toooddchen/trrs) - 
 - [KyleMayes/clang-sys](https://github.com/KyleMayes/clang-sys) - Rust bindings for libclang.
@@ -10276,7 +10277,6 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan) - 
-- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [mattnenterprise/rust-pop3](https://github.com/mattnenterprise/rust-pop3) - POP3 client for Rust
 - [slog-rs/slog](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust
 - [staktrace/mailparse](https://github.com/staktrace/mailparse) - Rust library to parse mail files
@@ -11033,9 +11033,11 @@
 
 ## TypeScript 
 
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+- [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [robertpiosik/gemini-coder](https://github.com/robertpiosik/gemini-coder) - Non-agentic 100% free & open source coding tool for AI-assisted programming.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic 100% free & open source coding tool for AI-assisted programming.
 - [TayzenDev/smallblog](https://github.com/TayzenDev/smallblog) - An easy and straighforward blog engine designed with smallweb in mind (should work in any deno environment).
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, rotation, se
@@ -11043,9 +11045,10 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The "official" unofficial DSPy framework. Build LLM powered agents and other workflows, based on the Stanford DSP paper.
-- [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search) - 🔍  第三方 Telegram 聊天记录备份、语义化搜索客户端
+- [GramSearch/telegram-search](https://github.com/GramSearch/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持视频、音乐、番剧、课程下载……持续更新
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
@@ -11688,6 +11691,7 @@
 
 ## WebAssembly 
 
+- [makepad/makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 - [Wasm-DSL/spectec](https://github.com/Wasm-DSL/spectec) - Wasm SpecTec specification tools
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
@@ -11711,6 +11715,8 @@
 
 ## Zig 
 
+- [blake-does-software/mockery](https://github.com/blake-does-software/mockery) - This is a Mockito inspired testing library for Zig
+- [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) - Objective-C runtime bindings for Zig (Zig calling ObjC).
 - [chung-leong/zigft](https://github.com/chung-leong/zigft) - Zig function transform library
 - [rockorager/ourio](https://github.com/rockorager/ourio) - An asynchronous IO runtime
 - [bagggage/bamos](https://github.com/bagggage/bamos) - Open-source operating system

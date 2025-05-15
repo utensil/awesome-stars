@@ -268,6 +268,7 @@
 
 ## C 
 
+- [savashn/ecewo](https://github.com/savashn/ecewo) - A modern microframework for web development in C
 - [qpoint-io/qtap](https://github.com/qpoint-io/qtap) - Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.
 - [martinfama/fui](https://github.com/martinfama/fui) - framebuffer user interface
 - [weechat/weechat](https://github.com/weechat/weechat) - The extensible chat client.
@@ -763,6 +764,7 @@
 
 ## C++ 
 
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [Foreseerr/TScale](https://github.com/Foreseerr/TScale) - 
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
@@ -2154,7 +2156,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [polyfloyd/shady](https://github.com/polyfloyd/shady) - CLI tool to render GLSL shaders
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) - Work in progress.
 - [ttybitnik/diego](https://github.com/ttybitnik/diego) - A CLI tool for importing and utilizing exported social media data from popular services on Hugo websites.
@@ -2488,6 +2490,7 @@
 
 ## HTML 
 
+- [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) - Real-time webcam demo with SmolVLM and llama.cpp server
 - [dgl/haphash](https://github.com/dgl/haphash) - Anti-scraper challenge for haproxy to stop naughty AI bots.
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [patricktrainer/duckdb-doom](https://github.com/patricktrainer/duckdb-doom) - A Doom-like game using DuckDB
@@ -7213,6 +7216,12 @@
 
 ## Python 
 
+- [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM2 and SmolVLM family of models
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
+- [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+- [NanoNets/docext](https://github.com/NanoNets/docext) - An on-premises, OCR-free unstructured data extraction and benchmarking toolkit.
+- [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [rodmarkun/SmolML](https://github.com/rodmarkun/SmolML) - A fully functional and simple Machine Learning library made entirely from scratch with Python.
 - [teorth/estimates](https://github.com/teorth/estimates) - Code to automatically prove or verify estimates in analysis
 - [fizzbee-io/fizzbee](https://github.com/fizzbee-io/fizzbee) - Easiest-ever formal methods language! Designed for developers crafting distributed systems, microservices, and cloud applications
@@ -7246,7 +7255,7 @@
 - [EvanZhouDev/llm.pdf](https://github.com/EvanZhouDev/llm.pdf) - Run LLMs inside a PDF file.
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [elastic/detection-rules](https://github.com/elastic/detection-rules) - 
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -7289,7 +7298,7 @@
 - [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 - [jingyaogong/minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 - [willccbb/verifiers](https://github.com/willccbb/verifiers) - Verifiers for LLM Reinforcement Learning
-- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - Connect to MCP servers that run on SSE transport, or expose stdio servers as an SSE server using the MCP Proxy server.
+- [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
 - [VxASI/blender-mcp-vxai](https://github.com/VxASI/blender-mcp-vxai) - 
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
@@ -9076,6 +9085,7 @@
 
 ## Roff 
 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [madvorak/4D-minigolf](https://github.com/madvorak/4D-minigolf) - Repository of fan-made tracks for 4D Golf
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [camenduru/stable-diffusion-webui-docker](https://github.com/camenduru/stable-diffusion-webui-docker) - 
@@ -9526,10 +9536,12 @@
 
 ## Rust 
 
+- [buger/probe](https://github.com/buger/probe) - Probe is an AI-friendly, fully local, semantic code search engine which which works with for large codebases. The final missing building block for next generation of AI coding tools.
+- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
-- [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
+- [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [al13n321/nnd](https://github.com/al13n321/nnd) - A debugger for Linux
 - [zoni/obsidian-export](https://github.com/zoni/obsidian-export) - Rust library and CLI to export an Obsidian vault to regular Markdown
 - [cognitive-engineering-lab/argus](https://github.com/cognitive-engineering-lab/argus) - An IDE extension for debugging trait errors in Rust.
@@ -9538,7 +9550,7 @@
 - [veeso/orange-trees](https://github.com/veeso/orange-trees) - 🍊 A Rust implementation of the Tree data structure 🍊
 - [veeso/tui-realm-treeview](https://github.com/veeso/tui-realm-treeview) - 🌲 treeview component for tui-realm 👑
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach
-- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format
+- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now part of the Linux Foundation.
 - [siravan/symjit](https://github.com/siravan/symjit) - 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Real-time data transformation framework for AI. Ultra performant, with incremental processing.
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -9548,7 +9560,7 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [ryanccn/am](https://github.com/ryanccn/am) - A beautiful and feature-packed Apple Music CLI
 - [ongardie/cubicle](https://github.com/ongardie/cubicle) - Manage isolated development environments
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built in Rust for millisecond query latency and ease of use.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, open-source, graph-vector database built in Rust for intelligent data storage for RAG and AI.
 - [ShabbirHasan1/unsynn](https://github.com/ShabbirHasan1/unsynn) - Mirror of https://git.pipapo.org/cehteh/unsynn.git
 - [MixedMatched/juniper](https://github.com/MixedMatched/juniper) - A toy formally-specified Computer Algebra library written in Rust and formalized in Lean 4
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
@@ -11044,8 +11056,9 @@
 
 ## TypeScript 
 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven framework for deep research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven framework for Deep Research, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY

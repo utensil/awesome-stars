@@ -2209,7 +2209,7 @@
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 - [fosrl/newt](https://github.com/fosrl/newt) - A tunneling client for Pangolin
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
-- [andrewarrow/starchive](https://github.com/andrewarrow/starchive) - browser plugin to send youtube videos to local backend
+- [andrewarrow/starchive](https://github.com/andrewarrow/starchive) - browser plugin to send youtube videos to local backend and process (audio tools)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -2877,6 +2877,7 @@
 - [aaronfrost/es6-femasters-slides](https://github.com/aaronfrost/es6-femasters-slides) - My Slides for Frontend Masters
 - [javierbyte/colorblendjs](https://github.com/javierbyte/colorblendjs) - Color blends for javascript.
 - [1000ch/grd](https://github.com/1000ch/grd) - A CSS grid framework using Flexbox. Only 321 bytes (Gzipped).
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [degouville/sublime-bootstrap4](https://github.com/degouville/sublime-bootstrap4) - Bootstrap 4 Snippets for Sublime Text 3
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [codrops/SeatPreview](https://github.com/codrops/SeatPreview) - An experimental demo where a 3D perspective preview is shown for a selected seat in a cinema room.
@@ -6533,6 +6534,7 @@
 
 ## OCaml 
 
+- [multikernel/kernelscript](https://github.com/multikernel/kernelscript) - KernelScript is a modern, type-safe, domain-specific programming language for eBPF-Centric kernel customization
 - [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator written in OCaml that runs in your browser 🐫 🎮
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [chshersh/github-tui](https://github.com/chshersh/github-tui) - 🌒 A TUI for GitHub
@@ -6645,6 +6647,7 @@
 
 ## Others 
 
+- [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
 - [a13xp0p0v/linux-kernel-defence-map](https://github.com/a13xp0p0v/linux-kernel-defence-map) - Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies
 - [restyler/awesome-sandbox](https://github.com/restyler/awesome-sandbox) - Awesome Code Sandboxing for AI
 - [WICG/html-in-canvas](https://github.com/WICG/html-in-canvas) - 
@@ -7474,6 +7477,7 @@
 
 ## Perl 
 
+- [convos-chat/convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [kitaisreal/paw](https://github.com/kitaisreal/paw) - Tool for performance testing, analysis, and continuous iteration over results.
@@ -10025,6 +10029,11 @@
 
 ## Rust 
 
+- [MatX-inc/rules_derive](https://github.com/MatX-inc/rules_derive) - Simple and fast derive macros using macro_rules!()
+- [roethlar/robosync](https://github.com/roethlar/robosync) - 
+- [safai-labs/LuminS](https://github.com/safai-labs/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
+- [thewh1teagle/mc](https://github.com/thewh1teagle/mc) - Modern file copying
+- [surban/aggligator](https://github.com/surban/aggligator) - Aggregates multiple links (TCP, Bluetooth, USB, WebSocket or similar) into one connection having their combined bandwidth and provides resiliency against failure of individual links.
 - [sjrsjz/onion-lang](https://github.com/sjrsjz/onion-lang) - 
 - [Reim-developer/magical_rs](https://github.com/Reim-developer/magical_rs) - A programmable and extensible file detection framework. Build custom rules, match with async, unsafe or dynamic logic.
 - [healeycodes/dumac](https://github.com/healeycodes/dumac) - 🗃️ Very fast alternative to 'du -sh' for macOS that uses getattrlistbulk.
@@ -11136,7 +11145,6 @@
 - [autumnai/collenchyma](https://github.com/autumnai/collenchyma) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 - [autumnai/leaf](https://github.com/autumnai/leaf) - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 - [glium/glium](https://github.com/glium/glium) - Safe OpenGL wrapper for the Rust language.
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [g1mv/density](https://github.com/g1mv/density) - Superfast compression library
@@ -11813,7 +11821,7 @@
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
 - [fmhy/edit](https://github.com/fmhy/edit) - https://fmhy.net/
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The free vibe coding tool
 - [TayzenDev/smallblog](https://github.com/TayzenDev/smallblog) - An easy and straighforward blog engine designed with smallweb in mind (should work in any deno environment).
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, rotation, se

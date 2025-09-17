@@ -1717,6 +1717,7 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [poole/lanyon](https://github.com/poole/lanyon) - A content-first, sliding sidebar theme for Jekyll.
 - [dginev/ar5iv-css](https://github.com/dginev/ar5iv-css) - Some CSS experiments for arXiv HTML documents converted via latexml
+- [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
 - [JuliaDocs/Julia-Cheat-Sheet](https://github.com/JuliaDocs/Julia-Cheat-Sheet) - Julia Cheat Sheet
 - [nikomatsakis/pliss-2019](https://github.com/nikomatsakis/pliss-2019) - Slides for PLISS 2019
@@ -1980,7 +1981,6 @@
 
 ## Coq 
 
-- [zhengpushi/VQCS](https://github.com/zhengpushi/VQCS) - Formally Verified Quantity Calculus System (in Coq)
 - [vrahli/Velisarios](https://github.com/vrahli/Velisarios) - A Coq-based framework to verify the correctness of Byzantine fault-tolerant distributed systems
 - [kcrary/istari](https://github.com/kcrary/istari) - 
 - [rocq-community/reglang](https://github.com/rocq-community/reglang) - Regular Language Representations in Coq [maintainers=@chdoc,@palmskog]
@@ -2074,7 +2074,6 @@
 - [mablanco/docker-rapidscan](https://github.com/mablanco/docker-rapidscan) - Docker image for Rapidscan, a multi-tool web vulnerability scanner
 - [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
 - [leanprover-contrib/lean-build-action](https://github.com/leanprover-contrib/lean-build-action) - 
-- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [EasyPi/docker-scrapyd](https://github.com/EasyPi/docker-scrapyd) - 🕷️ Scrapyd is an application for deploying and running Scrapy spiders.
 - [madnight/docker-alpine-wkhtmltopdf](https://github.com/madnight/docker-alpine-wkhtmltopdf) - wkhtmltopdf alpine docker container with headless qt patches
@@ -2216,6 +2215,7 @@
 
 ## Go 
 
+- [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at) - Universal Basic Chat
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -2269,7 +2269,6 @@
 - [256lights/zb](https://github.com/256lights/zb) - An experiment in hermetic, reproducible build systems
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [dagimg-dot/gitsnip](https://github.com/dagimg-dot/gitsnip) - A CLI tool to download specific folders from a git repository.
 - [Valkyrie00/bold-brew](https://github.com/Valkyrie00/bold-brew) - Bold Brew (bbrew) - A Homebrew TUI Manager
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
@@ -2311,7 +2310,7 @@
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [marwanhawari/stew](https://github.com/marwanhawari/stew) - 🥘 An independent package manager for compiled binaries.
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
-- [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and 
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and 
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -2480,7 +2479,6 @@
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementati
 - [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars
 - [distributedio/titan](https://github.com/distributedio/titan) - A Distributed Redis Protocol Compatible NoSQL Database
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -2905,6 +2903,7 @@
 - [yui/yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [romannurik/LayerVisualizer](https://github.com/romannurik/LayerVisualizer) - A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows)
@@ -3013,7 +3012,7 @@
 - [amatsuda/kaminari_themes](https://github.com/amatsuda/kaminari_themes) - 
 - [twitter/scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
 - [MarkLodato/visual-git-guide](https://github.com/MarkLodato/visual-git-guide) - A visual guide to git.
-- [benpickles/peity](https://github.com/benpickles/peity) - Progressive &lt;svg&gt; pie, donut, bar and line charts
+- [benpickles/peity](https://github.com/benpickles/peity) - 🍰 Progressive &lt;svg&gt; pie, donut, bar and line charts
 - [ludo/jquery-treetable](https://github.com/ludo/jquery-treetable) - jQuery plugin to show a tree structure in a table
 
 ## Hack 
@@ -3194,6 +3193,7 @@
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for m
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
@@ -3507,10 +3507,9 @@
 - [hoppergee/heic-to](https://github.com/hoppergee/heic-to) - Convert HEIC/HEIF images to JPEG, PNG in browser
 - [joye61/pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [dpecos/mastodon-comments](https://github.com/dpecos/mastodon-comments) - Webcomponent that embeds a Mastodon's toot conversation in a HTML page
 - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc.
-- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Breadboard Programming for Erlang inspired by Node-RED
+- [gorenje/erlang-red](https://github.com/gorenje/erlang-red) - Visual Erlang Prompting for an AI world - inspired by Node-RED
 - [will62794/spectacle](https://github.com/will62794/spectacle) - Interactive playground for exploring and sharing TLA+ specifications in the browser.
 - [mariohamann/activity-graph](https://github.com/mariohamann/activity-graph) - Web component to visualize activity data in the style of GitHub's contribution graph
 - [teorth/estimates](https://github.com/teorth/estimates) - Code to automatically prove or verify estimates in analysis
@@ -5033,6 +5032,7 @@
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [leeoniya/reMarked.js](https://github.com/leeoniya/reMarked.js) - client-side HTML &gt; markdown
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [gfranko/jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js) - A jQuery Table of Contents plugin that can be themed with Twitter Bootstrap or jQueryUI.
 - [malditogeek/vmux](https://github.com/malditogeek/vmux) - Secure P2P text, audio and video chats in your browser.
@@ -5379,7 +5379,7 @@
 - [bkeepers/gaskit](https://github.com/bkeepers/gaskit) - a git-backed issue tracker
 - [podio/jquery-mentions-input](https://github.com/podio/jquery-mentions-input) - 
 - [dnewcome/Donatello](https://github.com/dnewcome/Donatello) - Pure-CSS drawing library for the browser.
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption.
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files, deflate64 decompression, and encryption.
 - [hapijs/hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
 - [gre/diaporama](https://github.com/gre/diaporama) - image/video/content slideshow engine providing high quality animation effects including Kenburns Effect and GLSL Transitions.
@@ -5592,7 +5592,7 @@
 - [JuliaDiff/ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) - Forward Mode Automatic Differentiation for Julia
 - [JuliaMath/Cubature.jl](https://github.com/JuliaMath/Cubature.jl) - One- and multi-dimensional adaptive integration routines for the Julia language
 - [JuliaMath/Calculus.jl](https://github.com/JuliaMath/Calculus.jl) - Calculus functions in Julia
-- [SciML/Sundials.jl](https://github.com/SciML/Sundials.jl) - Julia interface to Sundials, including a nonlinear solver (KINSOL), ODE's (CVODE and ARKODE), and DAE's (IDA) in a SciML scientific machine learning enabled manner
+- [SciML/Sundials.jl](https://github.com/SciML/Sundials.jl) - Julia interface to Sundials, including a nonlinear solver (KINSOL), ODEs (CVODE and ARKODE), and DAEs (IDA)
 - [JuliaPy/SymPy.jl](https://github.com/JuliaPy/SymPy.jl) - Julia interface to SymPy via PyCall
 - [JuliaQuantum/QuDynamics.jl](https://github.com/JuliaQuantum/QuDynamics.jl) - A JuliaQuantum package for solving dynamical equations in quantum mechanics.
 - [benmoran/TensorFlowBuilder.jl](https://github.com/benmoran/TensorFlowBuilder.jl) - Julia package to generate Julia wrapper code to form the basis of TensorFlow.jl
@@ -5781,7 +5781,7 @@
 - [Near32/SymbolicBehaviourBenchmark](https://github.com/Near32/SymbolicBehaviourBenchmark) - Suite of OpenAI Gym-compatible multi-agent reinforcement learning environment to benchmark for behavioral traits pertaining to symbolic behaviours (primarily: being receptive, constructive, malleable,
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [paperswithcode/galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [phlippe/uvadlc_notebooks](https://github.com/phlippe/uvadlc_notebooks) - Repository of Jupyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2023
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [GQCG/GQCP](https://github.com/GQCG/GQCP) - The Ghent Quantum Chemistry Package for electronic structure calculations
@@ -6291,7 +6291,6 @@
 ## Less 
 
 - [braver/fonts](https://github.com/braver/fonts) - Free and open fonts for the Atom editor
-- [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [publify/publify](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails.
 
 ## Linear Programming 
@@ -6343,7 +6342,7 @@
 - [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) - 
 - [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) - An extension for telescope.nvim that allows you to search emojis😃
 - [Allaman/emoji.nvim](https://github.com/Allaman/emoji.nvim) - A plugin to search for and insert emojis/kaomojis, with auto-completion support, right from Neovim 😀
-- [nvzone/volt](https://github.com/nvzone/volt) - Plugin for creating reactive UI  in neovim
+- [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [NvChad/base46](https://github.com/NvChad/base46) - NvChad's base46 theme plugin with caching ( Total re-write )
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
@@ -6440,7 +6439,6 @@
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
-- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the Hugging Face Deep Reinforcement Learning Course.
@@ -6722,7 +6720,7 @@
 - [kai-qu/notation](https://github.com/kai-qu/notation) - Collection of quotes on notation design & how it affects thought.
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
 - [amachronic/echoplayer](https://github.com/amachronic/echoplayer) - Echo - Open Hardware Music Player
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [MotiaDev/motia-examples](https://github.com/MotiaDev/motia-examples) - A community maintained list of flow examples built with Motia
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring) - Delightful io_uring packages and resources
@@ -7103,7 +7101,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [fchollet/keras-resources](https://github.com/fchollet/keras-resources) - Directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books) - 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
@@ -7569,6 +7567,8 @@
 
 ## Python 
 
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [nkantar/sus](https://github.com/nkantar/sus) - Really simple static website URL shortener
 - [c4p0/OwnFonts](https://github.com/c4p0/OwnFonts) - 
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes
 - [GobinFan/Miku_Spider](https://github.com/GobinFan/Miku_Spider) - Miku Spider 是用于搜索微信公众号文章的 Python 工具，具有异步搜索、获取文章多信息等特性。
@@ -7610,7 +7610,7 @@
 - [awwaiid/gremllm](https://github.com/awwaiid/gremllm) - A slight upgrade to the Gremlins in your code
 - [iris-sast/iris](https://github.com/iris-sast/iris) - A neurosymbolic framework for vulnerability detection in code
 - [asdf-community/asdf-zig](https://github.com/asdf-community/asdf-zig) - Zig plugin for the asdf version manager [maintainer=@jiacai2050]
-- [lotus-data/lotus](https://github.com/lotus-data/lotus) - LOTUS: fast, easy, and robust LLM-powered data processing
+- [lotus-data/lotus](https://github.com/lotus-data/lotus) - Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 - [i04n/sslcheck](https://github.com/i04n/sslcheck) - Command-line tool to check and monitor SSL certificate expiration across multiple domains.
 - [fferflo/einx](https://github.com/fferflo/einx) - Universal Tensor Operations in Einstein-Inspired Notation for Python.
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
@@ -7669,7 +7669,7 @@
 - [clchinkc/streamlit-editor](https://github.com/clchinkc/streamlit-editor) - Personal project, Generative AI, Streamlit, Python
 - [ispras/dedoc](https://github.com/ispras/dedoc) - Dedoc is a library (service) for automate documents parsing and bringing to a uniform format. It automatically extracts content, logical structure, tables, and meta information from textual electronic
 - [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
 - [googlefonts/picosvg](https://github.com/googlefonts/picosvg) - Helps simplify SVG files. Intended for use as part of a font build.
 - [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
@@ -7731,7 +7731,7 @@
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [gluckzhang/phoebe](https://github.com/gluckzhang/phoebe) - Realistic Failure Injection for System Calls
 - [NormXU/nougat-latex-ocr](https://github.com/NormXU/nougat-latex-ocr) - Codebase for fine-tuning / evaluating nougat-based image2latex generation models
-- [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
+- [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal feed reader
 - [Anemll/Anemll](https://github.com/Anemll/Anemll) - Artificial Neural Engine Machine Learning Library
 - [augustepoiroux/LeanInteract](https://github.com/augustepoiroux/LeanInteract) - LeanInteract: A Python Interface for Lean 4
 - [sail-sg/understand-r1-zero](https://github.com/sail-sg/understand-r1-zero) - Understanding R1-Zero-Like Training: A Critical Perspective
@@ -7978,7 +7978,6 @@
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [pytorch/torchtune](https://github.com/pytorch/torchtune) - PyTorch native post-training library
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
-- [mworchel/differentiable-sdf-rendering](https://github.com/mworchel/differentiable-sdf-rendering) - Source code for "Differentiable Signed Distance Function Rendering" (Siggraph 2022)
 - [autonomousvision/differentiable_volumetric_rendering](https://github.com/autonomousvision/differentiable_volumetric_rendering) - This repository contains the code for the CVPR 2020 paper "Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision"
 - [aashutoshrathi/awesome-bashrc](https://github.com/aashutoshrathi/awesome-bashrc) - 🚀 Collection of bash snippets/aliases that will save your time on the terminal
 - [billsix/modelviewprojection](https://github.com/billsix/modelviewprojection) - 
@@ -8022,7 +8021,7 @@
 - [Felix-Petersen/difflogic](https://github.com/Felix-Petersen/difflogic) - A Library for Differentiable Logic Gate Networks
 - [litex-hub/litex-boards](https://github.com/litex-hub/litex-boards) - LiteX boards files
 - [groq/groq-python](https://github.com/groq/groq-python) - The official Python Library for the Groq API
-- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+- [build-with-groq/g1](https://github.com/build-with-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [qiboteam/qibo](https://github.com/qiboteam/qibo) - A full-stack framework for quantum computing.
 - [OutofAi/OutofFocus](https://github.com/OutofAi/OutofFocus) - An AI focused photo manipulation tool based on Gradio
 - [ToTheBeginning/PuLID](https://github.com/ToTheBeginning/PuLID) - [NeurIPS 2024] Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment
@@ -8759,6 +8758,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [ant-research/Pyraformer](https://github.com/ant-research/Pyraformer) - 
@@ -9596,6 +9596,7 @@
 
 ## Rocq Prover 
 
+- [zhengpushi/VQCS](https://github.com/zhengpushi/VQCS) - Formally Verified Quantity Calculus System (in Coq)
 - [MetaRocq/metarocq](https://github.com/MetaRocq/metarocq) - Metaprogramming, verified meta-theory and implementation of Rocq in Rocq
 - [logsem/aneris](https://github.com/logsem/aneris) - Program logic for developing and verifying distributed systems
 - [formal-land/coq-of-rust](https://github.com/formal-land/coq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs 🦀 to make super safe applications! ✈️ 🚀 ⚕️ 🏦
@@ -10071,6 +10072,7 @@
 
 ## Rust 
 
+- [h2337/tsink](https://github.com/h2337/tsink) - Embedded time-series database for Rust
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor
 - [grahamking/ort](https://github.com/grahamking/ort) - An honest CLI for openrouter.ai. Fast and tmux-aware.
 - [Glomzzz/typsite](https://github.com/Glomzzz/typsite) - Static site generator(SSG) for typst
@@ -10103,7 +10105,7 @@
 - [brmmm3/jwalk-meta](https://github.com/brmmm3/jwalk-meta) - Filesystem walk performed in parallel with streamed and sorted results
 - [salihgerdan/spaceman](https://github.com/salihgerdan/spaceman) - Treemap disk usage analyzer: In search of lost space
 - [nicad/duckdb-file-tools](https://github.com/nicad/duckdb-file-tools) - Work in progress DuckDB extension to work with files
-- [getAsterisk/stackwalk](https://github.com/getAsterisk/stackwalk) - Universal language-agnostic AST walking and accurate call stack generation with tree-sitter.
+- [winfunc/stackwalk](https://github.com/winfunc/stackwalk) - Universal language-agnostic AST walking and accurate call stack generation with tree-sitter.
 - [chadaustin/photohash](https://github.com/chadaustin/photohash) - Tool for detecting duplicate photos and diffing directories
 - [Byron/jwalk](https://github.com/Byron/jwalk) - Filesystem walk performed in parallel with streamed and sorted results
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
@@ -10130,7 +10132,7 @@
 - [LegitCamper/iced_webview](https://github.com/LegitCamper/iced_webview) - An easily embedded iced web view widget
 - [LegitCamper/icy_browser](https://github.com/LegitCamper/icy_browser) - A collection of iced.rs widgets to create browsers
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild) - Cross compile rust to any platform
-- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Gui rust in rust.
+- [tessera-ui/tessera](https://github.com/tessera-ui/tessera) - Declarative UI, Custom Rendering.
 - [kdl-org/kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
@@ -10243,7 +10245,7 @@
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [nacos-group/r-nacos](https://github.com/nacos-group/r-nacos) - Nacos server re-implemented in Rust.
 - [VasanthakumarV/einops](https://github.com/VasanthakumarV/einops) - Simplistic API for deep learning tensor operations
-- [rikhuijzer/fx](https://github.com/rikhuijzer/fx) - A (micro)blogging server that you can self-host
+- [rikhuijzer/fx](https://github.com/rikhuijzer/fx) - A Twitter/Bluesky-like (micro)blogging service that you can self-host
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack
 - [probelabs/probe](https://github.com/probelabs/probe) - Probe is an AI-friendly, fully local, semantic code search engine which which works with for large codebases. The final missing building block for next generation of AI coding tools.
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
@@ -10259,7 +10261,7 @@
 - [veeso/orange-trees](https://github.com/veeso/orange-trees) - 🍊 A Rust implementation of the Tree data structure 🍊
 - [veeso/tui-realm-treeview](https://github.com/veeso/tui-realm-treeview) - 🌲 treeview component for tui-realm 👑
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach
-- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project.
+- [vortex-data/vortex](https://github.com/vortex-data/vortex) - An extensible, state of the art columnar file format. Formerly at @spiraldb, now an Incubation Stage project at LFAI&Data, part of the Linux Foundation.
 - [siravan/symjit](https://github.com/siravan/symjit) - 
 - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing.
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -10362,7 +10364,7 @@
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
-- [hydro-project/hydro](https://github.com/hydro-project/hydro) - A high-level distributed programming framework for Rust
+- [hydro-project/hydro](https://github.com/hydro-project/hydro) - A Rust framework for correct and performant distributed systems
 - [skerkour/black-hat-rust](https://github.com/skerkour/black-hat-rust) - Applied offensive security with Rust  - https://kerkour.com/black-hat-rust
 - [EmbarkStudios/kajiya](https://github.com/EmbarkStudios/kajiya) - 💡 Experimental real-time global illumination renderer 🦀
 - [EmbarkStudios/physx-rs](https://github.com/EmbarkStudios/physx-rs) - 🎳 Rust binding for NVIDIA PhysX 🦀
@@ -10499,7 +10501,6 @@
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [rzukic/zed-latex](https://github.com/rzukic/zed-latex) - 
 - [imrn99/poc-kokkos-rs](https://github.com/imrn99/poc-kokkos-rs) - Kokkos-rs: A Proof of Concept
-- [samitbasu/rhdl](https://github.com/samitbasu/rhdl) - A Hardware Description Language based on the Rust Programming Language
 - [stillonearth/bevy_mujoco](https://github.com/stillonearth/bevy_mujoco) - Render MuJoCo scenes in bevy
 - [ajrcarey/pdfium-render](https://github.com/ajrcarey/pdfium-render) - A high-level idiomatic Rust wrapper around Pdfium, the C++ PDF library used by the Google Chromium project.
 - [ancwrd1/qpdf-rs](https://github.com/ancwrd1/qpdf-rs) - Rust bindings for QPDF C++ library
@@ -10512,6 +10513,7 @@
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
 - [GrandmasterB42/bevyray](https://github.com/GrandmasterB42/bevyray) - Raytracing in One Weekend in Bevy
 - [rYuuk/AstroGen](https://github.com/rYuuk/AstroGen) - Procedural asteroid generator using compute shaders in bevy
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [samestep/phoebe](https://github.com/samestep/phoebe) - Automatic differentiation for Rust.
@@ -10657,7 +10659,7 @@
 - [egraphs-good/egglog](https://github.com/egraphs-good/egglog) - egraphs + datalog!
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
-- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [benruijl/symbolica](https://github.com/benruijl/symbolica) - A modern computer algebra library for Python and Rust.
@@ -10677,7 +10679,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [lurk-lab/lurk-beta](https://github.com/lurk-lab/lurk-beta) - Lurk is a Turing-complete programming language for recursive zk-SNARKs. This is the prior, elliptic curve based variant of Lurk (contact: @porcuquine)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [randombit/wycheproof-rs](https://github.com/randombit/wycheproof-rs) - Wycheproof for Rust
@@ -10717,7 +10719,6 @@
 - [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
 - [EnzymeAD/oxide-enzyme](https://github.com/EnzymeAD/oxide-enzyme) - Enzyme integration into Rust. Experimental, do not use.
 - [dginev/CorTeX](https://github.com/dginev/CorTeX) - A general purpose processing framework for corpora of scientific documents
-- [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
 - [xu-cheng/katex-rs](https://github.com/xu-cheng/katex-rs) - Rust bindings to KaTeX
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
@@ -11210,7 +11211,7 @@
 - [g1mv/density](https://github.com/g1mv/density) - Superfast compression library
 - [chewing/libchewing](https://github.com/chewing/libchewing) - libchewing - The intelligent phonetic input method library
 - [augustl/halt](https://github.com/augustl/halt) - OS where everything is immutable! (Experimental)
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
 ## SCSS 
 
@@ -11718,7 +11719,6 @@
 - [champsproject/chem_react_dyn](https://github.com/champsproject/chem_react_dyn) - Book on Chemical Reactions and Dynamical Systems
 - [gjoncas/Diagrammatic](https://github.com/gjoncas/Diagrammatic) - Philosophy diagrams in Ti𝑘Z
 - [gjoncas/Lacan-Mathemes](https://github.com/gjoncas/Lacan-Mathemes) - Ti𝑘Z diagrams of mathemes from Lacanian psychoanalysis
-- [cnewstead/infdesc](https://github.com/cnewstead/infdesc) - An Infinite Descent into Pure Mathematics
 - [st--/annotate-equations](https://github.com/st--/annotate-equations) - LaTeX package and annotated examples for annotating equations using TikZ.
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz.
 - [naproche/naproche](https://github.com/naproche/naproche) - Write formal proofs in natural language and LaTeX.
@@ -11835,7 +11835,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [zig-wasm/zig-mcp](https://github.com/zig-wasm/zig-mcp) - Model Context Protocol (MCP) server that provides up-to-date documentation for the Zig programming language standard library and builtin functions
 - [alexander-turner/TurnTrout.com](https://github.com/alexander-turner/TurnTrout.com) - A blog on AI, personal development, and living a good life.
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
@@ -11854,7 +11854,7 @@
 - [markmanx/isoflow](https://github.com/markmanx/isoflow) - 
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
-- [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [seifghazi/claude-code-proxy](https://github.com/seifghazi/claude-code-proxy) - Proxy that captures and visualizes in-flight Claude Code requests and conversations.
 - [NativeMindBrowser/NativeMindExtension](https://github.com/NativeMindBrowser/NativeMindExtension) - NativeMind: Your fully private, open-source, on-device AI assistant
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open-source, vision-first browser agent
@@ -11870,6 +11870,7 @@
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - BrowserOS is an open-source agentic web browser.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [Meridius-Labs/apple-on-device-ai](https://github.com/Meridius-Labs/apple-on-device-ai) - Apple foundation model bindings for NodeJS (supports Vercel AI SDK)
@@ -11889,6 +11890,7 @@
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 - [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
@@ -11898,7 +11900,7 @@
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI pair programming with ChatGPT, Gemini, Claude, and more
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with ChatGPT, Gemini, Claude, and 10+ more
 - [TayzenDev/smallblog](https://github.com/TayzenDev/smallblog) - An easy and straighforward blog engine designed with smallweb in mind (should work in any deno environment).
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, rotation, se
@@ -12420,7 +12422,6 @@
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -12491,6 +12492,7 @@
 ## Verilog 
 
 - [pbonh/syndex](https://github.com/pbonh/syndex) - Synthesis Database: Mapping LLHD Digital Logic to Arbitrary Domains via an ECS, backed by LibrEDA-DB
+- [samitbasu/rhdl](https://github.com/samitbasu/rhdl) - A Hardware Description Language based on the Rust Programming Language
 - [davidar/fpgatoy](https://github.com/davidar/fpgatoy) - Shadertoy for FPGAs
 
 ## Vim Script 

@@ -1280,7 +1280,7 @@
 - [llvm-mirror/clang-tools-extra](https://github.com/llvm-mirror/clang-tools-extra) - Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project
 - [facebookarchive/facebook-clang-plugins](https://github.com/facebookarchive/facebook-clang-plugins) - Plugins to clang-analyzer and clang-frontend
 - [verateam/vera](https://github.com/verateam/vera) - A programmable tool for verification, analysis and transformation of C++ source code
-- [LegalizeAdulthood/iterated-dynamics](https://github.com/LegalizeAdulthood/iterated-dynamics) - Iterated Dynamics is an open source fractal generator with support for many fractal types.
+- [LegalizeAdulthood/iterated-dynamics](https://github.com/LegalizeAdulthood/iterated-dynamics) - Iterated Dynamics is an open source fractal renderer with support for many fractal types.
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [bombela/backward-cpp](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -4601,7 +4601,6 @@
 - [jnordberg/gif.js](https://github.com/jnordberg/gif.js) - JavaScript GIF encoding library
 - [PixelsCommander/HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
 - [pa7/nude.js](https://github.com/pa7/nude.js) - Nudity detection with JavaScript and HTMLCanvas
-- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [meteorhacks/sikka](https://github.com/meteorhacks/sikka) - Sikka - A Firewall for Meteor Apps
 - [tape-testing/tape](https://github.com/tape-testing/tape) - tap-producing test harness for node and browsers
 - [stackgl/webgl-workshop](https://github.com/stackgl/webgl-workshop) - :mortar_board: The sequel to shader-school: Learn the WebGL API
@@ -6466,6 +6465,7 @@
 - [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the Hugging Face Deep Reinforcement Learning Course.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [MattFerraro/devsite](https://github.com/MattFerraro/devsite) - The source for the dev site
+- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## MLIR 
@@ -7588,6 +7588,7 @@
 
 ## Python 
 
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [tim-janik/imagewmark](https://github.com/tim-janik/imagewmark) - Resilient watermarking of digital images
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [likeflyme/cloudbak](https://github.com/likeflyme/cloudbak) - 微信云备份，备份到服务器、Docker、NAS，Web访问。
@@ -7946,7 +7947,7 @@
 - [dabeaz/sly](https://github.com/dabeaz/sly) - Sly Lex Yacc
 - [rixx/git-backdate](https://github.com/rixx/git-backdate) - Backdate a commit or range of commit to a date or range of dates.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [nicoddemus/pytest-rich](https://github.com/nicoddemus/pytest-rich) - pytest + rich integration (proof of concept)
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!

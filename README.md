@@ -6785,6 +6785,7 @@
 - [github/copilot-language-server-release](https://github.com/github/copilot-language-server-release) - Feedback for the GitHub Copilot Language Server
 - [passivestar/godot-minimal-theme](https://github.com/passivestar/godot-minimal-theme) - Godot Minimal Theme
 - [lengyijun/awesome-lambda-calculus](https://github.com/lengyijun/awesome-lambda-calculus) - 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [JShollaj/awesome-llm-web-ui](https://github.com/JShollaj/awesome-llm-web-ui) - A curated list of awesome Large Language Model (LLM) Web User Interfaces.
 - [ben637482548/deepseek-r1-mac-finetuning-guide](https://github.com/ben637482548/deepseek-r1-mac-finetuning-guide) - A comprehensive guide for fine-tuning DeepSeek-R1 (distilled Llama) locally on Apple Silicon Macs. Includes detailed step-by-step instructions, error resolution, and optimization techniques using Unsl
 - [MoonshotAI/Moonlight](https://github.com/MoonshotAI/Moonlight) - Muon is Scalable for LLM Training
@@ -10762,7 +10763,7 @@
 - [lurk-lab/lurk-beta](https://github.com/lurk-lab/lurk-beta) - Lurk is a Turing-complete programming language for recursive zk-SNARKs. This is the prior, elliptic curve based variant of Lurk (contact: @porcuquine)
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
 - [yeslogic/allsorts](https://github.com/yeslogic/allsorts) - Font parser, shaping engine, and subsetter implemented in Rust
 - [randombit/wycheproof-rs](https://github.com/randombit/wycheproof-rs) - Wycheproof for Rust
 - [polymonster/maths-rs](https://github.com/polymonster/maths-rs) - Linear algebra library for graphics and gamedev.
@@ -12626,6 +12627,7 @@
 
 ## Vue 
 
+- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [blacklight/gpstracker](https://github.com/blacklight/gpstracker) - A mobile-friendly web application to store and visualize your self-hosted location data. Read-only mirror of https://git.platypush.tech/blacklight/gpstracker

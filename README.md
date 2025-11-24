@@ -265,6 +265,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
+- [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) - take off every zig
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [Chuyu-Team/vc-ltl-samples](https://github.com/Chuyu-Team/vc-ltl-samples) - Usage samples for the VC-LTL.
 - [fsavje/math-with-slack](https://github.com/fsavje/math-with-slack) - Rendered math (MathJax) with Slack's desktop client
@@ -412,7 +413,6 @@
 - [flibitijibibo/SDL](https://github.com/flibitijibibo/SDL) - Simple Directmedia Layer
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
-- [ziglang/zig-bootstrap](https://github.com/ziglang/zig-bootstrap) - take off every zig
 - [commonmark/cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C
 - [floooh/sokol-zig](https://github.com/floooh/sokol-zig) - Zig bindings for the sokol headers (https://github.com/floooh/sokol)
 - [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
@@ -840,7 +840,7 @@
 - [uwerat/qskinny](https://github.com/uwerat/qskinny) - A lightweight framework on top of the Qt scene graph and only few classes from Qt/Quick. It is usable from C++ and/or QML.
 - [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso) - Mathematical Expression Parser and JIT Compiler
 - [h2337/cppq](https://github.com/h2337/cppq) - Simple, reliable & efficient distributed task queues for C++17
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for consumer devices.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for mobile devices.
 - [ClickHouse/ai-sdk-cpp](https://github.com/ClickHouse/ai-sdk-cpp) - The AI Toolkit for Modern C++. From the engineers at ClickHouse, ai-sdk-cpp is a free, open‑source library for building AI‑powered applications and agents.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [simdutf/simdutf](https://github.com/simdutf/simdutf) - Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension, LoongArch64, POWER. Part of Node.js, WebKit/Safari, Ladybi
@@ -7616,6 +7616,7 @@
 
 ## Python 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [MeF0504/aftviewer](https://github.com/MeF0504/aftviewer) - TUI viewer of any file type
 - [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS
 - [QQBackup/QQ-History-Backup](https://github.com/QQBackup/QQ-History-Backup) - 【停更】QQ/TIM 聊天记录导出为 HTML，支持图片、语音，可 GUI 与 非 GUI 操作 (Python)
@@ -11905,6 +11906,7 @@
 
 ## TypeScript 
 
+- [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [MJRT/markdown-it-tasks](https://github.com/MJRT/markdown-it-tasks) - 
 - [mark-when/c2](https://github.com/mark-when/c2) - A (frankenstein-esque) resurrection of oneview
 - [seanlowe/obsidian-timelines](https://github.com/seanlowe/obsidian-timelines) - Create a timeline view of all notes with the specified combination of tags

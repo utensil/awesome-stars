@@ -2017,7 +2017,6 @@
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 - [bertmaher/simplegemm](https://github.com/bertmaher/simplegemm) - 
-- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 - [harp-lab/vflog](https://github.com/harp-lab/vflog) - vertical + gpu + free join + datalog
 - [feiwang3311/Lantern](https://github.com/feiwang3311/Lantern) - 
 - [siboehm/SGEMM_CUDA](https://github.com/siboehm/SGEMM_CUDA) - Fast CUDA matrix multiplication from scratch
@@ -3170,6 +3169,7 @@
 - [AlloyTools/org.alloytools.alloy](https://github.com/AlloyTools/org.alloytools.alloy) - Alloy is a language for describing structures and a tool for exploring them. It has been used in a wide range of applications from finding holes in security mechanisms to designing telephone switching
 - [AlexBenton/Teaching](https://github.com/AlexBenton/Teaching) - Sample code for Further Graphics lectures, Cambridge University.
 - [oripa/oripa](https://github.com/oripa/oripa) - ORIPA is a drawing software dedicated to designing the crease patterns of origami. The unique feature of ORIPA is calculation of the folded shape from the pattern.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [InterworldTransport/Clados](https://github.com/InterworldTransport/Clados) - Clifford Algebra Library - Interworld Transport Project
 - [ice1000/anqur](https://github.com/ice1000/anqur) - Elaboration with inductive types
 - [ice1000/guest0x0](https://github.com/ice1000/guest0x0) - Neon lights in the night tonight and stars that shine in the open sky
@@ -3660,7 +3660,7 @@
 - [observablehq/stdlib](https://github.com/observablehq/stdlib) - The Observable standard library.
 - [thosgood/maths-dictionary](https://github.com/thosgood/maths-dictionary) - multilingual dictionary of mathematical terminology
 - [LocalCharts/silviculture](https://github.com/LocalCharts/silviculture) - 
-- [alishobeiri/thread](https://github.com/alishobeiri/thread) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
+- [alishobeiri/thread](https://github.com/alishobeiri/thread) - AI-powered Jupyter Notebook. Use AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [Schneegans/dynamic-badges-action](https://github.com/Schneegans/dynamic-badges-action) - This action allows you to create badges for your README.md with shields.io which may change with every commit. To do this, this action does not need to push anything to your repository!
 - [msys2/setup-msys2](https://github.com/msys2/setup-msys2) - GitHub Action to setup MSYS2
 - [linux-china/js-engine-benchmark](https://github.com/linux-china/js-engine-benchmark) - JavaScript Engine benchmark: V8 vs JSC, Bun vs Deno vs Node, Zig vs Cpp vs Rust
@@ -6830,7 +6830,6 @@
 - [appcypher/awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) - A list of webassemby runtimes
 - [jakoch/rasterizers](https://github.com/jakoch/rasterizers) - Precompiled libraries for the software rasterizers Mesa's LLVMpipe and Google's Swiftshader for Windows. Builds are used by https://github.com/jakoch/install-vulkan-sdk-action
 - [adamnemecek/traceoid.ai](https://github.com/adamnemecek/traceoid.ai) - 
-- [ManimCommunity/awesome-manim](https://github.com/ManimCommunity/awesome-manim) - A database with many Manim users and content creators
 - [Frederisk/kaggle-action](https://github.com/Frederisk/kaggle-action) - Execute free GPU CI/CD with kaggle
 - [eisenbud/PracticalCurvesDraft](https://github.com/eisenbud/PracticalCurvesDraft) - 
 - [multimedia-berkeley/OriSet](https://github.com/multimedia-berkeley/OriSet) - Dataset with images of origami.
@@ -7684,7 +7683,7 @@
 - [disler/aider-mcp-server](https://github.com/disler/aider-mcp-server) - Minimal MCP Server for Aider
 - [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai) - A neurosymbolic perspective on LLMs
 - [LandGrey/pydictor](https://github.com/LandGrey/pydictor) - A powerful and useful hacker dictionary builder for a brute-force attack
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
 - [instavm/coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
 - [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) - Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
@@ -7757,7 +7756,7 @@
 - [takashiishida/arxiv-latex-mcp](https://github.com/takashiishida/arxiv-latex-mcp) - MCP server that uses arxiv-to-prompt to fetch and process arXiv LaTeX sources for precise interpretation of mathematical expressions in scientific papers.
 - [takashiishida/arxiv-to-prompt](https://github.com/takashiishida/arxiv-to-prompt) - Transform arXiv papers into a single LaTeX source that can be used as a prompt for asking LLMs questions about the paper.
 - [ndchikin/reference-mcp](https://github.com/ndchikin/reference-mcp) - Get citation data from CiteAs and Google Scholar
-- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - 
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - Pioneering Automated GUI Interaction with Native Agents
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 - [docling-project/docling-mcp](https://github.com/docling-project/docling-mcp) - Making docling agentic through MCP
 - [Kvadratni/speech-mcp](https://github.com/Kvadratni/speech-mcp) - Speech MCP: A Goose MCP extension for voice interaction with audio visualization
@@ -7871,6 +7870,7 @@
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [QuixiAI/dolphin-mcp](https://github.com/QuixiAI/dolphin-mcp) - 
+- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [romainrbr/immich-face-to-album](https://github.com/romainrbr/immich-face-to-album) - Tool allowing to sync Immich's user face to a specific album
 - [ZingLix/immich-geodata-cn](https://github.com/ZingLix/immich-geodata-cn) - 为 Immich 提供中文反向地理编码支持，将照片拍摄地点转换为熟悉的中文名称，并支持通过中文地名搜索照片
@@ -8103,7 +8103,6 @@
 - [helblazer811/ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [bmmtstb/manim-meshes](https://github.com/bmmtstb/manim-meshes) - 2D and 3D basic mesh implementation for manim
-- [ManimCommunity/manim_editor](https://github.com/ManimCommunity/manim_editor) - Web Presenter for Mathematical Animations using Manim.
 - [kacperkan/drawio2pdf](https://github.com/kacperkan/drawio2pdf) - Script to convert your beautiful draw.io diagrams into tikz-like figures! 📈
 - [thomas-saigre/tikzplotly](https://github.com/thomas-saigre/tikzplotly) - Export plotly figures as TikZ/PGFplots for integration in LaTeX
 - [ltrujello/Tikz-Python](https://github.com/ltrujello/Tikz-Python) - An object-oriented Python approach towards providing a giant wrapper for Tikz code, with the goal of streamlining the process of creating complex figures for TeX documents.
@@ -8849,7 +8848,6 @@
 - [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
 - [Myskiv-Ivan/SecTools](https://github.com/Myskiv-Ivan/SecTools) - List of tools for SecDevOps, vulnerability analysis, network scanning
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 - [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
@@ -10241,7 +10239,7 @@
 - [zeonzip/ansic](https://github.com/zeonzip/ansic) - Ansic is a modern, efficient and compile time ansi macro and utilities.
 - [houqp/kiorg](https://github.com/houqp/kiorg) - A hacker's file manager with VIM inspired keybind
 - [caiyih/bakaos](https://github.com/caiyih/bakaos) - The bare metal kernel that tests directly with `cargo test`
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Ship agents faster. Arch is delivery infrastructure for agentic apps — a models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
@@ -10424,7 +10422,7 @@
 - [grtlr/fjadra](https://github.com/grtlr/fjadra) - Library for simulating physical forces on particles, heavily inspired by d3-force.
 - [parasyte/hd](https://github.com/parasyte/hd) - Hex Display: A modern xxd alternative.
 - [greyblake/nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees  🇺🇦 🦀
-- [dagrs-dev/dagrs](https://github.com/dagrs-dev/dagrs) - A DAG engine build by Rust
+- [dagrs-dev/dagrs](https://github.com/dagrs-dev/dagrs) - High-performance, Rust-based asynchronous task programming framework implementing Flow-Based Programming for scalable directed acyclic graph (DAG) task orchestration
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [lox-space/lox](https://github.com/lox-space/lox) - Oxidized Astrodynamics
 - [wasm-bindgen/walrus](https://github.com/wasm-bindgen/walrus) - Walrus is a WebAssembly transformation library 🌊🐘
@@ -12010,7 +12008,7 @@
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Context-first AI coding extension for VS Code, Cursor, and others. Free, open-source, and privacy-focused.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Context-first AI coding extension for VS Code, Cursor, and others.
 - [TayzenDev/smallblog](https://github.com/TayzenDev/smallblog) - An easy and straighforward blog engine designed with smallweb in mind (should work in any deno environment).
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, rotation, se
@@ -12193,7 +12191,6 @@
 - [hhu-adam/lean4monaco](https://github.com/hhu-adam/lean4monaco) - Browser support for Lean using a monaco editor.
 - [amandaghassaei/gpu-io](https://github.com/amandaghassaei/gpu-io) - A GPU-accelerated computing library for running physics simulations and other GPGPU computations in a web browser.
 - [stevensona/shader-toy](https://github.com/stevensona/shader-toy) - Shadertoy-like live preview for GLSL shaders in Visual Studio Code
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [cqb13/Learning-Latin](https://github.com/cqb13/Learning-Latin) - A website with many resources to help you learn Latin!
 - [YoWASP/vscode](https://github.com/YoWASP/vscode) - YoWASP toolchain for Visual Studio Code

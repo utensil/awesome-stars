@@ -2768,7 +2768,7 @@
 - [hkhetawat/QArithmetic](https://github.com/hkhetawat/QArithmetic) - Arithmetic library for IBM Qiskit
 - [iandol/scrivomatic](https://github.com/iandol/scrivomatic) - A writing workflow using Scrivener's style system + Pandoc for output…
 - [loup-brun/hugo-cite](https://github.com/loup-brun/hugo-cite) - 📝 Easily manage your bibliography and in-text citations with Hugo, the popular static-site generator.
-- [HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - ⚡ HugoBlox: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
 - [joksas/hugo-simplecite](https://github.com/joksas/hugo-simplecite) - Citations in Hugo websites.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [vscode-elements/elements](https://github.com/vscode-elements/elements) - Web component library for developing Visual Studio Code extensions
@@ -5887,7 +5887,6 @@
 - [mperrin/webbpsf](https://github.com/mperrin/webbpsf) - James Webb Space Telescope PSF simulation tool - NOTE THIS VERSION OF REPO IS SUPERCEDED BY spacetelescope/webbpsf
 - [suragnair/alpha-zero-general](https://github.com/suragnair/alpha-zero-general) - A clean implementation based on AlphaZero for any game in any framework + tutorial + Othello/Gobang/TicTacToe/Connect4 and more
 - [mperrin/poppy](https://github.com/mperrin/poppy) - Physical Optics Propagation in Python
-- [jeffalstott/powerlaw](https://github.com/jeffalstott/powerlaw) - 
 - [gjbex/training-material](https://github.com/gjbex/training-material) - A collection of code examples as well as presentations for training purposes
 - [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild
 - [zotroneneis/machine_learning_basics](https://github.com/zotroneneis/machine_learning_basics) - Plain python implementations of basic machine learning algorithms
@@ -6088,7 +6087,7 @@
 - [leanprover/leansat](https://github.com/leanprover/leansat) - This package provides an interface and foundation for verified SAT reasoning
 - [jsm28/AperiodicMonotilesLean](https://github.com/jsm28/AperiodicMonotilesLean) - Lean formalization of aperiodic monotiles papers (staging repository for material not yet in mathlib)
 - [JamesGallicchio/http](https://github.com/JamesGallicchio/http) - Basic HTTP definitions and parsing for Lean
-- [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) - blueprint for prime number theorem and more
+- [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd) - Blueprint for the PNT+ Project
 - [opencompl/egg-tactic-code](https://github.com/opencompl/egg-tactic-code) - 
 - [0art0/lean-slides](https://github.com/0art0/lean-slides) - A tool to auto-generate and render slides from Markdown comments in the Lean editor.
 - [extism/lean4-sdk](https://github.com/extism/lean4-sdk) - Extism Lean4 Host SDK - easily run WebAssembly modules / plugins from Lean4 applications
@@ -7657,7 +7656,7 @@
 - [obeone/multi-registry-cache](https://github.com/obeone/multi-registry-cache) - Multi-registry cache for Docker/containerd, optimizing image pulls using the original registry image
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [sebastien/multiplex](https://github.com/sebastien/multiplex) - Command-line process multiplexer
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [sethkarten/LLM-Economist](https://github.com/sethkarten/LLM-Economist) - Official repository of the 2025 paper, LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra.
 - [mozilla-ai/any-agent](https://github.com/mozilla-ai/any-agent) - A single interface to use and evaluate different agent frameworks
 - [mozilla-ai/any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
@@ -7886,7 +7885,7 @@
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [mzbac/mlx_sharding](https://github.com/mzbac/mlx_sharding) - Distributed Inference for mlx LLm
 - [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / 企微 / 飞书 / 钉钉 / Discord 等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. ✨
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) - Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL
@@ -8072,7 +8071,6 @@
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [zichenwang01/relaxed-boundary](https://github.com/zichenwang01/relaxed-boundary) - This is the official implementation of "A Simple Approach to Differentiable Rendering of SDFs"
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [srush/triton-autodiff](https://github.com/srush/triton-autodiff) - Experiment of using Tangent to autodiff triton
 - [LeCAR-Lab/dial-mpc](https://github.com/LeCAR-Lab/dial-mpc) - Official implementation for the paper "Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing". DIAL-MPC is a novel sampling-based MPC framework for legged rob
 - [tlkh/asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
@@ -9083,6 +9081,7 @@
 - [lixilinx/psgd_tf](https://github.com/lixilinx/psgd_tf) - Tensorflow implementation of preconditioned stochastic gradient descent
 - [liam2/liam2](https://github.com/liam2/liam2) - Framework for developping microsimulation models
 - [pmgbergen/porepy](https://github.com/pmgbergen/porepy) - Python Simulation Tool for Fractured and Deformable Porous Media
+- [jeffalstott/powerlaw](https://github.com/jeffalstott/powerlaw) - 
 - [pywr/pywr](https://github.com/pywr/pywr) - Pywr is a generalised network resource allocation model written in Python.
 - [bjodah/chempy](https://github.com/bjodah/chempy) - ⚗ A package useful for chemistry written in Python
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
@@ -10266,7 +10265,7 @@
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [panter-dsd/tatuin](https://github.com/panter-dsd/tatuin) - Tatuin (Task Aggregator TUI for N providers)
 - [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
@@ -10812,7 +10811,7 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics
+- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
@@ -11915,8 +11914,9 @@
 
 ## TypeScript 
 
+- [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
@@ -11991,7 +11991,7 @@
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [Meridius-Labs/apple-on-device-ai](https://github.com/Meridius-Labs/apple-on-device-ai) -  Apple foundation model bindings for NodeJS (supports Vercel AI SDK)
 - [kamilmac/unibear](https://github.com/kamilmac/unibear) - A lean TUI AI assistant.
@@ -12020,7 +12020,7 @@
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Autofill for chatbots. Never copy and paste again!
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC makes it easy to construct coding prompts for chatbots and APIs.
 - [TayzenDev/smallblog](https://github.com/TayzenDev/smallblog) - An easy and straighforward blog engine designed with smallweb in mind (should work in any deno environment).
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, rotation, se
@@ -12156,6 +12156,7 @@
 - [DesignLiquido/xslt-processor](https://github.com/DesignLiquido/xslt-processor) - A JavaScript XSLT processor without native library dependencies
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [nefrob/vscode-just](https://github.com/nefrob/vscode-just) - VSCode syntax highlighting for just files
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [banana-space/btex](https://github.com/banana-space/btex) - 
 - [Trebor-Huang/vscode-forester](https://github.com/Trebor-Huang/vscode-forester) - VSCode support for Forester
 - [WolframResearch/vscode-wolfram](https://github.com/WolframResearch/vscode-wolfram) - Official Visual Studio Code extension for Wolfram Language

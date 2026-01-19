@@ -3191,7 +3191,7 @@
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [201206030/novel-plus](https://github.com/201206030/novel-plus) - novel-plus 是一个多端（PC、WAP）阅读 、功能完善的小说 CMS 系统。包括小说推荐、小说检索、小说排行、小说阅读、小说书架、小说评论、小说爬虫、会员中心、作家专区、充值订阅、新闻发布等功能。
 - [killme2008/aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
-- [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
+- [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
 - [takidau/streamingbook](https://github.com/takidau/streamingbook) - Code snippets from the Streaming Systems book (streamingbook.net).
 - [LuckyPuppy514/jproxy](https://github.com/LuckyPuppy514/jproxy) - 介于 Sonarr / Radarr 和 Jackett / Prowlarr 之间的代理，主要用于优化查询和提升识别率 | A proxy between Sonarr / Radarr and Jackett / Prowlarr, mainly used to optimize search and improve recognition rate
 - [MaxiHuHe04/iTunes-Backup-Explorer](https://github.com/MaxiHuHe04/iTunes-Backup-Explorer) - A graphical tool that can extract and replace files from encrypted and non-encrypted iOS backups
@@ -3227,7 +3227,7 @@
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for m
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [soabase/exhibitor](https://github.com/soabase/exhibitor) - ZooKeeper co-process for instance monitoring, backup/recovery, cleanup and visualization.
@@ -9682,7 +9682,7 @@
 - [zhengpushi/VQCS](https://github.com/zhengpushi/VQCS) - Formally Verified Quantity Calculus System (in Coq)
 - [MetaRocq/metarocq](https://github.com/MetaRocq/metarocq) - Metaprogramming, verified meta-theory and implementation of Rocq in Rocq
 - [logsem/aneris](https://github.com/logsem/aneris) - Program logic for developing and verifying distributed systems
-- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains.
+- [formal-land/rocq-of-rust](https://github.com/formal-land/rocq-of-rust) - Formal verification tool for Rust: check 100% of execution cases of your programs to make safe applications for demanding domains. 🇬🇱
 - [ccz181078/Coq-BB5](https://github.com/ccz181078/Coq-BB5) - 
 - [kcrary/istari](https://github.com/kcrary/istari) - 
 - [rocq-community/semantics](https://github.com/rocq-community/semantics) - A survey of semantics styles in Coq, from natural semantics through structural operational, axiomatic, and denotational semantics, to abstract interpretation [maintainer=@k4rtik]

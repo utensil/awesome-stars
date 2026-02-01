@@ -387,6 +387,7 @@
 
 ## agent 
 
+- [banteg/takopi](https://github.com/banteg/takopi) - he just wants to help-pi!
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [alDuncanson/Handler](https://github.com/alDuncanson/Handler) - A2A Protocol client and developer toolkit.
 - [Blushyes/coro-code](https://github.com/Blushyes/coro-code) - Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
@@ -2552,7 +2553,7 @@
 
 ## compiler 
 
-- [cdervis/cppstat](https://github.com/cdervis/cppstat) - C and C++ Compiler Support Status Page
+- [cdervis/cppstat](https://github.com/cdervis/cppstat) - C and C++ Compiler Support Page
 - [h2337/cparse](https://github.com/h2337/cparse) - cparse is an LR(1) and LALR(1) parser generator
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [chapel-lang/chapel](https://github.com/chapel-lang/chapel) - a Productive Parallel Programming Language
@@ -2755,7 +2756,7 @@
 
 ## cpp 
 
-- [cdervis/cppstat](https://github.com/cdervis/cppstat) - C and C++ Compiler Support Status Page
+- [cdervis/cppstat](https://github.com/cdervis/cppstat) - C and C++ Compiler Support Page
 - [llnl/camp](https://github.com/llnl/camp) - Compiler agnostic metaprogramming library providing concepts, type operations and tuples for C++ and cuda
 - [joernio/joern](https://github.com/joernio/joern) - Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
 - [microsoft/msquic](https://github.com/microsoft/msquic) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
@@ -10266,8 +10267,11 @@
 
 ## others 
 
+- [ajoslin/opencode-telegram-mirror](https://github.com/ajoslin/opencode-telegram-mirror) - 
+- [msmps/pilotty](https://github.com/msmps/pilotty) - Daemon-managed PTY sessions for AI agents to interact with terminal applications
+- [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 - [caesarnine/binsmith](https://github.com/caesarnine/binsmith) - 
-- [clharman/afk-code](https://github.com/clharman/afk-code) - Interact with local Claude Code sessions using Slack, Discord, and Telegram
+- [clharman/afk-code](https://github.com/clharman/afk-code) - Interact with local Claude Code sessions From Telegram, Discord, Slack
 - [JackeyCloud/wechat-editor-lite](https://github.com/JackeyCloud/wechat-editor-lite) - 
 - [lxgw/LxgwXiHei](https://github.com/lxgw/LxgwXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [LTH14/JiT](https://github.com/LTH14/JiT) - PyTorch implementation of JiT https://arxiv.org/abs/2511.13720
@@ -10926,7 +10930,7 @@
 - [bosswnx/huiwenmincho-improved](https://github.com/bosswnx/huiwenmincho-improved) - 汇文明朝体修正
 - [ahwillia/Einsum.jl](https://github.com/ahwillia/Einsum.jl) - Einstein summation notation in Julia
 - [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR
-- [b-mehta/formalising-mathematics-notes](https://github.com/b-mehta/formalising-mathematics-notes) - Course notes for Formalising Mathematics 2025
+- [b-mehta/formalising-mathematics-notes](https://github.com/b-mehta/formalising-mathematics-notes) - Course notes for Formalising Mathematics 2026
 - [udoprog/syntree](https://github.com/udoprog/syntree) - A memory efficient syntax tree for language developers
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [ReturnInfinity/BareMetal-OS](https://github.com/ReturnInfinity/BareMetal-OS) - Build script for BareMetal OS and its related utilities
@@ -20610,6 +20614,7 @@
 
 ## telegram 
 
+- [banteg/takopi](https://github.com/banteg/takopi) - he just wants to help-pi!
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
@@ -21788,7 +21793,7 @@
 
 ## website 
 
-- [cdervis/cppstat](https://github.com/cdervis/cppstat) - C and C++ Compiler Support Status Page
+- [cdervis/cppstat](https://github.com/cdervis/cppstat) - C and C++ Compiler Support Page
 - [vsheg/tufted](https://github.com/vsheg/tufted) - Responsive web layout with wide margins, elegant sidenotes, and restrained typography
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [TungstenHub/tngt-d3js](https://github.com/TungstenHub/tngt-d3js) - D3.js scripts used in Tungsteno

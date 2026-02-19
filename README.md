@@ -3594,7 +3594,6 @@
 - [WebAR-rocks/WebAR.rocks.train](https://github.com/WebAR-rocks/WebAR.rocks.train) - Object detection, tracking, and 6DoF pose estimation in the web browser, integrated training environment to train your own neural network models 🚀
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [Kalabasa/leanrada.com](https://github.com/Kalabasa/leanrada.com) - Personal webpage.
-- [marimo-team/quarto-marimo](https://github.com/marimo-team/quarto-marimo) - marimo extension for Quarto ⚡ run reactive code inside Quarto
 - [davidkingzyb/SCAST](https://github.com/davidkingzyb/SCAST) - Static Code Analysis and Visualization. Convert Code to UML and Flow Diagram and explain by AI.
 - [chung-leong/zigar](https://github.com/chung-leong/zigar) - Toolkit enabling the use of Zig code in JavaScript projects
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) - A CLI inspector for the Model Context Protocol
@@ -3768,7 +3767,6 @@
 - [JasonFengGit/Visualizer](https://github.com/JasonFengGit/Visualizer) - A single-page website aiming to provide innovative and intuitive visualizations of common and AI algorithms.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
@@ -6770,7 +6768,7 @@
 - [jedisct1/zig-for-mcp](https://github.com/jedisct1/zig-for-mcp) - MCP-friendly Zig documentation.
 - [sogaiu/janet-features-demos](https://github.com/sogaiu/janet-features-demos) - Janet Features List Demos
 - [simonw/simonwillisonblog-backup](https://github.com/simonw/simonwillisonblog-backup) - Backups of the database for simonwillison.net
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [thatshubham/no-ai](https://github.com/thatshubham/no-ai) - This repository will be a community-curated list of software and resources that explicitly avoid the integration of artificial intelligence.
 - [donbarbos/awesome-standards](https://github.com/donbarbos/awesome-standards) - A curated list of technical standards, they may be called requests for comments, proposals, drafts, notes, specifications, or something else
 - [Atcold/Energy-Book](https://github.com/Atcold/Energy-Book) - Deep Learning, an Energy Approach
@@ -7798,7 +7796,7 @@
 - [clchinkc/streamlit-editor](https://github.com/clchinkc/streamlit-editor) - Personal project, Generative AI, Streamlit, Python
 - [ispras/dedoc](https://github.com/ispras/dedoc) - Dedoc is a library (service) for automate documents parsing and bringing to a uniform format. It automatically extracts content, logical structure, tables, and meta information from textual electronic
 - [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) - Legacy Python library for Agentic Document Extraction (ADE). Use the landingai-ade library for all new projects.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build multi-agent systems with streaming, memory, governance, and request isolation.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
 - [googlefonts/picosvg](https://github.com/googlefonts/picosvg) - Helps simplify SVG files. Intended for use as part of a font build.
 - [ezyang/ezbench](https://github.com/ezyang/ezbench) - Fork of Carlini's yet-another-applied-llm-benchmark for me to accumulate some of my own real world eval cases
 - [carlini/yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
@@ -7951,7 +7949,7 @@
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [mzbac/mlx_sharding](https://github.com/mzbac/mlx_sharding) - Distributed Inference for mlx LLm
 - [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your openclaw alternative. ✨
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) - Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL
@@ -11184,7 +11182,7 @@
 - [servo/webrender](https://github.com/servo/webrender) - A GPU-based renderer for the web
 - [DSpeckhals/bible.rs](https://github.com/DSpeckhals/bible.rs) - A Bible server written in Rust using Actix Web and Diesel
 - [mozilla/cbindgen](https://github.com/mozilla/cbindgen) - A project for generating C bindings from Rust code
-- [dbrgn/embedded-hal-mock](https://github.com/dbrgn/embedded-hal-mock) - Mocks for testing embedded-hal based drivers without hardware access.
+- [rust-embedded/embedded-hal-mock](https://github.com/rust-embedded/embedded-hal-mock) - Mocks for testing embedded-hal based drivers without hardware access.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
@@ -11479,6 +11477,7 @@
 
 ## Shell 
 
+- [aktech/tlume](https://github.com/aktech/tlume) - A CLI tool to seamlessly convert Tart virtual machines to Lume format with a single command
 - [justlovemaki/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
 - [lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) - A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -11715,6 +11714,7 @@
 
 ## Swift 
 
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [velox-apps/velox](https://github.com/velox-apps/velox) - Velox is a port of Tauri to Swift.
 - [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
@@ -12134,6 +12134,7 @@
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [marimo-team/quarto-marimo](https://github.com/marimo-team/quarto-marimo) - marimo extension for Quarto ⚡ run reactive code inside Quarto
 - [zasper-io/zasper](https://github.com/zasper-io/zasper) - High Performace IDE for Jupyter Notebooks
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [typedgrammar/typed-japanese](https://github.com/typedgrammar/typed-japanese) - 🌸 Learn Japanese grammar with TypeScript
@@ -12399,6 +12400,7 @@
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [qdm12/caddy-ui](https://github.com/qdm12/caddy-ui) - UI for the Caddy proxy server
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.

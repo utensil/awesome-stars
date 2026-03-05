@@ -323,7 +323,6 @@
 - [jedisct1/encpipe](https://github.com/jedisct1/encpipe) - The dum^H^H^Hsimplest encryption tool in the world.
 - [nickg/nvc](https://github.com/nickg/nvc) - VHDL compiler and simulator
 - [jb55/oot_bitset](https://github.com/jb55/oot_bitset) - A 16-bit bitset implementation used in Ocarina of Time save files
-- [Kazedaa/eBAF](https://github.com/Kazedaa/eBAF) - You wouldnt Download an Ad. But you would block one.
 - [robalb/ebpf-web-fingerprint](https://github.com/robalb/ebpf-web-fingerprint) - a golang library and webserver for fast TCP & TLS fingerprinting, powered by eBPF
 - [theZiz/aha](https://github.com/theZiz/aha) - Ansi HTML Adapter
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -832,7 +831,7 @@
 
 ## C++ 
 
-- [cdervis/cppstat](https://github.com/cdervis/cppstat) - C and C++ Compiler Support Page
+- [cppstat/cppstat](https://github.com/cppstat/cppstat) - C and C++ Compiler Support Page
 - [llnl/camp](https://github.com/llnl/camp) - Compiler agnostic metaprogramming library providing concepts, type operations and tuples for C++ and cuda
 - [adamtiger/tinyGPUlang](https://github.com/adamtiger/tinyGPUlang) - Tutorial on building a gpu compiler backend in LLVM
 - [microsoft/kanagawa](https://github.com/microsoft/kanagawa) - High level synthesis language for hardware design
@@ -1998,7 +1997,6 @@
 ## Coq 
 
 - [vrahli/Velisarios](https://github.com/vrahli/Velisarios) - A Coq-based framework to verify the correctness of Byzantine fault-tolerant distributed systems
-- [rocq-community/reglang](https://github.com/rocq-community/reglang) - Regular Language Representations in Coq [maintainers=@chdoc,@palmskog]
 - [CohenCyril/LFTCM2024_Rocq](https://github.com/CohenCyril/LFTCM2024_Rocq) - Coq/Rocq practice session @ Lean For The Curious Mathematicians 2024
 - [UCSD-PL/proverbot9001](https://github.com/UCSD-PL/proverbot9001) - 
 - [palmskog/DependentTypesForExtensiveGames](https://github.com/palmskog/DependentTypesForExtensiveGames) - In this repository I present a Coq developement of extensive games using dependent types, together with examples
@@ -3791,7 +3789,6 @@
 - [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [jojoin/tppl](https://github.com/jojoin/tppl) - 纳米级 js 模板引擎
-- [fkie-cad/friTap](https://github.com/fkie-cad/friTap) - Simplifying SSL/TLS traffic analysis for researchers by making SSL decryption effortless.
 - [dpnishant/appmon](https://github.com/dpnishant/appmon) - Documentation:
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
@@ -4849,7 +4846,6 @@
 - [webbo89/RobotFace](https://github.com/webbo89/RobotFace) - Browser animated face, intended for use with Robot Operating System (ROS). Imperial College HCR module making a robot face for screen display using browser technologies including Paper.js
 - [hybridgroup/cylon](https://github.com/hybridgroup/cylon) - JavaScript framework for robotics, drones, and the Internet of Things (IoT)
 - [openfl/lime](https://github.com/openfl/lime) - A foundational Haxe framework for cross-platform development
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
 - [rhyolight/orphan-grinder](https://github.com/rhyolight/orphan-grinder) - Finds orphaned GitHub wiki pages.
 - [anvaka/graph-drawing-libraries](https://github.com/anvaka/graph-drawing-libraries) - Trying to compare known graph drawing libraries
@@ -5893,7 +5889,7 @@
 - [ctgk/PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to develop, deploy and iterate on production-grade ML applications.
 - [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
 - [google/dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [sympy/scipy-2017-codegen-tutorial](https://github.com/sympy/scipy-2017-codegen-tutorial) - SymPy code generation tutorial at SciPy 2017
@@ -6526,7 +6522,7 @@
 
 - [GiggleLiu/ScientificComputingForPhysicists](https://github.com/GiggleLiu/ScientificComputingForPhysicists) - A scientific computing book for physicists, with Julia programming language
 - [LaikaStudios/OSLShaderWriting](https://github.com/LaikaStudios/OSLShaderWriting) - Siggraph 2024 Shader Writing in OSL Course Supplementary Material
-- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collection of awesome projects in Zig.
+- [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig) - A collaborative list of awesome Zig libraries and resources.
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [open-telemetry/opentelemetry-proto](https://github.com/open-telemetry/opentelemetry-proto) - OpenTelemetry protocol (OTLP) specification and Protobuf definitions
 - [mutouyun/cncppcon2018-cppmodules](https://github.com/mutouyun/cncppcon2018-cppmodules) - CN-CppCon-2018，关于C++ Modules的演讲
@@ -7148,7 +7144,7 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [dformoso/deeplearning-mindmap](https://github.com/dformoso/deeplearning-mindmap) - A mindmap summarising Deep Learning concepts.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
-- [basecamp/handbook](https://github.com/basecamp/handbook) - Basecamp Employee Handbook
+- [basecamp/handbook](https://github.com/basecamp/handbook) - 37signals Employee Handbook
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
@@ -7647,6 +7643,7 @@
 
 ## Python 
 
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
@@ -7752,7 +7749,7 @@
 - [asdf-community/asdf-zig](https://github.com/asdf-community/asdf-zig) - Zig plugin for the asdf version manager [maintainer=@jiacai2050]
 - [lotus-data/lotus](https://github.com/lotus-data/lotus) - AI-Powered Data Processing: Use LOTUS to process all of your datasets with LLMs and embeddings. Enjoy up to 1000x speedups with fast, accurate query processing, that's as simple as writing Pandas code
 - [i04n/sslcheck](https://github.com/i04n/sslcheck) - Command-line tool to check and monitor SSL certificate expiration across multiple domains.
-- [fferflo/einx](https://github.com/fferflo/einx) - Universal Notation for Tensor Operations in Python.
+- [fferflo/einx](https://github.com/fferflo/einx) - Universal Notation for Tensor Operations in Python
 - [substrait-io/substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 - [mengwanguc/gpemu](https://github.com/mengwanguc/gpemu) - GPEmu, a GPU emulator for faster and cheaper prototyping and evaluation of deep learning system research
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
@@ -7889,7 +7886,7 @@
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
-- [KRLabsOrg/LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect) - LettuceDetect is a hallucination detection framework for RAG applications.
+- [KRLabsOrg/LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect) - Lightweight hallucination detection framework for RAG applications
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
 - [EvanZhouDev/llm.pdf](https://github.com/EvanZhouDev/llm.pdf) - Run LLMs inside a PDF file.
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
@@ -7934,7 +7931,6 @@
 - [Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project) - 基于汇文明朝体，并以旧字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目。
 - [sdiehl/mlir-egglog](https://github.com/sdiehl/mlir-egglog) - A toy compiler for NumPy array expressions that uses e-graphs and MLIR
 - [tomhallmain/photo-similarity-search](https://github.com/tomhallmain/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [dheeraj21/11ku7-ai-coder](https://github.com/dheeraj21/11ku7-ai-coder) - Intelligent Assistance, Right in Your Terminal
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
@@ -9736,6 +9732,7 @@
 - [ccz181078/Coq-BB5](https://github.com/ccz181078/Coq-BB5) - 
 - [kcrary/istari](https://github.com/kcrary/istari) - 
 - [rocq-community/semantics](https://github.com/rocq-community/semantics) - A survey of semantics styles in Coq, from natural semantics through structural operational, axiomatic, and denotational semantics, to abstract interpretation [maintainer=@k4rtik]
+- [rocq-community/reglang](https://github.com/rocq-community/reglang) - Regular Language Representations in Coq [maintainers=@chdoc,@palmskog]
 - [rocq-community/tarjan](https://github.com/rocq-community/tarjan) - Coq formalization of algorithms due to Tarjan and Kosaraju for finding strongly connected graph components using Mathematical Components and SSReflect [maintainers=@CohenCyril,@palmskog]
 - [ndslusarz/formal_LDL](https://github.com/ndslusarz/formal_LDL) - 
 - [rocq-community/fav-ssr](https://github.com/rocq-community/fav-ssr) - Functional Data Structures and Algorithms in SSReflect [maintainer=@clayrat]
@@ -10218,6 +10215,7 @@
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
 - [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [msmps/pilotty](https://github.com/msmps/pilotty) - Daemon-managed PTY sessions for AI agents to interact with terminal applications
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
@@ -10293,7 +10291,6 @@
 - [ballsteve/xrust](https://github.com/ballsteve/xrust) - XPath, XQuery, and XSLT for Rust
 - [orxfun/orx-parallel](https://github.com/orxfun/orx-parallel) - A performant and configurable parallel computing library for computations defined as compositions of iterator methods.
 - [ilyagr/diffedit3](https://github.com/ilyagr/diffedit3) - Edit diffs in a 3-pane view
-- [cicero-ai/cicero](https://github.com/cicero-ai/cicero) - Robust, privacy focused home AI assistant in Rust.
 - [kruseio/hygg](https://github.com/kruseio/hygg) - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 - [MilesCranmer/rip2](https://github.com/MilesCranmer/rip2) - A safe and ergonomic alternative to rm
 - [wendelmax/v8-rust](https://github.com/wendelmax/v8-rust) - Uma engine JavaScript moderna, inspirada no V8 Engine do Google, porém totalmente escrita em Rust.
@@ -10483,6 +10480,7 @@
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [udoprog/syntree](https://github.com/udoprog/syntree) - A memory efficient syntax tree for language developers
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and two primitives: Function and Trigger.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [robert-at-pretension-io/mcp](https://github.com/robert-at-pretension-io/mcp) - code
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
@@ -11513,6 +11511,7 @@
 - [jkool702/timep](https://github.com/jkool702/timep) - `timep` is an efficient and accurate state-of-the-art trap-based profiler and flamegraph generator for bash code. `timep` does much more than "providing per-command execution times" -- it maps the ful
 - [gardner/LocalLanguageTool](https://github.com/gardner/LocalLanguageTool) - Self-hosted LanguageTool private instance is an offline alternative to Grammarly
 - [izabera/bgcmd](https://github.com/izabera/bgcmd) - system to run repls in background, useful for ai automation
+- [Kazedaa/eBAF](https://github.com/Kazedaa/eBAF) - You wouldnt Download an Ad. But you would block one.
 - [vet-run/vet](https://github.com/vet-run/vet) - vet is a command-line tool that acts as a safety net for the risky curl | bash pattern. It lets you inspect, diff against previous versions, and lint remote scripts before asking for your explicit app
 - [dixonwille/mise-zig](https://github.com/dixonwille/mise-zig) - 
 - [mise-plugins/asdf-zigmod](https://github.com/mise-plugins/asdf-zigmod) - zigmod plugin for the asdf version manager
@@ -12009,6 +12008,8 @@
 
 ## TypeScript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. We’ve moved from clawx.dev 
 - [botiverse/agent-vault](https://github.com/botiverse/agent-vault) - Keep your secrets hidden from AI agents.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) - File-driven AI trading agent engine for crypto and securities markets
@@ -12018,9 +12019,8 @@
 - [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi) - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router empowering OpenClaw — by BlockRunAI
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+- [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [ILoveBingLu/CipherTalk](https://github.com/ILoveBingLu/CipherTalk) - 优秀的软件
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React.
@@ -12038,7 +12038,7 @@
 - [skills-mcp/skills-mcp](https://github.com/skills-mcp/skills-mcp) - Bring Claude's Skills pattern to any MCP-compatible agent
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [EricRhysTaylor/Radial-Timeline](https://github.com/EricRhysTaylor/Radial-Timeline) - Radial Timeline for Obsidian creative writing projects.
-- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - The Agent Memory Stack
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [iannuttall/changes](https://github.com/iannuttall/changes) - A TUI to track changes to web pages, feeds, and APIs with readable diffs and optional AI summaries.
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
@@ -12451,6 +12451,7 @@
 - [CodyJasonBennett/react-nylon](https://github.com/CodyJasonBennett/react-nylon) - react-reconciler implemented in &lt; 4KB.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
+- [fkie-cad/friTap](https://github.com/fkie-cad/friTap) - Simplifying SSL/TLS traffic analysis for researchers by making SSL decryption effortless.
 - [akosbalasko/yarle](https://github.com/akosbalasko/yarle) - Yarle - The ultimate converter of Evernote notes to Markdown
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
@@ -12659,6 +12660,7 @@
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.

@@ -831,6 +831,7 @@
 
 ## C++ 
 
+- [trevorswan11/conch](https://github.com/trevorswan11/conch) - A modern, compiled systems language built for architectural purity, powered by C++23, Zig, and LLVM
 - [cppstat/cppstat](https://github.com/cppstat/cppstat) - C and C++ Compiler Support Page
 - [llnl/camp](https://github.com/llnl/camp) - Compiler agnostic metaprogramming library providing concepts, type operations and tuples for C++ and cuda
 - [adamtiger/tinyGPUlang](https://github.com/adamtiger/tinyGPUlang) - Tutorial on building a gpu compiler backend in LLVM
@@ -2263,6 +2264,7 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [Picocrypt-NG/Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - A very small, very simple, yet very secure encryption tool.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) - A very small, very simple, yet very secure encryption tool.
+- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [fosrl/newt](https://github.com/fosrl/newt) - Pangolin tunneled site & network connector
 - [iosifache/annas-mcp](https://github.com/iosifache/annas-mcp) - MCP server and CLI tool for searching and downloading documents from Anna's Archive
 - [andrewarrow/starchive](https://github.com/andrewarrow/starchive) - browser plugin to send youtube, insta (all social videos) to local backend and process audio and video in all sorts of ways.
@@ -2380,7 +2382,7 @@
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
 - [bradyjoslin/assembllm](https://github.com/bradyjoslin/assembllm) - An extensible CLI for integrating LLM models with a flexible scripting system
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -4772,7 +4774,6 @@
 - [newtoncodes/devil](https://github.com/newtoncodes/devil) - GUI-based debugger, profiler and runtime interface for node.js.
 - [RichardBronosky/keycastr](https://github.com/RichardBronosky/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js) - A JavaScript Framework for Building Brilliant Applications
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [typicode/lodash-id](https://github.com/typicode/lodash-id) - Makes it easy to manipulate id-based resources with lodash or lowdb
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -5811,7 +5812,7 @@
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [mklarqvist/ai-playground](https://github.com/mklarqvist/ai-playground) - Playground for various AI projects and demos
 - [Xilinx/PYNQ](https://github.com/Xilinx/PYNQ) - Python Productivity for ZYNQ
-- [runpod/containers](https://github.com/runpod/containers) - 🐳 |  Dockerfiles for the RunPod container images used for our official templates.
+- [runpod/containers](https://github.com/runpod/containers) - 🐳 |  Dockerfiles for the Runpod container images used for our official templates.
 - [huggingface/blog](https://github.com/huggingface/blog) - Public repo for HF blog posts
 - [fpgaminer/GPTQ-triton](https://github.com/fpgaminer/GPTQ-triton) - GPTQ inference Triton kernel
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
@@ -7648,6 +7649,9 @@
 
 ## Python 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
+- [best/openclaw-skills](https://github.com/best/openclaw-skills) - OpenClaw agent skills for autonomous development workflows
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
 - [trickter/bp-trader](https://github.com/trickter/bp-trader) - 
@@ -7658,7 +7662,7 @@
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
 - [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [philzook58/leancall](https://github.com/philzook58/leancall) - Use lean functions like python functions
 - [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
@@ -7786,7 +7790,7 @@
 - [featureform/enrichmcp](https://github.com/featureform/enrichmcp) - EnrichMCP is a python framework for building data driven MCP servers
 - [GearKite/MatrixZulipBridge](https://github.com/GearKite/MatrixZulipBridge) - A puppeting Matrix - Zulip bridge
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
-- [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime) - 
+- [magenta/magenta-realtime](https://github.com/magenta/magenta-realtime) - Magenta RealTime: An Open-Weights Live Music Model
 - [tzador/makedown](https://github.com/tzador/makedown) - Organise your shell scripts within executable markdown files
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [antoniorodr/lexy](https://github.com/antoniorodr/lexy) - Lexy is a lightweight CLI tool that fetches programming tutorials from "Learn X in Y Minutes" directly into your terminal. Quickly search, learn, and reference code examples without leaving your workf
@@ -10217,6 +10221,8 @@
 
 ## Rust 
 
+- [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
+- [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 - [mikalv/mcdu](https://github.com/mikalv/mcdu) - "ncdu" + "ccleaner" for linux/macos in TUI.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [amenti-labs/openentropy](https://github.com/amenti-labs/openentropy) - Open-source entropy harvesting from unconventional hardware sources. Rust + Python SDK.
@@ -10226,12 +10232,11 @@
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [Xuanwo/xurl](https://github.com/Xuanwo/xurl) - xURL: Client for AI Agents URLs
 - [holo-routing/holo](https://github.com/holo-routing/holo) - Holo is a suite of routing protocols designed to support high-scale and automation-driven networks.
-- [arimxyer/models](https://github.com/arimxyer/models) - CLI and TUI for browsing AI models, benchmarks, and coding agents. Compare 2000+ models across 85+ providers, explore ~400 benchmark entries from Artificial Analysis, and track 12+ coding agents with 
+- [arimxyer/models](https://github.com/arimxyer/models) - TUI and CLI for browsing AI models, benchmarks, and coding agents
 - [juntao/math-images-skill](https://github.com/juntao/math-images-skill) - Generate PNG images from math equations in LaTeX/TeX and Markdown documents. Built in Rust, designed for AI agents.
 - [qhkm/zeptoclaw](https://github.com/qhkm/zeptoclaw) - Final form of claw family (Wannabe)
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
-- [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [msmps/pilotty](https://github.com/msmps/pilotty) - Daemon-managed PTY sessions for AI agents to interact with terminal applications
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
@@ -10498,6 +10503,7 @@
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [udoprog/syntree](https://github.com/udoprog/syntree) - A memory efficient syntax tree for language developers
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [robert-at-pretension-io/mcp](https://github.com/robert-at-pretension-io/mcp) - code
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
@@ -11511,7 +11517,7 @@
 
 - [jtolio/ajail](https://github.com/jtolio/ajail) - a basic jail for programs you don't completely trust
 - [aktech/tlume](https://github.com/aktech/tlume) - A CLI tool to seamlessly convert Tart virtual machines to Lume format with a single command
-- [justlovemaki/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
+- [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
 - [lxgw/advanced-cjk-font-magisk-module-template](https://github.com/lxgw/advanced-cjk-font-magisk-module-template) - A Magisk module template to systemlessly replace system fonts. Supports CJK Fonts. 用于制作字体模块的 Magisk 模块模板，支持中日韩字体的替换。
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [nalgeon/tryxinyminutes](https://github.com/nalgeon/tryxinyminutes) - Live code tutorials in your browser
@@ -11953,7 +11959,7 @@
 - [leo-colisson/zx-calculus](https://github.com/leo-colisson/zx-calculus) - A package to typeset ZX calculus directly in LaTeX.
 - [JP-Ellis/tikz-feynman](https://github.com/JP-Ellis/tikz-feynman) - Feynman Diagrams with TikZ
 - [matthewfeickert/tikz-physics](https://github.com/matthewfeickert/tikz-physics) - A collection of TikZ examples for particle physics related images
-- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [chakravala/Math-Research-Notes](https://github.com/chakravala/Math-Research-Notes) - Theorems, Definitions, Papers, Research
 - [ga/formulas](https://github.com/ga/formulas) - A collection of formulas needed for everyday calculations in geometric algebra and calculus
@@ -12026,6 +12032,9 @@
 
 ## TypeScript 
 
+- [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - 
+- [crshdn/mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
+- [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [Michaelliv/mercury](https://github.com/Michaelliv/mercury) - 🪽 Mercury — There are many claws, but this one is mine.
@@ -12033,7 +12042,7 @@
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) - 
 - [liuxiaopai-ai/raphael-publish](https://github.com/liuxiaopai-ai/raphael-publish) - Raphael Publish - 公众号排版大师 | 现代 Markdown 排版引擎
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. We’ve moved from clawx.dev 
+- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
 - [botiverse/agent-vault](https://github.com/botiverse/agent-vault) - Keep your secrets hidden from AI agents.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) - File-driven AI trading agent engine for crypto and securities markets
@@ -12045,6 +12054,7 @@
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [rivet-dev/sandbox-agent](https://github.com/rivet-dev/sandbox-agent) - Run Coding Agents in Sandboxes. Control Them Over HTTP. Supports Claude Code, Codex, OpenCode, and Amp.
 - [ILoveBingLu/CipherTalk](https://github.com/ILoveBingLu/CipherTalk) - 优秀的软件
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React.
@@ -12099,7 +12109,6 @@
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
 - [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [beam-cloud/lovable-clone](https://github.com/beam-cloud/lovable-clone) - A simple clone of lovable.dev using BAML / FastMCP / Beam
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
@@ -12161,7 +12170,7 @@
 - [addyosmani/squish](https://github.com/addyosmani/squish) - Squish - Batch Browser-based Image Compression
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
@@ -12194,7 +12203,6 @@
 - [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
 - [subframe7536/vscode-codeimg](https://github.com/subframe7536/vscode-codeimg) - VSCode extension that generate beautiful image for code or terminal with your favorite font and theme.
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [egoist/chatwise-releases](https://github.com/egoist/chatwise-releases) - The fastest AI Chatbot for any LLM
@@ -12539,7 +12547,7 @@
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 🔠Foreign language reading and translation assistant based on copy and translate.
@@ -12682,6 +12690,7 @@
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -12882,7 +12891,6 @@
 
 ## Zig 
 
-- [trevorswan11/conch](https://github.com/trevorswan11/conch) - A modern, compiled systems language built for architectural purity, powered by C++23, Zig, and LLVM
 - [Interrupt/delve-framework](https://github.com/Interrupt/delve-framework) - Delve is a framework for writing Games in Zig and Lua. For those who value being cross platform and keeping things simple.
 - [krillclaw/KrillClaw](https://github.com/krillclaw/KrillClaw) - The world's smallest AI agent runtime. 49KB. Written in Zig. Zero dependencies.
 - [g41797/tofu](https://github.com/g41797/tofu) - Tofu - Async messaging for Zig

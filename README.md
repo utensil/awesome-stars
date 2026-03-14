@@ -865,7 +865,6 @@
 - [magiblot/tvision](https://github.com/magiblot/tvision) - A modern port of Turbo Vision 2.0, the classical framework for text-based user interfaces. Now cross-platform and with Unicode support.
 - [csmith-project/csmith](https://github.com/csmith-project/csmith) - Csmith, a random generator of C programs
 - [nirw4nna/dsc](https://github.com/nirw4nna/dsc) - Tensor library & inference framework for machine learning
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [Query-farm/evalexpr_rhai](https://github.com/Query-farm/evalexpr_rhai) - A DuckDB extension to evaluate the Rhai scripting language as part of SQL.
 - [NikolaDucak/caps-log](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool. 📖
 - [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for Observability, Network, GPU & General Extensions Framework
@@ -2014,7 +2013,7 @@
 
 ## Cuda 
 
-- [tdortman/Cuckoo-GPU](https://github.com/tdortman/Cuckoo-GPU) - GPU-Accelerated Cuckoo Filter
+- [tdortman/Cuckoo-GPU](https://github.com/tdortman/Cuckoo-GPU) - High-Performance GPU Cuckoo Filter
 - [uiuc-kang-lab/agentic-benchmarks](https://github.com/uiuc-kang-lab/agentic-benchmarks) - 
 - [sith-lab/gpuhammer](https://github.com/sith-lab/gpuhammer) - 
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉
@@ -2738,6 +2737,7 @@
 
 ## HTML 
 
+- [sgInnora/alipay-deeplink-research](https://github.com/sgInnora/alipay-deeplink-research) - Alipay DeepLink + JSBridge Security Research - 17 Verified Vulnerabilities | 支付宝DeepLink安全研究 | Full Report: innora.ai/zfb
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
 - [JackeyCloud/wechat-editor-lite](https://github.com/JackeyCloud/wechat-editor-lite) - 
@@ -2892,6 +2892,7 @@
 - [Rocq-zh/SF-zh](https://github.com/Rocq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
 - [hugohadfield/cefFlask](https://github.com/hugohadfield/cefFlask) - cefpython with a Flask sever
 - [karpathy/reinforcejs](https://github.com/karpathy/reinforcejs) - Reinforcement Learning Agents in Javascript (Dynamic Programming, Temporal Difference, Deep Q-Learning, Stochastic/Deterministic Policy Gradients)
+- [coherentgraphics/cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries for Linux, Mac, Windows
 - [fuckcqcs/fuckcqcs](https://github.com/fuckcqcs/fuckcqcs) - 14小时
 - [EricAnderson1000/sourcegraph](https://github.com/EricAnderson1000/sourcegraph) - Fast, global, semantic code search & cross-reference engine for developers.
 - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
@@ -6107,7 +6108,7 @@
 - [DonghengChen/IFOL](https://github.com/DonghengChen/IFOL) - 
 - [riccardobrasca/flt3](https://github.com/riccardobrasca/flt3) - Proof in Lean of Fermat Last Theorem for exponent 3
 - [Seasawher/lean-book](https://github.com/Seasawher/lean-book) - mdbook template for Lean project
-- [marcusrossel/lean-egg](https://github.com/marcusrossel/lean-egg) - A (WIP) equality saturation tactic for Lean based on egg.
+- [marcusrossel/lean-egg](https://github.com/marcusrossel/lean-egg) - A deprecated equality saturation tactic for Lean based on egg.
 - [kim-em/lean-sage](https://github.com/kim-em/lean-sage) - 
 - [mariainesdff/LocalClassFieldTheory](https://github.com/mariainesdff/LocalClassFieldTheory) - Formalization of local fields, and eventually LCFT
 - [nomeata/lean-calcify](https://github.com/nomeata/lean-calcify) - 
@@ -7100,7 +7101,6 @@
 - [lmmentel/awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - A curated list of Python packages related to chemistry
 - [InfolabAI/DeepLearning](https://github.com/InfolabAI/DeepLearning) - Lecture slides for study about "Deep Learning" written by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 - [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
-- [coherentgraphics/cpdf-binaries](https://github.com/coherentgraphics/cpdf-binaries) - PDF Command Line Tools binaries for Linux, Mac, Windows
 - [chrisgannon/SVG2GIF](https://github.com/chrisgannon/SVG2GIF) - Convert GreenSock SVG Timeline Animations to GIF
 - [pangafu/LeelaMasterWeight](https://github.com/pangafu/LeelaMasterWeight) - Leela Master weight is training from leela zero self-play sgf and human sgf file
 - [boostcon/cppnow_presentations_2017](https://github.com/boostcon/cppnow_presentations_2017) - Presentation Material for C++Now 2017
@@ -8020,7 +8020,7 @@
 - [roboflow/maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
@@ -11959,7 +11959,7 @@
 - [leo-colisson/zx-calculus](https://github.com/leo-colisson/zx-calculus) - A package to typeset ZX calculus directly in LaTeX.
 - [JP-Ellis/tikz-feynman](https://github.com/JP-Ellis/tikz-feynman) - Feynman Diagrams with TikZ
 - [matthewfeickert/tikz-physics](https://github.com/matthewfeickert/tikz-physics) - A collection of TikZ examples for particle physics related images
-- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》 (V2 is launching soon）
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [chakravala/Math-Research-Notes](https://github.com/chakravala/Math-Research-Notes) - Theorems, Definitions, Papers, Research
 - [ga/formulas](https://github.com/ga/formulas) - A collection of formulas needed for everyday calculations in geometric algebra and calculus
@@ -12032,6 +12032,8 @@
 
 ## TypeScript 
 
+- [obsessiondb/rudel](https://github.com/obsessiondb/rudel) - Claude Code Session Analytics
+- [msgbyte/cutia](https://github.com/msgbyte/cutia) - An open-source, in-browser alternative to CapCut.
 - [FtlC-ian/openclaw-channel-zulip](https://github.com/FtlC-ian/openclaw-channel-zulip) - Zulip channel plugin for OpenClaw — concurrent message processing, reaction indicators, file uploads, and full actions API
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - 
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
@@ -12153,6 +12155,7 @@
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [mihaip/infinite-mac](https://github.com/mihaip/infinite-mac) - A classic Mac loaded with everything you'd want
 - [letta-ai/agent-file](https://github.com/letta-ai/agent-file) - Agent File (.af): An open file format for serializing stateful AI agents with persistent memory and behavior. Share, checkpoint, and version control agents across compatible frameworks.
 - [Meridius-Labs/apple-on-device-ai](https://github.com/Meridius-Labs/apple-on-device-ai) -  Apple foundation model bindings for NodeJS (supports Vercel AI SDK)
@@ -12180,7 +12183,7 @@
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Fast and safe way to code with AI
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The fastest way to code with AI
 - [TayzenDev/smallblog](https://github.com/TayzenDev/smallblog) - An easy and straighforward blog engine designed with smallweb in mind (should work in any deno environment).
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, rotation, se

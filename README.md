@@ -3088,6 +3088,7 @@
 
 ## Handlebars 
 
+- [phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src) - The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.
 - [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
@@ -6556,7 +6557,7 @@
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 - [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方《Swift 编程语言》
 
@@ -7407,7 +7408,7 @@
 - [rafaelconde/ios8-ui-kit](https://github.com/rafaelconde/ios8-ui-kit) - And extended and updated to iOS 8 UI Kit for Sketch
 - [ev3dev/ev3dev](https://github.com/ev3dev/ev3dev) - ev3dev meta - bug tracking, wiki and releases
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [anvaka/ngraph](https://github.com/anvaka/ngraph) - Beautiful Graphs
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -7650,6 +7651,7 @@
 
 ## Python 
 
+- [iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) - AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | 去AI味、过朱雀检测 | 支持小红书/百家号/抖音等多平台 | 洗稿润色支持多账号 | 复刻公众号模板 | 手机控制 | 爆文10w+神器
 - [livehl/aimirror](https://github.com/livehl/aimirror) - 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
@@ -10221,6 +10223,8 @@
 
 ## Rust 
 
+- [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
+- [evilsocket/gptop](https://github.com/evilsocket/gptop) - A cross-platform GPU monitor TUI with support for both Apple Silicon and NVIDIA GPUs.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [veeso/tuifeed](https://github.com/veeso/tuifeed) - 📰 A terminal feed reader with a fancy ui
 - [christo-auer/eilmeldung](https://github.com/christo-auer/eilmeldung) - eilmeldung is a TUI RSS reader based on the awesome news-flash library.
@@ -10243,7 +10247,7 @@
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [Blushyes/coro-code](https://github.com/Blushyes/coro-code) - Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code - Semantic AI coding agent
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code - semantic AI coding agent
 - [Gerharddc/litterbox](https://github.com/Gerharddc/litterbox) - Somewhat Isolated Development Environments
 - [orellazri/mdrag](https://github.com/orellazri/mdrag) - RAG Pipeline for Markdown Files
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
@@ -10403,7 +10407,7 @@
 - [helix-editor/tree-house](https://github.com/helix-editor/tree-house) - Cozy Rust bindings to the tree-sitter C library and a robust highlighter
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
 - [RoastBeefer00/evilhelix](https://github.com/RoastBeefer00/evilhelix) - A post-modern modal text editor, but deliciously evil.
-- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown based personal knowledge management for your favorite text editor
+- [iwe-org/iwe](https://github.com/iwe-org/iwe) - Markdown knowledge based management for your favorite text editor & AI agents
 - [nik-rev/patchy](https://github.com/nik-rev/patchy) - A tool which makes it easy to declaratively manage personal forks by automatically merging pull requests
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [lukaslueg/railroad_dsl](https://github.com/lukaslueg/railroad_dsl) - A small DSL to generate syntax diagrams
@@ -11515,6 +11519,7 @@
 
 ## Shell 
 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [jtolio/ajail](https://github.com/jtolio/ajail) - a basic jail for programs you don't completely trust
 - [aktech/tlume](https://github.com/aktech/tlume) - A CLI tool to seamlessly convert Tart virtual machines to Lume format with a single command
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) - OpenClaw 的中国IM平台整合Docker版本，预装并配置了飞书、钉钉、QQ机器人、企业微信等主流中国IM软件的插件，让您可以快速部署一个支持多个中国IM平台的 AI 机器人网关
@@ -11920,7 +11925,6 @@
 - [ryankeleti/ega](https://github.com/ryankeleti/ega) - amateur translation project of Grothendieck's EGA.
 - [gjoncas/Artsy-Diagrams](https://github.com/gjoncas/Artsy-Diagrams) - Creative diagrams in Ti𝑘Z
 - [gjoncas/Econ-Diagrams](https://github.com/gjoncas/Econ-Diagrams) - Economics diagrams in Ti𝑘Z
-- [phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src) - The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.
 - [BNFC/bnfc](https://github.com/BNFC/bnfc) - BNF Converter
 - [jjaassoonn/GAGA](https://github.com/jjaassoonn/GAGA) - (Attempt of) Formalising the GAGA theorem
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP) - The Dao of Functional Programming
@@ -12033,6 +12037,8 @@
 
 ## TypeScript 
 
+- [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI
+- [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 - [Narcooo/inkos](https://github.com/Narcooo/inkos) - Multi-agent novel production system — AI agents autonomously write, audit, and revise novels with human review gates
 - [obsessiondb/rudel](https://github.com/obsessiondb/rudel) - Claude Code Session Analytics
 - [msgbyte/cutia](https://github.com/msgbyte/cutia) - An open-source, in-browser alternative to CapCut.

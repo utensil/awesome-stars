@@ -2441,7 +2441,7 @@
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [oliverpool/sparsehash](https://github.com/oliverpool/sparsehash) - Fast hashing for large files
@@ -5511,7 +5511,7 @@
 - [akshell/ak](https://github.com/akshell/ak) - Akshell MVC framework
 - [cloudhead/http-console](https://github.com/cloudhead/http-console) - simple, intuitive HTTP REPL — Speak HTTP like a local.
 - [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - [DEPRECATED] Stanford Javascript Crypto Library
-- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is a middleware layer for Node.js
+- [senchalabs/connect](https://github.com/senchalabs/connect) - Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
 - [baryluk/erljs](https://github.com/baryluk/erljs) - Erlang in the web browser
 - [wycats/jquery-offline](https://github.com/wycats/jquery-offline) - A jQuery plugin to facilitate conveniently working with local storage
 - [ThisIsMissEm/node-websocket-server](https://github.com/ThisIsMissEm/node-websocket-server) - [DEPRECATED] A WebSocket server written in low-level node.js, should be 90-100% spec compatible.
@@ -5978,6 +5978,7 @@
 - [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls) - LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [Winnie0408/LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper) - 将您保存在网易云音乐、QQ音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器（如Salt Player、APlayer、Poweramp等）可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。Quickly migrate your playlists from online music platforms to local music player
 - [google/prefab](https://github.com/google/prefab) - Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [archguard/archguard](https://github.com/archguard/archguard) - ArchGuard is a architecture workbench, also for architecture governance, which can analysis architecture in container, component, code level, create architecure fitness functions, and anaysis system d
 - [phodal/auto-dev](https://github.com/phodal/auto-dev) - 🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC.
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
@@ -7651,9 +7652,10 @@
 
 ## Python 
 
+- [libtv-labs/libtv-skills](https://github.com/libtv-labs/libtv-skills) - 
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API
-- [iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) - AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | 去AI味、过朱雀检测 | 支持小红书/百家号/抖音等多平台 | 洗稿润色支持多账号 | 复刻公众号模板 | 手机控制 | 爆文10w+神器
+- [iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) - AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | 去AI味、过朱雀检测 | 支持小红书/百家号/抖音等多平台 | 洗稿润色支持多账号 | 复刻公众号模板 | 手机控制 | 小说连载 | 爆文10w+神器
 - [livehl/aimirror](https://github.com/livehl/aimirror) - 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
@@ -7812,7 +7814,7 @@
 - [GasStationManager/LeanTool](https://github.com/GasStationManager/LeanTool) - A "code intepreter" for Lean
 - [philzook58/duckegg](https://github.com/philzook58/duckegg) - An experiment in using DuckDB for a datalog / egg
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
-- [manthanguptaa/water](https://github.com/manthanguptaa/water) - A multi-agent orchestration framework that works with any agent framework
+- [manthanguptaa/water](https://github.com/manthanguptaa/water) - The production-ready agent harness framework for Python
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [unitedstates/congress](https://github.com/unitedstates/congress) - Public domain data collectors for the work of Congress, including legislation, amendments, and votes.
 - [govtrack/govtrack.us-web](https://github.com/govtrack/govtrack.us-web) - The Django source code for the GovTrack.us website.
@@ -8318,7 +8320,7 @@
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [mirober/mathfly-talon](https://github.com/mirober/mathfly-talon) - Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook 5.5.
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - [ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
@@ -10226,6 +10228,7 @@
 
 ## Rust 
 
+- [paean-ai/0claw](https://github.com/paean-ai/0claw) - 0claw: Defining the Absolute Core.
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you search and download files from GitHub without leaving your CLI.
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
 - [evilsocket/gptop](https://github.com/evilsocket/gptop) - A cross-platform GPU monitor TUI with support for both Apple Silicon and NVIDIA GPUs.
@@ -10824,7 +10827,6 @@
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, call functions, and build extensible apps.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [patrik-cihal/lean-graph](https://github.com/patrik-cihal/lean-graph) - Theorem relational dependencies automatic extraction and visualization as a graph for Lean4.
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [rasmusgo/physics_playground](https://github.com/rasmusgo/physics_playground) - 
 - [compute-toys/wgpu-compute-toy](https://github.com/compute-toys/wgpu-compute-toy) - Cross-platform compute shader engine
 - [tectonic-typesetting/tectonic-texlive-bundles](https://github.com/tectonic-typesetting/tectonic-texlive-bundles) - Generate Tectonic bundles from the TeXLive source tree

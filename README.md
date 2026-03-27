@@ -1315,7 +1315,7 @@
 - [falvaro/seshat](https://github.com/falvaro/seshat) - Handwritten math expression parser
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-- [sourcey/icey](https://github.com/sourcey/icey) - C++14 evented IO libraries for high performance networking and media based applications
+- [nilstate/icey](https://github.com/nilstate/icey) - C++14 evented IO libraries for high performance networking and media based applications
 - [redis/memtier_benchmark](https://github.com/redis/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
 - [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis
 - [Tencent/Teaf](https://github.com/Tencent/Teaf) - Tencent Easy ACE Framework，基于ACE的高性能服务框架，有完善的监控统计，数据库访问等功能
@@ -2146,7 +2146,7 @@
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [kaorahi/howm](https://github.com/kaorahi/howm) - note-taking tool on Emacs
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst) - Awesome Typst Links
-- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
+- [bbatsov/prelude](https://github.com/bbatsov/prelude) - Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [josteink/wsd-mode](https://github.com/josteink/wsd-mode) - A major-mode for Emacs and websequencediagrams.com
 - [for-GET/know-your-http-well](https://github.com/for-GET/know-your-http-well) - HTTP headers, media-types, methods, relations and status codes, all summarized and linking to their specification.
@@ -3536,7 +3536,6 @@
 - [kiraaziz/Neoflow](https://github.com/kiraaziz/Neoflow) - Neoflow is an open-source whiteboard application designed for seamless collaboration and creativity. It combines simplicity with advanced features, making it perfect for teams, designers, and creative
 - [jtydhr88/ComfyUI-qwenmultiangle](https://github.com/jtydhr88/ComfyUI-qwenmultiangle) - A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
 - [MangoLion/plotbunni](https://github.com/MangoLion/plotbunni) - FOSS Novel Writing Suite with AI Assistance
-- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [chuanqisun/quantum-tunnel](https://github.com/chuanqisun/quantum-tunnel) - Parallax + Head tracking
 - [rgrove/rawgit](https://github.com/rgrove/rawgit) - Served files from raw.githubusercontent.com, but with the correct content types. No longer actively developed.
 - [abetusk/neatocal](https://github.com/abetusk/neatocal) - A single page printable calendar
@@ -7741,7 +7740,6 @@
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
 - [Air08/Podcli](https://github.com/Air08/Podcli) - Terminal Based Podcast Client with search, subscription management, and playback features
 - [obeone/multi-registry-cache](https://github.com/obeone/multi-registry-cache) - Multi-registry cache for Docker/containerd, optimizing image pulls using the original registry image
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [sebastien/multiplex](https://github.com/sebastien/multiplex) - Command-line process multiplexer
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [sethkarten/LLM-Economist](https://github.com/sethkarten/LLM-Economist) - Official repository of the 2025 paper, LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra.
@@ -7872,7 +7870,7 @@
 - [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [rodmarkun/SmolML](https://github.com/rodmarkun/SmolML) - A fully functional and simple Machine Learning library made entirely from scratch with Python.
 - [fizzbee-io/fizzbee](https://github.com/fizzbee-io/fizzbee) - Easiest-ever formal methods language! Designed for developers crafting distributed systems, microservices, and cloud applications
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
 - [UCSC-VLAA/OpenVision](https://github.com/UCSC-VLAA/OpenVision) - OpenVision (ICCV 2025), OpenVision 2 (CVPR 2026), and OpenVision 3
@@ -9676,7 +9674,7 @@
 - [pypa/pip](https://github.com/pypa/pip) - The Python package installer
 - [pycollada/meshtool](https://github.com/pycollada/meshtool) - Tool for manipulating mesh data using pycollada
 - [simplejson/simplejson](https://github.com/simplejson/simplejson) - simplejson is a simple, fast, extensible JSON encoder/decoder for Python
-- [amonapp/amon](https://github.com/amonapp/amon) - Amon is a modern server monitoring platform.
+- [martinrusev/amon](https://github.com/martinrusev/amon) - Amon is a modern server monitoring platform.
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [gmate/gmate](https://github.com/gmate/gmate) - Set of plugins and improvements to make Gedit a powerfull programmer text editor
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -10801,7 +10799,7 @@
 - [theleagueof/fontship](https://github.com/theleagueof/fontship) - A font development toolkit and collaborative work flow.
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
-- [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
+- [zesterer/ariadne](https://github.com/zesterer/ariadne) - [Ariadne has moved to Codeberg!] A fancy diagnostics & error reporting crate
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -12060,7 +12058,7 @@
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - 
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted v
 - [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [Michaelliv/mercury](https://github.com/Michaelliv/mercury) - 🪽 Mercury — There are many claws, but this one is mine.
 - [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) - MeiGen-AI-Design-MCP — Turn Claude Code / OpenClaw into your local Lovart. Local ComfyUI, 1,400+ prompt library, multi-direction parallel generation.
@@ -12097,6 +12095,7 @@
 - [skills-mcp/skills-mcp](https://github.com/skills-mcp/skills-mcp) - Bring Claude's Skills pattern to any MCP-compatible agent
 - [kevboh/longform](https://github.com/kevboh/longform) - A plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [EricRhysTaylor/Radial-Timeline](https://github.com/EricRhysTaylor/Radial-Timeline) - Radial Timeline for Obsidian creative writing projects.
+- [memodb-io/Acontext](https://github.com/memodb-io/Acontext) - Agent Skills as a Memory Layer
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [iannuttall/changes](https://github.com/iannuttall/changes) - A TUI to track changes to web pages, feeds, and APIs with readable diffs and optional AI summaries.
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
@@ -12137,6 +12136,7 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [beam-cloud/lovable-clone](https://github.com/beam-cloud/lovable-clone) - A simple clone of lovable.dev using BAML / FastMCP / Beam
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [maciej-trebacz/tower-of-time-game](https://github.com/maciej-trebacz/tower-of-time-game) - Vibe coded Tower Defense type of game made for a game jam
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
@@ -12201,7 +12201,7 @@
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) - 🐜 HMPL.js is a lightweight server-oriented template language for JavaScript. Fetch HTML, render it safely, and keep apps dynamic, modern, and small.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - 
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
@@ -12940,7 +12940,7 @@
 - [urisinger/zig-async](https://github.com/urisinger/zig-async) - 
 - [arrufat/zignal](https://github.com/arrufat/zignal) - zero-dependency image processing library
 - [erik-dunteman/ziggy-pydust-template](https://github.com/erik-dunteman/ziggy-pydust-template) - A template for building Python extensions in Zig using Pydust toolkit.
-- [rawC1nnamon/elfy.zig](https://github.com/rawC1nnamon/elfy.zig) - Tiny and fast ELF parsing library for Zig.
+- [gashap0n/elfy.zig](https://github.com/gashap0n/elfy.zig) - Tiny and fast ELF parsing library for Zig.
 - [thechampagne/webview-zig](https://github.com/thechampagne/webview-zig) - ⚡ Zig binding & wrapper for a tiny cross-platform webview library to build modern cross-platform GUIs.
 - [Rowobin/zterm](https://github.com/Rowobin/zterm) - A terminal manipulation library written in Zig.
 - [efjimm/Shovel](https://github.com/efjimm/Shovel) - TUI library for Zig

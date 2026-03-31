@@ -446,7 +446,7 @@
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [showlab/ShowUI](https://github.com/showlab/ShowUI) - [CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -472,7 +472,10 @@
 
 ## ai 
 
+- [linzzzzzz/openclip](https://github.com/linzzzzzz/openclip) - OpenClip - AI-powered highlight extraction for long videos (AI 驱动的长视频精彩时刻提取工具)
+- [Jamailar/RedBox](https://github.com/Jamailar/RedBox) - 小红书版Openclaw，自媒体创作者的AI工作台，小红书自动化AI工具RedClaw，支持小红书图文下载、AI转写仿写、目标账号追踪和克隆、智囊团AI群聊、小红书AI创作，小红书内容打包下载等创作全程AI化｜🌟 Star if you like it! 盒子里的小河狸🦫
 - [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
+- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates
 - [rohitg00/skillkit](https://github.com/rohitg00/skillkit) - Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
@@ -745,6 +748,8 @@
 
 ## ai-agents 
 
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+- [Jamailar/RedBox](https://github.com/Jamailar/RedBox) - 小红书版Openclaw，自媒体创作者的AI工作台，小红书自动化AI工具RedClaw，支持小红书图文下载、AI转写仿写、目标账号追踪和克隆、智囊团AI群聊、小红书AI创作，小红书内容打包下载等创作全程AI化｜🌟 Star if you like it! 盒子里的小河狸🦫
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) - AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | 去AI味、过朱雀检测 | 支持小红书/百家号/抖音等多平台 | 洗稿润色支持多账号 | 复刻公众号模板 | 手机控制 | 小说连载 | 爆文10w+神器
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
@@ -1213,6 +1218,7 @@
 
 ## automation 
 
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 - [crshdn/mission-control](https://github.com/crshdn/mission-control) - The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code as PRs. Convoy mode, crash recovery, cost tracking, 80+ API endpoints. Self-hosted v
 - [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
@@ -2036,6 +2042,7 @@
 
 ## chatgpt 
 
+- [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel) - 🦞 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Visual management panel with built-in AI assistant (tool calling + vision + multimodal + i18n(11))
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on mcp clients
@@ -2472,7 +2479,7 @@
 - [Mati365/ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) - 🚀 CKEditor 5 for Phoenix - smooth WYSIWYG integration for Elixir apps! ⚡ Works seamlessly with LiveView or traditional forms. 💡 Easy setup, supports custom builds, dynamic loading, and localization. 🔧
 - [rikhuijzer/fx](https://github.com/rikhuijzer/fx) - An efficient (micro)blogging service that you can self-host
 - [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [CodinCat/noPress](https://github.com/CodinCat/noPress) - A collection of CMSs and Static Site Generators.
@@ -2848,7 +2855,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [jlaumon/Bedrock](https://github.com/jlaumon/Bedrock) - Minimal C++20 STL replacement library. Simpler, smaller, and in many cases faster.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -2949,7 +2956,6 @@
 - [tink-crypto/tink](https://github.com/tink-crypto/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight WebRTC alternative
 - [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
 - [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。
 - [KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
@@ -4515,7 +4521,7 @@
 - [robalb/x86-64-playground](https://github.com/robalb/x86-64-playground) - An online assembly editor, emulator and debugger for the x86-64 architecture
 - [linoscope/CAMLBOY](https://github.com/linoscope/CAMLBOY) - A Game Boy emulator written in OCaml that runs in your browser 🐫 🎮
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [a-n-t-h-o-n-y/NES-Term](https://github.com/a-n-t-h-o-n-y/NES-Term) - Terminal Frontend for SimpleNES Emulator. An emulator in an emulator.
 - [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 - [Amjad50/plastic](https://github.com/Amjad50/plastic) - NES emulator in rust with egui and TUI
@@ -6421,6 +6427,7 @@
 
 ## instagram 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [andrewarrow/starchive](https://github.com/andrewarrow/starchive) - browser plugin to send youtube, insta (all social videos) to local backend and process audio and video in all sorts of ways.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -7912,7 +7919,7 @@
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [acrion/ditana-assistant](https://github.com/acrion/ditana-assistant) - Ditana Assistant: AI-powered CLI/GUI tool for intelligent assistance, leveraging LLMs with OS interaction capabilities and context augmentation, optionally via Wolfram|Alpha
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [Tsu-gu/tsubuntu](https://github.com/Tsu-gu/tsubuntu) - Tweaks for Ubuntu 20.04 - 25.10, Debian 12, 13, Fedora 43
@@ -8050,6 +8057,8 @@
 
 ## llm 
 
+- [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel) - 🦞 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Visual management panel with built-in AI assistant (tool calling + vision + multimodal + i18n(11))
+- [linzzzzzz/openclip](https://github.com/linzzzzzz/openclip) - OpenClip - AI-powered highlight extraction for long videos (AI 驱动的长视频精彩时刻提取工具)
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [livehl/aimirror](https://github.com/livehl/aimirror) - 🚀 200倍速！AI时代的下载神器 | Docker/PyPI/HuggingFace/CRAN 全加速 | 并行分片+智能缓存，让下载飞起来
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
@@ -8182,7 +8191,7 @@
 - [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [julep-ai/julep](https://github.com/julep-ai/julep) - Deploy serverless AI workflows at scale. Firebase for AI agents
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [callstackincubator/cali](https://github.com/callstackincubator/cali) - AI agent for building React Native apps
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
@@ -8797,6 +8806,7 @@
 
 ## macos 
 
+- [PowerBeef/QwenVoice](https://github.com/PowerBeef/QwenVoice) - Native macOS app for Qwen3-TTS with custom voices, voice design, and voice cloning, 100% offline on Apple Silicon
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
@@ -8859,7 +8869,7 @@
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [RhetTbull/osxphotos](https://github.com/RhetTbull/osxphotos) - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [acrion/ditana-assistant](https://github.com/acrion/ditana-assistant) - Ditana Assistant: AI-powered CLI/GUI tool for intelligent assistance, leveraging LLMs with OS interaction capabilities and context augmentation, optionally via Wolfram|Alpha
@@ -10327,7 +10337,7 @@
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
@@ -10464,6 +10474,13 @@
 
 ## others 
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+- [gsaslis/mirror-to-radicle](https://github.com/gsaslis/mirror-to-radicle) - A GitHub Action that mirrors your code to the peer-to-peer Radicle code hosting network, where Open Source Software can thrive beyond corporate agendas and constraints.
+- [ShawnPana/smux](https://github.com/ShawnPana/smux) - tmux config with built-in terminal automation and agent-to-agent communication.
+- [oaker-io/wewrite](https://github.com/oaker-io/wewrite) - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱
+- [epiral/bb-browser](https://github.com/epiral/bb-browser) - Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
+- [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built.
+- [jiamingliu0520/CrePal-Skill](https://github.com/jiamingliu0520/CrePal-Skill) - CrePal skill can be used as an agent skill when you wanna ask your personal agent
 - [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [vonbai/goalx](https://github.com/vonbai/goalx) - One Goal In. Continuous Software Evolution Out. GoalX is an autonomous engineering framework that turns a codebase goal into durable research, implementation, verification, and iterative improvement a
@@ -10479,7 +10496,7 @@
 - [WecomTeam/wecom-openclaw-plugin](https://github.com/WecomTeam/wecom-openclaw-plugin) - OpenClaw 的官方企业微信插件，由企业微信团队开发和维护。它将你的 OpenClaw Agent 无缝对接到企业微信工作流，集成文档、智能表格、日历能力。
 - [paean-ai/0claw](https://github.com/paean-ai/0claw) - 0claw: Defining the Absolute Core.
 - [libtv-labs/libtv-skills](https://github.com/libtv-labs/libtv-skills) - 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API
 - [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
@@ -10557,6 +10574,7 @@
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [lauriset/Dotfiles-XFCE](https://github.com/lauriset/Dotfiles-XFCE) - 
 - [skills-mcp/skills-mcp](https://github.com/skills-mcp/skills-mcp) - Bring Claude's Skills pattern to any MCP-compatible agent
+- [scottcwy/Zhihu-2-obisidian](https://github.com/scottcwy/Zhihu-2-obisidian) - 一个将知乎收藏内容导出并智能整理的工具，帮助构建个人知识库。
 - [JasonJarvan/Zhihu-Collections-MCP](https://github.com/JasonJarvan/Zhihu-Collections-MCP) - 将知乎收藏夹（公开和私密）批量导出为 Markdown 格式文件. 支持配置收藏夹列表并批量下载, 支持基于URL自动去重, 支持下载专栏和图片, 支持自定义保存路径, 支持调试和错误日志. **同时提供 MCP Server**，可被 AI Agent (如 Claude Code) 直接调用，为大模型提供保存知乎收藏夹的能力。
 - [jtydhr88/ComfyUI-qwenmultiangle](https://github.com/jtydhr88/ComfyUI-qwenmultiangle) - A ComfyUI custom node for 3D camera angle control. Provides an interactive Three.js viewport to adjust camera angles and outputs formatted prompt strings for multi-angle image generation.
 - [MangoLion/plotbunni](https://github.com/MangoLion/plotbunni) - FOSS Novel Writing Suite with AI Assistance
@@ -10576,7 +10594,7 @@
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks) - Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.
 - [weynechen/intrascribe](https://github.com/weynechen/intrascribe) - 可内网私有化部署，给团队/单位使用的语音转录总结工具，完整的前后端代码
-- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  [网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
+- [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  【29元500次sonnet，下方wx扫码联系】
 - [apple/pico-banana-400k](https://github.com/apple/pico-banana-400k) - 
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [psbuo/worlds-fair](https://github.com/psbuo/worlds-fair) - 
@@ -13201,7 +13219,7 @@
 - [paolobrasolin/antex](https://github.com/paolobrasolin/antex) - 
 - [distillpub/template](https://github.com/distillpub/template) - This is the repository for the distill web framework
 - [sorgerlab/earm](https://github.com/sorgerlab/earm) - Extrinsic Apoptosis Reaction Model
-- [augustinas1/MomentClosure.jl](https://github.com/augustinas1/MomentClosure.jl) - Tools to generate and study moment equations for any chemical reaction network using various moment closure approximations
+- [SciML/MomentClosure.jl](https://github.com/SciML/MomentClosure.jl) - Tools to generate and study moment equations for any chemical reaction network using various moment closure approximations
 - [chirun-ncl/sample_course](https://github.com/chirun-ncl/sample_course) - A set of sample Chirun compatible course notes.
 - [argumentcomputer/YatimaStdLib.lean](https://github.com/argumentcomputer/YatimaStdLib.lean) - 
 - [argumentcomputer/yatima-lang-alpha](https://github.com/argumentcomputer/yatima-lang-alpha) - A programming language for the decentralized web
@@ -14455,6 +14473,7 @@
 - [iRaul/creative-portfolios](https://github.com/iRaul/creative-portfolios) - 🌀  A curated list of Creative Portfolios
 - [intel-spark/SparseML](https://github.com/intel-spark/SparseML) - Spark MLlib code optimized to efficiently support sparse data
 - [intel-spark/CoreNLP](https://github.com/intel-spark/CoreNLP) - Stanford CoreNLP: A Java suite of core NLP tools.
+- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight libwebrtc alternative
 - [rhnvrm/universe-coaster-racer-challenge](https://github.com/rhnvrm/universe-coaster-racer-challenge) - OpenAI Universe - Coaster Racer Challenge Submission
 - [HIPS/autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of NumPy code.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -17598,7 +17617,6 @@
 - [ipfs/distributed-wikipedia-mirror](https://github.com/ipfs/distributed-wikipedia-mirror) - Putting Wikipedia Snapshots on IPFS
 - [exonum/exonum](https://github.com/exonum/exonum) - An extensible open-source framework for creating private/permissioned blockchain applications
 - [sergiotapia/magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
-- [nilstate/icey](https://github.com/nilstate/icey) - C++20 media toolkit and lightweight WebRTC alternative
 - [librevault/librevault](https://github.com/librevault/librevault) - Librevault - Peer-to-peer, decentralized and open-source file sync.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -17818,7 +17836,7 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -18953,7 +18971,7 @@
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -19479,6 +19497,7 @@
 
 ## rust 
 
+- [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel) - 🦞 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Visual management panel with built-in AI assistant (tool calling + vision + multimodal + i18n(11))
 - [tobitege/codlogs](https://github.com/tobitege/codlogs) - Search, export and sanitize local Codex sessions
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you search and download files from GitHub without leaving your CLI.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
@@ -20600,7 +20619,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
@@ -20845,6 +20864,7 @@
 
 ## swiftui 
 
+- [PowerBeef/QwenVoice](https://github.com/PowerBeef/QwenVoice) - Native macOS app for Qwen3-TTS with custom voices, voice design, and voice cloning, 100% offline on Apple Silicon
 - [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
 - [PallavAg/MacOS-Clone-SwiftUI](https://github.com/PallavAg/MacOS-Clone-SwiftUI) - MacOS Clone built by Gemini 3.0 Pro in SwiftUI
@@ -21222,6 +21242,7 @@
 
 ## text-to-speech 
 
+- [PowerBeef/QwenVoice](https://github.com/PowerBeef/QwenVoice) - Native macOS app for Qwen3-TTS with custom voices, voice design, and voice cloning, 100% offline on Apple Silicon
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
@@ -21348,6 +21369,7 @@
 
 ## twitter 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -21457,7 +21479,7 @@
 - [cortex-js/compute-engine](https://github.com/cortex-js/compute-engine) - An engine for symbolic manipulation and numeric evaluation of math formulas expressed with MathJSON
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
-- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible and includes networking and XR - across platforms. D
+- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Build 3D web experiences that work everywhere. From browser to VR headsets, mobile AR to iOS WebXR – create once, deploy anywhere. No app stores, no waiting, no limitations. Get started at https://doc
 - [axa-group/Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -21608,7 +21630,7 @@
 
 ## unity 
 
-- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Needle Engine is a web-based runtime for 3D apps. It runs on your machine for development, and can be deployed anywhere. It is flexible, extensible and includes networking and XR - across platforms. D
+- [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Build 3D web experiences that work everywhere. From browser to VR headsets, mobile AR to iOS WebXR – create once, deploy anywhere. No app stores, no waiting, no limitations. Get started at https://doc
 - [marian42/wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [sschmid/Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 
@@ -21642,6 +21664,7 @@
 
 ## video 
 
+- [linzzzzzz/openclip](https://github.com/linzzzzzz/openclip) - OpenClip - AI-powered highlight extraction for long videos (AI 驱动的长视频精彩时刻提取工具)
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
@@ -22162,7 +22185,7 @@
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [acrion/ditana-assistant](https://github.com/acrion/ditana-assistant) - Ditana Assistant: AI-powered CLI/GUI tool for intelligent assistance, leveraging LLMs with OS interaction capabilities and context augmentation, optionally via Wolfram|Alpha
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -22293,6 +22316,7 @@
 
 ## youtube 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [involvex/youtube-music-cli](https://github.com/involvex/youtube-music-cli) - A powerful Terminal User Interface (TUI) music player for YouTube Music
 - [andrewarrow/starchive](https://github.com/andrewarrow/starchive) - browser plugin to send youtube, insta (all social videos) to local backend and process audio and video in all sorts of ways.

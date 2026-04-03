@@ -395,7 +395,7 @@
 - [uael/sv](https://github.com/uael/sv) - libsv - Public domain cross-platform semantic versioning in c99
 - [flintlib/flint](https://github.com/flintlib/flint) - FLINT (Fast Library for Number Theory)
 - [aras-p/smol-cube](https://github.com/aras-p/smol-cube) - Binary format equivalent for color grading (Adobe/Resolve .cube) LUT files
-- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
+- [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib) - Puffing up reinforcement learning
 - [cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide (ARM microcontrollers)
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [Gy-Hu/E-Syn](https://github.com/Gy-Hu/E-Syn) - E-Syn: E-Graph Rewriting with Technology-Aware Cost Functions for Logic Synthesis (DAC 2024)
@@ -2259,6 +2259,7 @@
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [liquidmetal-dev/flintlock](https://github.com/liquidmetal-dev/flintlock) - Lock, Stock, and Two Smoking MicroVMs. Create and manage the lifecycle of MicroVMs backed by containerd.
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at) - Universal Basic Chat
+- [convos-chat/convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [Picocrypt-NG/Picocrypt-NG](https://github.com/Picocrypt-NG/Picocrypt-NG) - A very small, very simple, yet very secure encryption tool.
 - [Picocrypt/Picocrypt](https://github.com/Picocrypt/Picocrypt) - A very small, very simple, yet very secure encryption tool.
@@ -5966,7 +5967,7 @@
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
-- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - 🚀 Kotlin Multiplatform UI framework from Tencent TDS — High-performance cross-platform framework with unified codebase, ease of use, and dynamic flexibility.
+- [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - High-performance KMP UI framework from Tencent TDS — one codebase, six platforms (Android, iOS, HarmonyOS, Web, Mini Programs, macOS)
 - [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls) - LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
 - [Winnie0408/LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper) - 将您保存在网易云音乐、QQ音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器（如Salt Player、APlayer、Poweramp等）可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。Quickly migrate your playlists from online music platforms to local music player
 - [google/prefab](https://github.com/google/prefab) - Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.
@@ -6005,6 +6006,7 @@
 
 ## Lean 
 
+- [zksecurity/leanPython](https://github.com/zksecurity/leanPython) - Python interpreter written in Lean4?
 - [rkirov/category-theory-in-context-lean](https://github.com/rkirov/category-theory-in-context-lean) - Lean Companion to the Category Theory in Context textbook by Emily Riehl
 - [JobPetrovcic/ArtinWedderburn](https://github.com/JobPetrovcic/ArtinWedderburn) - A formalized proof of Artin-Wedderburn theorem in Lean4
 - [Luka-O/polya-enumeration-theorem](https://github.com/Luka-O/polya-enumeration-theorem) - A Lean 4 formalization of Pólya enumeration theorem.
@@ -6737,6 +6739,7 @@
 
 ## Others 
 
+- [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) - One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.
 - [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) - A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention
 - [manwithshit/xhs-images](https://github.com/manwithshit/xhs-images) - Xiaohongshu (Little Red Book) infographic series generator - Claude Skill for creating eye-catching social media graphics
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -7580,7 +7583,6 @@
 
 ## Perl 
 
-- [convos-chat/convos](https://github.com/convos-chat/convos) - Convos :busts_in_silhouette: is the simplest way to use IRC in your browser
 - [backuppc/backuppc](https://github.com/backuppc/backuppc) - BackupPC is a high-performance, enterprise-grade system for backing up to a server's disk.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [kitaisreal/paw](https://github.com/kitaisreal/paw) - Tool for performance testing, analysis, and continuous iteration over results.
@@ -7648,6 +7650,7 @@
 - [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus) - 
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [PowerBeef/QwenVoice](https://github.com/PowerBeef/QwenVoice) - Native macOS app for Qwen3-TTS with custom voices, voice design, and voice cloning, 100% offline on Apple Silicon
 - [oaker-io/wewrite](https://github.com/oaker-io/wewrite) - 公众号文章全流程 AI Skill for Claude Code — 热点抓取 → 选题 → 写作 → SEO → 视觉AI → 排版 → 微信草稿箱
 - [linzzzzzz/openclip](https://github.com/linzzzzzz/openclip) - OpenClip - AI-powered highlight extraction for long videos (AI 驱动的长视频精彩时刻提取工具)
 - [jiamingliu0520/CrePal-Skill](https://github.com/jiamingliu0520/CrePal-Skill) - CrePal skill can be used as an agent skill when you wanna ask your personal agent
@@ -7679,7 +7682,7 @@
 - [seojoonkim/prompt-guard](https://github.com/seojoonkim/prompt-guard) - Advanced prompt injection defense system for AI agents. Multi-language detection, severity scoring, and security auditing.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 - [memovai/memov](https://github.com/memovai/memov) - Give git-like & traceable memory to OpenClaw and any coding agents. By https://memov.ai/ aka Entire CLI for every coding agents by MCP.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [banteg/takopi](https://github.com/banteg/takopi) - he just wants to help-pi!
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 - [caesarnine/binsmith](https://github.com/caesarnine/binsmith) - 
@@ -10236,8 +10239,10 @@
 
 ## Rust 
 
+- [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser.
+- [bahdotsh/blogr](https://github.com/bahdotsh/blogr) - Write, edit, and publish your blog without ever leaving your terminal!
 - [nashsu/opencli-rs](https://github.com/nashsu/opencli-rs) - Opencli-rs is a  Blazing fast, memory-safe command-line tool — Fetch information from any website with a single command. Covers Twitter/X, Reddit, YouTube, HackerNews, Bilibili, Zhihu, Xiaohongshu, an
-- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars 
 - [paean-ai/0claw](https://github.com/paean-ai/0claw) - 0claw: Defining the Absolute Core.
 - [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab) - A simple, pretty terminal tool that lets you search and download files from GitHub without leaving your CLI.
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
@@ -10330,7 +10335,6 @@
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) - libgccjit AOT codegen for rustc
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
-- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) - QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [ballsteve/xrust](https://github.com/ballsteve/xrust) - XPath, XQuery, and XSLT for Rust
 - [orxfun/orx-parallel](https://github.com/orxfun/orx-parallel) - A performant and configurable parallel computing library for computations defined as compositions of iterator methods.
@@ -10813,7 +10817,7 @@
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects
 - [theleagueof/fontship](https://github.com/theleagueof/fontship) - A font development toolkit and collaborative work flow.
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - [Ariadne has moved to Codeberg!] A fancy diagnostics & error reporting crate
 - [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
@@ -11539,6 +11543,7 @@
 
 ## Shell 
 
+- [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [gsaslis/mirror-to-radicle](https://github.com/gsaslis/mirror-to-radicle) - A GitHub Action that mirrors your code to the peer-to-peer Radicle code hosting network, where Open Source Software can thrive beyond corporate agendas and constraints.
 - [ShawnPana/smux](https://github.com/ShawnPana/smux) - tmux config with built-in terminal automation and agent-to-agent communication.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -11785,7 +11790,6 @@
 ## Swift 
 
 - [marswaveai/TypeNo](https://github.com/marswaveai/TypeNo) - A free, open source, privacy-first voice input app for macOS.
-- [PowerBeef/QwenVoice](https://github.com/PowerBeef/QwenVoice) - Native macOS app for Qwen3-TTS with custom voices, voice design, and voice cloning, 100% offline on Apple Silicon
 - [simonw/gpuer](https://github.com/simonw/gpuer) - Show GPU usage with a macOS menu icon
 - [Brkgng/ScrollSnap](https://github.com/Brkgng/ScrollSnap) - A macOS app for capturing and stitching scrolling screenshots.
 - [simonw/present](https://github.com/simonw/present) - SwiftUI presentation software, every slide is a URL
@@ -12070,7 +12074,7 @@
 
 ## TypeScript 
 
-- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
+- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental
 - [motiful/cc-gateway](https://github.com/motiful/cc-gateway) - AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
@@ -12959,7 +12963,7 @@
 - [nubskr/ziggy](https://github.com/nubskr/ziggy) - Lock free MPMC channel in under 200 LOC
 - [Interrupt/delve-framework](https://github.com/Interrupt/delve-framework) - Delve is a framework for writing Games in Zig and Lua. For those who value being cross platform and keeping things simple.
 - [krillclaw/KrillClaw](https://github.com/krillclaw/KrillClaw) - The world's smallest AI agent runtime. 49KB. Written in Zig. Zero dependencies.
-- [g41797/tofu](https://github.com/g41797/tofu) - Tofu - Async messaging for Zig
+- [g41797/tofu](https://github.com/g41797/tofu) - Tofu - Async messaging for boring systems
 - [chase-lambert/vigil](https://github.com/chase-lambert/vigil) - A clean, fast build watcher for Zig
 - [SnowballSH/Avalanche](https://github.com/SnowballSH/Avalanche) - UCI Chess Engine written in Zig.
 - [steelcake/csio](https://github.com/steelcake/csio) - Cooperative scheduling and IO library

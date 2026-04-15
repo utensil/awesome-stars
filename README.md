@@ -1700,7 +1700,6 @@
 - [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - [xmake-io/xrepo-cmake](https://github.com/xmake-io/xrepo-cmake) - CMake wrapper for Xrepo C and C++ package manager
 - [52doho/vcpkg-vs-conan](https://github.com/52doho/vcpkg-vs-conan) - A features compare and demo for vcpkg and conan. Both of them are C++ Library Manager.
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [mrexodia/zig-cross](https://github.com/mrexodia/zig-cross) - Example of using as a CMake Toolchain for cross compiling.
 - [scivision/scalapack](https://github.com/scivision/scalapack) - Netlib Scalapack with robust CMake
 - [blockspacer/flextool](https://github.com/blockspacer/flextool) - C++ compile-time programming  (serialization, reflection, code modification, enum to string, better enum, enum to json, extend or parse language, etc.)
@@ -1797,7 +1796,6 @@
 - [littleosbook/littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
-- [strues/retinajs](https://github.com/strues/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants
 - [AlexanderPoellmann/PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) - A sleek webfont featuring your favourite payment methods
 - [1sters/material_design_zh](https://github.com/1sters/material_design_zh) - Material Design 中文协同翻译 - design.1sters.com
 - [wavded/humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system
@@ -2055,7 +2053,7 @@
 - [wisamidris77/flux](https://github.com/wisamidris77/flux) - Building a workout routine, reading every day, or breaking bad habits—made simple
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator
-- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
+- [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -2232,6 +2230,7 @@
 
 ## Go 
 
+- [nobiyou/wx_channel](https://github.com/nobiyou/wx_channel) - 微信视频号下载工具
 - [vorojar/VoiceSnap](https://github.com/vorojar/VoiceSnap) - Open-source offline voice dictation — a free alternative to Typeless. 100% local, zero internet, ideal for air-gapped & classified environments. SenseVoice + DirectML GPU, ~34MB, hotkey-driven. 纯离线语音输
 - [madLinux7/dssh](https://github.com/madLinux7/dssh) - The only SSH connection manager you'll ever need. TUI & CLI. ssh_config, SQLite or both.
 - [crmne/hyprmoncfg](https://github.com/crmne/hyprmoncfg) - Terminal-first monitor configurator and daemon for Hyprland
@@ -3544,7 +3543,7 @@
 ## JavaScript 
 
 - [Xlsean/flower_global_show](https://github.com/Xlsean/flower_global_show) - 一个交互式的全球名花可视化项目，收录了120 种世界名花，覆盖5 大洲、35 个国家/地区。支持 3D 地球仪和平面地图两种浏览方式，点击标记即可查看花卉详情。   An interactive visualization of world-famous flowers, featuring **120 species** across **5 continents and 35 countrie
-- [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
+- [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives
 - [DimCyan/iOS-remote](https://github.com/DimCyan/iOS-remote) - Display and control your iOS device
 - [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel) - 🦞 OpenClaw & Hermes Agent 多引擎 AI 管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装 | Tauri v2 跨平台桌面应用 | 11 种语言
 - [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) - AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Follow builders, not influencers.
@@ -4594,6 +4593,7 @@
 - [keithamus/eslint-config-strict](https://github.com/keithamus/eslint-config-strict) - ESLint sharable config for strict linting
 - [bitshadow/iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations.
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
+- [strues/retinajs](https://github.com/strues/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants
 - [cforth/stock](https://github.com/cforth/stock) - 追踪关注的股票行情与市场表现（JavaScript）。
 - [egorFiNE/node-stock](https://github.com/egorFiNE/node-stock) - A fast and efficient Node.js storage engine for stock market tick data and couple of modules for trading software development.
 - [koenbok/Framer](https://github.com/koenbok/Framer) - Framer - Design Everything
@@ -6532,7 +6532,7 @@
 
 ## MDX 
 
-- [webtui/webtui](https://github.com/webtui/webtui) - 
+- [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
@@ -7677,6 +7677,8 @@
 
 ## Python 
 
+- [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
+- [dlv2008/weixin-favor-kb](https://github.com/dlv2008/weixin-favor-kb) - 
 - [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) - Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required.
 - [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) - OpenClaw-RL: Train any agent simply by talking
 - [Mibayy/token-savior](https://github.com/Mibayy/token-savior) - MCP server for Claude Code: 97% token savings on code navigation + persistent memory engine that remembers context across sessions. 69 tools, zero external deps.
@@ -7727,7 +7729,7 @@
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [seojoonkim/prompt-guard](https://github.com/seojoonkim/prompt-guard) - Advanced prompt injection defense system for AI agents. Multi-language detection, severity scoring, and security auditing.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-- [memovai/memov](https://github.com/memovai/memov) - Give git-like & traceable memory to OpenClaw and any coding agents. By https://memov.ai/ aka Entire CLI for every coding agents by MCP.
+- [memovai/memov](https://github.com/memovai/memov) - Give git-like & traceable memory to OpenClaw and any coding agents. By https://memov.ai/ aka Entire CLI for every coding agents by MCP. Self-evolution for skills.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [banteg/takopi](https://github.com/banteg/takopi) - he just wants to help-pi!
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
@@ -8028,7 +8030,7 @@
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [mzbac/mlx_sharding](https://github.com/mzbac/mlx_sharding) - Distributed Inference for mlx LLm
 - [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for Ollama
 - [PeterGriffinJin/Search-R1](https://github.com/PeterGriffinJin/Search-R1) - Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL
@@ -10760,7 +10762,7 @@
 - [assert-rs/snapbox](https://github.com/assert-rs/snapbox) - Snapshot testing for a herd of CLI tests
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
 - [oxiglade/mlx-rs](https://github.com/oxiglade/mlx-rs) - Unofficial Rust bindings to Apple's mlx framework
-- [codebycruz/constime](https://github.com/codebycruz/constime) - Zig's comptime for Rust, with zero dependencies.
+- [bycruz/constime](https://github.com/bycruz/constime) - Zig's comptime for Rust, with zero dependencies.
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [Bevy-Rust-GPU/bevy-rust-gpu](https://github.com/Bevy-Rust-GPU/bevy-rust-gpu) - Bevy plugin for hot-building and hot-reloading rust-gpu shaders.
 - [Enter-tainer/jogs](https://github.com/Enter-tainer/jogs) - 
@@ -10773,7 +10775,7 @@
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [rzukic/zed-latex](https://github.com/rzukic/zed-latex) - 
-- [imrn99/poc-kokkos-rs](https://github.com/imrn99/poc-kokkos-rs) - Kokkos-rs: A Proof of Concept
+- [imrn99/performance-portability-rs](https://github.com/imrn99/performance-portability-rs) - Proof of Concept for a Kokkos-like API in Rust
 - [stillonearth/bevy_mujoco](https://github.com/stillonearth/bevy_mujoco) - Render MuJoCo scenes in bevy
 - [ajrcarey/pdfium-render](https://github.com/ajrcarey/pdfium-render) - A high-level idiomatic Rust wrapper around Pdfium, the C++ PDF library used by the Google Chromium project.
 - [ancwrd1/qpdf-rs](https://github.com/ancwrd1/qpdf-rs) - Rust bindings for QPDF C++ library
@@ -11658,6 +11660,7 @@
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 - [cpitclaudel/z3.wasm](https://github.com/cpitclaudel/z3.wasm) - WASM builds of the Z3 SMT solver
 - [m4lvin/RepLeanTeX](https://github.com/m4lvin/RepLeanTeX) - Running Lean 4 while/from running LaTeX.
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [Zeranoe/mingw-w64-build](https://github.com/Zeranoe/mingw-w64-build) - MinGW-w64 build script
 - [roc-lang/examples](https://github.com/roc-lang/examples) - All kinds of Roc examples
 - [leanprover/lean-action](https://github.com/leanprover/lean-action) - GitHub action for standard CI in Lean projects
@@ -11841,7 +11844,7 @@
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) - 100% offline, open-source, Voice Dictation app for macOS
-- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste.
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [marswaveai/TypeNo](https://github.com/marswaveai/TypeNo) - A free, open source, privacy-first voice input app for macOS.
 - [simonw/gpuer](https://github.com/simonw/gpuer) - Show GPU usage with a macOS menu icon
@@ -12160,7 +12163,7 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI
 - [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
-- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Autonomous novel writing CLI AI Agent — agents write, audit, and revise novels with human review gates
+- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates
 - [obsessiondb/rudel](https://github.com/obsessiondb/rudel) - Claude Code & Codex Session Analytics
 - [msgbyte/cutia](https://github.com/msgbyte/cutia) - An open-source, in-browser alternative to CapCut.
 - [FtlC-ian/openclaw-channel-zulip](https://github.com/FtlC-ian/openclaw-channel-zulip) - Zulip channel plugin for OpenClaw — concurrent message processing, reaction indicators, file uploads, and full actions API

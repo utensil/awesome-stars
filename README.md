@@ -2228,6 +2228,7 @@
 
 ## Go 
 
+- [unnecessary-special-projects/ghist](https://github.com/unnecessary-special-projects/ghist) - Task management that lives in your repo
 - [compozy/compozy](https://github.com/compozy/compozy) - Drive the full lifecycle of AI-assisted development — from idea to shipped code.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
@@ -6769,6 +6770,7 @@
 
 ## Others 
 
+- [vthinkxie/illustrated-explainer-spec](https://github.com/vthinkxie/illustrated-explainer-spec) - Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) - 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
@@ -7685,6 +7687,7 @@
 
 ## Python 
 
+- [JayFarei/opentraces](https://github.com/JayFarei/opentraces) - Open schema + CLI for repo-local agent trace capture, review, and upload to Hugging Face Hub.
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) - Infinity is a high-throughput, low-latency serving engine for text-embeddings, reranking models, clip, clap and colpali
 - [Goekdeniz-Guelmez/mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) - Train Large Language Models on MLX.
 - [GIN-SYSTEMS/vigil-tui](https://github.com/GIN-SYSTEMS/vigil-tui) - Real-time terminal power monitor — CPU · GPU · RAM wattage dashboard  Visibility
@@ -7894,7 +7897,7 @@
 - [clchinkc/streamlit-editor](https://github.com/clchinkc/streamlit-editor) - Personal project, Generative AI, Streamlit, Python
 - [ispras/dedoc](https://github.com/ispras/dedoc) - Dedoc is a library (service) for automate documents parsing and bringing to a uniform format. It automatically extracts content, logical structure, tables, and meta information from textual electronic
 - [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) - Legacy Python library for Agentic Document Extraction (ADE). Use the landingai-ade library for all new projects.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
 - [googlefonts/picosvg](https://github.com/googlefonts/picosvg) - Helps simplify SVG files. Intended for use as part of a font build.
 - [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公
 - [ezyang/ezbench](https://github.com/ezyang/ezbench) - Fork of Carlini's yet-another-applied-llm-benchmark for me to accumulate some of my own real world eval cases
@@ -8191,7 +8194,7 @@
 - [protectai/vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) - A neovim plugin for interactively running code with the jupyter kernel. Fork of magma-nvim with improvements in image rendering, performance, and more
 - [albertqjiang/Portal-to-ISAbelle](https://github.com/albertqjiang/Portal-to-ISAbelle) - https://albertqjiang.github.io/Portal-to-ISAbelle/
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data context layer for unstructured data - images, video, sensor data, text and PDFs
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 - [leanprover-community/LeanProject](https://github.com/leanprover-community/LeanProject) - A template for blueprint-driven formalization projects in Lean.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -10302,6 +10305,7 @@
 
 ## Rust 
 
+- [affromero/gitpane](https://github.com/affromero/gitpane) - Multi-repo Git workspace dashboard for the terminal
 - [graykode/abtop](https://github.com/graykode/abtop) - Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time.
 - [ruiiiijiiiiang/rs-top](https://github.com/ruiiiijiiiiang/rs-top) - Remote System Top
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -10822,7 +10826,7 @@
 - [rYuuk/AstroGen](https://github.com/rYuuk/AstroGen) - Procedural asteroid generator using compute shaders in bevy
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time.
 - [samestep/phoebe](https://github.com/samestep/phoebe) - Automatic differentiation for Rust.
 - [adroit-lang/adroit](https://github.com/adroit-lang/adroit) - An experimental differentiable programming language.
@@ -10862,7 +10866,7 @@
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [twitchax/kord](https://github.com/twitchax/kord) - A music theory binary and library for Rust / JS.
 - [jaredly/veoluz](https://github.com/jaredly/veoluz) - "I see light" - visualize the paths of millions of light rays through reflection, refraction and diffusion
-- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
+- [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Inference at the speed of light.
 - [Aandreba/wasm2spirv](https://github.com/Aandreba/wasm2spirv) - Compile your WebAssembly programs into SPIR-V shaders
 - [pjoe/wasm-naga](https://github.com/pjoe/wasm-naga) - Using naga shader translater with WebAssembly
 - [gfx-rs/naga](https://github.com/gfx-rs/naga) - Universal shader translation in Rust
@@ -11876,7 +11880,7 @@
 
 ## Swift 
 
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac, iOS and iPadOS
 - [rock74710/TypelessMLX](https://github.com/rock74710/TypelessMLX) - macOS 語音聽寫 App — MLX Whisper + Breeze-ASR-25，完全離線，Apple Silicon 最佳化
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
@@ -12174,7 +12178,7 @@
 ## TypeScript 
 
 - [Ark0N/Codeman](https://github.com/Ark0N/Codeman) - Manage Claude Code & Opencode in Tmux Sessions in a modern WebUI
-- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private & local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, intera
 - [sweriko/ai4anim-webgpu](https://github.com/sweriko/ai4anim-webgpu) - 
 - [owengretzinger/constellagent](https://github.com/owengretzinger/constellagent) - Desktop app for running multiple AI agents in parallel. Each agent gets its own terminal, editor, and git worktree, all in one window.
 - [steipete/birdclaw](https://github.com/steipete/birdclaw) - Stores all your tweets nicely claw-able for agents.

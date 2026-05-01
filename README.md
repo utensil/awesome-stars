@@ -167,6 +167,7 @@
 - [VHDL](#vhdl)
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
+- [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
 - [WGSL](#wgsl)
 - [WebAssembly](#webassembly)
@@ -2295,7 +2296,7 @@
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [onlyLTY/dockerCopilot](https://github.com/onlyLTY/dockerCopilot) - 一键更新容器
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
-- [flowexec/flow](https://github.com/flowexec/flow) - Local developer automation platform that flows with you
+- [flowexec/flow](https://github.com/flowexec/flow) - Local-first developer automation platform — workflows, secrets, templates, and more.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [nalgeon/be](https://github.com/nalgeon/be) - Minimal test assertions in Go
 - [soulteary/apt-proxy](https://github.com/soulteary/apt-proxy) - [Ubuntu / Debian / CentOS / Alpine] Lightweight APT / YUM / APK CHACHE PROXY just over 2MB in size!
@@ -5724,7 +5725,6 @@
 - [joelburget/microjax](https://github.com/joelburget/microjax) - A tiny autograd engine with a Jax-like API
 - [ash80/RLHF_in_notebooks](https://github.com/ash80/RLHF_in_notebooks) - RLHF (Supervised fine-tuning, reward model, and PPO) step-by-step in 3 Jupyter notebooks
 - [tanelp/tiny-diffusion](https://github.com/tanelp/tiny-diffusion) - A minimal PyTorch implementation of probabilistic diffusion models for 2D datasets.
-- [brurucy/pydbsp](https://github.com/brurucy/pydbsp) - This library provides an implementation of the DBSP language for incremental streaming computations.
 - [zenbase-ai/core](https://github.com/zenbase-ai/core) - Prompt engineering, automated.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [adsabs/adsabs-dev-api](https://github.com/adsabs/adsabs-dev-api) - Developer API service description and example client code
@@ -6768,11 +6768,12 @@
 
 ## Others 
 
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [dayviwong/apple-design-skill](https://github.com/dayviwong/apple-design-skill) - Apple HIG design system skill for WorkBuddy / CodeBuddy. SF Pro, glassmorphism, spring animations, dual-mode, 20+ curated palettes.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [vthinkxie/illustrated-explainer-spec](https://github.com/vthinkxie/illustrated-explainer-spec) - Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) - 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
@@ -7281,7 +7282,6 @@
 - [sindresorhus/amas](https://github.com/sindresorhus/amas) - Awesome & Marvelous Amas
 - [kiteco/issue-tracker](https://github.com/kiteco/issue-tracker) - User-reported issues for Kite
 - [ethereum/webthree-umbrella](https://github.com/ethereum/webthree-umbrella) - Former home of cpp-ethereum (Oct 2015 to Aug 2016)
-- [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 - [angrave/SystemProgramming](https://github.com/angrave/SystemProgramming) - Angrave's Crowd-Sourced System Programming Book used at UIUC
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
@@ -7878,6 +7878,7 @@
 - [sublimelsp/LSP-copilot](https://github.com/sublimelsp/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [botingw/rulebook-ai](https://github.com/botingw/rulebook-ai) - Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor, Roo Code, Cline, Windsurf, Claude Code, Gemini Cli, Codex CLI, kilo code, warp custom rules via a un
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
+- [brurucy/pydbsp](https://github.com/brurucy/pydbsp) - This library provides an implementation of the DBSP language for incremental streaming computations.
 - [jcabot/funding-dsl](https://github.com/jcabot/funding-dsl) - Simple DSL to facilitate the creation of FUNDING files to manage sponsorships in your repository
 - [donnemartin/haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
 - [qqq-wisc/qwla](https://github.com/qqq-wisc/qwla) - Quantum computing without the linear algebra
@@ -7897,7 +7898,7 @@
 - [clchinkc/streamlit-editor](https://github.com/clchinkc/streamlit-editor) - Personal project, Generative AI, Streamlit, Python
 - [ispras/dedoc](https://github.com/ispras/dedoc) - Dedoc is a library (service) for automate documents parsing and bringing to a uniform format. It automatically extracts content, logical structure, tables, and meta information from textual electronic
 - [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) - Legacy Python library for Agentic Document Extraction (ADE). Use the landingai-ade library for all new projects.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Run agents as production software.
 - [googlefonts/picosvg](https://github.com/googlefonts/picosvg) - Helps simplify SVG files. Intended for use as part of a font build.
 - [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公
 - [ezyang/ezbench](https://github.com/ezyang/ezbench) - Fork of Carlini's yet-another-applied-llm-benchmark for me to accumulate some of my own real world eval cases
@@ -10473,7 +10474,7 @@
 - [zeonzip/ansic](https://github.com/zeonzip/ansic) - Ansic is a modern, efficient and compile time ansi macro and utilities.
 - [houqp/kiorg](https://github.com/houqp/kiorg) - A hacker's file manager with VIM inspired keybind
 - [caiyih/bakaos](https://github.com/caiyih/bakaos) - The bare metal kernel that tests directly with `cargo test`
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic. Now part of Digit
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
@@ -10620,7 +10621,7 @@
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 - [udoprog/syntree](https://github.com/udoprog/syntree) - A memory efficient syntax tree for language developers
 - [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
-- [iii-hq/iii](https://github.com/iii-hq/iii) - iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [robert-at-pretension-io/mcp](https://github.com/robert-at-pretension-io/mcp) - code
 - [mattwparas/steel](https://github.com/mattwparas/steel) - An embedded scheme interpreter in Rust
@@ -11638,7 +11639,7 @@
 - [nikvdp/cco](https://github.com/nikvdp/cco) - A thin protective layer for Claude Code
 - [simonw/monthly-newsletter-archive](https://github.com/simonw/monthly-newsletter-archive) - My sponsors-only monthly newsletter on a one month delay
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [deanh/rad-skill](https://github.com/deanh/rad-skill) - Claude skill for Radicle
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 460 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [gsaslis/mirror-to-radicle](https://github.com/gsaslis/mirror-to-radicle) - A GitHub Action that mirrors your code to the peer-to-peer Radicle code hosting network, where Open Source Software can thrive beyond corporate agendas and constraints.
@@ -11950,7 +11951,7 @@
 - [macmade/Hot](https://github.com/macmade/Hot) - Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues.
 - [KhronosGroup/glTF-iOS-Viewer](https://github.com/KhronosGroup/glTF-iOS-Viewer) - Khronos glTF Viewer for iOS
 - [markusmoenig/Render-Z](https://github.com/markusmoenig/Render-Z) - A visual Metal shader editor for macOS and iPadOS
-- [markusmoenig/ShaderMania](https://github.com/markusmoenig/ShaderMania) - A Metal fragment shader editor for macOS and iOS
+- [markusmoenig/ShaderMania](https://github.com/markusmoenig/ShaderMania) - A Metal fragment shader editor for macOS and iPadOS
 - [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - Examples using MLX Swift
 - [liuliu/swift-diffusion](https://github.com/liuliu/swift-diffusion) - 
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) - The Foundation project
@@ -12224,7 +12225,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
 - [NatiCha/bunwv](https://github.com/NatiCha/bunwv) - 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for parallel agentic development. Run any coding agent with your own subscription.
 - [modem-dev/slop-scan](https://github.com/modem-dev/slop-scan) - Detect AI code slop patterns in your repo
 - [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge) - Bridge local AI coding sessions between Pi, Claude Code, and Codex.
 - [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them.
@@ -12334,7 +12335,7 @@
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [maciej-trebacz/tower-of-time-game](https://github.com/maciej-trebacz/tower-of-time-game) - Vibe coded Tower Defense type of game made for a game jam
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [zig-wasm/zig-mcp](https://github.com/zig-wasm/zig-mcp) - Model Context Protocol (MCP) server that provides up-to-date documentation for the Zig programming language standard library and builtin functions
@@ -13049,6 +13050,10 @@
 - [kerryb/vim-config](https://github.com/kerryb/vim-config) - My vim config
 - [tomasr/dotfiles](https://github.com/tomasr/dotfiles) - My personal dotfiles for vim, powershell, bash and other tools
 - [scudco/dotfiles](https://github.com/scudco/dotfiles) - scudco's dotfiles, of course
+
+## Vim Snippet 
+
+- [johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
 
 ## Vue 
 

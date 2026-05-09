@@ -291,6 +291,7 @@
 
 ## C 
 
+- [mitsuhiko/ds4](https://github.com/mitsuhiko/ds4) - DeepSeek 4 Flash local inference engine for Metal
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [joshuarli/iss](https://github.com/joshuarli/iss) - 3-finger swipe instant space switching on macOS
 - [edubart/minicoro](https://github.com/edubart/minicoro) - Single header stackful cross-platform coroutine library in pure C.
@@ -407,7 +408,7 @@
 - [floooh/sokol-samples](https://github.com/floooh/sokol-samples) - Sample code for https://github.com/floooh/sokol
 - [tgjones/shader-playground](https://github.com/tgjones/shader-playground) - Shader playground website for exploring HLSL, GLSL, SPIR-V compilers
 - [cleak/VoxelPerf](https://github.com/cleak/VoxelPerf) - Performance testing sandbox for voxel graphics
-- [ColleagueRiley/RGFW](https://github.com/ColleagueRiley/RGFW) - A lightweight single-header multi platform library for general windowing
+- [ColleagueRiley/RGFW](https://github.com/ColleagueRiley/RGFW) - A lightweight single-header cross-platform library for general windowing
 - [rswinkle/PortableGL](https://github.com/rswinkle/PortableGL) - An implementation of OpenGL 3.x-ish in clean C
 - [fabiospampinato/pikchr-wasm](https://github.com/fabiospampinato/pikchr-wasm) - A fast and small port of Pikchr to WASM.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -882,6 +883,7 @@
 - [google/nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 - [skarupke/benchmark-gui](https://github.com/skarupke/benchmark-gui) - My benchmarking library. Use it if you take benchmarking seriously.
 - [bkaradzic/metal-cpp](https://github.com/bkaradzic/metal-cpp) - Metal-cpp is a low-overhead C++ interface for Metal that helps developers add Metal functionality to graphics apps, games, and game engines that are written in C++.
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [Foreseerr/TScale](https://github.com/Foreseerr/TScale) - 
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
@@ -1232,7 +1234,7 @@
 - [justinfreitag-zz/node-botan](https://github.com/justinfreitag-zz/node-botan) - A fully asynchronous wrapper of the Botan crypto library for Node JS
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 - [neobrain/cftf](https://github.com/neobrain/cftf) - Clang from the Future: A C++17 to C++11 source-to-source compiler
-- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
 - [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 - [UncP/Mushroom](https://github.com/UncP/Mushroom) - Distributed In-Memory Index 分布式内存索引
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) - PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and
@@ -2230,6 +2232,7 @@
 
 ## Go 
 
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [RevylAI/revyl-cli](https://github.com/RevylAI/revyl-cli) - CLI
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
@@ -2272,6 +2275,7 @@
 - [NamanBalaji/tdm](https://github.com/NamanBalaji/tdm) - TDM is a cross-platform, multi protocol fast and lightweight download manager that runs in the terminal.
 - [0xjuanma/anvil](https://github.com/0xjuanma/anvil) - CLI to streamline config management and tool installation. Install your full dev tool-chain in one command and sync configurations across machines seamlessly, leverages homebrew and private repos.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew
 - [emprcl/runal](https://github.com/emprcl/runal) - a creative coding environment for the terminal :fireworks:
 - [piqoni/vogte](https://github.com/piqoni/vogte) - The Agentic TUI for Go codebases
@@ -2432,7 +2436,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [andbron/yaml-docs](https://github.com/andbron/yaml-docs) - A tool for automatically generating markdown documentation from yaml
 - [rhinouser0/riverpass](https://github.com/rhinouser0/riverpass) - A handy local disk based cache for hot content from remote storage.
-- [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
+- [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具。我会在微信公众号 （@子平不肖生） 写一些禄命文化研究，有兴趣的朋友可以交流。      个人主页： https://zhudw.cn/
 - [sylabs/singularity](https://github.com/sylabs/singularity) - SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
 - [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 - [reactorsh/ambrosia](https://github.com/reactorsh/ambrosia) - clean up your LLM datasets
@@ -3554,6 +3558,7 @@
 
 ## JavaScript 
 
+- [49Agents/49Agents](https://github.com/49Agents/49Agents) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
 - [dy/jz](https://github.com/dy/jz) - JS→WASM
 - [HazAT/glimpse](https://github.com/HazAT/glimpse) - Native macOS micro-UI for scripts and agents — sub-50ms WKWebView windows with bidirectional JSON communication
 - [dbachelder/slop-review](https://github.com/dbachelder/slop-review) - A native /slop-review window for Claude Code, Codex CLI, and pi — review the slop before you ship it. Monaco-powered inline comments, agent reads them back. Forked from badlogic/pi-diff-review.
@@ -3863,7 +3868,7 @@
 - [unconed/mathbox](https://github.com/unconed/mathbox) - Presentation-quality WebGL math graphing
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
-- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Framework and Observable notebooks
+- [observablehq/runtime](https://github.com/observablehq/runtime) - The reactive dataflow runtime that powers Observable Notebooks
 - [second-state/wasmedge-quickjs](https://github.com/second-state/wasmedge-quickjs) - A high-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.
 - [thomaspark/bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 - [HYLZ-2019/FriendsOfFriends](https://github.com/HYLZ-2019/FriendsOfFriends) - Crawl WeChat Moments and visualize friend interactions.
@@ -5111,7 +5116,6 @@
 - [soliton4/nodeMirror](https://github.com/soliton4/nodeMirror) - node.js + CodeMirror = powerful ide
 - [ddliu/node-svn-spawn](https://github.com/ddliu/node-svn-spawn) - Easy way to access svn repository with node.js.
 - [ianmcodes/node-svn-interface](https://github.com/ianmcodes/node-svn-interface) - SVN Interface for Node.js
-- [thomfang/svnjs](https://github.com/thomfang/svnjs) - A javascript lib use as  a SVN client on web.
 - [node-webot/weixin-robot](https://github.com/node-webot/weixin-robot) - 微信公共帐号自动回复机器人 A Node.js robot for wechat.
 - [SarvagyaVaish/FlappyBirdRL](https://github.com/SarvagyaVaish/FlappyBirdRL) - Flappy Bird hack using Reinforcement Learning
 - [suyan/suyan.github.io](https://github.com/suyan/suyan.github.io) - My Blog.
@@ -7811,7 +7815,6 @@
 - [google-agentic-commerce/AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [tim-janik/imagewmark](https://github.com/tim-janik/imagewmark) - Resilient watermarking of digital images
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [trymirai/lalamo](https://github.com/trymirai/lalamo) - JAX infrastructure for model optimisation
 - [EpicWink/proxpi](https://github.com/EpicWink/proxpi) - PyPI caching proxy
 - [vanhoefm/tunneltester](https://github.com/vanhoefm/tunneltester) - 
@@ -7962,7 +7965,6 @@
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 - [cofob/autogenlib](https://github.com/cofob/autogenlib) - Import wisdom, export code.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM and SmolVLM family of models
-- [tile-ai/tilelang](https://github.com/tile-ai/tilelang) - Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [obsei/obsei](https://github.com/obsei/obsei) - Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
@@ -10326,6 +10328,10 @@
 
 ## Rust 
 
+- [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide) - cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language b
+- [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) - Process Interactive Kill
+- [claration/Impactor](https://github.com/claration/Impactor) - Feature rich iOS/tvOS sideloading application written in Rust.
+- [Cpp2Rust/cpp2rust](https://github.com/Cpp2Rust/cpp2rust) - Cpp2Rust: Automatic Translation of C++ to Safe Rust
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
 - [Dicklesworthstone/asupersync](https://github.com/Dicklesworthstone/asupersync) - Async runtime for Rust where correctness is structural: region-owned tasks, cancel-correct protocols, capability-gated effects, and deterministic replay testing
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - from idea to merge, hands-free
@@ -11915,10 +11921,12 @@
 
 ## Swift 
 
+- [vivy-company/vvterm](https://github.com/vivy-company/vvterm) - Ghostty-powered SSH client for iOS, iPad, MacOS.
+- [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [jrainlau/himi-recorder](https://github.com/jrainlau/himi-recorder) - 
-- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor and knowledge base for Mac, iOS and iPadOS
+- [Shpigford/clearly](https://github.com/Shpigford/clearly) - Markdown editor for Mac, iOS and iPadOS
 - [rock74710/TypelessMLX](https://github.com/rock74710/TypelessMLX) - macOS 語音聽寫 App — MLX Whisper + Breeze-ASR-25，完全離線，Apple Silicon 最佳化
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
@@ -11930,7 +11938,7 @@
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - 100% private on-device voice models for speech-to-text and meeting transcription on macOS
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [marswaveai/TypeNo](https://github.com/marswaveai/TypeNo) - A free, open source, privacy-first voice input app for macOS.
-- [PowerBeef/QwenVoice](https://github.com/PowerBeef/QwenVoice) - Vocello is a native macOS app for offline Qwen3-TTS on Apple Silicon, with Custom Voice, Voice Design, and Voice Cloning.
+- [PowerBeef/QwenVoice](https://github.com/PowerBeef/QwenVoice) - Vocello is the next local-first voice app for Mac. The current safe public download is QwenVoice v1.2.3 while Vocello is rebuilt for macOS 26.
 - [simonw/gpuer](https://github.com/simonw/gpuer) - Show GPU usage with a macOS menu icon
 - [Brkgng/ScrollSnap](https://github.com/Brkgng/ScrollSnap) - A macOS app for capturing and stitching scrolling screenshots.
 - [simonw/present](https://github.com/simonw/present) - SwiftUI presentation software, every slide is a URL
@@ -12216,6 +12224,9 @@
 
 ## TypeScript 
 
+- [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
+- [productdevbook/hucre](https://github.com/productdevbook/hucre) - Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -12280,7 +12291,7 @@
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 - [bddicken/tuitter](https://github.com/bddicken/tuitter) - tuitter
-- [spool-lab/spool](https://github.com/spool-lab/spool) - Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources — locally, instantly. Your AI agents can search too.
+- [spool-lab/spool](https://github.com/spool-lab/spool) - Your local AI session library. Collects sessions from Claude Code, Codex CLI, Gemini CLI (and more) — browsable and ⌘K-searchable.
 - [liyown/marknative](https://github.com/liyown/marknative) - A Markdown rendering engine that generates paginated PNG and SVG output — no browser, no Chromium, no DOM.
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 - [motiful/cc-gateway](https://github.com/motiful/cc-gateway) - AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying

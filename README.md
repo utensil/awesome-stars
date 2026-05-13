@@ -148,7 +148,6 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Slash](#slash)
-- [Smarty](#smarty)
 - [Spline Font Database](#spline-font-database)
 - [Standard ML](#standard-ml)
 - [Starlark](#starlark)
@@ -292,7 +291,7 @@
 ## C 
 
 - [libimobiledevice/ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 - [mitsuhiko/ds4](https://github.com/mitsuhiko/ds4) - DeepSeek 4 Flash local inference engine for Metal
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [joshuarli/iss](https://github.com/joshuarli/iss) - 3-finger swipe instant space switching on macOS
@@ -2235,9 +2234,10 @@
 
 ## Go 
 
+- [doorlay/ente-backups](https://github.com/doorlay/ente-backups) - Automated local and remote backups of your Ente photo library
 - [openai/openai-cli](https://github.com/openai/openai-cli) - Official CLI for the OpenAI API
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
-- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI for AI coding-agent session history: trace cost, tokens, time, tool failures, latency, health, diffs, reports, and CI gates across local agent logs.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [RevylAI/revyl-cli](https://github.com/RevylAI/revyl-cli) - CLI
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
@@ -2365,6 +2365,7 @@
 - [boldsoftware/sketch](https://github.com/boldsoftware/sketch) - autonomous software apprentice
 - [XiaoConstantine/dspy-go](https://github.com/XiaoConstantine/dspy-go) - DSPy Go implementation
 - [icholy/sloppy](https://github.com/icholy/sloppy) - An LLM agent
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -3562,6 +3563,7 @@
 
 ## JavaScript 
 
+- [AikidoSec/safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge) - AI-powered interactive 3D cell generation and exploration studio.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
@@ -7716,6 +7718,9 @@
 
 ## Python 
 
+- [xiamuceer-j/MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel) - 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事
+- [nipuxx/agent-cli](https://github.com/nipuxx/agent-cli) - Small restartable local-model worker for long-running browser and web research jobs.
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - 2.24x decode TPS increase On Qwen 3.6 27B @ temp 0.6 | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
 - [walter-grace/mac-code](https://github.com/walter-grace/mac-code) - mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month.
 - [MathNetwork/mathlib-network](https://github.com/MathNetwork/mathlib-network) - 
 - [Jedward23/Tmux-Orchestrator](https://github.com/Jedward23/Tmux-Orchestrator) - 
@@ -7875,7 +7880,7 @@
 - [zane-ops/zane-ops](https://github.com/zane-ops/zane-ops) - A beautiful and fast self-hosted PaaS for deploying and managing web apps, databases, static websites and more.
 - [stabldev/torrra](https://github.com/stabldev/torrra) - A Python tool that lets you search and download torrents without leaving your CLI.
 - [shedskin/shedskin](https://github.com/shedskin/shedskin) - Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions.
-- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
 - [dvig14/gitbug](https://github.com/dvig14/gitbug) - 
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 - [trailofbits/deptective](https://github.com/trailofbits/deptective) - Deptective automatically determines the native dependencies required to run any arbitrary program or command.
@@ -8029,7 +8034,7 @@
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [elastic/detection-rules](https://github.com/elastic/detection-rules) - 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -10350,6 +10355,8 @@
 
 ## Rust 
 
+- [Kayleexx/tsuki](https://github.com/Kayleexx/tsuki) - a lightweight self-hosted PaaS inspired by Heroku , Fly.io , and Dokku without Kubernetes complexity.
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [aeroxy/drift](https://github.com/aeroxy/drift) - drift is a single binary that lets you securely copy files and folders between two machines over WebSocket. It includes a built-in web UI with a two-pane file browser — no setup, no cloud, no SSH keys
 - [orhun/ratty](https://github.com/orhun/ratty) - A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀
 - [AstraBert/aggit](https://github.com/AstraBert/aggit) - S3-backed, git-versioned object storage for your agents
@@ -10739,7 +10746,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [release-plz/release-plz](https://github.com/release-plz/release-plz) - Publish Rust crates from CI with a Release PR.
 - [samwho/rust-debugger](https://github.com/samwho/rust-debugger) - A ptrace-based debugger written in Rust.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, dashboards, and advanced analytics.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, text-to-sql, dashboards, and advanced analytics.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
@@ -10966,7 +10973,7 @@
 - [bytecodealliance/javy](https://github.com/bytecodealliance/javy) - JS to WebAssembly toolchain
 - [typst-community/wasm-minimal-protocol](https://github.com/typst-community/wasm-minimal-protocol) - A minimal protocol to write Typst plugins, and a CLI tool to stub WASI imports.
 - [linebender/tiny-skia](https://github.com/linebender/tiny-skia) - A tiny Skia subset ported to Rust
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [Marwes/pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -11916,10 +11923,6 @@
 
 - [ellisk42/ec](https://github.com/ellisk42/ec) - 
 
-## Smarty 
-
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
-
 ## Spline Font Database 
 
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
@@ -11953,6 +11956,7 @@
 
 ## Swift 
 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [malpern/VoxClaw](https://github.com/malpern/VoxClaw) - Give OpenClaw a voice —  Let your agent speak from any Mac on your network
 - [jamesrochabrun/AgentHub](https://github.com/jamesrochabrun/AgentHub) - Manage all sessions in Claude Code and Codex. Easily create new worktrees, run multiple terminals in parallel, preview edits before accepting them, make inline changes directly from diffs, and more.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
@@ -11968,7 +11972,7 @@
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [dnakov/kittyfarm](https://github.com/dnakov/kittyfarm) - 
-- [cordwainersmith/Claudoscope](https://github.com/cordwainersmith/Claudoscope) - native macOS app that gives you a real-time dashboard for your Claude Code sessions, with analytics, conversation history, and project insights.
+- [cordwainersmith/Claudoscope](https://github.com/cordwainersmith/Claudoscope) - native macOS app that gives you a real-time dashboard for your Claude Code and Cowork sessions, with analytics, conversation history, security hardening, real time secrets detection and project insigh
 - [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher) - Native space switching on macOS with no animation
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) - 100% offline, open-source, Voice Dictation app for macOS
@@ -12259,6 +12263,11 @@
 
 ## TypeScript 
 
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
+- [vercel-labs/emulate](https://github.com/vercel-labs/emulate) - Local API emulation for CI and no-network sandboxes
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [rynfar/meridian](https://github.com/rynfar/meridian) - Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.
 - [minpeter/plugsuits](https://github.com/minpeter/plugsuits) - Plug and go, native like a suit
@@ -12547,7 +12556,7 @@
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Platform for AI-powered software engineers
 - [egoist/chatwise-releases](https://github.com/egoist/chatwise-releases) - The fastest AI Chatbot for any LLM
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
-- [leerob/directories](https://github.com/leerob/directories) - Find rules and MCP servers
+- [cursor/community-plugins](https://github.com/cursor/community-plugins) - Find rules and MCP servers
 - [Nexus-JPF/note-companion](https://github.com/Nexus-JPF/note-companion) - Note Companion: AI assistant for Obsidian that goes beyond just a chat. (prev File Organizer 2000)
 - [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools) - Power tools for organizing your immich library
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
@@ -12619,7 +12628,7 @@
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [tomorrowevening/three-offscreen](https://github.com/tomorrowevening/three-offscreen) - ThreeJS with Offscreen canvas with fallback support
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -12668,7 +12677,7 @@
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 - [ShaderFrog/core](https://github.com/ShaderFrog/core) - 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
+- [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Reon90/redcube](https://github.com/Reon90/redcube) - JS renderer based on GLTF to WebGPU or WebGL backends.
 - [joshbrew/webgpujs](https://github.com/joshbrew/webgpujs) - Write full featured WGSL pipelines in plain javascript.

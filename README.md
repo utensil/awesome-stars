@@ -1107,7 +1107,7 @@
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Ali-Stanford/ChatGPT_Programming_Numerical_Methods](https://github.com/Ali-Stanford/ChatGPT_Programming_Numerical_Methods) - Coding numerical methods using ChatGPT: successes, failures, and challenges
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [ggml-org/ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 - [google/highwayhash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/fo
@@ -6819,7 +6819,7 @@
 - [Oceanswave/bird](https://github.com/Oceanswave/bird) - CLI tool for X/Twitter - rescued from @steipete/bird v0.8.0
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [dayviwong/apple-design-skill](https://github.com/dayviwong/apple-design-skill) - Apple HIG design system skill for WorkBuddy / CodeBuddy. SF Pro, glassmorphism, spring animations, dual-mode, 20+ curated palettes.
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [vthinkxie/illustrated-explainer-spec](https://github.com/vthinkxie/illustrated-explainer-spec) - Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page.
 - [spacebarchat/spacebarchat](https://github.com/spacebarchat/spacebarchat) - 📬 Spacebar is a free open source selfhostable discord compatible communication platform
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
@@ -6916,7 +6916,7 @@
 - [cceckman/unicode-branchless](https://github.com/cceckman/unicode-branchless) - Moved: https://cceckman.com/r/unicode-branchless
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [trycua/acu](https://github.com/trycua/acu) - A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
-- [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
+- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
 - [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - :sparkles::sparkles:Latest Advances on Multimodal Large Language Models
 - [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) - 
 - [mohitmishra786/amILearningEnough](https://github.com/mohitmishra786/amILearningEnough) - Low-Level Programming Roadmap and Resources
@@ -7843,7 +7843,7 @@
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [alDuncanson/Handler](https://github.com/alDuncanson/Handler) - A2A protocol client for your terminal
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager.
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager.
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [Vasallo94/ObsidianRAG](https://github.com/Vasallo94/ObsidianRAG) - Ask questions about your Obsidian notes using local AI. Privacy-first RAG with Ollama, LM Studio, or any OpenAI-compatible server. Obsidian plugin + Docker + PyPI.
 - [lauriset/Dotfiles-XFCE](https://github.com/lauriset/Dotfiles-XFCE) - 
@@ -7856,7 +7856,7 @@
 - [olivierkes/manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [vkbo/novelWriter](https://github.com/vkbo/novelWriter) - novelWriter is an open source plain text editor designed for writing novels.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model
+- [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.
 - [Lyricflow/Lyricflow](https://github.com/Lyricflow/Lyricflow) - 
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
@@ -8231,7 +8231,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build GenBI, agent
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Give AI agents the context to query business data correctly through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build Ge
 - [Jamorim-esss/pytest-rich](https://github.com/Jamorim-esss/pytest-rich) - pytest + rich integration (proof of concept)
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
@@ -10433,7 +10433,7 @@
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [raulk/omnifs](https://github.com/raulk/omnifs) - the universe, mounted on your filesystem  🪐
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [Zeugsein/mtop](https://github.com/Zeugsein/mtop) - 📊 Sudo-less system monitor for Apple Silicon Macs: 6 metric panels, beautiful braille graphs.
 - [addy/mesh-node](https://github.com/addy/mesh-node) - Decentralized chat
@@ -10654,7 +10654,7 @@
 - [alshdavid-public/edon](https://github.com/alshdavid-public/edon) - 
 - [litexlang/golitex](https://github.com/litexlang/golitex) - Litex is a simple formal language Learnable in 2 hours.
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals
-- [shnarazk/splr](https://github.com/shnarazk/splr) - A modern (trail saving, clause subsumption/vivification, learning-rate based selecting, rephrase) CDCL SAT solver in Rust
+- [shnarazk/splr](https://github.com/shnarazk/splr) - A modern (trail saving, pre/in processor, LRB, rephrase rotation) CDCL SAT solver in Rust, strongly inspired by Kissat
 - [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 - [rue-language/rue](https://github.com/rue-language/rue) - A programming language that is higher level than Rust but lower level than Go. Someday, anyways.
 - [embedded-graphics/embedded-graphics](https://github.com/embedded-graphics/embedded-graphics) - A no_std graphics library for embedded applications
@@ -10782,7 +10782,7 @@
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [emschwartz/html-to-text-comparison](https://github.com/emschwartz/html-to-text-comparison) - Comparing Rust crates for extracting text from HTML
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a zellij popup system (with lazygit as default), zoxide integrations, a config UI, zjst
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults & awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus 
 - [rust-shell-script/rust_cmd_lib](https://github.com/rust-shell-script/rust_cmd_lib) - Common rust command-line macros and utilities, to write shell-script like tasks in a clean, natural and rusty way
 - [grtlr/fjadra](https://github.com/grtlr/fjadra) - Library for simulating physical forces on particles, heavily inspired by d3-force.
 - [parasyte/hd](https://github.com/parasyte/hd) - Hex Display: A modern xxd alternative.
@@ -12002,6 +12002,7 @@
 
 ## Svelte 
 
+- [ansxuman/Clauge](https://github.com/ansxuman/Clauge) - One window. Every dev tool.
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [ByteAtATime/flare](https://github.com/ByteAtATime/flare) - Raycast-compatible launcher for Linux
@@ -12328,6 +12329,7 @@
 
 ## TypeScript 
 
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - Liquid Glass for the Web
 - [presenton/presenton](https://github.com/presenton/presenton) - Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)
 - [IgorWarzocha/pi-smart-btw](https://github.com/IgorWarzocha/pi-smart-btw) - 
@@ -12442,7 +12444,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Coding agents from your phone, desktop and CLI
 - [NatiCha/bunwv](https://github.com/NatiCha/bunwv) - 
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 - [modem-dev/slop-scan](https://github.com/modem-dev/slop-scan) - Detect AI code slop patterns in your repo
 - [bohdanpodvirnyi/agent-session-bridge](https://github.com/bohdanpodvirnyi/agent-session-bridge) - Bridge local AI coding sessions between Pi, Claude Code, and Codex.
 - [Michaelliv/psst](https://github.com/Michaelliv/psst) - 🤫 AI-native secrets manager. Agents use secrets without seeing them.
@@ -12488,7 +12490,7 @@
 - [involvex/youtube-music-cli](https://github.com/involvex/youtube-music-cli) - A powerful Terminal User Interface (TUI) music player for YouTube Music
 - [PlaiPin/rosclaw](https://github.com/PlaiPin/rosclaw) - ROS2 meets OpenClaw 💗
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx.
-- [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi) - Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
+- [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi) - Build TypeScript TUI backed by fast native rendering engine
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) - The agent-native LLM router for OpenClaw. 41+ models, &lt;1ms routing, USDC payments on Base & Solana via x402.

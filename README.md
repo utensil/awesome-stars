@@ -836,6 +836,7 @@
 
 ## C++ 
 
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) - Fast LLM speculative inference server for consumer hardware.
 - [CoreBedtime/ammonia](https://github.com/CoreBedtime/ammonia) - macos tweak system
 - [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
@@ -3599,7 +3600,6 @@
 - [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI
 - [termly-dev/termly-cli](https://github.com/termly-dev/termly-cli) - Mobile companion for Claude Code, Gemini CLI & OpenCode. Encrypted, remote
 - [zylos-ai/zylos-core](https://github.com/zylos-ai/zylos-core) - 🐙 Give your AI a life — open-source agent infrastructure for team collaboration.
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
 - [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Cla
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
@@ -3735,7 +3735,7 @@
 - [arguiot/TheoremJS](https://github.com/arguiot/TheoremJS) - A Math library for computation in JavaScript 📕
 - [crubier/opov](https://github.com/crubier/opov) - Operator Overloading for Typescript with Tagged Template Literals
 - [biasmv/pv](https://github.com/biasmv/pv) - WebGL protein viewer
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [UstymUkhman/uwal](https://github.com/UstymUkhman/uwal) - :jigsaw: Unopinionated WebGPU Abstraction Library :gear:
 - [AskingQuestions/Shadeup](https://github.com/AskingQuestions/Shadeup) - A language for WebGPU that makes writing shaders easier
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
@@ -6079,6 +6079,7 @@
 
 ## Lean 
 
+- [project-numina/LeanTriathlon](https://github.com/project-numina/LeanTriathlon) - 
 - [girving/ray-render](https://github.com/girving/ray-render) - Verified renders of the Mandelbrot set
 - [e-gubarev/zoogle](https://github.com/e-gubarev/zoogle) - 
 - [zksecurity/leanPython](https://github.com/zksecurity/leanPython) - Python interpreter written in Lean4?
@@ -6810,6 +6811,7 @@
 
 ## Others 
 
+- [bdongucla/math-ai-review-skills](https://github.com/bdongucla/math-ai-review-skills) - Rigorous, evidence-based review methodology for mathematics and AI research papers and reports.
 - [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓
 - [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books) - A curated list of best cuda programming books
 - [lightmode-laboratories/spacesuit](https://github.com/lightmode-laboratories/spacesuit) - Spacesuit — A futuristic canvas for your personal development
@@ -10390,6 +10392,10 @@
 
 ## Rust 
 
+- [Franvy/gtab](https://github.com/Franvy/gtab) - Save and restore Ghostty terminal tab layouts with a single command — on macOS.
+- [cortex/ripasso](https://github.com/cortex/ripasso) - A simple password manager written in Rust
+- [kcosr/codex-threads](https://github.com/kcosr/codex-threads) - CLI for creating, searching, reading transcripts, and controlling Codex app-server threads
+- [contember/okena](https://github.com/contember/okena) - A fast, native terminal multiplexer built in Rust with GPUI (the UI framework from Zed editor). Tabs, splits, detachable windows, command palette, and automatic workspace restore.
 - [JohannaWeb/Aurora](https://github.com/JohannaWeb/Aurora) - Browser Engine in Rust . Not Servo
 - [weavefoundry/weaveffi](https://github.com/weavefoundry/weaveffi) - Generate standalone, publish-ready packages for 11 target languages from a single native library.
 - [webstonehq/tuxedo](https://github.com/webstonehq/tuxedo) - A fast, keyboard-driven terminal UI for todo.txt.
@@ -10402,7 +10408,7 @@
 - [facebookincubator/scrut](https://github.com/facebookincubator/scrut) - Scrut is a testing toolkit for CLI applications. A tool to scrutinize terminal programs without fuss.
 - [5c0/metropolis](https://github.com/5c0/metropolis) - A cyberpunk system monitor that transforms kernel metrics into a living terminal skyline. Built with Rust & Ratatui.
 - [Helvesec/rmux](https://github.com/Helvesec/rmux) - Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.
-- [Sollimann/bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees for deterministic AI
+- [Sollimann/bonsai](https://github.com/Sollimann/bonsai) - Rust implementation of behavior trees for deterministic AI (now with Python bindings)
 - [beeb/swpui](https://github.com/beeb/swpui) - Search and replace, TUI style. Mirror available on Codeberg.
 - [Dicklesworthstone/rich_rust](https://github.com/Dicklesworthstone/rich_rust) - Beautiful terminal output for Rust inspired by Python's Rich: tables, panels, syntax highlighting, progress bars, and full-color rendering
 - [gripebomb/ThreatDeck](https://github.com/gripebomb/ThreatDeck) - Terminal-based threat intelligence monitoring and alerting platform
@@ -11115,7 +11121,7 @@
 - [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu) - 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
-- [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) - A modern computer algebra library for Python and Rust.
+- [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica) - Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expressions, match patterns, and generate optimized numerical code — at unprecedented speed.
 - [creusot-rs/creusot](https://github.com/creusot-rs/creusot) - Creusot helps you prove your Rust code is correct.
 - [databendlabs-x/askbend](https://github.com/databendlabs-x/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
 - [rust-lang/miri](https://github.com/rust-lang/miri) - An interpreter for Rust's mid-level intermediate representation
@@ -12026,6 +12032,7 @@
 
 ## Swift 
 
+- [robzilla1738/harness-terminal](https://github.com/robzilla1738/harness-terminal) - The native macOS terminal that keeps your sessions running and tells you when a coding agent needs you. GPU-rendered, scriptable, agent-aware.
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [iAmCorey/kooky](https://github.com/iAmCorey/kooky) - A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split panes; one-click agent launch; per-agent activity readout; live workspace state with one-click Node
 - [peterp/cmdcmd](https://github.com/peterp/cmdcmd) - Keyboard-first window switcher for macOS. Press both ⌘ keys to fan windows into a grid of live previews.
@@ -12059,6 +12066,7 @@
 - [simonw/present](https://github.com/simonw/present) - SwiftUI presentation software, every slide is a URL
 - [Kochava-Studios/skwad](https://github.com/Kochava-Studios/skwad) - AI coding agents, working together
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 - [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [velox-apps/velox](https://github.com/velox-apps/velox) - Velox is a port of Tauri to Swift.
@@ -12337,6 +12345,7 @@
 
 ## TypeScript 
 
+- [arpitpatel25/unmute-dictation](https://github.com/arpitpatel25/unmute-dictation) - Fast, local, bring-your-own-Groq-key voice dictation for macOS
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter
 - [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat

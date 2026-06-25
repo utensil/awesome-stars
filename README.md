@@ -2058,7 +2058,7 @@
 - [amake/orgro](https://github.com/amake/orgro) - An Org Mode app for iOS and Android
 - [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI that sees your screen, listens to your conversations and tells you what to do
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
+- [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -2391,6 +2391,7 @@
 - [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [carvel-dev/ytt](https://github.com/carvel-dev/ytt) - YAML templating tool that works on YAML structure instead of text
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
@@ -7744,6 +7745,7 @@
 
 ## Python 
 
+- [Hommy-master/capcut-mate](https://github.com/Hommy-master/capcut-mate) - 开源剪映小助手｜剪映API | 扣子插件 | Open-source CapCut automation toolkit to generate & download draft files.  | skills
 - [quadrismegistus/prosodic](https://github.com/quadrismegistus/prosodic) - Prosodic: a metrical-phonological parser, written in Python. For English and Finnish, with flexible language support.
 - [joeseesun/qiaomu-novel-generator](https://github.com/joeseesun/qiaomu-novel-generator) - Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.
 - [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
@@ -7854,7 +7856,7 @@
 - [olvvier/apple-silicon-accelerometer](https://github.com/olvvier/apple-silicon-accelerometer) - reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid
 - [sparklost/endcord](https://github.com/sparklost/endcord) - Feature rich Discord TUI client.
 - [seojoonkim/prompt-guard](https://github.com/seojoonkim/prompt-guard) - Advanced prompt injection defense system for AI agents. Multi-language detection, severity scoring, and security auditing.
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
 - [memovai/memov](https://github.com/memovai/memov) - Give git-like & traceable memory to OpenClaw and any coding agents. By https://memov.ai/ aka Entire CLI for every coding agents by MCP. Self-evolution for skills.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [banteg/takopi](https://github.com/banteg/takopi) - he just wants to help-pi!
@@ -8103,7 +8105,6 @@
 - [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) - A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费
 - [philzook58/knuckledragger](https://github.com/philzook58/knuckledragger) - A Low Barrier Proof Assistant
 - [mkaranasou/pyaml_env](https://github.com/mkaranasou/pyaml_env) - Parse YAML configuration with environment variables in Python
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [attentionmech/mav](https://github.com/attentionmech/mav) - Model Activity Visualiser
 - [camel-ai/loong](https://github.com/camel-ai/loong) - 🐉 Loong: Synthesize Long CoTs at Scale through Verifiers.
@@ -10422,7 +10423,7 @@
 
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
-- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - TUI note management app inspired by Obsidian
+- [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [quarto-dev/q2](https://github.com/quarto-dev/q2) - q2 is the experimental implementation of Quarto 2 in Rust.
 - [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Auditable workspaces for AI agent teams: sandboxed worktrees, multi-agent peer-review, 95% lower token waste, and persistent memory.
 - [diktoapp/dikto](https://github.com/diktoapp/dikto) - Voice-to-text for macOS. Records speech, transcribes locally. Whisper + Parakeet. No cloud.
@@ -10608,7 +10609,7 @@
 - [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) - libgccjit AOT codegen for rustc
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [oowl/quicssh-rs](https://github.com/oowl/quicssh-rs) - QUIC proxy that allows to use QUIC to connect to an SSH server without needing to patch the client or the server.
 - [ballsteve/xrust](https://github.com/ballsteve/xrust) - XPath, XQuery, and XSLT for Rust
@@ -12404,7 +12405,7 @@
 - [modem-dev/sideshow](https://github.com/modem-dev/sideshow) - A multimodal render surface for terminal coding agents — generate and view HTML visuals, diffs, mermaid diagrams and more
 - [pmndrs/ecctrl](https://github.com/pmndrs/ecctrl) - 🕹️ A physics-driven controller toolkit for React Three Fiber + Rapier
 - [afar1/fieldtheory](https://github.com/afar1/fieldtheory) - Mac app to create context for agents: writing, reading, voice, terminal, bookmarks, and clipboard.
-- [agonist/contentbit](https://github.com/agonist/contentbit) - Structured Markdown components without framework lock-in. Validated blocks for content written by humans, CMSes, and LLMs.
+- [agonist/contentbit](https://github.com/agonist/contentbit) - Structured Markdown components without framework lock-in. Validated blocks for content written by  LLMs.
 - [badlogic/pibot](https://github.com/badlogic/pibot) - 
 - [arpitpatel25/unmute-dictation](https://github.com/arpitpatel25/unmute-dictation) - Fast, local, bring-your-own-Groq-key voice dictation for macOS
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter
@@ -12434,7 +12435,7 @@
 - [badlogic/pi-share-hf](https://github.com/badlogic/pi-share-hf) - Collect, review, and upload redacted pi session files to a Hugging Face dataset
 - [ultralazr/cc-share-hf](https://github.com/ultralazr/cc-share-hf) - Collect, review, and upload redacted pi session files to a Hugging Face dataset
 - [boozedog/pi-codemode](https://github.com/boozedog/pi-codemode) - 
-- [spiritledsoftware/caplets](https://github.com/spiritledsoftware/caplets) - Give your agent capabilities, not tool walls
+- [spiritledsoftware/caplets](https://github.com/spiritledsoftware/caplets) - Give your agent capabilities, not giant tool walls.
 - [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop) - Give your coding agent the power to write and run agent evals.
 - [dosco/aithy](https://github.com/dosco/aithy) - A personal AI agent that can work safely on your machine, remember useful context, and keep its data under your control.
 - [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) - Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark.
@@ -13410,7 +13411,6 @@
 - [pacocoursey/xslt](https://github.com/pacocoursey/xslt) - Native web build system (XML+XSLT)
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
-- [Trebor-Huang/forester-theme](https://github.com/Trebor-Huang/forester-theme) - 
 - [CAIMEOX/caimeox.github.io](https://github.com/CAIMEOX/caimeox.github.io) - My Zettelkasten - The Rabbit Hole
 - [kentookura/forester-penrose-theme](https://github.com/kentookura/forester-penrose-theme) - 
 - [nathanielw/Material-Icons-for-Pencil](https://github.com/nathanielw/Material-Icons-for-Pencil) - Google's Material icons for Pencil

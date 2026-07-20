@@ -1733,6 +1733,7 @@
 - [ghuntley/noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [FelixBoiii/paper-plotter](https://github.com/FelixBoiii/paper-plotter) - website to create pdf's for 3d functions
+- [CAIMEOX/caimeox.github.io](https://github.com/CAIMEOX/caimeox.github.io) - My Zettelkasten - The Rabbit Hole
 - [getpelican/pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
 - [UofSC-Spring-2023-SCHC-411-H01/uofsc-spring-2023-schc-411-h01.github.io](https://github.com/UofSC-Spring-2023-SCHC-411-H01/uofsc-spring-2023-schc-411-h01.github.io) - 
 - [ml4code/ml4code.github.io](https://github.com/ml4code/ml4code.github.io) - Website for "A Survey of Machine Learning for Big Code and Naturalness"
@@ -2055,7 +2056,6 @@
 
 ## Dart 
 
-- [Deng-m1/MaliangAINovalWriter](https://github.com/Deng-m1/MaliangAINovalWriter) - 马良AI写作是一个专为小说作者与平台运营者设计的智能化创作平台。它结合了强大的AI模型（支持OpenAI, Gemini, Anthropic等）与专业的在线富文本编辑器，旨在帮助作者激发灵感、提高写作效率、管理创作内容，同时为平台管理员提供了强大的后台管理与监控功能。
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 - [wisamidris77/flux](https://github.com/wisamidris77/flux) - Building a workout routine, reading every day, or breaking bad habits—made simple
@@ -6092,6 +6092,7 @@
 
 ## Lean 
 
+- [TauCetiProject/TauCeti](https://github.com/TauCetiProject/TauCeti) - An AIs-welcome Lean library downstream of Mathlib: AI handle the implementation and review, humans write the roadmaps and review rubrics
 - [frenzymath/reap](https://github.com/frenzymath/reap) - General neural tactic for Lean 4
 - [mistralai/LeanstralSafeVerify](https://github.com/mistralai/LeanstralSafeVerify) - Leanstral's fork of SafeVerify, which we use for code agent training and as part of our evaluation stack.
 - [riyazahuja/cLean](https://github.com/riyazahuja/cLean) - cLean: Verified GPU Kernels in Lean
@@ -6834,6 +6835,7 @@
 - [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [Renee36/reading-lens-skill](https://github.com/Renee36/reading-lens-skill) - Turn your reading highlights into a 9-chapter personal reading portrait
+- [Deng-m1/MaliangAINovalWriter](https://github.com/Deng-m1/MaliangAINovalWriter) - 马良写作 AINoval — AI novel writer for Chinese webnovels（网文）| 多智能体AI小说创作平台：三级大纲、知识图谱一致性、30万字连载
 - [dososo/chinese-traditional-patterns](https://github.com/dososo/chinese-traditional-patterns) - 开源的中国传统纹样图录项目 · 100 高清纹样(规划 800) · 中英日韩双语 · CC BY-NC 4.0 · https://wenyang.net
 - [Anttwo/Surflo](https://github.com/Anttwo/Surflo) - Official implementation of Surflo: Consistent 3D Surface Flow Model with Global State.
 - [bdongucla/math-ai-review-skills](https://github.com/bdongucla/math-ai-review-skills) - Rigorous, evidence-based review methodology for mathematics and AI research papers and reports.
@@ -7776,7 +7778,7 @@
 - [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the lay
 - [DJLougen/moe-routing-atlas](https://github.com/DJLougen/moe-routing-atlas) - Open-source toolkit for mapping and visualizing Mixture-of-Experts model routing patterns
 - [openclaw/agent-skills](https://github.com/openclaw/agent-skills) - Useful skills for agents and claws.
-- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: neat-freak 洁癖 (docs/memory closeout), hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 - [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t 
 - [handsomestWei/zhihu-fetch-skill](https://github.com/handsomestWei/zhihu-fetch-skill) - 知乎抓取.skill，从知乎收藏夹列表到批量正文与图片爬取，支持断点续传，可选自动分类写入Obsidian知识库。
 - [OpenLMLab/GAOKAO-Bench-Updates](https://github.com/OpenLMLab/GAOKAO-Bench-Updates) - GAOGAO-Bench-Updates is a supplement to the GAOKAO-Bench, a dataset to evaluate large language models.
@@ -10444,6 +10446,8 @@
 
 ## Rust 
 
+- [coko7/latuicon](https://github.com/coko7/latuicon) - 😴 TUI icon picker (emojis / kaomojis / unicode / nerd fonts) ripped from late.sh
+- [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
 - [MetaFARS/codex-pal](https://github.com/MetaFARS/codex-pal) - Run Codex CLI with OpenAI-compatible providers and orchestrate profile-based agents from Python
 - [ZhangHanDong/agent-spec](https://github.com/ZhangHanDong/agent-spec) - `agent-spec` is an AI-native BDD/spec verification tool for task execution.
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
@@ -10693,7 +10697,7 @@
 - [zeonzip/ansic](https://github.com/zeonzip/ansic) - Ansic is a modern, efficient and compile time ansi macro and utilities.
 - [houqp/kiorg](https://github.com/houqp/kiorg) - A hacker's file manager with VIM inspired keybind
 - [caiyih/bakaos](https://github.com/caiyih/bakaos) - The bare metal kernel that tests directly with `cargo test`
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestration, and guardrails so you stay focused on your agents core logic.
 - [dpc/rdedup](https://github.com/dpc/rdedup) - Data deduplication engine, supporting optional compression and public key encryption.
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [tombi-toml/tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server
@@ -12121,6 +12125,7 @@
 
 ## Swift 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [LuckyIYI/avbd-metal](https://github.com/LuckyIYI/avbd-metal) - 
@@ -12528,7 +12533,7 @@
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [productdevbook/hucre](https://github.com/productdevbook/hucre) - Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.
-- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - An Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
+- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [ParthJadhav/DiffDeck](https://github.com/ParthJadhav/DiffDeck) - open git diffs in browser, add comments & send all to agent
@@ -13466,7 +13471,6 @@
 - [pacocoursey/xslt](https://github.com/pacocoursey/xslt) - Native web build system (XML+XSLT)
 - [thosgood/fga](https://github.com/thosgood/fga) - An English translation of Grothendieck's Fondements de la Géometrie Algébrique
 - [thosgood/sga](https://github.com/thosgood/sga) - An English translation of the Séminaire de Géométrie Algébrique du Bois Marie
-- [CAIMEOX/caimeox.github.io](https://github.com/CAIMEOX/caimeox.github.io) - My Zettelkasten - The Rabbit Hole
 - [kentookura/forester-penrose-theme](https://github.com/kentookura/forester-penrose-theme) - 
 - [nathanielw/Material-Icons-for-Pencil](https://github.com/nathanielw/Material-Icons-for-Pencil) - Google's Material icons for Pencil
 - [niedbalski/nosetest-xunit-xslt](https://github.com/niedbalski/nosetest-xunit-xslt) - XSLT template used to convert nose XUnit files to HTML.

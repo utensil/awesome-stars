@@ -292,7 +292,7 @@
 ## C 
 
 - [FractalFir/crustc](https://github.com/FractalFir/crustc) - Entirety of `rustc`, translated to C.
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [yon-language/yon](https://github.com/yon-language/yon) - 
 - [TechUnRestricted/WinDiskWriter](https://github.com/TechUnRestricted/WinDiskWriter) - 🖥 Windows Bootable USB creator for macOS. 🛠 Patches Windows 11 to bypass TPM and Secure Boot requirements. 👾 UEFI & Legacy Support
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -2025,7 +2025,7 @@
 - [tdortman/Cuckoo-GPU](https://github.com/tdortman/Cuckoo-GPU) - High-Performance GPU Cuckoo Filter
 - [uiuc-kang-lab/agentic-benchmarks](https://github.com/uiuc-kang-lab/agentic-benchmarks) - 
 - [sith-lab/gpuhammer](https://github.com/sith-lab/gpuhammer) - 
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient BLAS kernel library on GPU
 - [bertmaher/simplegemm](https://github.com/bertmaher/simplegemm) - 
 - [harp-lab/vflog](https://github.com/harp-lab/vflog) - vertical + gpu + free join + datalog
@@ -2263,7 +2263,7 @@
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store.
 - [unnecessary-special-projects/ghist](https://github.com/unnecessary-special-projects/ghist) - Task management that lives in your repo
 - [compozy/compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated 
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [blacktop/ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
 - [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs) - ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxe
 - [gittuf/gittuf](https://github.com/gittuf/gittuf) - A security layer for Git repositories
@@ -8118,7 +8118,7 @@
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) - A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
 - [AnswerDotAI/ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
 - [KRLabsOrg/LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect) - Span-level grounding verification for RAG, code, and tool-grounded AI outputs.
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
@@ -8535,7 +8535,7 @@
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [mirober/mathfly-talon](https://github.com/mirober/mathfly-talon) - Talon scripts for dictating mathematics into editors like LyX and Scientific Notebook 5.5.
 - [talonhub/community](https://github.com/talonhub/community) - Voice command set for Talon, community-supported.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Gemma 4, Qwen3.6, DeepSeek, Kimi, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
 - [Vchitect/SEINE](https://github.com/Vchitect/SEINE) - [ICLR 2024] SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable a multimodal model to operate a computer.
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
@@ -10555,7 +10555,7 @@
 - [NustyFrozen/SEE](https://github.com/NustyFrozen/SEE) - see (Service Event Extraction) is a TUI based tool to lookup logs from services (systemd)
 - [pandaadir05/snoop](https://github.com/pandaadir05/snoop) - A modern syscall tracer built on eBPF. Think strace, but with a real TUI, smart filters, TLS decryption, and output that's actually readable.
 - [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-- [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH.
@@ -12598,7 +12598,7 @@
 - [Nimblesite/typeDiagram](https://github.com/Nimblesite/typeDiagram) - typeDiagram is a tiny, language-neutral DSL for diagramming data types. Write type, union, alias — get a beautiful, auto-laid-out SVG. No drag, no drop, no proprietary format.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [redwoodjs/agent-ci](https://github.com/redwoodjs/agent-ci) - Agent-CI is local GitHub Actions for your agents.
-- [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) - Local-first AI workspace for agents, skills, files, browser tools, automations, and messaging channels.
+- [Peiiii/nextclaw](https://github.com/Peiiii/nextclaw) - An open-source, extensible, self-hosted agent workspace with multi-runtime support for Codex, Claude Code, and more, plus reusable local apps for custom interfaces and services.
 - [millionco/claude-doctor](https://github.com/millionco/claude-doctor) - Diagnose your Claude Code sessions
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [caol64/wenyan-cli](https://github.com/caol64/wenyan-cli) - 文颜的 CLI 工具，方便使用命令行将markdown排版并上传到微信公众号
@@ -13164,7 +13164,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [joshfarrant/shortcuts-js](https://github.com/joshfarrant/shortcuts-js) - A JavaScript iOS 12 Shortcuts creator

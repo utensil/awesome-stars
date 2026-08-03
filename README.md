@@ -518,6 +518,7 @@
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 - [KevinKelley/nanovg-rs](https://github.com/KevinKelley/nanovg-rs) - Rust-language binding for the NanoVG vector graphics library
 - [dynup/kpatch](https://github.com/dynup/kpatch) - NOTICE: kpatch is deprecated
+- [qdtroy/DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate) - duilib 旗舰版-高分屏、多语言、样式表、资源管理器、异形窗口、窗口阴影、简单动画
 - [zhovner/OneFileLinux](https://github.com/zhovner/OneFileLinux) - Live linux distro combined in one ~20MB file. Runs on any UEFI computer.
 - [vurtun/nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
 - [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) - Redis module that provides a completely functional SQL database
@@ -1267,7 +1268,6 @@
 - [msuiche/porosity](https://github.com/msuiche/porosity) - *UNMAINTAINED* Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts
 - [jrprice/Oclgrind](https://github.com/jrprice/Oclgrind) - An OpenCL device simulator and debugger
 - [wxMaxima-developers/wxmaxima](https://github.com/wxMaxima-developers/wxmaxima) - A gui for the computer algebra system Maxima built with wxWidgets
-- [qdtroy/DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate) - duilib 旗舰版-高分屏、多语言、样式表、资源管理器、异形窗口、窗口阴影、简单动画
 - [c-smile/sciter-sdk](https://github.com/c-smile/sciter-sdk) - Sciter is an embeddable HTML/CSS/scripting engine
 - [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
 - [cppit/jucipp](https://github.com/cppit/jucipp) - A lightweight & cross-platform IDE supporting the most recent C++ standards. This project has moved to https://gitlab.com/cppit/jucipp.
@@ -3656,6 +3656,7 @@
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [blaix/prettynice](https://github.com/blaix/prettynice) - A pretty nice web framework
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [cferdinandi/kelp](https://github.com/cferdinandi/kelp) - A UI library for people who love HTML, powered by modern CSS and Web Components.
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
@@ -6096,6 +6097,7 @@
 
 ## Lean 
 
+- [openai/ten-proofs](https://github.com/openai/ten-proofs) - Lean certificates accompanying proofs in mathematics and theoretical computer science
 - [CBirkbeck/AINTLIB](https://github.com/CBirkbeck/AINTLIB) - Atlas of formalised number theory in Lean (Verso blueprint)
 - [kmehltretter82/foundations-of-computation-lean](https://github.com/kmehltretter82/foundations-of-computation-lean) - Standalone Lean 4 formalization of the Foundations of Computation textbook
 - [VladimirReshetnikov/ProveIt](https://github.com/VladimirReshetnikov/ProveIt) - 
@@ -7819,7 +7821,7 @@
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
 - [ErikKaum/maxsim](https://github.com/ErikKaum/maxsim) - A fast, memory-efficient exact MaxSim kernel for late-interaction retrieval and reranking.
 - [asimovinc/asimov-1](https://github.com/asimovinc/asimov-1) - v1 of Asimov, an open-source humanoid robot
-- [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - Compress tool outputs, logs, files, conversations, and RAG context before they reach the model.  On measured workloads, Entroly reduces unnecessary tokens by up to 90% while preserving answer-critical
+- [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - AI context optimization platform for files, conversations, RAG, code, logs and AI agents with context compression, evidence preservation, content-addressed recovery and auditable Context Receipts.
 - [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
 - [UnrealXu/UnrealEngine5-Skills](https://github.com/UnrealXu/UnrealEngine5-Skills) - 
 - [mattzh72/articraft](https://github.com/mattzh72/articraft) - Superseded by https://github.com/articraftresearch/Articraft. This repository is kept for reference.
@@ -12137,7 +12139,6 @@
 ## Svelte 
 
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [ByteAtATime/flare](https://github.com/ByteAtATime/flare) - Raycast-compatible launcher for Linux
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [Boavizta/datavizta](https://github.com/Boavizta/datavizta) - 
@@ -12471,6 +12472,7 @@
 
 ## TypeScript 
 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [ogulcancelik/herdr-browser](https://github.com/ogulcancelik/herdr-browser) - Render a real Chromium view inside a Herdr pane and drive it over CDP.
 - [ogulcancelik/pi-extensions](https://github.com/ogulcancelik/pi-extensions) - Extensions for pi, the terminal-based coding agent
 - [syabro/mdtask](https://github.com/syabro/mdtask) - The spec-driven development system where specs and tasks live in your repo and never drift from the code.

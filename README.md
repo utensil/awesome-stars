@@ -571,7 +571,6 @@
 - [lunixbochs/patchkit](https://github.com/lunixbochs/patchkit) - binary patching from Python
 - [forhappy/uvbook](https://github.com/forhappy/uvbook) - 《An Introduction to libuv》中文翻译
 - [mpapierski/http-server](https://github.com/mpapierski/http-server) - 100% async http-server library written in C
-- [mas-bandwidth/yojimbo](https://github.com/mas-bandwidth/yojimbo) - A network library for client/server games written in C++
 - [licstar/compare](https://github.com/licstar/compare) - compare embedding
 - [lzfse/lzfse](https://github.com/lzfse/lzfse) - LZFSE compression library and command line tool
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
@@ -1355,6 +1354,7 @@
 - [Kitware/KWStyle](https://github.com/Kitware/KWStyle) - Kitware Style Checker
 - [dropbox/lepton](https://github.com/dropbox/lepton) - Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%.
 - [rsms/immutable-cpp](https://github.com/rsms/immutable-cpp) - Persistent immutable data structures for C++
+- [mas-bandwidth/yojimbo](https://github.com/mas-bandwidth/yojimbo) - A network library for client/server games written in C++
 - [Dooskington/GameLad](https://github.com/Dooskington/GameLad) - :tv: An (almost) fully featured Game Boy emulator.
 - [KhronosGroup/Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
@@ -2240,6 +2240,7 @@
 
 ## Go 
 
+- [Microck/moji](https://github.com/Microck/moji) - find and download fonts from the terminal
 - [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
@@ -4306,7 +4307,6 @@
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [clenemt/docdash](https://github.com/clenemt/docdash) - :zap: Lodash inspired JSDoc 3 template/theme
 - [jdalton/docdown](https://github.com/jdalton/docdown) - A simple JSDoc to Markdown generator.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [fed135/Kalm](https://github.com/fed135/Kalm) - Moved to https://github.com/kalm/kalm.js
@@ -6099,6 +6099,8 @@
 
 ## Lean 
 
+- [joelriou/reedy](https://github.com/joelriou/reedy) - Formalization of Reedy categories
+- [LeanMachineLearning/exposition](https://github.com/LeanMachineLearning/exposition) - Tools to explain the content of a Lean library
 - [spitters/lean-HB](https://github.com/spitters/lean-HB) - Hierarchy Builder for Lean 4
 - [deancureton/ten-proofs](https://github.com/deancureton/ten-proofs) - Lean certificates accompanying proofs in mathematics and theoretical computer science
 - [Vilin97/lean-pool](https://github.com/Vilin97/lean-pool) - 
@@ -6855,6 +6857,7 @@
 
 ## Others 
 
+- [CopilotKit/channels-sdk](https://github.com/CopilotKit/channels-sdk) - The open-source SDK for bringing any agent into any chat platform: Slack, Microsoft Teams, Discord, Telegram - with native, Interactive UI.
 - [MoonshotAI/Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [Renee36/reading-lens-skill](https://github.com/Renee36/reading-lens-skill) - Turn your reading highlights into a 9-chapter personal reading portrait
@@ -7781,6 +7784,7 @@
 
 ## Python 
 
+- [chcaru/ten-proofs-archive](https://github.com/chcaru/ten-proofs-archive) - Preservation archive and change log for openai/ten-proofs, which republishes itself as a parentless root commit and keeps no history of its own.
 - [pmocz/noether](https://github.com/pmocz/noether) - Automatically prove mathematical statements about your jax code in lean
 - [Deicyde/WikiLean](https://github.com/Deicyde/WikiLean) - WikiLean — Wikipedia mathematics annotated with Mathlib4/Lean formalization links
 - [seewoo5/awesome-ai-for-math](https://github.com/seewoo5/awesome-ai-for-math) - List of awesome works that use AI for mathematical discoveries.
@@ -7831,7 +7835,7 @@
 - [juyterman1000/entroly](https://github.com/juyterman1000/entroly) - AI context optimization platform for files, conversations, RAG, code, logs and AI agents with context compression, evidence preservation, content-addressed recovery and auditable Context Receipts.
 - [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
 - [UnrealXu/UnrealEngine5-Skills](https://github.com/UnrealXu/UnrealEngine5-Skills) - 
-- [mattzh72/articraft](https://github.com/mattzh72/articraft) - Superseded by https://github.com/articraftresearch/Articraft. This repository is kept for reference.
+- [mattzh72/articraft](https://github.com/mattzh72/articraft) - Reference code for the articraft paper.
 - [rayward-external/clawjournal](https://github.com/rayward-external/clawjournal) - ClawJournal reviews, curates, and shares coding agent conversation traces.
 - [TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D) - [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images
 - [xiamuceer-j/MuMuAINovel](https://github.com/xiamuceer-j/MuMuAINovel) - 一款基于 AI 的智能小说创作助手，帮助你轻松创作精彩故事
@@ -10475,6 +10479,7 @@
 
 ## Rust 
 
+- [tareqmy/gitwig](https://github.com/tareqmy/gitwig) - a rust based tui an alternative to sourcetree
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [mikker/fut](https://github.com/mikker/fut) - fear, uncertainty and ... terminals
 - [wyattgill9/lean-helix-view](https://github.com/wyattgill9/lean-helix-view) - a solution to one of my problems, feel free to fork it and submit prs!
@@ -11300,7 +11305,7 @@
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - [DEPRECATED] This repo will move into gihub.com/sunface/rust-course
 - [EnzymeAD/oxide-enzyme](https://github.com/EnzymeAD/oxide-enzyme) - Enzyme integration into Rust. Experimental, do not use.
 - [dginev/CorTeX](https://github.com/dginev/CorTeX) - A general purpose processing framework for corpora of scientific documents
 - [xu-cheng/katex-rs](https://github.com/xu-cheng/katex-rs) - Rust bindings to KaTeX
@@ -13081,7 +13086,7 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
-- [terrastruct/text-to-diagram-site](https://github.com/terrastruct/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
+- [d2lang/text-to-diagram-site](https://github.com/d2lang/text-to-diagram-site) - Compare syntax, layouts, outputs between languages for generating diagrams with text.
 - [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix) - Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [qdm12/caddy-ui](https://github.com/qdm12/caddy-ui) - UI for the Caddy proxy server
@@ -13266,6 +13271,7 @@
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [charto/autogypi](https://github.com/charto/autogypi) - Autogypi handles dependencies for node-gyp projects.
 - [charto/nbind-example-universal](https://github.com/charto/nbind-example-universal) - Example of compiling C++ to asm.js and Node.js addons
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web

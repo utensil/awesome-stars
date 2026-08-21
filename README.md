@@ -2283,7 +2283,7 @@
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
 - [openclaw/discrawl](https://github.com/openclaw/discrawl) - cli for Discord with sqlite backend
 - [qingchencloud/cftunnel](https://github.com/qingchencloud/cftunnel) - 全协议内网穿透 CLI — Cloud 模式免费 HTTP/WS 穿透 + Relay 模式自建中继 TCP/UDP 全协议 | Cloudflare Tunnel + frp 双引擎
-- [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
+- [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -3632,7 +3632,7 @@
 - [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) - Enhanced LanceDB memory plugin for OpenClaw — Hybrid Retrieval (Vector + BM25), Cross-Encoder Rerank, Multi-Scope Isolation, Management CLI
 - [termly-dev/termly-cli](https://github.com/termly-dev/termly-cli) - Mobile companion for Claude Code, Gemini CLI & OpenCode. Encrypted, remote
 - [zylos-ai/zylos-core](https://github.com/zylos-ai/zylos-core) - 🐙 Give your AI a life — open-source agent infrastructure for team collaboration.
-- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
+- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 - [lingkuma/LingKuma](https://github.com/lingkuma/LingKuma) - Lingkuma - An open-source alternative to LingQ for learning any language on the web
@@ -3656,6 +3656,7 @@
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [codeyoma/quartz-slide](https://github.com/codeyoma/quartz-slide) - custom plugin that enables slide in Quartz 4
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [blaix/prettynice](https://github.com/blaix/prettynice) - A pretty nice web framework
@@ -6569,7 +6570,7 @@
 - [jellydn/lazy-nvim-ide](https://github.com/jellydn/lazy-nvim-ide) - My 💤 LazyVim IDE config for Neovim
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) - A simple popup display that provides breadcrumbs feature using LSP server
 - [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) - Find the enemy and replace them with dark power.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -7802,7 +7803,7 @@
 - [jerber/arc-code](https://github.com/jerber/arc-code) - 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [morluto/jacobian](https://github.com/morluto/jacobian) - A universal, atomic library of mathematics and tools for agents to compose them.
-- [gersh/gpu_prover](https://github.com/gersh/gpu_prover) - 
+- [gersh/attested-compute](https://github.com/gersh/attested-compute) - 
 - [MerLeanProver/MerLean](https://github.com/MerLeanProver/MerLean) - An autonomous Lean 4 + Mathlib theorem-proving system, built as Claude Code skills and subagents over a plan graph.
 - [idevender/loss-basis-adam](https://github.com/idevender/loss-basis-adam) - Code for 'The Loss Does Not See the Basis, but Adam Does'
 - [chcaru/ten-proofs-archive](https://github.com/chcaru/ten-proofs-archive) - Preservation archive and change log for openai/ten-proofs, which republishes itself as a parentless root commit and keeps no history of its own.
@@ -7882,7 +7883,7 @@
 - [Goekdeniz-Guelmez/mlx-lm-lora](https://github.com/Goekdeniz-Guelmez/mlx-lm-lora) - Train Large Language Models on MLX.
 - [GIN-SYSTEMS/vigil-tui](https://github.com/GIN-SYSTEMS/vigil-tui) - Real-time terminal power monitor — CPU · GPU · RAM wattage dashboard  Visibility
 - [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
-- [berabuddies/agentflow](https://github.com/berabuddies/agentflow) - Orchestrate thousands of agents and harnesses as a graph programatically
+- [agentenv/agentflow](https://github.com/agentenv/agentflow) - Orchestrate thousands of agents and harnesses as a graph programatically
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing) - 
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
@@ -8343,7 +8344,6 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) - Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping —
 - [X-PLUG/mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
 - [facebookresearch/Lyapunov](https://github.com/facebookresearch/Lyapunov) - PyTorch original implementation of "Global Lyapunov functions: a long-standing open problem in mathematics, with symbolic transformers" (NeurIPS 2024).
 - [jwzhanggy/tinyBIG](https://github.com/jwzhanggy/tinyBIG) - tinybig for deep function learning
@@ -9538,7 +9538,7 @@
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [waditu/tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy https://visdom.dev
+- [fossasia/visdom](https://github.com/fossasia/visdom) - Tool for real-time visualization, monitoring and collaborative analysis of AI/ML experiments and live data. Supports Python, PyTorch/Torch, NumPy, TensorFlow/Keras https://visdom.dev
 - [thtrieu/darkflow](https://github.com/thtrieu/darkflow) - Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
 - [jostmey/rwa](https://github.com/jostmey/rwa) - Machine Learning on Sequential Data Using a Recurrent Weighted Average
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -10597,7 +10597,7 @@
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [0xff-ai/omnifs](https://github.com/0xff-ai/omnifs) - a projected filesystem that turns APIs, services, and data sources into local files and directories
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [Zeugsein/mtop](https://github.com/Zeugsein/mtop) - 📊 Sudo-less system monitor for Apple Silicon Macs: 6 metric panels, beautiful braille graphs.
 - [addy/mesh-node](https://github.com/addy/mesh-node) - Decentralized chat
@@ -12519,6 +12519,7 @@
 
 ## TypeScript 
 
+- [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 - [weijiafu14/pi2dsh](https://github.com/weijiafu14/pi2dsh) - Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
@@ -12752,7 +12753,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [weynechen/intrascribe](https://github.com/weynechen/intrascribe) - 可内网私有化部署，给团队/单位使用的语音转录总结工具，完整的前后端代码
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-- [coder/mux](https://github.com/coder/mux) - A desktop app for isolated, parallel agentic development
+- [coder/xum](https://github.com/coder/xum) - A desktop app for isolated, parallel agentic development
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [MJRT/markdown-it-tasks](https://github.com/MJRT/markdown-it-tasks) - 
@@ -12775,7 +12776,6 @@
 - [dsebastien/obsidian-dataview-serializer](https://github.com/dsebastien/obsidian-dataview-serializer) - Obsidian plugin that gives you the power of Dataview, but generates Markdown, making it compatible with Obsidian Publish, and making the links appear on the Graph.
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer) - Manage and publish your notes to Quartz, the fast, batteries-included static-site generator.
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
 - [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
@@ -13306,7 +13306,7 @@
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - :traffic_light:小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [kentcdodds/cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies

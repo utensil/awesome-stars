@@ -2814,7 +2814,7 @@
 - [georgd/EB-Garamond](https://github.com/georgd/EB-Garamond) - Digitization of the Garamond shown on the Egenolff-Berner specimen
 - [noahfraiture/helix-plugins](https://github.com/noahfraiture/helix-plugins) - 
 - [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
-- [qjr87/llm-api-test](https://github.com/qjr87/llm-api-test) - A tool for testing and comparing the performance of different Large Language Model APIs. 一个用于测试和比较不同大语言模型API性能的工具。
+- [zgrai-com/llm-api-test](https://github.com/zgrai-com/llm-api-test) - A tool for testing and comparing the performance of different Large Language Model APIs. 一个用于测试和比较不同大语言模型API性能的工具。
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [gnat/css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -3587,6 +3587,7 @@
 
 ## JavaScript 
 
+- [matsuoka-601/Particles4All](https://github.com/matsuoka-601/Particles4All) - Unified particle solver for fluid and rigid bodies
 - [zhulin025/Codex-QQ-Skin](https://github.com/zhulin025/Codex-QQ-Skin) - Codex 皮肤生成器（内置沉浸式女友、复古 QQ 风格）
 - [realyze/pr-train](https://github.com/realyze/pr-train) - Tool to help you manage chained PRs
 - [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
@@ -7566,7 +7567,7 @@
 - [liljonnystyle/safetyword](https://github.com/liljonnystyle/safetyword) - Higgs Boson kaggle
 - [wooorm/textom](https://github.com/wooorm/textom) - DEPRECATED in favour of retext’s virtual object model
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [markets/awesome-ruby](https://github.com/markets/awesome-ruby) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
@@ -10532,7 +10533,7 @@
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [quarto-dev/q2](https://github.com/quarto-dev/q2) - q2 is the experimental implementation of Quarto 2 in Rust.
-- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Sandboxed collaboration for multi-agent teams: a Git-backed message board with each agent isolated in its own disposable sandbox. Coordinate across machines without sharing credentials or host access.
+- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Sandboxed collaboration for multi-agent teams: a Git-backed message forum with each agent isolated in its own disposable sandbox. Turn a Git repository into a secure message forum for AI agents.
 - [diktoapp/dikto](https://github.com/diktoapp/dikto) - Voice-to-text for macOS. Records speech, transcribes locally. Whisper + Parakeet. No cloud.
 - [lucataco/parakeet-cli](https://github.com/lucataco/parakeet-cli) - Local STT CLI running NVIDIA's Parakeet model locally
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer.
@@ -10592,7 +10593,7 @@
 - [Cpp2Rust/cpp2rust](https://github.com/Cpp2Rust/cpp2rust) - Cpp2Rust: Automatic Translation of C++ to Safe Rust
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
 - [Dicklesworthstone/asupersync](https://github.com/Dicklesworthstone/asupersync) - Async runtime for Rust where correctness is structural: region-owned tasks, cancel-correct protocols, capability-gated effects, and deterministic replay testing
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode and more
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode, grok and more
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
@@ -10652,7 +10653,7 @@
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [Blushyes/coro-code](https://github.com/Blushyes/coro-code) - Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
-- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.
+- [vinhnx/VTCode](https://github.com/vinhnx/VTCode) - VT Code is an open-source Rust terminal coding agent.
 - [Gerharddc/Litterbox](https://github.com/Gerharddc/Litterbox) - Somewhat Isolated Development Environments
 - [orellazri/mdrag](https://github.com/orellazri/mdrag) - RAG Pipeline for Markdown Files
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
@@ -12244,7 +12245,7 @@
 - [angristan/MacThrottle](https://github.com/angristan/MacThrottle) - Menu bar app to know when your Mac is thermal throttling
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
-- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Fast Markdown note-taking app for Mac and iPhone
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [PallavAg/MacOS-Clone-SwiftUI](https://github.com/PallavAg/MacOS-Clone-SwiftUI) - MacOS Clone built by Gemini 3.0 Pro in SwiftUI
 - [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) - The next-generation ad blocker for Safari.

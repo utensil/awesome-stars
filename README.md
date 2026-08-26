@@ -228,7 +228,6 @@
 ## Assembly 
 
 - [tgrysztar/fasm](https://github.com/tgrysztar/fasm) - flat assembler 1 - reconstructed source history
-- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [HazyResearch/safari](https://github.com/HazyResearch/safari) - Convolutions for Sequence Modeling
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [briansmith/ring](https://github.com/briansmith/ring) - An experiment.
@@ -835,6 +834,8 @@
 
 ## C++ 
 
+- [mimir/mimir](https://github.com/mimir/mimir) - MimIR is my Intermediate Representation
+- [bloomberg/crane](https://github.com/bloomberg/crane) - A new extraction system from Rocq to functional-style, memory-safe, thread-safe, readable, valid, performant, and modern C++.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [localai-org/ced.cpp](https://github.com/localai-org/ced.cpp) - ggml port of CED SOTA-tier audio-tagging model that classifies everyday sounds
 - [Frikallo/parakeet.cpp](https://github.com/Frikallo/parakeet.cpp) - Ultra fast and portable Parakeet implementation for on-device inference in C++ using Axiom with MPS+Unified Memory
@@ -2005,6 +2006,7 @@
 
 ## Coq 
 
+- [codyroux/name-the-biggest-number](https://github.com/codyroux/name-the-biggest-number) - 
 - [vrahli/Velisarios](https://github.com/vrahli/Velisarios) - A Coq-based framework to verify the correctness of Byzantine fault-tolerant distributed systems
 - [CohenCyril/LFTCM2024_Rocq](https://github.com/CohenCyril/LFTCM2024_Rocq) - Coq/Rocq practice session @ Lean For The Curious Mathematicians 2024
 - [UCSD-PL/proverbot9001](https://github.com/UCSD-PL/proverbot9001) - 
@@ -3207,6 +3209,7 @@
 
 ## Idris 
 
+- [Termina1/dgamma](https://github.com/Termina1/dgamma) - 
 - [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [pascalpoizat/idris-book](https://github.com/pascalpoizat/idris-book) - examples and exercises in "Type-Driven Development with Idris"
 - [joom/hezarfen](https://github.com/joom/hezarfen) - a theorem prover for intuitionistic propositional logic in Idris, with metaprogramming features
@@ -3587,7 +3590,7 @@
 
 ## JavaScript 
 
-- [matsuoka-601/Particles4All](https://github.com/matsuoka-601/Particles4All) - Unified particle solver for fluid and rigid bodies
+- [matsuoka-601/Particles4All](https://github.com/matsuoka-601/Particles4All) - Unified particle solver for fluid and rigid bodies based on Position Based Dynamics
 - [zhulin025/Codex-QQ-Skin](https://github.com/zhulin025/Codex-QQ-Skin) - Codex 皮肤生成器（内置沉浸式女友、复古 QQ 风格）
 - [realyze/pr-train](https://github.com/realyze/pr-train) - Tool to help you manage chained PRs
 - [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
@@ -6100,6 +6103,15 @@
 
 ## Lean 
 
+- [mcdoll/DynamicalSystems](https://github.com/mcdoll/DynamicalSystems) - Library for formalization of dynamical systems
+- [deancureton/sphere-six-complex](https://github.com/deancureton/sphere-six-complex) - Lean formalization of a complex structure on the six-sphere
+- [hawkrobe/linglib](https://github.com/hawkrobe/linglib) - A Lean 4 library for formal linguistics.
+- [ashebson/kinin-lean](https://github.com/ashebson/kinin-lean) - A Lean 4 formalization of Mishnah Kinnim
+- [Nakammura/spinoza-ethica-lean](https://github.com/Nakammura/spinoza-ethica-lean) - Lean 4 formalisation of Spinoza's Ethica Pars I
+- [Vilin97/Autoformalization](https://github.com/Vilin97/Autoformalization) - OpenClaw-style theorem proving
+- [chasenorman/Canonical](https://github.com/chasenorman/Canonical) - Canonical is a performant sound and complete type inhabitation solver for dependent type theory.
+- [chasenorman/CanonicalLean](https://github.com/chasenorman/CanonicalLean) - A Lean tactic for Canonical, a search procedure for terms in dependent type theory.
+- [kim-em/name-the-biggest-number](https://github.com/kim-em/name-the-biggest-number) - Name the biggest number you can, in Lean.
 - [Qiuzhen-CFSG/CFSG](https://github.com/Qiuzhen-CFSG/CFSG) - Lean formalization of CFSG
 - [spitters/hax-lean](https://github.com/spitters/hax-lean) - Verified hax compiler phases in Lean 4: AST, semantics, 4 phases, end-to-end pipeline correctness
 - [AxiomMath/PrimeGapsLib](https://github.com/AxiomMath/PrimeGapsLib) - Lean formalization of bounded gaps between primes
@@ -6117,7 +6129,7 @@
 - [spitters/lean-HB](https://github.com/spitters/lean-HB) - Hierarchy Builder for Lean 4
 - [deancureton/ten-proofs](https://github.com/deancureton/ten-proofs) - Lean certificates accompanying proofs in mathematics and theoretical computer science
 - [Vilin97/lean-pool](https://github.com/Vilin97/lean-pool) - 
-- [ejgallego/lean-beam](https://github.com/ejgallego/lean-beam) - Claude/Codex skill and local workflow layer for efficient interaction with Lean 4 and Monte-Carlo Tree Search.
+- [leanprover/lean-beam](https://github.com/leanprover/lean-beam) - Claude/Codex skill and local workflow layer for efficient interaction with Lean 4 and Monte-Carlo Tree Search.
 - [CBirkbeck/AINTLIB](https://github.com/CBirkbeck/AINTLIB) - Atlas of formalised number theory in Lean (Verso blueprint)
 - [kmehltretter82/foundations-of-computation-lean](https://github.com/kmehltretter82/foundations-of-computation-lean) - Standalone Lean 4 formalization of the Foundations of Computation textbook
 - [VladimirReshetnikov/ProveIt](https://github.com/VladimirReshetnikov/ProveIt) - 
@@ -6878,7 +6890,6 @@
 - [Renee36/reading-lens-skill](https://github.com/Renee36/reading-lens-skill) - Turn your reading highlights into a 9-chapter personal reading portrait
 - [Deng-m1/MaliangAINovalWriter](https://github.com/Deng-m1/MaliangAINovalWriter) - 马良写作 AINoval — AI novel writer for Chinese webnovels（网文）| 多智能体AI小说创作平台：三级大纲、知识图谱一致性、30万字连载
 - [dososo/chinese-traditional-patterns](https://github.com/dososo/chinese-traditional-patterns) - 开源的中国传统纹样图录项目 · 100 高清纹样(规划 800) · 中英日韩双语 · CC BY-NC 4.0 · https://wenyang.net
-- [Anttwo/Surflo](https://github.com/Anttwo/Surflo) - Official implementation of Surflo: Consistent 3D Surface Flow Model with Global State.
 - [bdongucla/math-ai-review-skills](https://github.com/bdongucla/math-ai-review-skills) - Rigorous, evidence-based review methodology for mathematics and AI research papers and reports.
 - [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓
 - [alternbits/awesome-cuda-books](https://github.com/alternbits/awesome-cuda-books) - A curated list of best cuda programming books
@@ -7435,14 +7446,14 @@
 - [Animatious/awesome-animation](https://github.com/Animatious/awesome-animation) - :octocat: A great list of open sourced UI Motion Library produced by Animatious Group.
 - [matheusazzi/meet-weekly](https://github.com/matheusazzi/meet-weekly) - A list of weekly's for developers
 - [jondot/awesome-weekly](https://github.com/jondot/awesome-weekly) - An "awesome" type curated list of quality weekly subscription newsletters from the software world
-- [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game 🎮
+- [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game. 🎮
 - [steelbrain/motion](https://github.com/steelbrain/motion) - javascript cli: fast, configurable, easy, with hmr
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [javascript-society/javascript-path](https://github.com/javascript-society/javascript-path) - :books: List of books to master JavaScript Development :rocket:
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [bootflat/Bootflat.UI.Kit.PSD](https://github.com/bootflat/Bootflat.UI.Kit.PSD) - Bootflat UI Kit is PSD User Interface Pack including a set of beautiful and pure components, which you can use to create startup projects, websites or iOS/Android Apps.
 - [nieweidong/fetool](https://github.com/nieweidong/fetool) - 大前端的瑞士军刀，只记录有用的。
-- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 - [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
@@ -7798,6 +7809,10 @@
 
 ## Python 
 
+- [proofQED/QED](https://github.com/proofQED/QED) - 
+- [foocker/math-translator](https://github.com/foocker/math-translator) - 数学论文、书籍(tex 或md)翻译为中文，可输入arxiv id, url, pdf path
+- [project-numina/numina-lean-agent](https://github.com/project-numina/numina-lean-agent) - 
+- [MingchenXia/FindReferee](https://github.com/MingchenXia/FindReferee) - AI-assisted referee-report authorship attribution and document comparison using a signed-in Codex account.
 - [uw-math-ai/albilich](https://github.com/uw-math-ai/albilich) - A proof-state workflow that runs LLM agents on research-level theorems with adversarial roles and strict verification.
 - [frenzymath/Archon-Horizon](https://github.com/frenzymath/Archon-Horizon) - Workspace-first orchestration for long-horizon Lean 4 formalization agents.
 - [VIDA-NYU/Lea](https://github.com/VIDA-NYU/Lea) - 
@@ -7818,7 +7833,7 @@
 - [nrimsky/devinterp](https://github.com/nrimsky/devinterp) - Quantifying degeneracy in toy models
 - [michaelmmarch/jacobian-conjecture-counterexample](https://github.com/michaelmmarch/jacobian-conjecture-counterexample) - Jacobian Conjecture Counterexample (Alpoge, 2026)
 - [nasqret/jacobian-counterexample](https://github.com/nasqret/jacobian-counterexample) - Exact audit and structural analysis of a dimension-three Jacobian-conjecture counterexample
-- [foocker/mathbook-agent](https://github.com/foocker/mathbook-agent) - 自动写一本数学书
+- [foocker/mathbook-agent](https://github.com/foocker/mathbook-agent) - 自动写数学书，output有5本成品
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [huggingface/tau](https://github.com/huggingface/tau) - A Python port of Pi’s minimalist coding agent.
 - [pengchujin/jzsub](https://github.com/pengchujin/jzsub) - JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。
@@ -7840,6 +7855,7 @@
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
 - [NVlabs/GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t 
 - [handsomestWei/zhihu-fetch-skill](https://github.com/handsomestWei/zhihu-fetch-skill) - 知乎抓取.skill，从知乎收藏夹列表到批量正文与图片爬取，支持断点续传，可选自动分类写入Obsidian知识库。
+- [Anttwo/Surflo](https://github.com/Anttwo/Surflo) - Official implementation of Surflo: Consistent 3D Surface Flow Model with Global State.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A library of agent skills for CAD, CAE and CAM
 - [OpenLMLab/GAOKAO-Bench-Updates](https://github.com/OpenLMLab/GAOKAO-Bench-Updates) - GAOGAO-Bench-Updates is a supplement to the GAOKAO-Bench, a dataset to evaluate large language models.
 - [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
@@ -7898,7 +7914,7 @@
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [Hello-Mr-Crab/pywechat](https://github.com/Hello-Mr-Crab/pywechat) - 仍然可用的微信RPA！支持4.0系列微信pywechat是一个基于pywinauto实现的windows桌面微信自动化操作工具，基本实现了PC微信内置的各项操作。
 - [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) - 与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
+- [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 - [microsoft/memento](https://github.com/microsoft/memento) - 
 - [xdevplatform/xmcp](https://github.com/xdevplatform/xmcp) - MCP server for the X API
@@ -10021,6 +10037,7 @@
 
 ## Rocq Prover 
 
+- [AU-COBRA/AUCurves](https://github.com/AU-COBRA/AUCurves) - Synthesis of Formally Verified Cryptographic Primitives
 - [peregrine-project/peregrine-tool](https://github.com/peregrine-project/peregrine-tool) - Verified compiler from LambdaBox to WebAssembly, C, Rust, and OCaml
 - [jasmin-lang/jasmin](https://github.com/jasmin-lang/jasmin) - Language for high-assurance and high-speed cryptography
 - [zhengpushi/VQCS](https://github.com/zhengpushi/VQCS) - Formally Verified Quantity Calculus System (in Coq)
@@ -10504,6 +10521,7 @@
 
 ## Rust 
 
+- [intgrah/sokonanoda](https://github.com/intgrah/sokonanoda) - Lean 4 kernel with NbE
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [PeterKnego/ultima_db](https://github.com/PeterKnego/ultima_db) - Embedded in-memory B-tree store with MVCC concurrency control
 - [jstoobysmith/PhyslibAITools](https://github.com/jstoobysmith/PhyslibAITools) - AI tools for Physlib
@@ -10538,7 +10556,7 @@
 - [lucataco/parakeet-cli](https://github.com/lucataco/parakeet-cli) - Local STT CLI running NVIDIA's Parakeet model locally
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer.
 - [gptguy/silentkeys](https://github.com/gptguy/silentkeys) - Real time, privacy first, low latency push to talk using Parakeet fully on device with Tauri and ORT.
-- [evotai/evot](https://github.com/evotai/evot) - Agent that does complex, long-running work with minimal tokens — every gain earned under rigorous eval.
+- [evotai/evot](https://github.com/evotai/evot) - AI coding agent for long-running work — high quality at low or even zero cost.
 - [harehare/mq](https://github.com/harehare/mq) - A jq-like Markdown query language for command-line processing
 - [maximecb/bebelm](https://github.com/maximecb/bebelm) - CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B LLM
 - [osolmaz/ghzinga](https://github.com/osolmaz/ghzinga) - Easy, clickable TUI to view a single GitHub issue or PR, in Rust
@@ -10593,7 +10611,7 @@
 - [Cpp2Rust/cpp2rust](https://github.com/Cpp2Rust/cpp2rust) - Cpp2Rust: Automatic Translation of C++ to Safe Rust
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
 - [Dicklesworthstone/asupersync](https://github.com/Dicklesworthstone/asupersync) - Async runtime for Rust where correctness is structural: region-owned tasks, cancel-correct protocols, capability-gated effects, and deterministic replay testing
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode, grok and more
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents. Terminal-native ADE for claude code, codex, cursor, opencode, grok and more
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
@@ -10891,7 +10909,7 @@
 - [sarah-quinones/pulp](https://github.com/sarah-quinones/pulp) - 
 - [mxfactorial/geonum](https://github.com/mxfactorial/geonum) - geometric number library supporting unlimited dimensions with O(1) complexity
 - [tsar-boomba/heic-converter](https://github.com/tsar-boomba/heic-converter) - Personal service to make AirDropping images better
-- [mindeng/nom-exif](https://github.com/mindeng/nom-exif) - Exif/metadata parsing library written in pure Rust, both image (JPEG, PNG, HEIC/HEIF, AVIF, TIFF, Phase One IIQ, Fujifilm RAF, Canon CR3) and video/audio (MP4, MOV, 3GP, MKV, WEBM, MKA) files are supp
+- [mindeng/nom-exif](https://github.com/mindeng/nom-exif) - Exif/metadata parsing library written in pure Rust, both image (JPEG, PNG, WebP, HEIC/HEIF, AVIF, TIFF, Phase One IIQ, Fujifilm RAF, Canon CR3) and video/audio (MP4, MOV, 3GP, MKV, WEBM, MKA) files ar
 - [Cykooz/libheif-rs](https://github.com/Cykooz/libheif-rs) - Safe wrapper to libheif-sys for parsing heif/heic files
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
@@ -11113,6 +11131,7 @@
 - [gfx-rs/metal-rs](https://github.com/gfx-rs/metal-rs) - Deprecated Rust bindings for Metal
 - [tlaplus-community/tlauc](https://github.com/tlaplus-community/tlauc) - Rewrites TLA⁺ specs to use Unicode symbols instead of ASCII, and vice-versa
 - [BrianWiz/brusher](https://github.com/BrianWiz/brusher) - Experimental engine agnostic 3D CSG library for game development written in Rust. Started as a port of csg.js to Rust.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [bitshifter/glam-rs](https://github.com/bitshifter/glam-rs) - A simple and fast linear algebra library for games and graphics
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
@@ -11334,7 +11353,7 @@
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
-- [origin-bi/rust-by-practice](https://github.com/origin-bi/rust-by-practice) - Rust By Practice will evolve into Origin.
+- [origin-brain/rust-by-practice](https://github.com/origin-brain/rust-by-practice) - Rust By Practice will evolve into Origin.
 - [EnzymeAD/oxide-enzyme](https://github.com/EnzymeAD/oxide-enzyme) - Enzyme integration into Rust. Experimental, do not use.
 - [dginev/CorTeX](https://github.com/dginev/CorTeX) - A general purpose processing framework for corpora of scientific documents
 - [xu-cheng/katex-rs](https://github.com/xu-cheng/katex-rs) - Rust bindings to KaTeX
@@ -11940,6 +11959,7 @@
 
 ## Shell 
 
+- [cameronfreer/lean4-skills](https://github.com/cameronfreer/lean4-skills) - Lean 4 theorem proving skill and workflow pack for AI coding agents
 - [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) - Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
 - [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) - 
 - [PolyArch/humanize](https://github.com/PolyArch/humanize) - From Automated Idea Factory to Realization
@@ -12002,6 +12022,7 @@
 - [kspviswa/PyOMlx](https://github.com/kspviswa/PyOMlx) - A wannabe Ollama equivalent for Apple MlX models
 - [Pal3love/dream-han-cjk](https://github.com/Pal3love/dream-han-cjk) - Open-source pan-CJK font families with enormous range of weights, the CJK sans and serif you have dreamed of.
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [0xAX/asm](https://github.com/0xAX/asm) - Learning assembly for Linux x86_64
 - [4v3ngR/immich-native-macos](https://github.com/4v3ngR/immich-native-macos) - Immich hosted without Docker with support for macOS installations
 - [Tsu-gu/tsubuntu](https://github.com/Tsu-gu/tsubuntu) - Tweaks for Ubuntu 20.04 - 26.04, Debian 12 - 13, Fedora 43
 - [plord12/backups](https://github.com/plord12/backups) - My backup scripts and documentation
@@ -12121,7 +12142,7 @@
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager using Bash.
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - Manage secrets with Bash and GnuPG symmetric encryption
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) - Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理
 - [rulerson/dconv](https://github.com/rulerson/dconv) - Convert encoding of all text files under directory recursively, in place.
@@ -12520,6 +12541,7 @@
 
 ## TypeScript 
 
+- [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
 - [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
 - [weijiafu14/pi2dsh](https://github.com/weijiafu14/pi2dsh) - Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
@@ -12558,7 +12580,7 @@
 - [agonist/contentbit](https://github.com/agonist/contentbit) - Build programmatic SEO pages that stay consistent.
 - [badlogic/pibot](https://github.com/badlogic/pibot) - 
 - [arpitpatel25/unmute-dictation](https://github.com/arpitpatel25/unmute-dictation) - Fast, local, bring-your-own-Groq-key voice dictation for macOS
-- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - Super lightweight code syntax highlighter
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - Super lightweight code syntax highlighter solution
 - [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) - 
@@ -12615,7 +12637,7 @@
 - [Fallomai/openui](https://github.com/Fallomai/openui) - AI command center for your AI coding agents. 100% local, free, opensource.
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [oxidecomputer/skepsis](https://github.com/oxidecomputer/skepsis) - Local web UI for code review
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [Crokily/pi-discord-gateway](https://github.com/Crokily/pi-discord-gateway) - Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
 - [earendil-works/pi-chat](https://github.com/earendil-works/pi-chat) - 
 - [lukeed/comptime](https://github.com/lukeed/comptime) - A Zig-inspired build-time evaluation primitive, exposed as Vite and Rolldown plugins
@@ -12703,7 +12725,7 @@
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 - [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
-- [evrendom/rudel](https://github.com/evrendom/rudel) - Claude Code & Codex Session Analytics
+- [opalinehq/cli](https://github.com/opalinehq/cli) - Opaline: CLI for Claude Code and Codex session analytics. Formerly rudel.
 - [msgbyte/cutia](https://github.com/msgbyte/cutia) - An open-source, in-browser alternative to CapCut.
 - [FtlC-ian/openclaw-channel-zulip](https://github.com/FtlC-ian/openclaw-channel-zulip) - Zulip channel plugin for OpenClaw — concurrent message processing, reaction indicators, file uploads, and full actions API
 - [Virtual-Protocol/openclaw-acp](https://github.com/Virtual-Protocol/openclaw-acp) - [DEPRECATED] Use @virtuals-protocol/acp-cli instead
@@ -12981,7 +13003,6 @@
 - [quint-co/quint](https://github.com/quint-co/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [ToposInstitute/CatColab](https://github.com/ToposInstitute/CatColab) - A collaborative environment for formal, interoperable, conceptual modeling
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [arturbien/balloons-js](https://github.com/arturbien/balloons-js) - 🎈 Animated balloons effect for your website
 - [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
@@ -13166,12 +13187,12 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
-- [pmndrs/maath](https://github.com/pmndrs/maath) - 🪶 Math helpers for the rest of us
+- [pmndrs/math](https://github.com/pmndrs/math) - 🪶 Math helpers for the rest of us
 - [Nutlope/tailwind-color-picker](https://github.com/Nutlope/tailwind-color-picker) - A chrome extension color picker for Tailwind
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [uetchy/create-create-app](https://github.com/uetchy/create-create-app) - ⚡️ Create your own `create-something` app.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  postprocessing for react-three-fiber
+- [pmndrs/react-postprocessing](https://github.com/pmndrs/react-postprocessing) - 📬  Postprocessing for react-three-fiber
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [WtfJoke/setup-tectonic](https://github.com/WtfJoke/setup-tectonic) - Sets up Tectonic in your GitHub Actions workflow so you can compile your LaTeX documents.

@@ -278,7 +278,6 @@
 
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
 - [w3c/window-management](https://github.com/w3c/window-management) - Window Management API
-- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [Orillusion/orillusion-web](https://github.com/Orillusion/orillusion-web) - The official doc website of Orillusion
 
 ## Blade 
@@ -1031,7 +1030,6 @@
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 - [managarm/lil](https://github.com/managarm/lil) - Lightweight Intel gpu Library
-- [pyoomph/pyoomph](https://github.com/pyoomph/pyoomph) - A finite element framework in Python, based on oomph-lib and GiNaC
 - [eliaskosunen/scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++
 - [eliaskosunen/libcppffi](https://github.com/eliaskosunen/libcppffi) - C++ bindings over libffi
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
@@ -1759,7 +1757,6 @@
 - [SciML/SciMLTutorials.jl](https://github.com/SciML/SciMLTutorials.jl) - Tutorials for doing scientific machine learning (SciML) and high-performance differential equation solving with open source software.
 - [diervo/html5rubik](https://github.com/diervo/html5rubik) - Rubik's cube made in HTML5 using just CSS3 and Javascript. Optimized for Mobile and Tablet devices
 - [rochacbruno/py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
-- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [liangwj72/CFido-Mails](https://github.com/liangwj72/CFido-Mails) - 
 - [azriel91/ecs_paradigm](https://github.com/azriel91/ecs_paradigm) - ECS talk based on `specs`
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
@@ -2786,7 +2783,7 @@
 
 ## HTML 
 
-- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.
+- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - An infinite canvas for your AI coding agents. Every repo is a region on one zoomable live map - watch Claude Code, Codex, and Cursor sessions, plans, tool calls, and file changes in real time. Local, 
 - [Infinity-Type-Cafe/ntype-cafe-summer-school-2026](https://github.com/Infinity-Type-Cafe/ntype-cafe-summer-school-2026) - ∞-type Café Summer School 2026
 - [nutllwhy/hyperframes-motion-library](https://github.com/nutllwhy/hyperframes-motion-library) - 
 - [victorchen96/victorchen96.github.io](https://github.com/victorchen96/victorchen96.github.io) - homepage of chendeli
@@ -2945,6 +2942,7 @@
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [atelierbram/base16-prism](https://github.com/atelierbram/base16-prism) - A template for building themes for Prism with Base16
 - [atelierbram/Base2Tone](https://github.com/atelierbram/Base2Tone) - 2 base hues - 32 variations &gt; 1 theme
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de) - Website that provides concise  answers to common questions about floating-point numbers.
 - [mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript) - 📦 Module thinking, principles, design patterns and best practices.
 - [aj-monk/C10k.jl](https://github.com/aj-monk/C10k.jl) - Evaluation of a Julia web server for 10k concurrent connections
@@ -3616,7 +3614,7 @@
 - [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge) - AI-powered interactive 3D model generation, inspection, and presentation studio.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
 - [nicobailon/pi-discord](https://github.com/nicobailon/pi-discord) - Discord bot that routes mentions, DMs, and slash commands to persistent Pi sessions
-- [alpbahadur/49Agents](https://github.com/alpbahadur/49Agents) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
+- [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
 - [dy/jz](https://github.com/dy/jz) - JS → WASM
 - [HazAT/glimpse](https://github.com/HazAT/glimpse) - Native micro Web UI for scripts and agents — super fast OS native webview with bidirectional JSON communication for agents
 - [dbachelder/slop-review](https://github.com/dbachelder/slop-review) - A native /slop-review window for Claude Code, Codex CLI, and pi — review the slop before you ship it. Monaco-powered inline comments, agent reads them back. Forked from badlogic/pi-diff-review.
@@ -4132,7 +4130,7 @@
 - [damianavila/RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [turbo/js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
-- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨                    ⭐️ Star to support our work!
 - [dmlc/mxnet.js](https://github.com/dmlc/mxnet.js) - MXNetJS: Javascript Package for Deep Learning in Browser (without server)
 - [hardmaru/rnn-tutorial](https://github.com/hardmaru/rnn-tutorial) - RNN Tutorial for Artists
 - [shi-yan/FreeWill](https://github.com/shi-yan/FreeWill) - A deep learning library in C++/CUDA
@@ -7055,6 +7053,7 @@
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - 😎 A curated list of languages that compile directly to or have their VMs in WebAssembly
 - [swordlidev/Efficient-Multimodal-LLMs-Survey](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey) - Efficient Multimodal Large Language Models: A Survey
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
+- [gpuweb/gpuweb](https://github.com/gpuweb/gpuweb) - Where the GPU for the Web work happens!
 - [akhauriyash/MathForCS_ML](https://github.com/akhauriyash/MathForCS_ML) - Contains important notes/definitions/propositions from the book Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning Jean Gallier and Jocelyn Qua
 - [Saxonica/Saxon-HE](https://github.com/Saxonica/Saxon-HE) - Saxon-HE open source repository
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
@@ -7284,7 +7283,6 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [refscn/cards](https://github.com/refscn/cards) - Refs.cn 快速参考卡片，支持技术规范、架构、框架、语言、命令、快捷键，以及工具、管理知识等。
-- [duzyn/design-kit-axure-library](https://github.com/duzyn/design-kit-axure-library) - An Axure widget library contained **most** common UI patterns in desktop, web and mobile app design regions.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [msys2/msys2](https://github.com/msys2/msys2) - A software distro and building platform for Windows
 - [KeKe-Li/tutorial](https://github.com/KeKe-Li/tutorial) - Deeplearning Algorithms Tutorial
@@ -7695,6 +7693,7 @@
 - [Anankke/SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 - [Cride5/visualcube](https://github.com/Cride5/visualcube) - A php script for generating Rubik's Cube visualisations
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [banana-space/banana-space](https://github.com/banana-space/banana-space) - 
@@ -8379,7 +8378,7 @@
 - [showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb) - Out-of-the-box (OOTB) GUI Agent for Windows and macOS
 - [showlab/ShowUI](https://github.com/showlab/ShowUI) - [CVPR 2025] Open-source, End-to-end, Vision-Language-Action model for GUI Agent & Computer Use.
 - [KAIST-Visual-AI-Group/ODC](https://github.com/KAIST-Visual-AI-Group/ODC) - Official implementation of Occupancy-Based Dual Contouring (SIGGRAPH Asia 2024).
-- [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+- [The-Vibe-Company/Megaparse](https://github.com/The-Vibe-Company/Megaparse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
@@ -8527,6 +8526,7 @@
 - [BrunoLevy/pygeogram](https://github.com/BrunoLevy/pygeogram) - Python bindings for geogram
 - [DigitalTwinMind/ActiveInferenceLacan](https://github.com/DigitalTwinMind/ActiveInferenceLacan) - An active inference model of Lacanian psychoanalysis
 - [Seasawher/mathlib4-help](https://github.com/Seasawher/mathlib4-help) - List of the output of #help command of mathlib4, including list of all tactics, commands...etc
+- [pyoomph/pyoomph](https://github.com/pyoomph/pyoomph) - A finite element framework in Python, based on oomph-lib and GiNaC
 - [rcooke-ast/ALIS](https://github.com/rcooke-ast/ALIS) - Absorption LIne Software
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [ziglang/zig-pypi](https://github.com/ziglang/zig-pypi) - The Zig programming language, packaged for PyPI
@@ -10563,7 +10563,7 @@
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [quarto-dev/q2](https://github.com/quarto-dev/q2) - q2 is the experimental implementation of Quarto 2 in Rust.
-- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~5× faster and ~80% less peak memory than headless Chromium.
+- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~3× faster and ~86% less peak memory than headless Chromium.
 - [diktoapp/dikto](https://github.com/diktoapp/dikto) - Voice-to-text for macOS. Records speech, transcribes locally. Whisper + Parakeet. No cloud.
 - [lucataco/parakeet-cli](https://github.com/lucataco/parakeet-cli) - Local STT CLI running NVIDIA's Parakeet model locally
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer.
@@ -10744,7 +10744,7 @@
 - [mitsuhiko/similar](https://github.com/mitsuhiko/similar) - A high level diffing library for rust based on diffs
 - [jonhoo/inferno](https://github.com/jonhoo/inferno) - A Rust port of FlameGraph
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
-- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, and Markdown viewer
+- [Skardyy/mcat](https://github.com/Skardyy/mcat) - Terminal image, video, PDF, and Markdown viewer
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) - libgccjit AOT codegen for rustc
 - [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
@@ -12598,7 +12598,7 @@
 - [athasdev/athas](https://github.com/athasdev/athas) - A lightweight, cross-platform code editor, built with Tauri (Rust and React) with Git support, AI agents, vim keybindings.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) - 
-- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Email client with custom domain based on Cloudflare
+- [hieunc229/mailflare](https://github.com/hieunc229/mailflare) - Professional email for professionals and teams
 - [sinameraji/gitflare](https://github.com/sinameraji/gitflare) - GitHub-shaped developer experience on Cloudflare primitives — Artifacts, Sandboxes, Mesh. Self-host on your own Cloudflare account.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [AndrewPrifer/liquid-dom](https://github.com/AndrewPrifer/liquid-dom) - Liquid Glass for the Web
@@ -12673,7 +12673,7 @@
 - [bensenescu/downy](https://github.com/bensenescu/downy) - OpenClaw Alternative - Create a team of agents and work with them from anywhere.
 - [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI
 - [dohooo/helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
-- [StepanKropachev/obsidian-pm](https://github.com/StepanKropachev/obsidian-pm) - Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.
+- [dotpm/obsidian-pm](https://github.com/dotpm/obsidian-pm) - Project management natively in your Obsidian vault. Table, Gantt, and Kanban views with subtasks, dependencies, time tracking, and custom fields — all stored as plain Markdown. No external services.
 - [tad-hq/universal-session-viewer](https://github.com/tad-hq/universal-session-viewer) - 🔍 Desktop app for browsing, searching, and analyzing Claude Code conversation transcripts. Features continuation chain detection, full-text search, AI-powered session summaries, and real-time file wat
 - [Runfusion/Fusion](https://github.com/Runfusion/Fusion) - Your Software Factory - build faster and better with multi node agents that work 24/7
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
@@ -12728,7 +12728,7 @@
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) - Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
 - [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built.
-- [Jamailar/Beav](https://github.com/Jamailar/Beav) - 开箱即用的自媒体 AI 工作台｜小红书版OpenClaw、小红书AI工作台，AI写作+图片，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy
+- [Jamailar/Beav](https://github.com/Jamailar/Beav) - 小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作工具、自媒体版WorkBuddy、抖音、小红书爬虫数据采集
 - [tobitege/codlogs](https://github.com/tobitege/codlogs) - Search, export and sanitize local Codex sessions
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [markmanx/isopacks](https://github.com/markmanx/isopacks) - 
@@ -13546,7 +13546,6 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [blacklight/gpstracker](https://github.com/blacklight/gpstracker) - A mobile-friendly web application to store and visualize your self-hosted location data.
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [leanprover/reservoir](https://github.com/leanprover/reservoir) - Package registry for Lean/Lake.
 - [abetlen/pikchr-editor](https://github.com/abetlen/pikchr-editor) - Online Pikchr diagram editor using Pikchr.js
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.

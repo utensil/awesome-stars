@@ -2787,7 +2787,6 @@
 ## HTML 
 
 - [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-08-22 更新）
-- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - An infinite canvas for your AI coding agents. Every repo is a region on one zoomable live map - watch Claude Code, Codex, and Cursor sessions, plans, tool calls, and file changes in real time. Local, 
 - [Infinity-Type-Cafe/ntype-cafe-summer-school-2026](https://github.com/Infinity-Type-Cafe/ntype-cafe-summer-school-2026) - ∞-type Café Summer School 2026
 - [nutllwhy/hyperframes-motion-library](https://github.com/nutllwhy/hyperframes-motion-library) - 
 - [victorchen96/victorchen96.github.io](https://github.com/victorchen96/victorchen96.github.io) - homepage of chendeli
@@ -3592,6 +3591,7 @@
 
 ## JavaScript 
 
+- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [achrefelouafi/LinearAbilityExtThreeJS](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) - 
 - [matsuoka-601/Particles4All](https://github.com/matsuoka-601/Particles4All) - Unified particle solver for fluid and rigid bodies based on Position Based Dynamics
@@ -3702,7 +3702,7 @@
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [greggman/wgpu-matrix](https://github.com/greggman/wgpu-matrix) - Fast WebGPU 3d math library
-- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
+- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
 - [maximecb/Turing-Drawings](https://github.com/maximecb/Turing-Drawings) - Randomly generated Turing machines draw images and animations on a 2D canvas.
 - [WebAR-rocks/WebAR.rocks.train](https://github.com/WebAR-rocks/WebAR.rocks.train) - Object detection, tracking, and 6DoF pose estimation in the web browser, integrated training environment to train your own neural network models 🚀
@@ -5867,7 +5867,7 @@
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality [NeurIPS 2023]
 - [niharshah/ReviewerGPT2023](https://github.com/niharshah/ReviewerGPT2023) - 
 - [salesforce/factualNLG](https://github.com/salesforce/factualNLG) - Code for the arXiv paper: "LLMs as Factual Reasoners: Insights from Existing Benchmarks and Beyond"
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [Guitaricet/relora](https://github.com/Guitaricet/relora) - Official code for ReLoRA from the paper Stack More Layers Differently: High-Rank Training Through Low-Rank Updates
 - [bigscience-workshop/data-preparation](https://github.com/bigscience-workshop/data-preparation) - Code used for sourcing and cleaning the BigScience ROOTS corpus
 - [microsoft/mup](https://github.com/microsoft/mup) - maximal update parametrization (µP)
@@ -6106,6 +6106,7 @@
 
 ## Lean 
 
+- [lean-dojo/LeanMillenniumPrizeProblems](https://github.com/lean-dojo/LeanMillenniumPrizeProblems) - Formalization of the Millennium Problems in Lean 4
 - [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) - Lean certificates accompanying Navier-Stokes and Euler results
 - [tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean) - 
 - [medovina/natural_lean](https://github.com/medovina/natural_lean) - A controlled natural language syntax for Lean.
@@ -6133,7 +6134,7 @@
 - [AxiomMath/PrimeGapsLib](https://github.com/AxiomMath/PrimeGapsLib) - Lean formalization of bounded gaps between primes
 - [zblore/csd-lean4](https://github.com/zblore/csd-lean4) - Lean 4 formalisation of a deterministic reconstruction of finite-dimensional quantum mechanics: the Born rule as a Liouville volume ratio
 - [frenzymath/FormalPantheon](https://github.com/frenzymath/FormalPantheon) - A living, long-term archive that collects our formal project results across all domains.
-- [stat-lib/statlib](https://github.com/stat-lib/statlib) - 
+- [stat-lib/statlib](https://github.com/stat-lib/statlib) - LEAN library supporting statistics formalization
 - [leanprover/hex](https://github.com/leanprover/hex) - Verified computational algebra in Lean 4: aggregator for the released hex libraries
 - [jsmorph/leanexe](https://github.com/jsmorph/leanexe) - Running sublean
 - [cajal-technologies/talos](https://github.com/cajal-technologies/talos) - Wasm interpreter in lean, designed for reasoning
@@ -7829,7 +7830,7 @@
 - [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) - My Python scripts to make high-quality figures for publications in top AI conferences and journals.
 - [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) - Autonomous research system for measurable, computer-executable research.
 - [henryrobbins/open-atp](https://github.com/henryrobbins/open-atp) - OpenATP is an open-source Python package providing a common interface for Automated Theorem Proving (ATP)
-- [humanfia/humanize2](https://github.com/humanfia/humanize2) - Orchestrate, execute, and observe agent flows for token maxxing!
+- [humanfia/humanize2](https://github.com/humanfia/humanize2) - The agent flow system for token maxxing.
 - [Archerkattri/mathlas](https://github.com/Archerkattri/mathlas) - Airtight math tools an AI uses over MCP — 3.7M-theorem search, PSLQ constant ID, OEIS, real Lean kernel checks, applicability checklists. No LLM inside, no API key.
 - [Miaow-Lab/RLVR-Linearity](https://github.com/Miaow-Lab/RLVR-Linearity) - [arXiv] "Linear Dynamics in the RLVR Training of Large Language Models"
 - [proofQED/QED](https://github.com/proofQED/QED) - 
@@ -8313,7 +8314,7 @@
 - [gpustack/gpustack](https://github.com/gpustack/gpustack) - A GPU cluster manager for high-performance AI model serving (vLLM, SGLang) and on-demand SSH-accessible GPU instances.
 - [Zyphra/Zonos](https://github.com/Zyphra/Zonos) - Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS pro
 - [TilmanGriesel/chipper](https://github.com/TilmanGriesel/chipper) - ✨ AI interface for tinkerers (Ollama, Haystack RAG, Python)
-- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE: Open Full-song Music Generation Foundation Model, something similar to Suno.ai but open
+- [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi
 - [dusty-nv/NanoDB](https://github.com/dusty-nv/NanoDB) - Zero-copy multimodal vector DB with CUDA and CLIP/SigLIP
@@ -10087,7 +10088,6 @@
 
 ## Roff 
 
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [madvorak/4D-minigolf](https://github.com/madvorak/4D-minigolf) - Repository of fan-made tracks for 4D Golf
 - [camenduru/stable-diffusion-webui-docker](https://github.com/camenduru/stable-diffusion-webui-docker) - 
 
@@ -10704,6 +10704,7 @@
 - [welltyped-systems/verified-ledger](https://github.com/welltyped-systems/verified-ledger) - A reference architecture for differential fuzzing using a formally verified oracle
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [perstarkse/minne](https://github.com/perstarkse/minne) - Minne, a read-it-later & personal knowledge management solution
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - playwright for windows computer use
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
@@ -12243,7 +12244,7 @@
 ## Swift 
 
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
 - [LuckyIYI/avbd-metal](https://github.com/LuckyIYI/avbd-metal) - 
@@ -12802,7 +12803,6 @@
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [weynechen/intrascribe](https://github.com/weynechen/intrascribe) - 可内网私有化部署，给团队/单位使用的语音转录总结工具，完整的前后端代码
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [coder/xum](https://github.com/coder/xum) - A desktop app for isolated, parallel agentic development
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
@@ -12956,7 +12956,7 @@
 - [languine-ai/languine](https://github.com/languine-ai/languine) - Translate your application with Languine CLI powered by AI.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [matsuoka-601/WaterBall](https://github.com/matsuoka-601/WaterBall) - Fluid simulation on a sphere🌏
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 - [Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban) - an obsidian plugin that can pull data from douban to your markdown file
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词

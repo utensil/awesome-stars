@@ -436,6 +436,7 @@
 - [chenjulang/rubik_cube](https://github.com/chenjulang/rubik_cube) - 3D rubik_cube in LEAN
 - [3-manifolds/SnapPy](https://github.com/3-manifolds/SnapPy) - SnapPy is a package for studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures. It is based on the SnapPea kernel written by Jeff Weeks.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [SwiftLaTeX/Texlive-Ondemand](https://github.com/SwiftLaTeX/Texlive-Ondemand) - Serving TexLive Files from Our Web-based Engine
 - [SwiftLaTeX/SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor
 - [orangeduck/BVHView](https://github.com/orangeduck/BVHView) - A simple viewer for the .bvh animation file format written using raylib.
@@ -920,6 +921,7 @@
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [grorge123/mlx-llm.cpp](https://github.com/grorge123/mlx-llm.cpp) - 
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
+- [boomlinde/music](https://github.com/boomlinde/music) - Various music software
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [jysandy/Gradient](https://github.com/jysandy/Gradient) - A rendering engine and physics simulation
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
@@ -2029,7 +2031,7 @@
 - [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient BLAS kernel library on GPU
 - [bertmaher/simplegemm](https://github.com/bertmaher/simplegemm) - 
 - [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
-- [harp-lab/vflog](https://github.com/harp-lab/vflog) - vertical + gpu + free join + datalog
+- [harp-lab/fvlog](https://github.com/harp-lab/fvlog) - vertical + gpu + free join + datalog
 - [mirage-project/mirage](https://github.com/mirage-project/mirage) - Mirage Persistent Kernel: Compiling LLMs into a MegaKernel
 - [feiwang3311/Lantern](https://github.com/feiwang3311/Lantern) - 
 - [siboehm/SGEMM_CUDA](https://github.com/siboehm/SGEMM_CUDA) - Fast CUDA matrix multiplication from scratch
@@ -3619,7 +3621,7 @@
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - An open source, self-hosted, real-time port monitoring and discovery tool.
 - [nicobailon/pi-discord](https://github.com/nicobailon/pi-discord) - Discord bot that routes mentions, DMs, and slash commands to persistent Pi sessions
 - [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
-- [dy/jz](https://github.com/dy/jz) - JS → WASM
+- [dy/jz](https://github.com/dy/jz) - JS to WASM compiler
 - [HazAT/glimpse](https://github.com/HazAT/glimpse) - Native micro Web UI for scripts and agents — super fast OS native webview with bidirectional JSON communication for agents
 - [dbachelder/slop-review](https://github.com/dbachelder/slop-review) - A native /slop-review window for Claude Code, Codex CLI, and pi — review the slop before you ship it. Monaco-powered inline comments, agent reads them back. Forked from badlogic/pi-diff-review.
 - [gdevenyi/huggingface-estimate](https://github.com/gdevenyi/huggingface-estimate) - A web-based memory usage and performance calculator for Huggingface GGUF models
@@ -3702,7 +3704,7 @@
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [greggman/wgpu-matrix](https://github.com/greggman/wgpu-matrix) - Fast WebGPU 3d math library
-- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
+- [docsy/docsy](https://github.com/docsy/docsy) - Hugo theme for open source documentation
 - [DMontgomery40/mcp-3D-printer-server](https://github.com/DMontgomery40/mcp-3D-printer-server) - Connects MCP to major 3D printer APIs (Orca, FULU's Orca/Bambu, OctoPrint, Klipper, Duet, Repetier, Prusa, Creality). Control prints, monitor status, and perform advanced STL operations like scaling, 
 - [maximecb/Turing-Drawings](https://github.com/maximecb/Turing-Drawings) - Randomly generated Turing machines draw images and animations on a 2D canvas.
 - [WebAR-rocks/WebAR.rocks.train](https://github.com/WebAR-rocks/WebAR.rocks.train) - Object detection, tracking, and 6DoF pose estimation in the web browser, integrated training environment to train your own neural network models 🚀
@@ -4028,6 +4030,7 @@
 - [pskordilakis/vuepress-plugin-tabs](https://github.com/pskordilakis/vuepress-plugin-tabs) - Vuepress plugin - markdown custom container to display content in tabs
 - [ulivz/vuepress-plugin-flowchart](https://github.com/ulivz/vuepress-plugin-flowchart) - Rapid flowchart development plugin for vuepress
 - [iktakahiro/markdown-it-katex](https://github.com/iktakahiro/markdown-it-katex) - Add Math to your Markdown with a KaTeX plugin for Markdown-it
+- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
@@ -6106,6 +6109,8 @@
 
 ## Lean 
 
+- [tadamcz/koethe](https://github.com/tadamcz/koethe) - Lean 4 disproof of the Köthe conjecture (Krempa's matrix form), found by GPT-6 Astra; Palomar submission repository
+- [leanprover/con-leche](https://github.com/leanprover/con-leche) - 
 - [lean-dojo/LeanMillenniumPrizeProblems](https://github.com/lean-dojo/LeanMillenniumPrizeProblems) - Formalization of the Millennium Problems in Lean 4
 - [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) - Lean certificates accompanying Navier-Stokes and Euler results
 - [tristanbuckmaster/fluid_lean](https://github.com/tristanbuckmaster/fluid_lean) - 
@@ -6808,7 +6813,6 @@
 - [mirage/irmin](https://github.com/mirage/irmin) - Irmin is a distributed database that follows the same design principles as Git
 - [jonsterling/ocaml-forester](https://github.com/jonsterling/ocaml-forester) - Mirror of ocaml-forester
 - [sorawee/pretty-expressive-ocaml](https://github.com/sorawee/pretty-expressive-ocaml) - An implementation of "A Pretty Expressive Printer" in OCaml
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 - [EasyCrypt/easycrypt](https://github.com/EasyCrypt/easycrypt) - EasyCrypt: Computer-Aided Cryptographic Proofs
 - [jrh13/hol-light](https://github.com/jrh13/hol-light) - The HOL Light theorem prover
@@ -10545,6 +10549,7 @@
 
 ## Rust 
 
+- [iamrohithrnair/emeraldian](https://github.com/iamrohithrnair/emeraldian) - A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant
 - [intgrah/sokonanoda](https://github.com/intgrah/sokonanoda) - Lean 4 kernel with NbE
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [PeterKnego/ultima_db](https://github.com/PeterKnego/ultima_db) - Embedded transactional store for Rust on a copy-on-write MVCC B-tree, with the core proven in Lean 4
@@ -10575,7 +10580,7 @@
 - [emilien-jegou/oyui](https://github.com/emilien-jegou/oyui) - Modern TUI merge tool and interactive diff editor for Jujutsu (jj) and Git
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [quarto-dev/q2](https://github.com/quarto-dev/q2) - q2 is the experimental implementation of Quarto 2 in Rust.
-- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Fast, security-first headless browser for AI agents. Built for automation, red teaming, web testing, and scraping, with direct HTTP traffic control and auditable sessions. Pure Rust, no Chromium or V8
+- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Fast, red-teaming browser built for AI agents, with direct HTTP traffic control, sandboxed execution, and auditable sessions. Pure Rust.
 - [diktoapp/dikto](https://github.com/diktoapp/dikto) - Voice-to-text for macOS. Records speech, transcribes locally. Whisper + Parakeet. No cloud.
 - [lucataco/parakeet-cli](https://github.com/lucataco/parakeet-cli) - Local STT CLI running NVIDIA's Parakeet model locally
 - [silverstein/minutes](https://github.com/silverstein/minutes) - Open-source, local-first Granola/Otter alternative that Claude Code, Codex, Cursor, and any MCP client can query. Meetings, calls, and voice memos transcribed on-device into markdown you own.
@@ -10704,7 +10709,6 @@
 - [welltyped-systems/verified-ledger](https://github.com/welltyped-systems/verified-ledger) - A reference architecture for differential fuzzing using a formally verified oracle
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [perstarkse/minne](https://github.com/perstarkse/minne) - Minne, a read-it-later & personal knowledge management solution
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [mediar-ai/terminator](https://github.com/mediar-ai/terminator) - playwright for windows computer use
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
@@ -11638,7 +11642,6 @@
 - [tikv/grpc-rs](https://github.com/tikv/grpc-rs) - The gRPC library for Rust built on C Core library and futures
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [richardanaya/virtual-dom-rs-hello-world](https://github.com/richardanaya/virtual-dom-rs-hello-world) - 
-- [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
 - [jabedude/procmaps](https://github.com/jabedude/procmaps) - Provides Rust interface to get current memory mappings for a given process
 - [nwtnni/paxos](https://github.com/nwtnni/paxos) - Distributed consensus protocol for replicated state machines
 - [ZhangHanDong/tao-of-rust-codes](https://github.com/ZhangHanDong/tao-of-rust-codes) - 《Rust编程之道》随书源码
@@ -12803,6 +12806,7 @@
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [weynechen/intrascribe](https://github.com/weynechen/intrascribe) - 可内网私有化部署，给团队/单位使用的语音转录总结工具，完整的前后端代码
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [coder/xum](https://github.com/coder/xum) - A desktop app for isolated, parallel agentic development
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
@@ -13738,7 +13742,6 @@
 - [xit-vcs/xit](https://github.com/xit-vcs/xit) - a git alternative written in zig
 - [ZantFoundation/Z-Ant](https://github.com/ZantFoundation/Z-Ant) - Zant simplifies the deployment and optimization of neural networks on microprocessors
 - [sackosoft/zig-luajit](https://github.com/sackosoft/zig-luajit) - Run Lua code in Zig apps! A package providing Zig language bindings to LuaJIT.
-- [boomlinde/music](https://github.com/boomlinde/music) - Various music software
 - [ErikKaum/zig-build-mlx-c](https://github.com/ErikKaum/zig-build-mlx-c) - The MLX-C library built and packaged for the Zig build system. Note that these are not the Zig language bindings.
 - [ErikKaum/zig-build-mlx](https://github.com/ErikKaum/zig-build-mlx) - The MLX library built and packaged for the Zig build system. Note that these are not the Zig language bindings.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler

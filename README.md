@@ -3453,7 +3453,6 @@
 - [wenzheli/DTWForAudioRecognition](https://github.com/wenzheli/DTWForAudioRecognition) - Dynamic Time Wrapping Algorithm for Signal Recognition.
 - [davidmoten/audio-recognition](https://github.com/davidmoten/audio-recognition) - Matches audio to small vocabulary using fast fourier transforms
 - [oblac/jodd](https://github.com/oblac/jodd) - Jodd! Lightweight. Java. Zero dependencies. Use what you like.
-- [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 - [bumptech/glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
@@ -3602,6 +3601,7 @@
 
 ## JavaScript 
 
+- [enkimute/GAmphetamine.js](https://github.com/enkimute/GAmphetamine.js) - A geometric algebra library for javascript.
 - [aruzdh/tree-sitter-rocq](https://github.com/aruzdh/tree-sitter-rocq) - Rocq (formerly Coq) grammar for Tree-sitter.
 - [AdrielSantana/bendcraft](https://github.com/AdrielSantana/bendcraft) - An endless voxel world in Bend: one array shared by every pixel, on Metal or on every core as WebAssembly
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D.
@@ -6102,6 +6102,7 @@
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
 - [orbit/orbit](https://github.com/orbit/orbit) - Orbit - Virtual actor framework for building distributed systems
+- [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 - [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [android/uamp](https://github.com/android/uamp) - A sample audio app for Android
 - [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.
@@ -6724,7 +6725,7 @@
 
 ## MLIR 
 
-- [google/heir](https://github.com/google/heir) - A compiler for homomorphic encryption
+- [google/heir](https://github.com/google/heir) - The compiler for homomorphic encryption
 - [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 
 ## Makefile 
@@ -7864,7 +7865,8 @@
 
 ## Python 
 
-- [acowsik/self_play_pretraining](https://github.com/acowsik/self_play_pretraining) - 
+- [Weber-GeoML/Choir](https://github.com/Weber-GeoML/Choir) - An open protocol for distributed multi-agent autoformalization.
+- [nourya-aliz/self_play_pretraining](https://github.com/nourya-aliz/self_play_pretraining) - 
 - [Concode0/clifra](https://github.com/Concode0/clifra) - clifra is a differentiable Clifford algebra computation layer for PyTorch.
 - [Concode0/clifra-model-bench](https://github.com/Concode0/clifra-model-bench) - Paired implementations of published geometric-algebra networks using Clifra and their reference stacks.
 - [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
@@ -7972,7 +7974,7 @@
 - [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker) - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
 - [bstnxbt/dflash-mlx](https://github.com/bstnxbt/dflash-mlx) - Lossless DFlash speculative decoding for MLX on Apple Silicon
 - [zhangfengcdt/memoir](https://github.com/zhangfengcdt/memoir) - Hierarchical Agent Memory with Git-Like Version Control
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replace
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-
 - [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [BasisResearch/lean.py](https://github.com/BasisResearch/lean.py) - Easy bindings between Lean and Python.
 - [InternScience/GraphGen](https://github.com/InternScience/GraphGen) - GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation
@@ -10898,7 +10900,7 @@
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
 - [panter-dsd/tatuin](https://github.com/panter-dsd/tatuin) - Tatuin (Task Aggregator TUI for N providers)
 - [sunfishcode/cap-std](https://github.com/sunfishcode/cap-std) - Capability-oriented version of the Rust standard library
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [shshemi/tabiew](https://github.com/shshemi/tabiew) - A lightweight TUI application to view and query tabular data files, such as CSV, TSV, and parquet.
 - [pop-os/pop](https://github.com/pop-os/pop) - A project for managing all Pop!_OS sources
@@ -12968,7 +12970,7 @@
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
 - [lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr) - Generate LaTeX equations from images in your clipboard or vault
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding for everyone
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding for VS Code
 - [TayzenDev/smallblog](https://github.com/TayzenDev/smallblog) - An easy and straighforward blog engine designed with smallweb in mind (should work in any deno environment).
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊

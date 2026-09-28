@@ -976,6 +976,7 @@
 
 ## ai-agent 
 
+- [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
 - [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) - A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh
 - [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
@@ -2391,6 +2392,7 @@
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [chatmcp/mcp-server-chatsum](https://github.com/chatmcp/mcp-server-chatsum) - Query and Summarize your chat messages.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [kspviswa/PyOMlx](https://github.com/kspviswa/PyOMlx) - A wannabe Ollama equivalent for Apple MlX models
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -9473,7 +9475,6 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [attentionmech/mav](https://github.com/attentionmech/mav) - Model Activity Visualiser
 - [owlbarn/owl](https://github.com/owlbarn/owl) - Owl - OCaml Scientific Computing @ https://ocaml.xyz
-- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [TristanBilot/mlx-benchmark](https://github.com/TristanBilot/mlx-benchmark) - Benchmark of Apple MLX operations on all Apple Silicon chips (GPU, CPU) + MPS and CUDA.
 - [pytorch/executorch](https://github.com/pytorch/executorch) - On-device AI across mobile, embedded and edge for PyTorch
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -9795,6 +9796,7 @@
 
 ## macos 
 
+- [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
 - [gnomeria/usbtree](https://github.com/gnomeria/usbtree) - Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows.
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [kennss/SiliconScope](https://github.com/kennss/SiliconScope) - Sudoless Apple Silicon system monitor (native SwiftUI GUI) with ANE / Media Engine / memory-bandwidth tracking
@@ -10294,6 +10296,7 @@
 - [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -11278,6 +11281,7 @@
 
 ## obsidian 
 
+- [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
 - [dotpm/obsidian-pm](https://github.com/dotpm/obsidian-pm) - Project management inside Obsidian. Table, Gantt and Kanban over plain Markdown notes, with a local API for agents and scripts.
@@ -11494,6 +11498,7 @@
 - [heshengtao/comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces,
 - [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -11644,6 +11649,15 @@
 
 ## others 
 
+- [qinz1yang/differential-geometry](https://github.com/qinz1yang/differential-geometry) - A general geometry library in LEAN 4.
+- [qinz1yang/auto-formalizing-skills](https://github.com/qinz1yang/auto-formalizing-skills) - Fully Autonomous, multi-agent, large scale theorem formalizing system in Lean 4.
+- [facebookresearch/autoform-bot](https://github.com/facebookresearch/autoform-bot) - Autoform Bot
+- [stormj-UH/spivak-lean](https://github.com/stormj-UH/spivak-lean) - Michael Spivak's Calculus formalized in Lean 4: every theorem and every problem of all 30 chapters and 9 appendices, in both the 3rd and 4th editions
+- [verifast/rust-unsafe-tutorial](https://github.com/verifast/rust-unsafe-tutorial) - Verifying purely `unsafe` Rust programs with VeriFast: a tutorial
+- [verifast/verifast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C, Rust and Java programs
+- [Varifold-Lab/LeanMFG](https://github.com/Varifold-Lab/LeanMFG) - Formal mean field games in Lean 4: models, theory, algorithms, and verification.
+- [joelcanary/lean-math-in-the-browser](https://github.com/joelcanary/lean-math-in-the-browser) - An educational test bed: classical number theory written in Lean 4, run in the browser through lean-vir, checked against independent references and benchmarked against native Lean and hand-written Jav
+- [saviorand/datastar-lean](https://github.com/saviorand/datastar-lean) - Datastar SDK for Lean 4
 - [enkimute/GAmphetamine.js](https://github.com/enkimute/GAmphetamine.js) - A geometric algebra library for javascript.
 - [Weber-GeoML/Choir](https://github.com/Weber-GeoML/Choir) - An open protocol for distributed multi-agent autoformalization.
 - [nourya-aliz/self_play_pretraining](https://github.com/nourya-aliz/self_play_pretraining) - 
@@ -12445,7 +12459,7 @@
 - [sirius-db/sirius](https://github.com/sirius-db/sirius) - GPU-native composable analytics engine
 - [nolanderc/glsl_analyzer](https://github.com/nolanderc/glsl_analyzer) - Language server for GLSL (autocomplete, goto-definition, formatter, and more)
 - [disler/aider-mcp-server](https://github.com/disler/aider-mcp-server) - Minimal MCP Server for Aider
-- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - Open-source book with Modern CUDA Learn Notes for Beginners, includes FP16/BF16, FP8, HGEMM, FlashAttention, CuTe, etc.
+- [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - An Open-source book with Modern CUDA learning Notes for Beginners - BF16/FP8/FP4, HGEMM, CuTe, Flash-Attention, etc.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai) - A neurosymbolic perspective on LLMs
 - [indragiek/Context](https://github.com/indragiek/Context) - Native macOS client for Model Context Protocol (MCP)
@@ -21515,7 +21529,7 @@
 - [dimforge/salva](https://github.com/dimforge/salva) - 2 and 3-dimensional fluid simulation library in Rust.
 - [AugmentedFifth/webgl_test](https://github.com/AugmentedFifth/webgl_test) - 
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
-- [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
+- [model-checking/kani](https://github.com/model-checking/kani) - A model checker for Rust programs.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [AeneasVerif/charon](https://github.com/AeneasVerif/charon) - Analyze Rust crates without touching compiler internals
 - [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) - A verification toolchain for Rust programs
@@ -22608,6 +22622,7 @@
 
 ## swift 
 
+- [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) - 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -23279,6 +23294,7 @@
 - [linkdd/regname](https://github.com/linkdd/regname) - Mass renamer TUI written in Rust
 - [tim-janik/jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf, centering around the jj log with key bindings for common operations
 - [ali77gh/bake-rs](https://github.com/ali77gh/bake-rs) - Simple and easy to use "script runner" written in Rust.
+- [ggozad/oterm](https://github.com/ggozad/oterm) - the terminal client for LLMs
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity

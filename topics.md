@@ -713,7 +713,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
 - [intellectronica/skillz](https://github.com/intellectronica/skillz) - An MCP server for loading skills (shim for non-claude clients).
-- [EricRhysTaylor/radial-timeline](https://github.com/EricRhysTaylor/radial-timeline) - Visualize longform writing projects as an interactive radial timeline that displays scenes organized by act, subplot, and narrative or chronological order for a complete view of the project.
+- [EricRhysTaylor/radial-timeline](https://github.com/EricRhysTaylor/radial-timeline) - Lay out your manuscript as an interactive radial timeline, then see every scene by act, subplot, and narrative or chronological order.
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 - [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
@@ -1025,6 +1025,7 @@
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [humanfia/humanize](https://github.com/humanfia/humanize) - The agent flow system for token maxxing.
 - [weijiafu14/pi2dsh](https://github.com/weijiafu14/pi2dsh) - Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。
 - [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
@@ -1032,7 +1033,7 @@
 - [ricardodeazambuja/tui-driver](https://github.com/ricardodeazambuja/tui-driver) - Drive any interactive TUI from a shell script via tmux: one file, no profiles.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
-- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
+- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [agnt-gg/agnt](https://github.com/agnt-gg/agnt) - The local-first operating system for building, running, and improving AI agents, workflows, and autonomous goals.
 - [Forward-Future/loopy](https://github.com/Forward-Future/loopy) - A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
@@ -1053,7 +1054,7 @@
 - [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [tzachbon/smart-ralph](https://github.com/tzachbon/smart-ralph) - Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
-- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地运行的 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory.
 - [0xNyk/lacp](https://github.com/0xNyk/lacp) - Local-first policy, evidence, memory, and recovery controls for Claude, Codex, Hermes, and other CLI coding agents.
 - [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Turn feature specs into merged PRs with a self-supervising swarm of coding agents — parallel execution, isolated sandboxes, DAG dependencies. Open-source, self-hostable, model-agnostic (Claude / Gemin
@@ -2165,7 +2166,7 @@
 - [KodiCraft/bunch](https://github.com/KodiCraft/bunch) - Bun plugin for loading and linking into C/C++ dynamic libraries automatically
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [mity/md4c](https://github.com/mity/md4c) - Fast, compact, dependency-free Markdown parser for C.
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [Vexu/arocc](https://github.com/Vexu/arocc) - A modern fully featured C compiler.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
@@ -2687,6 +2688,7 @@
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) - Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agenttrail Kitchen visualizes tasks and role contributions in 3D.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [humanfia/humanize](https://github.com/humanfia/humanize) - The agent flow system for token maxxing.
 - [liustack/modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A browser inside your terminal
 - [frenzymath/Danus](https://github.com/frenzymath/Danus) - Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory
@@ -2716,11 +2718,11 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than
 - [tzachbon/smart-ralph](https://github.com/tzachbon/smart-ralph) - Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
-- [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
-- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
+- [49-Agents/49-IDE](https://github.com/49-Agents/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地运行的 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory.
 - [0xNyk/lacp](https://github.com/0xNyk/lacp) - Local-first policy, evidence, memory, and recovery controls for Claude, Codex, Hermes, and other CLI coding agents.
 - [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Turn feature specs into merged PRs with a self-supervising swarm of coding agents — parallel execution, isolated sandboxes, DAG dependencies. Open-source, self-hostable, model-agnostic (Claude / Gemin
@@ -2822,7 +2824,7 @@
 - [westpoint-io/lazyrsync](https://github.com/westpoint-io/lazyrsync) - 🦀 A friendly terminal UI for rsync, written in Rust. Reusable profiles, an honest dry-run diff, and live progress, even over SSH.
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
-- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
+- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [orangekame3/awesome-terminal-recorder](https://github.com/orangekame3/awesome-terminal-recorder) - 🎥 Curated list of outstanding terminal recording tools to enhance your CLI demonstrations and tutorials.
 - [Twigpine/zero](https://github.com/Twigpine/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr) - macOS CLI for OCR and searchable PDFs using Apple's Vision framework
@@ -2850,7 +2852,7 @@
 - [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker) - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
 - [humeo/code-helm](https://github.com/humeo/code-helm) - Control your local Codex sessions remotely through Discord on your phone or browser.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [alpbahadur/49-IDE](https://github.com/alpbahadur/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
+- [49-Agents/49-IDE](https://github.com/49-Agents/49-IDE) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) - The open source AI research agent.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
@@ -3148,7 +3150,7 @@
 - [Mati365/ckeditor5-phoenix](https://github.com/Mati365/ckeditor5-phoenix) - CKEditor 5 for Phoenix - rich text editor for Elixir apps!  Easy setup, supports live-view data binding, dynamic loading, and localization. Plug-and-play modules, JS hooks, and full customization supp
 - [rikhuijzer/fx](https://github.com/rikhuijzer/fx) - An efficient (micro)blogging service that you can self-host
 - [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [CodinCat/noPress](https://github.com/CodinCat/noPress) - A collection of CMSs and Static Site Generators.
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
@@ -3198,7 +3200,7 @@
 ## code-review 
 
 - [tomasz-tomczyk/crit-web](https://github.com/tomasz-tomczyk/crit-web) - The hosted share target for crit - Your feedback loop with the agent.
-- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
+- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [michaelshimeles/skills](https://github.com/michaelshimeles/skills) - Agent skills and an AGENTS.md workflow template — isolate in worktrees, build to a service layer, prove with evidence, ship with before/after proof and Greptile review loops. For Claude Code, Cursor, 
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
@@ -3644,7 +3646,7 @@
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [jacobdufault/cquery](https://github.com/jacobdufault/cquery) - C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, sem
 - [gjbex/training-material](https://github.com/gjbex/training-material) - A collection of code examples as well as presentations for training purposes
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [rust-qt/ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust
 - [jupp0r/cpp-codegen-rs](https://github.com/jupp0r/cpp-codegen-rs) - Generate code from C++ classes
@@ -4518,7 +4520,7 @@
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL) - A course in reinforcement learning in the wild
 - [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [mead-ml/mead-baseline](https://github.com/mead-ml/mead-baseline) - Deep-Learning Model Exploration and Development for NLP
 - [ClimbsRocks/auto_ml](https://github.com/ClimbsRocks/auto_ml) - [UNMAINTAINED] Automated machine learning for analytics & production
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
@@ -4671,7 +4673,7 @@
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [Microck/moji](https://github.com/Microck/moji) - find and download fonts from the terminal
 - [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
-- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
+- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [Twigpine/zero](https://github.com/Twigpine/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Instant recall for coding agents. Search the history already on your machine. Git blame, but for agent sessions.
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
@@ -4900,7 +4902,7 @@
 ## django 
 
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
@@ -7728,7 +7730,7 @@
 - [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
 - [MichaelDuo/latex-expression-translator](https://github.com/MichaelDuo/latex-expression-translator) - Transform Latex Equation To Sympy
 - [lebab/lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [wan9chi/DeskGap](https://github.com/wan9chi/DeskGap) - A cross-platform desktop app framework based on Node.js and the system webview
@@ -8985,6 +8987,7 @@
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
 - [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) - My Python scripts to make high-quality figures for publications in top AI conferences and journals.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [humanfia/humanize](https://github.com/humanfia/humanize) - The agent flow system for token maxxing.
 - [apache/maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [frenzymath/Archon-Horizon](https://github.com/frenzymath/Archon-Horizon) - Workspace-first orchestration for long-horizon Lean 4 formalization agents.
@@ -8993,7 +8996,7 @@
 - [PolyArch/humanize](https://github.com/PolyArch/humanize) - From Automated Idea Factory to Realization
 - [giannisanni/pulsar](https://github.com/giannisanni/pulsar) - SSD-streaming inference engine for giant MoE models (Rust + CUDA). GLM 5.2 743B at 2 tok/s and Hy3 295B at 7 tok/s on two consumer 16GB GPUs. Zero-config multi-GPU: measures PCIe bandwidth, places att
 - [tomasz-tomczyk/crit-web](https://github.com/tomasz-tomczyk/crit-web) - The hosted share target for crit - Your feedback loop with the agent.
-- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
+- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [Twigpine/zero](https://github.com/Twigpine/zero) - The coding agent that answers to you, your model, your machine, your rules.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [Deng-m1/MaliangAINovalWriter](https://github.com/Deng-m1/MaliangAINovalWriter) - 马良写作 AINoval — AI novel writer for Chinese webnovels（网文）| 多智能体AI小说创作平台：三级大纲、知识图谱一致性、30万字连载
@@ -9016,7 +9019,6 @@
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [code-yeongyu/senpi](https://github.com/code-yeongyu/senpi) - pi had nothing (nothing), so I made something (something) — sorry mariozechner-senpai, I went ahead and lovingly soiled your pure pi for you. opinionated fork of badlogic/pi-mono with extension-first 
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-
 - [tzachbon/smart-ralph](https://github.com/tzachbon/smart-ralph) - Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
@@ -9320,7 +9322,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - High-performance implementations of AI kernels for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Powers PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
+- [uxlfoundation/oneDNN](https://github.com/uxlfoundation/oneDNN) - Open-source library of optimized deep learning operations (matmul, convolution, attention) for CPUs (x64, AArch64, RISC-V) and Intel GPUs. Used by PyTorch, TensorFlow, OpenVINO, and ONNX Runtime.
 - [intel/ipex-llm](https://github.com/intel/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete
 - [haifengl/smile](https://github.com/haifengl/smile) - Statistical Machine Intelligence & Learning Engine
 
@@ -9815,7 +9817,7 @@
 - [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than
 - [vivy-company/vvterm](https://github.com/vivy-company/vvterm) - Native SSH client for iOS, iPad, MacOS.
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
@@ -10020,7 +10022,7 @@
 - [rezigned/upmd](https://github.com/rezigned/upmd) - upmd - Run tasks and workflows from Markdown.
 - [sihooleebd/noteworthy](https://github.com/sihooleebd/noteworthy) - A powerful academic framework for typst
 - [tomasz-tomczyk/crit-web](https://github.com/tomasz-tomczyk/crit-web) - The hosted share target for crit - Your feedback loop with the agent.
-- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
+- [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Review AI coding agents' plans, diffs and running apps in the browser. Local-first, works with any agent.
 - [reekta92/clin-rs](https://github.com/reekta92/clin-rs) - Feature-packed TUI note management app inspired by Obsidian
 - [afar1/fieldtheory](https://github.com/afar1/fieldtheory) - Mac app to create context for agents: writing, reading, voice, terminal, bookmarks, and clipboard.
 - [agonist/contentbit](https://github.com/agonist/contentbit) - Build programmatic SEO pages that stay consistent.
@@ -10088,7 +10090,7 @@
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [weirongxu/coc-markdown-preview-enhanced](https://github.com/weirongxu/coc-markdown-preview-enhanced) - Markdown Preview Enhanced for coc.nvim
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify) - Math OCR model that outputs LaTeX and markdown
-- [mity/md4c](https://github.com/mity/md4c) - C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [mity/md4c](https://github.com/mity/md4c) - Fast, compact, dependency-free Markdown parser for C.
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -10233,6 +10235,7 @@
 - [spiritledsoftware/caplets](https://github.com/spiritledsoftware/caplets) - Give your agent capabilities, not giant tool walls.
 - [rynfar/meridian](https://github.com/rynfar/meridian) - Use Claude and Antigravity with Pi, OpenCode and other coding clients. Local API bridge, usage dashboard and Mac app. Antigravity preview available in 1.74.0.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
+- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -11431,7 +11434,7 @@
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -13025,7 +13028,7 @@
 - [Sin-cy/dotfiles](https://github.com/Sin-cy/dotfiles) - ⌨️ The never ending updates of my dotfiles config
 - [LegoYoda112/nostromo_ui_themes](https://github.com/LegoYoda112/nostromo_ui_themes) - A collection of app themes based on some Nostromo UI from Alien.
 - [emilwidlund/bitspace](https://github.com/emilwidlund/bitspace) - A prototype of a creative environment for the 21st century
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer) - A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can 
 - [marekbrze/categorized-obsidian-plugins](https://github.com/marekbrze/categorized-obsidian-plugins) - Easily find Obsidian plugins!🚀
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -19749,6 +19752,7 @@
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [redhat-et/ripwire](https://github.com/redhat-et/ripwire) - The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server for coding agents. Find what you want without reading the repo, then check you built what you meant — blast radius, tests-to-run, qu
 - [ChenLiu-1996/figures4papers](https://github.com/ChenLiu-1996/figures4papers) - My Python scripts to make high-quality figures for publications in top AI conferences and journals.
+- [humanfia/humanize](https://github.com/humanfia/humanize) - The agent flow system for token maxxing.
 - [morluto/jacobian](https://github.com/morluto/jacobian) - Composable mathematics tools for agents
 - [sihooleebd/noteworthy](https://github.com/sihooleebd/noteworthy) - A powerful academic framework for typst
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -19761,7 +19765,6 @@
 - [pnegahdar/nano](https://github.com/pnegahdar/nano) - One file. Under 200 lines. Zero dependencies. It's a coding agent.
 - [peternaame-boop/ytm-player](https://github.com/peternaame-boop/ytm-player) - YouTube Music TUI client with vim keybindings, synced lyrics, and cross-platform media keys
 - [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker) - Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)
-- [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server and Mac app for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Release-
 - [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Turn feature specs into merged PRs with a self-supervising swarm of coding agents — parallel execution, isolated sandboxes, DAG dependencies. Open-source, self-hostable, model-agnostic (Claude / Gemin
 - [delibae/claude-prism](https://github.com/delibae/claude-prism) - An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally.
@@ -20802,7 +20805,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [photonixapp/photonix](https://github.com/photonixapp/photonix) - A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognit
 - [CodyJasonBennett/react-nylon](https://github.com/CodyJasonBennett/react-nylon) - react-reconciler implemented in &lt; 4KB.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -21017,7 +21020,7 @@
 ## rest-api 
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -21275,7 +21278,7 @@
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [NVIDIA/cuda-rust](https://github.com/NVIDIA/cuda-rust) - cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just 
 - [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) - Process Interactive Kill
-- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地运行的 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
 - [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) - Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
 - [Dicklesworthstone/asupersync](https://github.com/Dicklesworthstone/asupersync) - Async runtime for Rust where correctness is structural: region-owned tasks, cancel-correct protocols, capability-gated effects, and deterministic replay testing
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
@@ -22251,7 +22254,7 @@
 - [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [Wellenline/auddly-server](https://github.com/Wellenline/auddly-server) - Simple self-hosted music streaming server
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
@@ -23229,7 +23232,7 @@
 - [umputun/revdiff](https://github.com/umputun/revdiff) - TUI for reviewing diffs, files, and documents with inline annotations
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [jacek-kurlit/pik](https://github.com/jacek-kurlit/pik) - Process Interactive Kill
-- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
+- [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地运行的 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
@@ -23703,7 +23706,7 @@
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
-- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+- [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities
@@ -23804,7 +23807,7 @@
 - [ruiiiijiiiiang/rs-top](https://github.com/ruiiiijiiiiang/rs-top) - Remote System Top
 - [dannote/boxart](https://github.com/dannote/boxart) - Terminal graph rendering with Unicode box-drawing characters. Accepts libgraph Graph.t() and renders directed graphs, code flow diagrams, state machines, git graphs, Gantt charts, sequence diagrams, a
 - [ad-si/Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
-- [EricRhysTaylor/radial-timeline](https://github.com/EricRhysTaylor/radial-timeline) - Visualize longform writing projects as an interactive radial timeline that displays scenes organized by act, subplot, and narrative or chronological order for a complete view of the project.
+- [EricRhysTaylor/radial-timeline](https://github.com/EricRhysTaylor/radial-timeline) - Lay out your manuscript as an interactive radial timeline, then see every scene by act, subplot, and narrative or chronological order.
 - [antvis/Infographic](https://github.com/antvis/Infographic) - 🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
 - [walterra/d3-milestones](https://github.com/walterra/d3-milestones) - A d3 based timeline visualization.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
@@ -24418,7 +24421,7 @@
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [mikesteele/dual-captions](https://github.com/mikesteele/dual-captions) - 🌐 Subtitles in two languages for YouTube & Netflix
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies

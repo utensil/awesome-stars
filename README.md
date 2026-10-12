@@ -468,7 +468,6 @@
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [sist2app/sist2](https://github.com/sist2app/sist2) - Lightning-fast file system indexer and search tool
-- [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [nektra/Deviare2](https://github.com/nektra/Deviare2) - Deviare API Hook
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [schrodinger/pymol-open-source](https://github.com/schrodinger/pymol-open-source) - Open-source foundation of the user-sponsored PyMOL molecular visualization system.
@@ -535,7 +534,6 @@
 - [kostya/crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - Crystal implementations for The Computer Language Benchmarks Game
 - [seclab-ucr/INTANG](https://github.com/seclab-ucr/INTANG) - 
 - [classic-tools/MetaPost](https://github.com/classic-tools/MetaPost) - MetaPost (METAPOST) is a powerful graphics language based on Knuth's METAFONT, but with PostScript output and facilities for including typeset text. Originally written and maintained by John Hobby.The
-- [vectorgraphics/asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
 - [Oblomov/clinfo](https://github.com/Oblomov/clinfo) - Print all known information about all available OpenCL platforms and devices in the system
 - [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [facebookresearch/darkforestGo](https://github.com/facebookresearch/darkforestGo) - DarkForest, the Facebook Go engine.
@@ -1293,6 +1291,7 @@
 - [xbpeng/DeepTerrainRL](https://github.com/xbpeng/DeepTerrainRL) - terrain-adaptive locomotion skills using deep reinforcement learning
 - [kho/openfst](https://github.com/kho/openfst) - n Shortest Path for PDT
 - [hetong007/higgsml](https://github.com/hetong007/higgsml) - Repository for post higgs-competition model submission
+- [vectorgraphics/asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
 - [hughperkins/DeepCL](https://github.com/hughperkins/DeepCL) - OpenCL library to train deep convolutional neural networks
 - [dmlc/dlpack](https://github.com/dmlc/dlpack) - common in-memory tensor structure
 - [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
@@ -3241,7 +3240,7 @@
 
 ## Jai 
 
-- [SogoCZE/Jails](https://github.com/SogoCZE/Jails) - Jai Language Server
+- [SogoCZE/Jails](https://github.com/SogoCZE/Jails) - Jai Language Server (LSP)
 
 ## Janet 
 
@@ -3915,7 +3914,6 @@
 - [s-blu/obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908
 - [doufen-org/tofu](https://github.com/doufen-org/tofu) - Chrome 扩展，用于备份豆瓣账号的数据，并支持导出 Excel 文档。
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
-- [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) - A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting Obsidian内置编辑器的(简体)中文分词支持
 - [needle-tools/needle-engine-support](https://github.com/needle-tools/needle-engine-support) - Build 3D web experiences that work everywhere. From browser to VR headsets, mobile AR to iOS WebXR – create once, deploy anywhere. No app stores, no waiting, no limitations. Get started at https://doc
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [dreamfusion3d/dreamfusion3d.github.io](https://github.com/dreamfusion3d/dreamfusion3d.github.io) - 
@@ -6116,6 +6114,9 @@
 
 ## Lean 
 
+- [cameronfreer/vaught-conjecture-counterexample](https://github.com/cameronfreer/vaught-conjecture-counterexample) - Formalization of a counterexample to Vaught's conjecture for Lω₁ω
+- [cameronfreer/infinitary-logic](https://github.com/cameronfreer/infinitary-logic) - Lean 4 formalization of infinitary logic and model theory: Scott/Karp, Morley–Hanf, Craig interpolation, López–Escobar, etc.
+- [kmill/LeanTeX-mathlib](https://github.com/kmill/LeanTeX-mathlib) - LeanTeX pretty printers for mathlib
 - [Deicyde/alternating-analytic-counterexample](https://github.com/Deicyde/alternating-analytic-counterexample) - Precomposition on continuous alternating maps is not analytic in characteristic 2: the paper and its Lean 4 / Mathlib formalization
 - [fgdorais/lean4-parseit](https://github.com/fgdorais/lean4-parseit) - Parser combinator library for Lean 4
 - [chrisflav/oka](https://github.com/chrisflav/oka) - Formalization of Oka's coherence theorem
@@ -6178,7 +6179,7 @@
 - [lean-dojo/TorchLean](https://github.com/lean-dojo/TorchLean) - TorchLean is the first unified Lean 4 framework for neural-network specification, execution, and verification.
 - [mcdoll/DynamicalSystems](https://github.com/mcdoll/DynamicalSystems) - Library for formalization of dynamical systems
 - [deancureton/sphere-six-complex](https://github.com/deancureton/sphere-six-complex) - Lean formalization of a complex structure on the six-sphere
-- [hawkrobe/linglib](https://github.com/hawkrobe/linglib) - A Lean 4 library for formal linguistics.
+- [linglib-community/linglib](https://github.com/linglib-community/linglib) - A Lean 4 library for formal linguistics.
 - [ashebson/kinin-lean](https://github.com/ashebson/kinin-lean) - A Lean 4 formalization of Mishnah Kinnim
 - [Nakammura/spinoza-ethica-lean](https://github.com/Nakammura/spinoza-ethica-lean) - Lean 4 formalisation of Spinoza's Ethica Pars I
 - [Vilin97/Autoformalization](https://github.com/Vilin97/Autoformalization) - OpenClaw-style theorem proving
@@ -9241,6 +9242,7 @@
 - [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 - [fugary/calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
 - [danmou/onenote_export](https://github.com/danmou/onenote_export) - This Python script exports all the OneNote notebooks linked to your Microsoft account to HTML files.
+- [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上的QQ/微信快速安装方式
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [daggaz/json-stream](https://github.com/daggaz/json-stream) - Simple streaming JSON parser and encoder.
@@ -12885,7 +12887,7 @@
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
+- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜专为微信公众号与多平台排版设计，支持富文本复制、图片生成与矢量 PDF 导出。
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
@@ -13314,6 +13316,7 @@
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [nothingislost/obsidian-query-control](https://github.com/nothingislost/obsidian-query-control) - An experimental Obsidian plugin that adds controls to embedded queries
+- [aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch) - A patch for Obsidian's built-in CodeMirror Editor to support Simplified Chinese word splitting Obsidian内置编辑器的(简体)中文分词支持
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
 - [TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat) - BRAT - Beta Reviewer's Auto-update Tool for Obsidian.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
